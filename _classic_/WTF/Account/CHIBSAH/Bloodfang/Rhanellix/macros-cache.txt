@@ -1,0 +1,36 @@
+VER 3 0000000001000004 "attack" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget [dead]
+/targetenemy [noharm]
+/petattack
+/petattack [@focus,exists][]
+/castsequence reset=combat/target Corruption(Rank 3),Curse of Agony(Rank 3),Immolate(Rank 3),Shoot
+END
+VER 3 0000000001000007 "dots" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget [dead]
+/targetenemy [noharm]
+/castsequence reset=combat/target Corruption(Rank 3),Curse of Agony(Rank 3),Immolate(Rank 3)
+END
+VER 3 0000000001000002 "fear" "INV_MISC_QUESTIONMARK"
+#showtooltip fear
+/cleartarget [dead]
+/targetenemy [noharm]
+/castsequence reset=combat/targetCurse of Agony(Rank 3),Corruption(Rank 3),Fear(Rank 1)
+END
+VER 3 0000000001000001 "follow" "INV_MISC_QUESTIONMARK"
+/follow
+END
+VER 3 0000000001000009 "help" "INV_MISC_QUESTIONMARK"
+/helpme
+END
+VER 3 0000000001000003 "Hi" "INV_MISC_QUESTIONMARK"
+/hello
+END
+VER 3 0000000001000005 "oom" "INV_MISC_QUESTIONMARK"
+/oom
+END
+VER 3 0000000001000008 "wand" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Shoot
+END

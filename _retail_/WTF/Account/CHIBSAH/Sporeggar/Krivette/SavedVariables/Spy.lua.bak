@@ -1,0 +1,20 @@
+
+SpyPerCharDB = {
+	["PlayerData"] = {
+		["Ohoh-DefiasBrotherhood"] = {
+			["time"] = 1533647698,
+			["name"] = "Ohoh-DefiasBrotherhood",
+			["zone"] = "Kul Tiras",
+			["kos"] = 1,
+			["subZone"] = "",
+			["added"] = 1533647698,
+			["isEnemy"] = true,
+		},
+	},
+	["IgnoreData"] = {
+	},
+	["version"] = "1.1",
+	["KOSData"] = {
+		["Ohoh-DefiasBrotherhood"] = 1533647698,
+	},
+}

@@ -1,0 +1,12 @@
+VER 3 0100000000000003 "1 - legion" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget [dead]
+/targetenemy [noharm]
+/castsequence reset=combat/target Blade of Justice,Judgment
+END
+VER 3 0100000000000006 "VuhDoDCShieldData" "Ability_Repair"
+P1DH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1PM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000007 "VuhDoDCShieldNames" "Ability_Repair"
+NDal[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Oma[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

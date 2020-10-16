@@ -1,0 +1,2 @@
+
+PScoresChar = nil

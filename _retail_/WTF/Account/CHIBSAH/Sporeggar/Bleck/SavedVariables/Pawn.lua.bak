@@ -1,0 +1,12 @@
+
+PawnOptions = {
+	["LastVersion"] = 2,
+	["LastPlayerFullName"] = "Bleck-Sporeggar",
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["LastKeybindingsSet"] = 1,
+}
+PawnWowheadScaleProviderOptions = {
+	["LastClass"] = "MAGE",
+	["LastAdded"] = 5,
+}

@@ -1,0 +1,7 @@
+
+BossHealth_FramePos = {
+	["rel"] = "BOTTOM",
+	["x"] = -298.000396728516,
+	["y"] = 105.500389099121,
+	["pt"] = "BOTTOM",
+}

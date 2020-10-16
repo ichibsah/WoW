@@ -1,0 +1,12 @@
+VER 3 0100000000000001 "01 - Mending" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/targetfriendplayer
+/cast Prayer of Mending
+END
+VER 3 0100000000000002 "02 - Solace" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget [dead]
+/targetenemy [noharm]
+/cast Power Word: Solace(Talent)
+/cast Archangel
+END

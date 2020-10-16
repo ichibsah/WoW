@@ -1,0 +1,12 @@
+VER 3 0000000001000001 "attack" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget [dead]
+/targetenemy [noharm]
+/castsequence reset=combat/target Faerie Fire(Rank 1),Moonfire(Rank 3),Wrath(Rank 3),Wrath(Rank 3),Wrath(Rank 3)
+END
+VER 3 0000000001000002 "pull" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget [dead]
+/targetenemy [noharm]
+/castsequence reset=combat/target Wrath(Rank 3),Faerie Fire(Rank 1),Moonfire(Rank 3),Wrath(Rank 3),Wrath(Rank 3),Wrath(Rank 3)
+END

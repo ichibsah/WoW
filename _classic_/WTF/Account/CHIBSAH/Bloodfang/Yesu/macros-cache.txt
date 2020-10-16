@@ -1,0 +1,46 @@
+VER 3 0000000001000008 "altLeft" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Flash Heal(Rank 4)
+END
+VER 3 0000000001000009 "altMiddle" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Prayer of Healing(Rank 1)
+END
+VER 3 000000000100000A "altRight" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Heal(Rank 4)
+END
+VER 3 0000000001000002 "attack" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget [dead]
+/targetenemy [noharm]
+/castsequence reset=combat/target Holy Fire(Rank 4),Mind Blast(Rank 5),Shadow Word: Pain(Rank 4),Power Word: Shield(Rank 6),Smite(Rank 6),Mind Blast(Rank 5),Shoot
+END
+VER 3 0000000001000004 "attackgrp" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget [dead]
+/targetenemy [noharm]
+/castsequence reset=combat/target Mind Blast(Rank 4),Smite(Rank 4),Shadow Word: Pain(Rank 4),Holy Fire(Rank 2),Shoot
+END
+VER 3 0000000001000001 "dot" "INV_MISC_QUESTIONMARK"
+/cast Smite(Rank 1)
+/cast Shadow Word: Pain(Rank 1)
+END
+VER 3 0000000001000005 "left" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Renew(Rank 5)
+END
+VER 3 0000000001000006 "middle" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Power Word: Shield(Rank 6)
+END
+VER 3 0000000001000007 "right" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Lesser Heal(Rank 3)
+END
+VER 3 0000000001000003 "shoot" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget [dead]
+/targetenemy [noharm]
+/cast Shoot
+END

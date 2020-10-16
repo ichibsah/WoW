@@ -1,0 +1,28 @@
+VER 3 0100000000000001 "01" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget [dead]
+/targetenemy [noharm]
+/castsequence reset=combat/target Judgment
+END
+VER 3 0100000000000002 "02" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget [dead]
+/targetenemy [noharm]
+/castsequence reset=combat/target Crusader Strike,Crusader Strike,Blade of Justice,Templar's Verdict,Consecration
+END
+VER 3 0100000000000003 "03" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget [dead]
+/targetenemy [noharm]
+/castsequence reset=combat/target Blade of Justice,Templar's Verdict,Consecration
+END
+VER 3 0100000000000004 "06" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget [dead]
+/targetenemy [noharm]
+/castsequence reset=combat/target Divine Shield,Shield of Vengeance
+END
+VER 3 0100000000000005 "test" "INV_MISC_QUESTIONMARK"
+/cast Justicar's Vengeance
+/cast Templar's Verdict
+END

@@ -1,0 +1,7 @@
+
+WhereToNow_Options = {
+	["ShowMinInstanceLevel"] = 0,
+	["TooltipColor"] = 1,
+	["Version"] = "2.0.0",
+	["Sort"] = "ExpansionMin",
+}

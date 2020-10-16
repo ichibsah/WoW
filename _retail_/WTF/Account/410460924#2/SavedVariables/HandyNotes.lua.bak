@@ -1,0 +1,79 @@
+
+HandyNotesDB = {
+	["profileKeys"] = {
+		["Daliya - Sporeggar"] = "Daliya - Sporeggar",
+		["Killema - Sporeggar"] = "Killema - Sporeggar",
+		["Mtoto - Sporeggar"] = "Mtoto - Sporeggar",
+		["Tanasha - Sporeggar"] = "Tanasha - Sporeggar",
+		["Killreme - Sporeggar"] = "Killreme - Sporeggar",
+		["Bbaazzaa - Sporeggar"] = "Bbaazzaa - Sporeggar",
+		["Demala - Sporeggar"] = "Demala - Sporeggar",
+		["Bazza - Sporeggar"] = "Bazza - Sporeggar",
+		["Melix - Sporeggar"] = "Melix - Sporeggar",
+		["Sorsh - Sporeggar"] = "Sorsh - Sporeggar",
+		["Ana - Sporeggar"] = "Ana - Sporeggar",
+	},
+	["profiles"] = {
+		["Daliya - Sporeggar"] = {
+		},
+		["Killema - Sporeggar"] = {
+		},
+		["Mtoto - Sporeggar"] = {
+		},
+		["Tanasha - Sporeggar"] = {
+		},
+		["Killreme - Sporeggar"] = {
+		},
+		["Bbaazzaa - Sporeggar"] = {
+		},
+		["Demala - Sporeggar"] = {
+		},
+		["Bazza - Sporeggar"] = {
+		},
+		["Melix - Sporeggar"] = {
+		},
+		["Sorsh - Sporeggar"] = {
+		},
+		["Ana - Sporeggar"] = {
+		},
+	},
+}
+HandyNotes_HandyNotesDB = {
+	["profileKeys"] = {
+		["Daliya - Sporeggar"] = "Daliya - Sporeggar",
+		["Killema - Sporeggar"] = "Killema - Sporeggar",
+		["Mtoto - Sporeggar"] = "Mtoto - Sporeggar",
+		["Tanasha - Sporeggar"] = "Tanasha - Sporeggar",
+		["Killreme - Sporeggar"] = "Killreme - Sporeggar",
+		["Bbaazzaa - Sporeggar"] = "Bbaazzaa - Sporeggar",
+		["Demala - Sporeggar"] = "Demala - Sporeggar",
+		["Bazza - Sporeggar"] = "Bazza - Sporeggar",
+		["Melix - Sporeggar"] = "Melix - Sporeggar",
+		["Sorsh - Sporeggar"] = "Sorsh - Sporeggar",
+		["Ana - Sporeggar"] = "Ana - Sporeggar",
+	},
+	["profiles"] = {
+		["Daliya - Sporeggar"] = {
+		},
+		["Killema - Sporeggar"] = {
+		},
+		["Mtoto - Sporeggar"] = {
+		},
+		["Tanasha - Sporeggar"] = {
+		},
+		["Killreme - Sporeggar"] = {
+		},
+		["Bbaazzaa - Sporeggar"] = {
+		},
+		["Demala - Sporeggar"] = {
+		},
+		["Bazza - Sporeggar"] = {
+		},
+		["Melix - Sporeggar"] = {
+		},
+		["Sorsh - Sporeggar"] = {
+		},
+		["Ana - Sporeggar"] = {
+		},
+	},
+}

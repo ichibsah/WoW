@@ -1,0 +1,1098 @@
+
+ElephantDBPerChar = {
+	["profileKeys"] = {
+		["Bbaazzaa - Sporeggar"] = "Bbaazzaa - Sporeggar",
+	},
+	["char"] = {
+		["Bbaazzaa - Sporeggar"] = {
+			["logs"] = {
+				{
+					["enabled"] = true,
+					["name"] = "Whisper",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 12/27/2016 at 17:43:04.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["enabled"] = true,
+					["name"] = "Raid",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 12/27/2016 at 17:43:04.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["enabled"] = true,
+					["hasMessage"] = true,
+					["name"] = "Party",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 12/27/2016 at 17:43:04.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+						{
+							["arg2"] = "Bbaazzaa-Sporeggar",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1482857102,
+							["arg1"] = "Completed: Loot and Equip a second Trainee's Handwrap: 1/1",
+							["clColor"] = "ff00ff96",
+						}, -- [2]
+						{
+							["arg2"] = "Bbaazzaa-Sporeggar",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1482857102,
+							["arg1"] = "Completed: Loot and Equip a Trainee's Handwrap: 1/1",
+							["clColor"] = "ff00ff96",
+						}, -- [3]
+						{
+							["arg2"] = "Bbaazzaa-Sporeggar",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1482857117,
+							["arg1"] = "Progress: Training Targets destroyed: 1/5",
+							["clColor"] = "ff00ff96",
+						}, -- [4]
+						{
+							["arg2"] = "Bbaazzaa-Sporeggar",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1482857126,
+							["arg1"] = "Progress: Training Targets destroyed: 2/5",
+							["clColor"] = "ff00ff96",
+						}, -- [5]
+						{
+							["arg2"] = "Bbaazzaa-Sporeggar",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1482857136,
+							["arg1"] = "Progress: Training Targets destroyed: 3/5",
+							["clColor"] = "ff00ff96",
+						}, -- [6]
+						{
+							["arg2"] = "Bbaazzaa-Sporeggar",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1482857141,
+							["arg1"] = "Progress: Training Targets destroyed: 4/5",
+							["clColor"] = "ff00ff96",
+						}, -- [7]
+						{
+							["arg2"] = "Bbaazzaa-Sporeggar",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1482857146,
+							["arg1"] = "Completed: Training Targets destroyed: 5/5",
+							["clColor"] = "ff00ff96",
+						}, -- [8]
+						{
+							["arg2"] = "Bbaazzaa-Sporeggar",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1482857207,
+							["arg1"] = "Progress: Sparring Trainees defeated: 1/6",
+							["clColor"] = "ff00ff96",
+						}, -- [9]
+						{
+							["arg2"] = "Bbaazzaa-Sporeggar",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1482857224,
+							["arg1"] = "Progress: Sparring Trainees defeated: 2/6",
+							["clColor"] = "ff00ff96",
+						}, -- [10]
+						{
+							["arg2"] = "Bbaazzaa-Sporeggar",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1482857227,
+							["arg1"] = "Progress: Sparring Trainees defeated: 3/6",
+							["clColor"] = "ff00ff96",
+						}, -- [11]
+						{
+							["arg2"] = "Bbaazzaa-Sporeggar",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1482857239,
+							["arg1"] = "Progress: Sparring Trainees defeated: 4/6",
+							["clColor"] = "ff00ff96",
+						}, -- [12]
+						{
+							["arg2"] = "Bbaazzaa-Sporeggar",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1482857247,
+							["arg1"] = "Progress: Sparring Trainees defeated: 5/6",
+							["clColor"] = "ff00ff96",
+						}, -- [13]
+						{
+							["arg2"] = "Bbaazzaa-Sporeggar",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1482857249,
+							["arg1"] = "Completed: Sparring Trainees defeated: 6/6",
+							["clColor"] = "ff00ff96",
+						}, -- [14]
+						{
+							["arg2"] = "Bbaazzaa-Sporeggar",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1482857285,
+							["arg1"] = "Completed: Snatch the Master's Flame: 1/1",
+							["clColor"] = "ff00ff96",
+						}, -- [15]
+						{
+							["arg2"] = "Bbaazzaa-Sporeggar",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1482857317,
+							["arg1"] = "Completed: Burn the Edict of Temperance: 1/1",
+							["clColor"] = "ff00ff96",
+						}, -- [16]
+						{
+							["arg2"] = "Bbaazzaa-Sporeggar",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1482857423,
+							["arg1"] = "Completed: Defeat Jaomin Ro: 1/1",
+							["clColor"] = "ff00ff96",
+						}, -- [17]
+						{
+							["arg2"] = "Bbaazzaa-Sporeggar",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1482857546,
+							["arg1"] = "Progress: Stolen Training Supplies: 1/6",
+							["clColor"] = "ff00ff96",
+						}, -- [18]
+						{
+							["arg2"] = "Bbaazzaa-Sporeggar",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1482857552,
+							["arg1"] = "Progress: Stolen Training Supplies: 2/6",
+							["clColor"] = "ff00ff96",
+						}, -- [19]
+						{
+							["arg2"] = "Bbaazzaa-Sporeggar",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1482857562,
+							["arg1"] = "Progress: Stolen Training Supplies: 3/6",
+							["clColor"] = "ff00ff96",
+						}, -- [20]
+						{
+							["arg2"] = "Bbaazzaa-Sporeggar",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1482857565,
+							["arg1"] = "Progress: Stolen Training Supplies: 4/6",
+							["clColor"] = "ff00ff96",
+						}, -- [21]
+						{
+							["arg2"] = "Bbaazzaa-Sporeggar",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1482857594,
+							["arg1"] = "Completed: Stolen Training Supplies: 6/6",
+							["clColor"] = "ff00ff96",
+						}, -- [22]
+						{
+							["arg2"] = "Bbaazzaa-Sporeggar",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1482857615,
+							["arg1"] = "Completed: Rescue the Cart Driver: 1/1",
+							["clColor"] = "ff00ff96",
+						}, -- [23]
+						{
+							["arg2"] = "Bbaazzaa-Sporeggar",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1482857824,
+							["arg1"] = "Completed: Protect Aysa while she meditates: 1/1",
+							["clColor"] = "ff00ff96",
+						}, -- [24]
+						{
+							["arg2"] = "Bbaazzaa-Sporeggar",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1482857959,
+							["arg1"] = "Progress: Fe-Feng attackers slain: 1/8",
+							["clColor"] = "ff00ff96",
+						}, -- [25]
+						{
+							["arg2"] = "Bbaazzaa-Sporeggar",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1482857966,
+							["arg1"] = "Progress: Fe-Feng attackers slain: 2/8",
+							["clColor"] = "ff00ff96",
+						}, -- [26]
+						{
+							["arg2"] = "Bbaazzaa-Sporeggar",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1482857976,
+							["arg1"] = "Progress: Fe-Feng attackers slain: 3/8",
+							["clColor"] = "ff00ff96",
+						}, -- [27]
+						{
+							["arg2"] = "Bbaazzaa-Sporeggar",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1482857997,
+							["arg1"] = "Progress: Fe-Feng attackers slain: 4/8",
+							["clColor"] = "ff00ff96",
+						}, -- [28]
+						{
+							["arg2"] = "Bbaazzaa-Sporeggar",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1482858005,
+							["arg1"] = "Progress: Fe-Feng attackers slain: 5/8",
+							["clColor"] = "ff00ff96",
+						}, -- [29]
+						{
+							["arg2"] = "Bbaazzaa-Sporeggar",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1482858018,
+							["arg1"] = "Progress: Fe-Feng attackers slain: 6/8",
+							["clColor"] = "ff00ff96",
+						}, -- [30]
+						{
+							["arg2"] = "Bbaazzaa-Sporeggar",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1482858024,
+							["arg1"] = "Progress: Fe-Feng attackers slain: 7/8",
+							["clColor"] = "ff00ff96",
+						}, -- [31]
+						{
+							["arg2"] = "Bbaazzaa-Sporeggar",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1482858033,
+							["arg1"] = "Completed: Fe-Feng attackers slain: 8/8",
+							["clColor"] = "ff00ff96",
+						}, -- [32]
+					},
+				}, -- [3]
+				{
+					["enabled"] = true,
+					["hasMessage"] = true,
+					["name"] = "Say",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 12/27/2016 at 17:43:04.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+						{
+							["arg2"] = "Aspiring Trainee",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1482857117,
+							["arg1"] = "Your form is impeccable.",
+						}, -- [2]
+						{
+							["arg2"] = "Tushui Trainee",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1482857225,
+							["arg1"] = "I have never seen a trainee with skills such as yours. I must tell the others.",
+						}, -- [3]
+						{
+							["arg2"] = "Huojin Trainee",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1482857228,
+							["arg1"] = "My skills are no match for yours. I admit defeat.",
+						}, -- [4]
+						{
+							["arg2"] = "Tushui Trainee",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1482857241,
+							["arg1"] = "You fight honorably, friend.",
+						}, -- [5]
+						{
+							["arg2"] = "Tushui Trainee",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1482857250,
+							["arg1"] = "That was a good match. Thank you.",
+						}, -- [6]
+						{
+							["arg2"] = "Huojin Trainee",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1482857251,
+							["arg1"] = "You are an honorable opponent.",
+						}, -- [7]
+						{
+							["arg2"] = "Tushui Trainee",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1482857257,
+							["arg1"] = "I have never seen a trainee with skills such as yours. I must tell the others.",
+						}, -- [8]
+						{
+							["arg2"] = "Trainee Nim",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1482857401,
+							["arg1"] = "I hope you're ready, Bbaazzaa. Jaomin Ro awaits you just over the bridge.",
+						}, -- [9]
+						{
+							["arg2"] = "Jaomin Ro",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1482857425,
+							["arg1"] = "It was an honor to be defeated by you.",
+						}, -- [10]
+						{
+							["arg2"] = "Jaomin Ro",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1482857434,
+							["arg1"] = "A challenger approaches.",
+						}, -- [11]
+						{
+							["arg2"] = "Merchant Lorvo",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1482857508,
+							["arg1"] = "Shhhh! Come quietly. She's practicing.",
+						}, -- [12]
+						{
+							["arg2"] = "Min Dimwind",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1482857619,
+							["arg1"] = "Master Shang has trained you well. Thank you, friend!",
+						}, -- [13]
+						{
+							["arg2"] = "Aysa Cloudsinger",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1482857644,
+							["arg1"] = "A challenge in compassion and humility. By helping Merchant Lorvo, it would seem you've passed, monk. Master Shang would be pleased.",
+						}, -- [14]
+						{
+							["arg2"] = "Aysa Cloudsinger",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1482857670,
+							["arg1"] = "Meet me up in the cave if you would, friend.",
+						}, -- [15]
+						{
+							["arg2"] = "Aysa Cloudsinger",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1482857738,
+							["arg1"] = "Keep those creatures at bay while I meditate. We'll soon have the answers we seek.",
+						}, -- [16]
+						{
+							["arg2"] = "Master Li Fei",
+							["type"] = "MONSTER_EMOTE",
+							["time"] = 1482857763,
+							["arg1"] = "Master Li Fei's voice echoes, \"The way of the Tushui... enlightenment through patience and meditation... the principled life.\"",
+						}, -- [17]
+						{
+							["arg2"] = "Master Li Fei",
+							["type"] = "MONSTER_EMOTE",
+							["time"] = 1482857774,
+							["arg1"] = "Master Li Fei's voice echoes, \"It is good to see you again, Aysa. You've come with respect, and so I shall give you the answers you seek.\"",
+						}, -- [18]
+						{
+							["arg2"] = "Master Li Fei",
+							["type"] = "MONSTER_EMOTE",
+							["time"] = 1482857786,
+							["arg1"] = "Master Li Fei's voice echoes, \"Huo, the spirit of fire, is known for his hunger. He wants for tinder to eat. He needs the caress of the wind to rouse him.\"",
+						}, -- [19]
+						{
+							["arg2"] = "Master Li Fei",
+							["type"] = "MONSTER_EMOTE",
+							["time"] = 1482857797,
+							["arg1"] = "Master Li Fei's voice echoes, \"If you find these things and bring them to his cave, on the far side of Wu-Song Village, you will face a challenge within.\"",
+						}, -- [20]
+						{
+							["arg2"] = "Master Li Fei",
+							["type"] = "MONSTER_EMOTE",
+							["time"] = 1482857808,
+							["arg1"] = "Master Li Fei's voice echoes, \"Overcome that challenge, and you shall be graced by Huo's presence. Rekindle his flame, and if your spirit is pure, he shall follow you.\"",
+						}, -- [21]
+						{
+							["arg2"] = "Master Li Fei",
+							["type"] = "MONSTER_EMOTE",
+							["time"] = 1482857814,
+							["arg1"] = "Master Li Fei's voice echoes, \"Go, children. We shall meet again very soon.\"",
+						}, -- [22]
+						{
+							["arg2"] = "Master Li Fei",
+							["type"] = "MONSTER_EMOTE",
+							["time"] = 1482857820,
+							["arg1"] = "Master Li Fei fades away.",
+						}, -- [23]
+						{
+							["arg2"] = "Aysa Cloudsinger",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1482857826,
+							["arg1"] = "And so our path lays before us. Speak to Master Shang Xi, he will tell you what comes next.",
+						}, -- [24]
+						{
+							["arg2"] = "Ji Firepaw",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1482857953,
+							["arg1"] = "Take that monkeybutt!",
+						}, -- [25]
+					},
+				}, -- [4]
+				{
+					["enabled"] = true,
+					["name"] = "Yell",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 12/27/2016 at 17:43:04.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+					},
+				}, -- [5]
+				{
+					["enabled"] = true,
+					["name"] = "Officer",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 12/27/2016 at 17:43:04.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+					},
+				}, -- [6]
+				{
+					["enabled"] = true,
+					["name"] = "Guild",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 12/27/2016 at 17:43:04.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+					},
+				}, -- [7]
+				{
+					["enabled"] = true,
+					["hasMessage"] = true,
+					["name"] = "Item Loot",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 12/27/2016 at 17:43:04.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857099,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:77279::::::::1:269::::::|h[Trainee's Handwrap]|h|r.",
+						}, -- [2]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857099,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:77278::::::::1:269::::::|h[Trainee's Handwrap]|h|r.",
+						}, -- [3]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857171,
+							["arg1"] = "You receive item: |cffffffff|Hitem:73215::::::::1:269::11::::|h[Initiate's Bracers]|h|r.",
+						}, -- [4]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857195,
+							["arg1"] = "You create: |cff00ccff|Hitem:122248::::::::1:269::::::|h[Stained Shadowcraft Cap]|h|r.",
+						}, -- [5]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857196,
+							["arg1"] = "You create: |cff00ccff|Hitem:122261::::::::1:269::::::|h[Inherited Cape of the Black Baron]|h|r.",
+						}, -- [6]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857285,
+							["arg1"] = "You receive item: |cffffffff|Hitem:73218::::::::1:269::11::::|h[Initiate's Belt]|h|r.",
+						}, -- [7]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857285,
+							["arg1"] = "You receive item: |cffffffff|Hitem:80212::::::::1:269::::::|h[The Master's Flame]|h|r.",
+						}, -- [8]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857432,
+							["arg1"] = "You receive item: |cffffffff|Hitem:73221::::::::2:269::11::::|h[Initiate's Handguards]|h|r.",
+						}, -- [9]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857546,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:72071::::::::2:269::::::|h[Stolen Training Supplies]|h|r.",
+						}, -- [10]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857546,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:55983::::::::2:269::::::|h[Inert Elemental Scintilla]|h|r.",
+						}, -- [11]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857552,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:72071::::::::3:269::::::|h[Stolen Training Supplies]|h|r.",
+						}, -- [12]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857552,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:55973::::::::3:269::::::|h[Inert Elemental Speck]|h|r.",
+						}, -- [13]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857562,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:55983::::::::3:269::::::|h[Inert Elemental Scintilla]|h|r.",
+						}, -- [14]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857562,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:72071::::::::3:269::::::|h[Stolen Training Supplies]|h|r.",
+						}, -- [15]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857565,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:55983::::::::3:269::::::|h[Inert Elemental Scintilla]|h|r.",
+						}, -- [16]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857565,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:72071::::::::3:269::::::|h[Stolen Training Supplies]|h|r.",
+						}, -- [17]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857581,
+							["arg1"] = "Baazzaa receives loot: |cff9d9d9d|Hitem:55983::::::::3:269::::::|h[Inert Elemental Scintilla]|h|rx3.",
+						}, -- [18]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857582,
+							["arg1"] = "Baazzaa receives loot: |cffffffff|Hitem:72071::::::::3:269::::::|h[Stolen Training Supplies]|h|rx2.",
+						}, -- [19]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857582,
+							["arg1"] = "Baazzaa receives loot: |cff9d9d9d|Hitem:55973::::::::3:269::::::|h[Inert Elemental Speck]|h|r.",
+						}, -- [20]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857590,
+							["arg1"] = "Baazzaa receives loot: |cffffffff|Hitem:72071::::::::3:269::::::|h[Stolen Training Supplies]|h|r.",
+						}, -- [21]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857590,
+							["arg1"] = "Baazzaa receives loot: |cff9d9d9d|Hitem:55983::::::::3:269::::::|h[Inert Elemental Scintilla]|h|r.",
+						}, -- [22]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857594,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:55983::::::::3:269::::::|h[Inert Elemental Scintilla]|h|rx2.",
+						}, -- [23]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857594,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:72071::::::::3:269::::::|h[Stolen Training Supplies]|h|rx2.",
+						}, -- [24]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857598,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:55973::::::::3:269::::::|h[Inert Elemental Speck]|h|r.",
+						}, -- [25]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857604,
+							["arg1"] = "Baazzaa receives loot: |cff9d9d9d|Hitem:55973::::::::3:269::::::|h[Inert Elemental Speck]|h|rx2.",
+						}, -- [26]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857605,
+							["arg1"] = "Baazzaa receives loot: |cffffffff|Hitem:72071::::::::3:269::::::|h[Stolen Training Supplies]|h|r.",
+						}, -- [27]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857608,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:55973::::::::3:269::::::|h[Inert Elemental Speck]|h|rx3.",
+						}, -- [28]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857608,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:55983::::::::3:269::::::|h[Inert Elemental Scintilla]|h|rx2.",
+						}, -- [29]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857613,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:55973::::::::3:269::::::|h[Inert Elemental Speck]|h|rx2.",
+						}, -- [30]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857651,
+							["arg1"] = "You receive item: |cffffffff|Hitem:73223::::::::3:269::11::::|h[Cloak of the Compassionate]|h|r.",
+						}, -- [31]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857651,
+							["arg1"] = "You receive item: |cffffffff|Hitem:73241::::::::3:269::::::|h[Merchant's Satchel]|h|r.",
+						}, -- [32]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857692,
+							["arg1"] = "Baazzaa receives loot: |cff9d9d9d|Hitem:62328::::::::3:269::::::|h[Shed Fur]|h|r.",
+						}, -- [33]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857697,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:62328::::::::3:269::::::|h[Shed Fur]|h|r.",
+						}, -- [34]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857704,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:62328::::::::3:269::::::|h[Shed Fur]|h|r.",
+						}, -- [35]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857706,
+							["arg1"] = "Baazzaa receives loot: |cff9d9d9d|Hitem:62328::::::::3:269::::::|h[Shed Fur]|h|r.",
+						}, -- [36]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857718,
+							["arg1"] = "Baazzaa receives loot: |cff9d9d9d|Hitem:62328::::::::3:269::::::|h[Shed Fur]|h|r.",
+						}, -- [37]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482857834,
+							["arg1"] = "You receive item: |cffffffff|Hitem:73225::::::::3:269::11::::|h[Initiate's Vest]|h|r.",
+						}, -- [38]
+						{
+							["type"] = "MONEY",
+							["time"] = 1482857962,
+							["arg1"] = "You loot 4 Copper",
+						}, -- [39]
+						{
+							["type"] = "MONEY",
+							["time"] = 1482857968,
+							["arg1"] = "You loot 5 Copper",
+						}, -- [40]
+						{
+							["type"] = "MONEY",
+							["time"] = 1482857980,
+							["arg1"] = "You loot 1 Copper",
+						}, -- [41]
+						{
+							["type"] = "MONEY",
+							["time"] = 1482858008,
+							["arg1"] = "You loot 4 Copper",
+						}, -- [42]
+						{
+							["type"] = "MONEY",
+							["time"] = 1482858026,
+							["arg1"] = "You loot 5 Copper",
+						}, -- [43]
+						{
+							["type"] = "MONEY",
+							["time"] = 1482858034,
+							["arg1"] = "You loot 5 Copper",
+						}, -- [44]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482858042,
+							["arg1"] = "You receive item: |cffffffff|Hitem:73228::::::::4:269::11::::|h[Initiate's Britches]|h|r.",
+						}, -- [45]
+						{
+							["type"] = "LOOT",
+							["time"] = 1482858051,
+							["arg1"] = "You receive item: |cffffffff|Hitem:72109::::::::4:269::11::::|h[Wind Stone]|h|r.",
+						}, -- [46]
+						{
+							["type"] = "MONEY",
+							["time"] = 1482858059,
+							["arg1"] = "You loot 7 Copper",
+						}, -- [47]
+						{
+							["type"] = "MONEY",
+							["time"] = 1482858088,
+							["arg1"] = "You loot 4 Copper",
+						}, -- [48]
+					},
+				}, -- [8]
+				{
+					["enabled"] = true,
+					["hasMessage"] = true,
+					["name"] = "System Messages",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 12/27/2016 at 17:43:04.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857030,
+							["arg1"] = "You are not in a guild.",
+						}, -- [2]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857030,
+							["arg1"] = "You are not in a guild.",
+						}, -- [3]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857042,
+							["arg1"] = "You have invited Baazzaa to join your group.",
+						}, -- [4]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857042,
+							["arg1"] = "Dungeon Difficulty set to Normal.",
+						}, -- [5]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857042,
+							["arg1"] = "Looting set to Personal.",
+						}, -- [6]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857042,
+							["arg1"] = "Loot threshold set to Uncommon.",
+						}, -- [7]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857045,
+							["arg1"] = "Baazzaa joins the party.",
+						}, -- [8]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857052,
+							["arg1"] = "Quest accepted: The Lesson of the Iron Bough",
+						}, -- [9]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857111,
+							["arg1"] = "The Lesson of the Iron Bough completed.",
+						}, -- [10]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857111,
+							["arg1"] = "Experience gained: 80.",
+						}, -- [11]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857111,
+							["arg1"] = "Received 15 Copper.",
+						}, -- [12]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857112,
+							["arg1"] = "Quest accepted: The Lesson of the Sandy Fist",
+						}, -- [13]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857171,
+							["arg1"] = "The Lesson of the Sandy Fist completed.",
+						}, -- [14]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857171,
+							["arg1"] = "Experience gained: 260.",
+						}, -- [15]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857171,
+							["arg1"] = "Received 1 Silver.",
+						}, -- [16]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857172,
+							["arg1"] = "Quest accepted: The Lesson of Stifled Pride",
+						}, -- [17]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857285,
+							["arg1"] = "The Lesson of Stifled Pride completed.",
+						}, -- [18]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857285,
+							["arg1"] = "Experience gained: 299.",
+						}, -- [19]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857285,
+							["arg1"] = "Received 1 Silver.",
+						}, -- [20]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857285,
+							["arg1"] = "Quest accepted: The Lesson of the Burning Scroll",
+						}, -- [21]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857335,
+							["arg1"] = "The Lesson of the Burning Scroll completed.",
+						}, -- [22]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857335,
+							["arg1"] = "Experience gained: 195.",
+						}, -- [23]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857335,
+							["arg1"] = "Received 35 Copper.",
+						}, -- [24]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857335,
+							["arg1"] = "Quest accepted: The Disciple's Challenge",
+						}, -- [25]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857392,
+							["arg1"] = "Discovered The Dawning Valley: 10 experience gained",
+						}, -- [26]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857410,
+							["arg1"] = "Discovered Tranquil Grotto: 10 experience gained",
+						}, -- [27]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857432,
+							["arg1"] = "The Disciple's Challenge completed.",
+						}, -- [28]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857432,
+							["arg1"] = "Experience gained: 299.",
+						}, -- [29]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857432,
+							["arg1"] = "Received 1 Silver.",
+						}, -- [30]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857433,
+							["arg1"] = "Quest accepted: Aysa of the Tushui",
+						}, -- [31]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857500,
+							["arg1"] = "Discovered Fu's Pond: 10 experience gained",
+						}, -- [32]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857512,
+							["arg1"] = "Aysa of the Tushui completed.",
+						}, -- [33]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857512,
+							["arg1"] = "Experience gained: 51.",
+						}, -- [34]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857512,
+							["arg1"] = "Received 8 Copper.",
+						}, -- [35]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857512,
+							["arg1"] = "Quest accepted: Items of Utmost Importance",
+						}, -- [36]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857514,
+							["arg1"] = "Quest accepted: The Missing Driver",
+						}, -- [37]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857550,
+							["arg1"] = "You have learned a new spell: |cff71d5ff|Hspell:100784:0|h[Blackout Kick]|h|r.",
+						}, -- [38]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857648,
+							["arg1"] = "Items of Utmost Importance completed.",
+						}, -- [39]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857648,
+							["arg1"] = "Experience gained: 287.",
+						}, -- [40]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857648,
+							["arg1"] = "Received 50 Copper.",
+						}, -- [41]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857651,
+							["arg1"] = "The Missing Driver completed.",
+						}, -- [42]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857651,
+							["arg1"] = "Experience gained: 287.",
+						}, -- [43]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857651,
+							["arg1"] = "Received 50 Copper.",
+						}, -- [44]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857668,
+							["arg1"] = "Quest accepted: The Way of the Tushui",
+						}, -- [45]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857728,
+							["arg1"] = "Discovered Cave of Meditation: 10 experience gained",
+						}, -- [46]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857834,
+							["arg1"] = "The Way of the Tushui completed.",
+						}, -- [47]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857834,
+							["arg1"] = "Experience gained: 287.",
+						}, -- [48]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857834,
+							["arg1"] = "Received 50 Copper.",
+						}, -- [49]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857835,
+							["arg1"] = "Quest accepted: Ji of the Huojin",
+						}, -- [50]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857948,
+							["arg1"] = "Discovered Wu-Song Village: 10 experience gained",
+						}, -- [51]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857955,
+							["arg1"] = "Ji of the Huojin completed.",
+						}, -- [52]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857955,
+							["arg1"] = "Experience gained: 74.",
+						}, -- [53]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857955,
+							["arg1"] = "Received 13 Copper.",
+						}, -- [54]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857955,
+							["arg1"] = "Quest accepted: The Way of the Huojin",
+						}, -- [55]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482858042,
+							["arg1"] = "The Way of the Huojin completed.",
+						}, -- [56]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482858042,
+							["arg1"] = "Experience gained: 414.",
+						}, -- [57]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482858042,
+							["arg1"] = "Received 75 Copper.",
+						}, -- [58]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482858044,
+							["arg1"] = "Quest accepted: Kindling the Fire",
+						}, -- [59]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482858051,
+							["arg1"] = "Quest accepted: Fanning the Flames",
+						}, -- [60]
+					},
+				}, -- [9]
+				{
+					["enabled"] = true,
+					["name"] = "Achievements",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 12/27/2016 at 17:43:04.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+					},
+				}, -- [10]
+				{
+					["enabled"] = true,
+					["name"] = "Instance",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 12/27/2016 at 17:43:04.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+					},
+				}, -- [11]
+				["worlddefense"] = {
+					["enabled"] = true,
+					["name"] = "World defense",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 12/27/2016 at 17:43:04.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+					},
+				},
+				["guildrecruitment"] = {
+					["enabled"] = true,
+					["name"] = "Guild recruitment",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 12/27/2016 at 17:43:04.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+					},
+				},
+				["general"] = {
+					["enabled"] = true,
+					["name"] = "General",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 12/27/2016 at 17:43:04.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+					},
+				},
+				["trade"] = {
+					["enabled"] = true,
+					["name"] = "Trade",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 12/27/2016 at 17:43:04.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+					},
+				},
+				["localdefense"] = {
+					["enabled"] = true,
+					["name"] = "Local defense",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 12/27/2016 at 17:43:04.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+					},
+				},
+				["armory"] = {
+					["enabled"] = true,
+					["hasMessage"] = true,
+					["name"] = "Armory",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 12/27/2016 at 17:43:54.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857034,
+							["arg1"] = " [Armory] |cffff2020WARNING:|r Daliya (Sporeggar) hasn't visited the mailbox for 34 |4Day:Days;. Please log in to check your inbox.",
+						}, -- [2]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1482857034,
+							["arg1"] = " [Armory] |cffff2020WARNING:|r Killema (Sporeggar) hasn't visited the mailbox for 129 |4Day:Days;. Please log in to check your inbox.",
+						}, -- [3]
+					},
+				},
+				["lookingforgroup"] = {
+					["enabled"] = true,
+					["name"] = "Looking for group",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 12/27/2016 at 17:43:04.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+					},
+				},
+			},
+		},
+	},
+}

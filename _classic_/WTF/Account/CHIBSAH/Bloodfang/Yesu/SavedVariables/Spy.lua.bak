@@ -1,0 +1,41 @@
+
+SpyPerCharDB = {
+	["KOSData"] = {
+	},
+	["IgnoreData"] = {
+	},
+	["PlayerData"] = {
+		["Huntwat"] = {
+			["mapID"] = 1417,
+			["zone"] = "Arathi Highlands",
+			["mapY"] = 0.25,
+			["class"] = "HUNTER",
+			["isEnemy"] = true,
+			["time"] = 1577618345,
+			["race"] = "Troll",
+			["name"] = "Huntwat",
+			["isGuess"] = false,
+			["mapX"] = 0.33,
+			["level"] = 31,
+			["subZone"] = "Northfold Manor",
+			["loses"] = 1,
+		},
+		["Stabur"] = {
+			["mapID"] = 1417,
+			["guild"] = "Straight Outta Blackrock",
+			["zone"] = "Arathi Highlands",
+			["mapY"] = 0.42,
+			["class"] = "ROGUE",
+			["isEnemy"] = true,
+			["name"] = "Stabur",
+			["mapX"] = 0.29,
+			["isGuess"] = false,
+			["time"] = 1577616367,
+			["subZone"] = "",
+			["level"] = 37,
+			["race"] = "Undead",
+			["loses"] = 1,
+		},
+	},
+	["version"] = "1.1",
+}

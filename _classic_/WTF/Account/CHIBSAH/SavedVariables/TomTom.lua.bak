@@ -1,0 +1,62 @@
+
+TomTomDB = {
+	["profileKeys"] = {
+		["Rhanellix - Bloodfang"] = "Default",
+		["Xelle - Bloodfang"] = "Default",
+		["Leleti - Bloodfang"] = "Default",
+		["Yesu - Bloodfang"] = "Default",
+		["Yvettee - Nethergarde Keep"] = "Default",
+		["Shadowland - Bloodfang"] = "Default",
+		["Krixsus - Bloodfang"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["arrow"] = {
+				["position"] = {
+					"TOP", -- [1]
+					nil, -- [2]
+					"TOP", -- [3]
+					2.37044024467468, -- [4]
+					-51.6913833618164, -- [5]
+				},
+			},
+			["block"] = {
+				["position"] = {
+					"TOPLEFT", -- [1]
+					nil, -- [2]
+					"TOPLEFT", -- [3]
+					170.444274902344, -- [4]
+					-92.9012603759766, -- [5]
+				},
+			},
+		},
+	},
+}
+TomTomWaypoints = nil
+TomTomWaypointsM = {
+	["profileKeys"] = {
+		["Rhanellix - Bloodfang"] = "Rhanellix - Bloodfang",
+		["Xelle - Bloodfang"] = "Xelle - Bloodfang",
+		["Leleti - Bloodfang"] = "Leleti - Bloodfang",
+		["Yesu - Bloodfang"] = "Yesu - Bloodfang",
+		["Yvettee - Nethergarde Keep"] = "Yvettee - Nethergarde Keep",
+		["Shadowland - Bloodfang"] = "Shadowland - Bloodfang",
+		["Krixsus - Bloodfang"] = "Krixsus - Bloodfang",
+	},
+	["profiles"] = {
+		["Rhanellix - Bloodfang"] = {
+		},
+		["Xelle - Bloodfang"] = {
+		},
+		["Leleti - Bloodfang"] = {
+		},
+		["Yesu - Bloodfang"] = {
+		},
+		["Yvettee - Nethergarde Keep"] = {
+		},
+		["Shadowland - Bloodfang"] = {
+		},
+		["Krixsus - Bloodfang"] = {
+		},
+	},
+}

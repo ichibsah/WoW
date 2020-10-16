@@ -1,0 +1,10 @@
+
+BadPetDB = {
+	["profileKeys"] = {
+		["Leleti - Sporeggar"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

@@ -1,0 +1,13 @@
+
+GladiusDB = {
+	["profileKeys"] = {
+		["Youmie - Sporeggar"] = "Youmie - Sporeggar",
+	},
+	["profiles"] = {
+		["Youmie - Sporeggar"] = {
+			["y"] = 640.9999883222589,
+			["x"] = 9.499948006248147,
+			["manaPercentage"] = true,
+		},
+	},
+}

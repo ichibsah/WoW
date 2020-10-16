@@ -1,0 +1,5 @@
+
+ArtifactPathFinderCDB = {
+	["selectedPathBySpec"] = {
+	},
+}

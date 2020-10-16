@@ -1,0 +1,20 @@
+VER 3 0100000000000003 "01 - legion" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/targetenemy [noexists][dead][noharm]
+/castsequence reset=target/combat Sunfire(Solar),Moonfire(Lunar),Solar Wrath(Solar)
+END
+VER 3 0100000000000004 "HB-M-Alt" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Renewal
+END
+VER 3 0100000000000005 "HB-M-Ctrl" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Bear Form(Shapeshift)
+/cast Frenzied Regeneration
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P1DH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1DH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+NMen[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Dal[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

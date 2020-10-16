@@ -1,0 +1,20 @@
+
+ShadowGreenLightDB = {
+	["profileKeys"] = {
+		["Leleti - Sporeggar"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+ShadowGreenLight_DefaultDisplayDB = {
+	["profileKeys"] = {
+		["Leleti - Sporeggar"] = "Default",
+	},
+}
+ShadowGreenLight_DisplayBarDB = {
+	["profileKeys"] = {
+		["Leleti - Sporeggar"] = "Default",
+	},
+}

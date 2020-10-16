@@ -1,0 +1,4 @@
+VER 3 0100000000000001 "MDH Tricks of the Trade" "Ability_Rogue_TricksOftheTrade"
+#showtooltip
+/use [mod:shift,@none][@pet,nodead] Tricks of the Trade; Tricks of the Trade
+END

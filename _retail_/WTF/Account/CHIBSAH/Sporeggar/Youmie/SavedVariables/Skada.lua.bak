@@ -1,0 +1,705 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["orbhealingabsorbed"] = 0,
+		["healingabsorbed"] = 0,
+		["ffdamagedone"] = 0,
+		["ccTakenCount"] = 0,
+		["interrupts"] = 0,
+		["damagetaken"] = 0,
+		["orbbursthits"] = {
+			["total"] = 0,
+		},
+		["difficultyname"] = "Normal",
+		["healing"] = 0,
+		["orbsummon"] = 0,
+		["name"] = "Total",
+		["mobhdone"] = 1940232,
+		["last_action"] = 1471799857,
+		["mobdone"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["orboverhealing"] = 0,
+		["damage"] = 0,
+		["starttime"] = 1471799857,
+		["deaths"] = 0,
+		["ccDoneCount"] = 0,
+		["mobtaken"] = 0,
+		["orbhealing"] = 0,
+		["leech"] = 0,
+		["orbpickuphits"] = {
+			["total"] = 0,
+		},
+		["power"] = {
+		},
+		["healthstone"] = 0,
+		["orbburstcast"] = 0,
+		["mobs"] = {
+			["Jhazz-DefiasBrotherhood"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Ysera's Gift"] = {
+						["min"] = 1201,
+						["crits"] = 0,
+						["max"] = 11171,
+						["healing"] = 12372,
+						["overhealing"] = 0,
+						["hits"] = 2,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 12372,
+				["hdonespell"] = {
+				},
+			},
+			["Khaadgaar-TheVentureCo"] = {
+				["players"] = {
+				},
+				["hdone"] = 1488528,
+				["htakenspell"] = {
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Shadow Madness"] = {
+						["min"] = 80740,
+						["crits"] = 1,
+						["max"] = 717913,
+						["healing"] = 1488528,
+						["overhealing"] = 751127,
+						["hits"] = 3,
+					},
+				},
+			},
+			["Kloflynk-DefiasBrotherhood"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Ysera's Gift"] = {
+						["min"] = 1201,
+						["crits"] = 0,
+						["max"] = 1201,
+						["healing"] = 1201,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 1201,
+				["hdonespell"] = {
+				},
+			},
+			["Scythus-DefiasBrotherhood"] = {
+				["players"] = {
+				},
+				["hdone"] = 214097,
+				["htakenspell"] = {
+					["Soul Cleave"] = {
+						["min"] = 144223,
+						["crits"] = 1,
+						["max"] = 144223,
+						["healing"] = 144223,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+					["Consume Soul"] = {
+						["min"] = 19627,
+						["crits"] = 0,
+						["max"] = 19628,
+						["healing"] = 39255,
+						["overhealing"] = 0,
+						["hits"] = 2,
+					},
+					["Feast of Souls"] = {
+						["min"] = 10206,
+						["crits"] = 0,
+						["max"] = 10207,
+						["healing"] = 30619,
+						["overhealing"] = 0,
+						["hits"] = 3,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 214097,
+				["hdonespell"] = {
+					["Soul Cleave"] = {
+						["min"] = 144223,
+						["crits"] = 1,
+						["max"] = 144223,
+						["healing"] = 144223,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+					["Consume Soul"] = {
+						["min"] = 19627,
+						["crits"] = 0,
+						["max"] = 19628,
+						["healing"] = 39255,
+						["overhealing"] = 0,
+						["hits"] = 2,
+					},
+					["Feast of Souls"] = {
+						["min"] = 10206,
+						["crits"] = 0,
+						["max"] = 10207,
+						["healing"] = 30619,
+						["overhealing"] = 0,
+						["hits"] = 3,
+					},
+				},
+			},
+			["Garbagedruid-ScarshieldLegion"] = {
+				["players"] = {
+				},
+				["hdone"] = 6752,
+				["htakenspell"] = {
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Ysera's Gift"] = {
+						["min"] = 864,
+						["crits"] = 0,
+						["max"] = 1202,
+						["healing"] = 6752,
+						["overhealing"] = 455,
+						["hits"] = 6,
+					},
+				},
+			},
+			["Strakk-DefiasBrotherhood"] = {
+				["players"] = {
+				},
+				["hdone"] = 105737,
+				["htakenspell"] = {
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Ysera's Gift"] = {
+						["min"] = 2793,
+						["crits"] = 0,
+						["max"] = 17315,
+						["healing"] = 105737,
+						["overhealing"] = 4853,
+						["hits"] = 9,
+					},
+				},
+			},
+			["Kuunvalo-Ravenholdt"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Ysera's Gift"] = {
+						["min"] = 1202,
+						["crits"] = 0,
+						["max"] = 2793,
+						["healing"] = 3995,
+						["overhealing"] = 0,
+						["hits"] = 2,
+					},
+					["Shadow Madness"] = {
+						["min"] = 717913,
+						["crits"] = 1,
+						["max"] = 717913,
+						["healing"] = 717913,
+						["overhealing"] = 55487,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 721908,
+				["hdonespell"] = {
+				},
+			},
+			["Ekte-DefiasBrotherhood"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Consume Soul"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 85395,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Consume Soul"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 85395,
+						["hits"] = 1,
+					},
+				},
+			},
+			["Naphariel-DefiasBrotherhood"] = {
+				["players"] = {
+				},
+				["hdone"] = 82086,
+				["htakenspell"] = {
+					["Ysera's Gift"] = {
+						["min"] = 10757,
+						["crits"] = 0,
+						["max"] = 11171,
+						["healing"] = 21928,
+						["overhealing"] = 0,
+						["hits"] = 2,
+					},
+					["Siphon Life"] = {
+						["min"] = 6007,
+						["crits"] = 0,
+						["max"] = 10696,
+						["healing"] = 30964,
+						["overhealing"] = 0,
+						["hits"] = 4,
+					},
+					["Drain Soul"] = {
+						["min"] = 13931,
+						["crits"] = 0,
+						["max"] = 13931,
+						["healing"] = 41793,
+						["overhealing"] = 0,
+						["hits"] = 3,
+					},
+					["Phantom Singularity"] = {
+						["min"] = 714,
+						["crits"] = 0,
+						["max"] = 1271,
+						["healing"] = 9329,
+						["overhealing"] = 0,
+						["hits"] = 11,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 104014,
+				["hdonespell"] = {
+					["Siphon Life"] = {
+						["min"] = 6007,
+						["crits"] = 0,
+						["max"] = 10696,
+						["healing"] = 30964,
+						["overhealing"] = 0,
+						["hits"] = 4,
+					},
+					["Drain Soul"] = {
+						["min"] = 13931,
+						["crits"] = 0,
+						["max"] = 13931,
+						["healing"] = 41793,
+						["overhealing"] = 0,
+						["hits"] = 3,
+					},
+					["Phantom Singularity"] = {
+						["min"] = 714,
+						["crits"] = 0,
+						["max"] = 1271,
+						["healing"] = 9329,
+						["overhealing"] = 0,
+						["hits"] = 11,
+					},
+				},
+			},
+			["Galdino-DefiasBrotherhood"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Inspiring Presence"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 695,
+						["hits"] = 1,
+					},
+				},
+			},
+			["Snowqueenz-DefiasBrotherhood"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Ysera's Gift"] = {
+						["min"] = 10759,
+						["crits"] = 0,
+						["max"] = 17315,
+						["healing"] = 45388,
+						["overhealing"] = 0,
+						["hits"] = 3,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 45388,
+				["hdonespell"] = {
+				},
+			},
+			["Centorainia-DefiasBrotherhood"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Penance"] = {
+						["min"] = 0,
+						["crits"] = 1,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 103035,
+						["hits"] = 3,
+					},
+					["Ysera's Gift"] = {
+						["min"] = 864,
+						["crits"] = 0,
+						["max"] = 864,
+						["healing"] = 864,
+						["overhealing"] = 337,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 864,
+				["hdonespell"] = {
+				},
+			},
+			["Khelis-DefiasBrotherhood"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Shadow Madness"] = {
+						["min"] = 80740,
+						["crits"] = 0,
+						["max"] = 80740,
+						["healing"] = 80740,
+						["overhealing"] = 85615,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 80740,
+				["hdonespell"] = {
+				},
+			},
+			["Kylíé-DefiasBrotherhood"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Penance"] = {
+						["min"] = 0,
+						["crits"] = 1,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 103035,
+						["hits"] = 3,
+					},
+				},
+			},
+			["Ynmot-Ravenholdt"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Ysera's Gift"] = {
+						["min"] = 1201,
+						["crits"] = 0,
+						["max"] = 1201,
+						["healing"] = 1201,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 1201,
+				["hdonespell"] = {
+				},
+			},
+			["Pandapopi-DefiasBrotherhood"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Ysera's Gift"] = {
+						["min"] = 10759,
+						["crits"] = 0,
+						["max"] = 17314,
+						["healing"] = 28073,
+						["overhealing"] = 0,
+						["hits"] = 2,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 28073,
+				["hdonespell"] = {
+				},
+			},
+			["Thrillidan"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Shadow Madness"] = {
+						["min"] = 689875,
+						["crits"] = 0,
+						["max"] = 689875,
+						["healing"] = 689875,
+						["overhealing"] = 610025,
+						["hits"] = 1,
+					},
+					["Ysera's Gift"] = {
+						["min"] = 11170,
+						["crits"] = 0,
+						["max"] = 11170,
+						["healing"] = 11170,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 701045,
+				["hdonespell"] = {
+				},
+			},
+			["Bearlielegal-DefiasBrotherhood"] = {
+				["players"] = {
+				},
+				["hdone"] = 21518,
+				["htakenspell"] = {
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Ysera's Gift"] = {
+						["min"] = 10759,
+						["crits"] = 0,
+						["max"] = 10759,
+						["healing"] = 21518,
+						["overhealing"] = 0,
+						["hits"] = 2,
+					},
+				},
+			},
+			["Flawe-Ravenholdt"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Ysera's Gift"] = {
+						["min"] = 6318,
+						["crits"] = 0,
+						["max"] = 11171,
+						["healing"] = 28246,
+						["overhealing"] = 4853,
+						["hits"] = 3,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 28246,
+				["hdonespell"] = {
+				},
+			},
+			["Stormwind City Patroller"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Inspiring Presence"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 695,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Stickstuck-TheVentureCo"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Ysera's Gift"] = {
+						["min"] = 1083,
+						["crits"] = 0,
+						["max"] = 1083,
+						["healing"] = 1083,
+						["overhealing"] = 118,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 1083,
+				["hdonespell"] = {
+				},
+			},
+			["Casenysa-DefiasBrotherhood"] = {
+				["players"] = {
+				},
+				["hdone"] = 21514,
+				["htakenspell"] = {
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Ysera's Gift"] = {
+						["min"] = 10757,
+						["crits"] = 0,
+						["max"] = 10757,
+						["healing"] = 21514,
+						["overhealing"] = 0,
+						["hits"] = 2,
+					},
+				},
+			},
+		},
+		["overhealing"] = 0,
+		["shielding"] = 0,
+		["time"] = 0,
+		["players"] = {
+			{
+				["orbhealingabsorbed"] = 0,
+				["orbburstcast"] = 0,
+				["class"] = "DEATHKNIGHT",
+				["damaged"] = {
+				},
+				["auras"] = {
+					["Wraith Walk"] = {
+						["name"] = "Wraith Walk",
+						["active"] = 0,
+						["id"] = 212552,
+						["auratype"] = "BUFF",
+						["uptime"] = 3,
+					},
+				},
+				["ffdamagedone"] = 0,
+				["ccTakenCount"] = 0,
+				["interrupts"] = 0,
+				["damagespells"] = {
+				},
+				["damagetaken"] = 0,
+				["orbhealed"] = {
+				},
+				["orbsummon"] = 0,
+				["name"] = "Youmie",
+				["leechTaken"] = 0,
+				["leech"] = 0,
+				["sam_breakdown"] = {
+				},
+				["score"] = 0,
+				["power"] = {
+				},
+				["healthstone"] = 0,
+				["ccDoneTargets"] = {
+				},
+				["ccTakenSpells"] = {
+				},
+				["healingabsorbed"] = 0,
+				["dispells"] = 0,
+				["overhealing"] = 0,
+				["ccbreaks"] = 0,
+				["time"] = 19,
+				["ccDoneSpells"] = {
+				},
+				["healingspells"] = {
+				},
+				["shielding"] = 0,
+				["healing"] = 0,
+				["damage"] = 0,
+				["healed"] = {
+				},
+				["orboverhealing"] = 0,
+				["ccDoneCount"] = 0,
+				["deathlog"] = {
+					{
+						["spellname"] = "Falling",
+						["ts"] = 1471799865.276,
+						["hp"] = 29901,
+						["amount"] = -1779,
+					}, -- [1]
+					{
+						["absorb"] = 0,
+						["amount"] = 1201,
+						["hp"] = 31102,
+						["ts"] = 1471799871.814,
+						["spellid"] = 145110,
+						["srcname"] = "Garbagedruid-ScarshieldLegion",
+					}, -- [2]
+					{
+						["absorb"] = 0,
+						["amount"] = 578,
+						["hp"] = 31680,
+						["ts"] = 1471799881.703,
+						["spellid"] = 145110,
+						["srcname"] = "Garbagedruid-ScarshieldLegion",
+					}, -- [3]
+					["pos"] = 4,
+				},
+				["id"] = "Player-1096-047F691F",
+				["orbhealingspells"] = {
+				},
+				["orbhealing"] = 0,
+				["damagetakenspells"] = {
+				},
+				["ccTakenTargets"] = {
+				},
+				["leeched"] = {
+				},
+				["ffdamagedonetargets"] = {
+				},
+				["ffdamagedonespells"] = {
+				},
+				["role"] = "NONE",
+				["maxhp"] = 31680,
+				["sam_total_events"] = 0,
+				["multistrikes"] = 0,
+			}, -- [1]
+		},
+		["multistrikes"] = 0,
+	},
+	["sets"] = {
+	},
+}

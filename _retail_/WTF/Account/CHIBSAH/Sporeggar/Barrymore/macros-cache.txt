@@ -1,0 +1,4 @@
+VER 3 0100000000000001 "heal" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,exists,nodead,help,][exists,nodead,help][@player] Healing Surge
+END

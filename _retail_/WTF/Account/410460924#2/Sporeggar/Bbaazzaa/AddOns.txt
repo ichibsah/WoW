@@ -1,0 +1,4 @@
+DruidFriend: disabled
+FollowerLocationInfo_Data: enabled
+ShamanFriend: disabled
+WorldQuestTracker: disabled

@@ -1,0 +1,2 @@
+FollowerLocationInfo_Data: enabled
+ShamanFriend: disabled

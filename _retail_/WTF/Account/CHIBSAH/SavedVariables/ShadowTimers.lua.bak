@@ -1,0 +1,2 @@
+
+ShadowtimerGlobalSettings = nil

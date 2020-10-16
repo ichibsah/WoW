@@ -1,0 +1,527 @@
+
+RecipeBook_ItemDB = {
+	[17198] = {
+		["Name"] = "Egg Nog",
+		[21144] = {
+			["Mats"] = {
+				[17194] = 1,
+				[1179] = 1,
+				[17196] = 1,
+				[6889] = 1,
+			},
+			["Known"] = {
+				{
+					[10] = {
+						["Youmie"] = 4,
+					},
+				}, -- [1]
+			},
+			["Skill"] = 11,
+			["Name"] = false,
+		},
+	},
+	[2680] = {
+		["Name"] = "Spiced Wolf Meat",
+		[2539] = {
+			["Mats"] = {
+				[2672] = 1,
+				[2678] = 1,
+			},
+			["Known"] = {
+				{
+					[10] = {
+						["Youmie"] = 2,
+					},
+				}, -- [1]
+			},
+			["Skill"] = 11,
+			["Name"] = false,
+		},
+	},
+	[8545] = {
+		["Name"] = "Heavy Mageweave Bandage",
+		[10841] = {
+			["Mats"] = {
+				[4338] = 2,
+			},
+			["Known"] = {
+				{
+					[10] = {
+						["Youmie"] = 1,
+					},
+				}, -- [1]
+			},
+			["Skill"] = 12,
+			["Name"] = false,
+		},
+	},
+	[2684] = {
+		["Name"] = "Coyote Steak",
+		[2541] = {
+			["Mats"] = {
+				[2673] = 1,
+			},
+			["Known"] = {
+				{
+					[10] = {
+						["Youmie"] = 4,
+					},
+				}, -- [1]
+			},
+			["Skill"] = 11,
+			["Name"] = false,
+		},
+	},
+	[6888] = {
+		["Name"] = "Herb Baked Egg",
+		[8604] = {
+			["Mats"] = {
+				[6889] = 1,
+				[2678] = 1,
+			},
+			["Known"] = {
+				{
+					[10] = {
+						["Youmie"] = 2,
+					},
+				}, -- [1]
+			},
+			["Skill"] = 11,
+			["Name"] = false,
+		},
+	},
+	[21990] = {
+		["Name"] = "Netherweave Bandage",
+		[27032] = {
+			["Mats"] = {
+				[21877] = 1,
+			},
+			["Known"] = {
+				{
+					[10] = {
+						["Youmie"] = 1,
+					},
+				}, -- [1]
+			},
+			["Skill"] = 12,
+			["Name"] = false,
+		},
+	},
+	[14529] = {
+		["Name"] = "Runecloth Bandage",
+		[18629] = {
+			["Mats"] = {
+				[14047] = 1,
+			},
+			["Known"] = {
+				{
+					[10] = {
+						["Youmie"] = 1,
+					},
+				}, -- [1]
+			},
+			["Skill"] = 12,
+			["Name"] = false,
+		},
+	},
+	[21991] = {
+		["Name"] = "Heavy Netherweave Bandage",
+		[27033] = {
+			["Mats"] = {
+				[21877] = 2,
+			},
+			["Known"] = {
+				{
+					[10] = {
+						["Youmie"] = 1,
+					},
+				}, -- [1]
+			},
+			["Skill"] = 12,
+			["Name"] = false,
+		},
+	},
+	[3531] = {
+		["Name"] = "Heavy Wool Bandage",
+		[3278] = {
+			["Mats"] = {
+				[2592] = 2,
+			},
+			["Known"] = {
+				{
+					[10] = {
+						["Youmie"] = 1,
+					},
+				}, -- [1]
+			},
+			["Skill"] = 12,
+			["Name"] = false,
+		},
+	},
+	[2541] = {
+		["Enchant"] = "Coyote Steak",
+		[2541] = {
+			["Mats"] = {
+			},
+			["Known"] = {
+				{
+					[10] = {
+						["Youmie"] = 4,
+					},
+				}, -- [1]
+			},
+			["Skill"] = 11,
+			["Name"] = false,
+		},
+	},
+	[14530] = {
+		["Name"] = "Heavy Runecloth Bandage",
+		[18630] = {
+			["Mats"] = {
+				[14047] = 2,
+			},
+			["Known"] = {
+				{
+					[10] = {
+						["Youmie"] = 1,
+					},
+				}, -- [1]
+			},
+			["Skill"] = 12,
+			["Name"] = false,
+		},
+	},
+	[6451] = {
+		["Name"] = "Heavy Silk Bandage",
+		[7929] = {
+			["Mats"] = {
+				[4306] = 2,
+			},
+			["Known"] = {
+				{
+					[10] = {
+						["Youmie"] = 1,
+					},
+				}, -- [1]
+			},
+			["Skill"] = 12,
+			["Name"] = false,
+		},
+	},
+	[5525] = {
+		["Name"] = "Boiled Clams",
+		[6499] = {
+			["Mats"] = {
+				[5503] = 1,
+				[159] = 1,
+			},
+			["Known"] = {
+				{
+					[10] = {
+						["Youmie"] = 4,
+					},
+				}, -- [1]
+			},
+			["Skill"] = 11,
+			["Name"] = false,
+		},
+	},
+	[34721] = {
+		["Name"] = "Frostweave Bandage",
+		[45545] = {
+			["Mats"] = {
+				[33470] = 1,
+			},
+			["Known"] = {
+				{
+					[10] = {
+						["Youmie"] = 2,
+					},
+				}, -- [1]
+			},
+			["Skill"] = 12,
+			["Name"] = false,
+		},
+	},
+	[2679] = {
+		["Name"] = "Charred Wolf Meat",
+		[2538] = {
+			["Mats"] = {
+				[2672] = 1,
+			},
+			["Known"] = {
+				{
+					[10] = {
+						["Youmie"] = 2,
+					},
+				}, -- [1]
+			},
+			["Skill"] = 11,
+			["Name"] = false,
+		},
+	},
+	[2681] = {
+		["Name"] = "Roasted Boar Meat",
+		[2540] = {
+			["Mats"] = {
+				[769] = 1,
+			},
+			["Known"] = {
+				{
+					[10] = {
+						["Youmie"] = 2,
+					},
+				}, -- [1]
+			},
+			["Skill"] = 11,
+			["Name"] = false,
+		},
+	},
+	[30816] = {
+		["Name"] = "Spice Bread",
+		[37836] = {
+			["Mats"] = {
+			},
+			["Known"] = {
+				{
+					[10] = {
+						["Youmie"] = 1,
+					},
+				}, -- [1]
+			},
+			["Skill"] = 11,
+			["Name"] = false,
+		},
+	},
+	[6452] = {
+		["Name"] = "Anti-Venom",
+		[7934] = {
+			["Mats"] = {
+			},
+			["Known"] = {
+				{
+					[10] = {
+						["Youmie"] = 1,
+					},
+				}, -- [1]
+			},
+			["Skill"] = 12,
+			["Name"] = false,
+		},
+	},
+	[1251] = {
+		["Name"] = "Linen Bandage",
+		[3275] = {
+			["Mats"] = {
+				[2589] = 1,
+			},
+			["Known"] = {
+				{
+					[10] = {
+						["Youmie"] = 1,
+					},
+				}, -- [1]
+			},
+			["Skill"] = 12,
+			["Name"] = false,
+		},
+	},
+	[3530] = {
+		["Name"] = "Wool Bandage",
+		[3277] = {
+			["Mats"] = {
+				[2592] = 1,
+			},
+			["Known"] = {
+				{
+					[10] = {
+						["Youmie"] = 1,
+					},
+				}, -- [1]
+			},
+			["Skill"] = 12,
+			["Name"] = false,
+		},
+	},
+	[6450] = {
+		["Name"] = "Silk Bandage",
+		[7928] = {
+			["Mats"] = {
+				[4306] = 1,
+			},
+			["Known"] = {
+				{
+					[10] = {
+						["Youmie"] = 1,
+					},
+				}, -- [1]
+			},
+			["Skill"] = 12,
+			["Name"] = false,
+		},
+	},
+	[8544] = {
+		["Name"] = "Mageweave Bandage",
+		[10840] = {
+			["Mats"] = {
+				[4338] = 1,
+			},
+			["Known"] = {
+				{
+					[10] = {
+						["Youmie"] = 1,
+					},
+				}, -- [1]
+			},
+			["Skill"] = 12,
+			["Name"] = false,
+		},
+	},
+	[17197] = {
+		["Name"] = "Gingerbread Cookie",
+		[21143] = {
+			["Mats"] = {
+				[6889] = 1,
+				[17194] = 1,
+			},
+			["Known"] = {
+				{
+					[10] = {
+						["Youmie"] = 2,
+					},
+				}, -- [1]
+			},
+			["Skill"] = 11,
+			["Name"] = false,
+		},
+	},
+	[2581] = {
+		["Name"] = "Heavy Linen Bandage",
+		[3276] = {
+			["Mats"] = {
+				[2589] = 2,
+			},
+			["Known"] = {
+				{
+					[10] = {
+						["Youmie"] = 1,
+					},
+				}, -- [1]
+			},
+			["Skill"] = 12,
+			["Name"] = false,
+		},
+	},
+}
+RecipeBook_CharacterDB = {
+	{
+		[10] = {
+			["Youmie"] = {
+				[5] = {
+					95, -- [1]
+					150, -- [2]
+					0, -- [3]
+					0, -- [4]
+					"12/25/08", -- [5]
+					true, -- [6]
+					0, -- [7]
+				},
+				[12] = {
+					409, -- [1]
+					450, -- [2]
+					0, -- [3]
+					0, -- [4]
+					"12/25/08", -- [5]
+					true, -- [6]
+					15, -- [7]
+				},
+				["AutoUpdate"] = {
+				},
+				[11] = {
+					70, -- [1]
+					150, -- [2]
+					0, -- [3]
+					0, -- [4]
+					"12/25/08", -- [5]
+					true, -- [6]
+					9, -- [7]
+				},
+				[9] = {
+					450, -- [1]
+					450, -- [2]
+					0, -- [3]
+					0, -- [4]
+					"12/25/08", -- [5]
+					true, -- [6]
+					0, -- [7]
+				},
+				["Rep"] = {
+				},
+				["Track"] = {
+				},
+			},
+		},
+		["Held Items"] = {
+			["Youmie"] = {
+				[3683] = {
+					["Bank"] = true,
+					["Skill"] = 11,
+					["Rank"] = 110,
+				},
+				[34262] = {
+					["Bank"] = true,
+					["Skill"] = 7,
+					["Rank"] = 285,
+				},
+				[34413] = {
+					["Bank"] = true,
+					["Skill"] = 11,
+					["Rank"] = 325,
+				},
+				[21219] = {
+					["Bank"] = true,
+					["Skill"] = 11,
+					["Rank"] = 175,
+				},
+				[15743] = {
+					["Bank"] = true,
+					["Skill"] = 7,
+					["Rank"] = 280,
+				},
+				[2699] = {
+					["Bank"] = true,
+					["Skill"] = 11,
+					["Rank"] = 100,
+				},
+				[21099] = {
+					["Bank"] = true,
+					["Skill"] = 11,
+					["Rank"] = 80,
+				},
+				[27684] = {
+					["Bank"] = true,
+					["Skill"] = 11,
+					["Rank"] = 300,
+				},
+			},
+		},
+		["Bags Pending"] = {
+		},
+		["Last Processed"] = false,
+		["Unsafe Items"] = {
+		},
+	}, -- [1]
+	["Debug"] = {
+	},
+	["Data Version"] = 12,
+}
+RecipeBook_Defaults = {
+}
+RecipeBook_Indices = {
+	["Next Realm"] = 2,
+	["Sporeggar"] = 1,
+}
+RecipeBook_ShareOptions = {
+	{
+	}, -- [1]
+}

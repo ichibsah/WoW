@@ -1,0 +1,8 @@
+
+IPMDB = {
+	["profiles"] = {
+	},
+	["ignores"] = {
+	},
+	["enableGarrisonMissions"] = true,
+}

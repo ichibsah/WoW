@@ -1,0 +1,10 @@
+
+FGODB = {
+	["profileKeys"] = {
+		["Mtoto - Sporeggar"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

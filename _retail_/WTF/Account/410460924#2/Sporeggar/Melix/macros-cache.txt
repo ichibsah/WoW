@@ -1,0 +1,18 @@
+VER 3 0100000000000001 "01 - Mending" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/targetfriendplayer
+/cast Prayer of Mending
+END
+VER 3 0100000000000002 "02 - Solace" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget [dead]
+/targetenemy [noharm]
+/cast Power Word: Solace(Talent)
+/cast Archangel
+END
+VER 3 0100000000000003 "VuhDoDCShieldData" "Ability_Repair"
+P1DH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1IH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000004 "VuhDoDCShieldNames" "Ability_Repair"
+NMen[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Mel[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

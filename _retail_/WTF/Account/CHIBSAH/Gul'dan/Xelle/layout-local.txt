@@ -1,0 +1,8 @@
+Version: 1
+Frame: QuestHelperQuestWatchFrameMinimizeButton
+FrameLevel: 1
+Anchor: RIGHT
+X: -135
+Y: 201
+W: 10
+H: 5

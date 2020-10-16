@@ -1,0 +1,101 @@
+
+ThreatPlatesDB = {
+	["char"] = {
+		["Rhanellix - Bloodfang"] = {
+			["welcome"] = true,
+		},
+		["Xelle - Bloodfang"] = {
+			["welcome"] = true,
+		},
+		["Leleti - Bloodfang"] = {
+			["welcome"] = true,
+		},
+		["Yesu - Bloodfang"] = {
+			["welcome"] = true,
+		},
+		["Yvettee - Nethergarde Keep"] = {
+			["welcome"] = true,
+		},
+		["Shadowland - Bloodfang"] = {
+			["welcome"] = true,
+		},
+		["Krixsus - Bloodfang"] = {
+			["welcome"] = true,
+		},
+	},
+	["global"] = {
+		["version"] = "1.4.5",
+	},
+	["profileKeys"] = {
+		["Rhanellix - Bloodfang"] = "Default",
+		["Xelle - Bloodfang"] = "Default",
+		["Leleti - Bloodfang"] = "Default",
+		["Yesu - Bloodfang"] = "Default",
+		["Yvettee - Nethergarde Keep"] = "Default",
+		["Shadowland - Bloodfang"] = "Default",
+		["Krixsus - Bloodfang"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["uniqueSettings"] = {
+				nil, -- [1]
+				{
+				}, -- [2]
+				{
+				}, -- [3]
+				{
+				}, -- [4]
+				{
+				}, -- [5]
+				{
+				}, -- [6]
+				{
+				}, -- [7]
+				{
+				}, -- [8]
+				{
+				}, -- [9]
+				{
+				}, -- [10]
+				{
+				}, -- [11]
+				{
+				}, -- [12]
+				{
+				}, -- [13]
+				{
+				}, -- [14]
+				nil, -- [15]
+				{
+				}, -- [16]
+				{
+				}, -- [17]
+				nil, -- [18]
+				nil, -- [19]
+				{
+				}, -- [20]
+				{
+				}, -- [21]
+				nil, -- [22]
+				nil, -- [23]
+				{
+				}, -- [24]
+				{
+				}, -- [25]
+				nil, -- [26]
+				{
+				}, -- [27]
+				{
+				}, -- [28]
+				{
+				}, -- [29]
+				nil, -- [30]
+				nil, -- [31]
+				{
+				}, -- [32]
+			},
+			["cache"] = {
+			},
+		},
+	},
+}

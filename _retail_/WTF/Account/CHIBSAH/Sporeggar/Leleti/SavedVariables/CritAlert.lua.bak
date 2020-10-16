@@ -1,0 +1,68 @@
+
+CA_Data = {
+	["DamageDone"] = {
+	},
+	["HealTaken"] = {
+	},
+	["BeastCount"] = 0,
+	["TimeStamp"] = 1305236104,
+	["DeathCountTotal"] = 0,
+	["DeathCount"] = 0,
+	["HealDone"] = {
+		[136] = {
+			["RecordDate"] = {
+				["hour"] = 23,
+				["min"] = 42,
+				["wday"] = 5,
+				["day"] = 12,
+				["month"] = 5,
+				["year"] = 2011,
+				["sec"] = 15,
+				["yday"] = 132,
+				["isdst"] = true,
+			},
+			["CritCount"] = 0,
+			["Zone"] = {
+				["Coords"] = {
+					["y"] = 0.7323875427246094,
+					["x"] = 0.6239537000656128,
+				},
+				["SubZone"] = "Trade District",
+				["Zone"] = "Stormwind City",
+			},
+			["TargetName"] = "Friday",
+			["Cumulative"] = 9503,
+			["RecordLevel"] = 80,
+			["Count"] = 5,
+			["Record"] = 1901,
+			["PreviousRecord"] = {
+				["RecordDate"] = {
+					["hour"] = 23,
+					["min"] = 42,
+					["wday"] = 5,
+					["day"] = 12,
+					["month"] = 5,
+					["year"] = 2011,
+					["sec"] = 13,
+					["yday"] = 132,
+					["isdst"] = true,
+				},
+				["Zone"] = {
+					["Coords"] = {
+						["y"] = 0.7323875427246094,
+						["x"] = 0.6239537000656128,
+					},
+					["SubZone"] = "Trade District",
+					["Zone"] = "Stormwind City",
+				},
+				["Record"] = 1900,
+				["RecordLevel"] = 80,
+				["TargetName"] = "Friday",
+			},
+			["SpellName"] = "Mend Pet",
+			["SpellID"] = 136,
+		},
+	},
+	["DamageTaken"] = {
+	},
+}

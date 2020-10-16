@@ -1,0 +1,36 @@
+
+Postal3DB = {
+	["profileKeys"] = {
+		["Motsi - Sporeggar"] = "Motsi - Sporeggar",
+		["Mengsk - Sporeggar"] = "Mengsk - Sporeggar",
+		["Sarkodie - Sporeggar"] = "Sarkodie - Sporeggar",
+		["Leleti - Sporeggar"] = "Leleti - Sporeggar",
+	},
+	["global"] = {
+		["BlackBook"] = {
+			["alts"] = {
+				"Leleti|Sporeggar|Alliance|110|HUNTER", -- [1]
+				"Mengsk|Sporeggar|Alliance|110|DRUID", -- [2]
+				"Motsi|Sporeggar|Alliance|74|MONK", -- [3]
+				"Sarkodie|Sporeggar|Alliance|110|DEMONHUNTER", -- [4]
+			},
+		},
+	},
+	["profiles"] = {
+		["Motsi - Sporeggar"] = {
+		},
+		["Mengsk - Sporeggar"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Sarkodie|Sporeggar|Alliance", -- [1]
+					"Yesu-Sporeggar|Sporeggar|Alliance", -- [2]
+					"Leleti-Sporeggar|Sporeggar|Alliance", -- [3]
+				},
+			},
+		},
+		["Sarkodie - Sporeggar"] = {
+		},
+		["Leleti - Sporeggar"] = {
+		},
+	},
+}

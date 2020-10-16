@@ -1,0 +1,2 @@
+
+POISONER_CONFIG = nil

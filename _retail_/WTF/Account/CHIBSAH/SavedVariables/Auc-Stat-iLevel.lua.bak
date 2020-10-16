@@ -1,0 +1,9 @@
+
+AucAdvancedStat_iLevelData = {
+	["Version"] = 3,
+	["RealmData"] = {
+		["#Sporeggar"] = {
+			["16:2"] = "280:4497500;4500000;4550000;8752664",
+		},
+	},
+}

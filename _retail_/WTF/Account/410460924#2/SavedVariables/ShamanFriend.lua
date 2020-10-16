@@ -1,0 +1,2 @@
+
+ShamanFriendDB = nil

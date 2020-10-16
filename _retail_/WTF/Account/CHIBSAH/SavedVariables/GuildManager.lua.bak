@@ -1,0 +1,32 @@
+
+GuildManagerDB = {
+	["profileKeys"] = {
+		["Yesu - Sporeggar"] = "<Enraged> of Sporeggar",
+		["Barrymore - Sporeggar"] = "<Enraged> of Sporeggar",
+		["Remraf - Sporeggar"] = "<Enraged> of Sporeggar",
+		["Motsi - Sporeggar"] = "<Enraged> of Sporeggar",
+		["Krixus - Sporeggar"] = "<Enraged> of Sporeggar",
+		["Kikipop - Jaedenar"] = "Default",
+		["Omarh - Sporeggar"] = "<Enraged> of Sporeggar",
+		["Xelle - Sporeggar"] = "<Enraged> of Sporeggar",
+		["Youmie - Sporeggar"] = "<Enraged> of Sporeggar",
+		["Sarkodie - Sporeggar"] = "<Enraged> of Sporeggar",
+		["Kethrry - Jaedenar"] = "Default",
+		["Kibsaa - Jaedenar"] = "<Rude and Crude> of Jaedenar",
+		["Leleti - Sporeggar"] = "<Enraged> of Sporeggar",
+		["Oenomaus - Sporeggar"] = "<Enraged> of Sporeggar",
+		["Mengsk - Sporeggar"] = "Default",
+	},
+	["profiles"] = {
+		["<Enraged> of Sporeggar"] = {
+			["rank6promotesearch"] = true,
+			["automatepromote"] = true,
+			["rank5promotesearch"] = true,
+			["automateprune"] = true,
+		},
+		["Default"] = {
+		},
+		["<Rude and Crude> of Jaedenar"] = {
+		},
+	},
+}

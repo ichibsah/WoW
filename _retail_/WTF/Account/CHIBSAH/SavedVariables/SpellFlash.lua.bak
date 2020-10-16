@@ -1,0 +1,24 @@
+
+SpellFlashAddonConfig = {
+	["SERVER"] = {
+		["eu.logon.worldofwarcraft.com"] = {
+			["ImmuneIgnore"] = {
+			},
+			["REALM"] = {
+				["Sporeggar"] = {
+					["PLAYER"] = {
+						["Yesu"] = {
+							["selected_class_module"] = "SpellFlash-Priest",
+							["MODULE"] = {
+							},
+						},
+					},
+				},
+			},
+			["Immune"] = {
+				["PRIEST"] = {
+				},
+			},
+		},
+	},
+}

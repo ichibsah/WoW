@@ -1,0 +1,19 @@
+
+TradeSkillMaster_AppHelperDB = {
+	["blackMarket"] = {
+	},
+	["region"] = "EU",
+	["errorReports"] = {
+		["data"] = {
+		},
+		["updateTime"] = 0,
+	},
+	["shoppingMaxPrices"] = {
+	},
+	["analytics"] = {
+		["data"] = {
+			"[\"PV\",\"v4.4.6\",1541070608,\"destroying\"]", -- [1]
+		},
+		["updateTime"] = 1541070608,
+	},
+}

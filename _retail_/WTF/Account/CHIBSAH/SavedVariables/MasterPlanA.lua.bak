@@ -1,0 +1,293 @@
+
+MasterPlanAG = {
+	["Stormscale"] = {
+		["Exaudi"] = {
+			["faction"] = "Horde",
+			["class"] = "DEATHKNIGHT",
+		},
+		["Osofu"] = {
+			["class"] = "PRIEST",
+			["faction"] = "Alliance",
+		},
+	},
+	["Argent Dawn"] = {
+		["Piesie"] = {
+			["faction"] = "Alliance",
+			["class"] = "PALADIN",
+		},
+	},
+	["Gul'dan"] = {
+		["Bubbled"] = {
+		},
+	},
+	["Lightbringer"] = {
+		["Ghrimme"] = {
+		},
+		["Qssen"] = {
+			["class"] = "HUNTER",
+			["faction"] = "Alliance",
+		},
+	},
+	["Jaedenar"] = {
+		["Kibsaa"] = {
+			["class"] = "DRUID",
+			["faction"] = "Alliance",
+		},
+		["Manrida"] = {
+		},
+		["Tosel"] = {
+		},
+		["Kethrry"] = {
+			["class"] = "DEMONHUNTER",
+			["faction"] = "Alliance",
+		},
+		["Fonida"] = {
+		},
+		["Jamilah"] = {
+			["class"] = "HUNTER",
+			["faction"] = "Horde",
+		},
+		["Fonira"] = {
+		},
+		["Aminana"] = {
+		},
+		["Kalapitu"] = {
+			["class"] = "DRUID",
+			["faction"] = "Horde",
+		},
+		["Fairy"] = {
+		},
+		["Mona"] = {
+		},
+		["Tarala"] = {
+		},
+		["Leanan"] = {
+		},
+		["Snakefina"] = {
+		},
+		["Latunter"] = {
+		},
+		["Kikipop"] = {
+			["faction"] = "Alliance",
+			["class"] = "HUNTER",
+		},
+		["Serenina"] = {
+		},
+	},
+	["Sporeggar"] = {
+		["Xelle"] = {
+			["summary"] = {
+				["inProgress"] = {
+					[66] = 1472334320,
+				},
+			},
+			["faction"] = "Alliance",
+			["class"] = "WARRIOR",
+			["curRes"] = 102,
+			["lastCacheTime"] = 1472331339,
+		},
+		["Motsi"] = {
+			["class"] = "MONK",
+			["faction"] = "Alliance",
+		},
+		["Sarkodie"] = {
+			["summary"] = {
+				["inProgress"] = {
+					[91] = 1471101600,
+					[90] = 1471101608,
+				},
+			},
+			["faction"] = "Alliance",
+			["class"] = "DEMONHUNTER",
+			["curRes"] = 1240,
+			["lastCacheTime"] = 1523813766,
+		},
+		["Barrymore"] = {
+			["recruitTime"] = 1462644827,
+			["summary"] = {
+				["tt2"] = true,
+				["tt1"] = true,
+				["ti1"] = 118529,
+				["inProgress"] = {
+					[118] = 1462673561,
+					[365] = 1462673579,
+					[141] = 1462648395,
+					[142] = 1462646595,
+					[232] = 1462648360,
+					[374] = 1462680760,
+					[143] = 1462648395,
+					[65] = 1462646596,
+					[377] = 1462680760,
+					[273] = 1462673561,
+					[334] = 1462680728,
+					[171] = 1462646528,
+				},
+				["ti2"] = 122484,
+			},
+			["curOil"] = 285,
+			["class"] = "SHAMAN",
+			["lastCacheTime"] = 1481747287,
+			["curRes"] = 3181,
+			["faction"] = "Alliance",
+		},
+		["Mengsk"] = {
+			["class"] = "DRUID",
+			["recruitTime"] = 1473012071,
+			["summary"] = {
+				["ti3"] = 128391,
+				["tt3"] = true,
+				["inProgress"] = {
+					[192] = 1493909228,
+					[245] = 1493909215,
+					[171] = 1493907432,
+					[667] = 1493919996,
+					[373] = 1493941623,
+					[286] = 1493927216,
+					[301] = 1493920019,
+					[242] = 1493911026,
+					[212] = 1493912357,
+					[666] = 1493920004,
+					[177] = 1493908313,
+				},
+			},
+			["faction"] = "Alliance",
+			["lastCacheTime"] = 1492438814,
+			["curRes"] = 10000,
+			["curOil"] = 805,
+		},
+		["Oenomaus"] = {
+			["summary"] = {
+				["inProgress"] = {
+					[368] = 1529041919,
+					[369] = 1529041916,
+					[468] = 1529022150,
+				},
+			},
+			["faction"] = "Alliance",
+			["lastCacheTime"] = 1529005979,
+			["curRes"] = 1316,
+			["class"] = "PALADIN",
+		},
+		["Krixus"] = {
+			["faction"] = "Alliance",
+			["class"] = "HUNTER",
+		},
+		["Leleti"] = {
+			["class"] = "HUNTER",
+			["recruitTime"] = 1471457152,
+			["summary"] = {
+				["lastOilTime"] = 1471456679,
+				["ti2"] = 122484,
+				["inProgress"] = {
+					[724] = 1471457591,
+					[732] = 1471458496,
+					[718] = 1471458493,
+				},
+				["ti3"] = 128391,
+				["ti1"] = 118529,
+				["tt1"] = true,
+				["tt3"] = 1467049742,
+				["tt2"] = true,
+			},
+			["faction"] = "Alliance",
+			["cacheSize"] = 1000,
+			["lastCacheTime"] = 1471457125,
+			["curRes"] = 9451,
+			["curOil"] = 11870,
+		},
+		["Krolraw"] = {
+			["faction"] = "Alliance",
+			["class"] = "WARLOCK",
+		},
+		["Bleck"] = {
+			["faction"] = "Alliance",
+			["class"] = "MAGE",
+		},
+		["Stringer"] = {
+			["faction"] = "Horde",
+			["class"] = "MAGE",
+		},
+		["Yesu"] = {
+			["recruitTime"] = 1470332130,
+			["summary"] = {
+				["ti2"] = 122484,
+				["inProgress"] = {
+					[544] = 1470360043,
+					[553] = 1470345581,
+					[720] = 1470332064,
+					[722] = 1470332967,
+					[691] = 1470345648,
+				},
+				["ti3"] = 128391,
+				["ti1"] = 118529,
+				["tt1"] = true,
+				["tt3"] = true,
+				["tt2"] = true,
+			},
+			["curOil"] = 650,
+			["lastCacheTime"] = 1479931114,
+			["class"] = "PRIEST",
+			["curRes"] = 9980,
+			["faction"] = "Alliance",
+		},
+		["Youmie"] = {
+			["class"] = "DEATHKNIGHT",
+			["faction"] = "Alliance",
+		},
+		["Remraf"] = {
+			["recruitTime"] = 1462644099,
+			["summary"] = {
+				["ti2"] = 122484,
+				["inProgress"] = {
+					[719] = 1462646006,
+					[731] = 1462646013,
+				},
+				["ti3"] = 128391,
+				["tt1"] = true,
+				["ti1"] = 118529,
+				["tt3"] = true,
+				["tt2"] = true,
+			},
+			["curOil"] = 1560,
+			["faction"] = "Alliance",
+			["lastCacheTime"] = 1481819703,
+			["curRes"] = 4298,
+			["class"] = "ROGUE",
+		},
+		["Omarh"] = {
+			["recruitTime"] = 1463073404,
+			["summary"] = {
+				["ti1"] = 118529,
+				["tt1"] = true,
+				["inProgress"] = {
+					[120] = 1463087670,
+					[147] = 1463076924,
+					[333] = 1463073655,
+					[334] = 1463109270,
+					[730] = 1463072392,
+					[671] = 1463102071,
+					[125] = 1463087671,
+					[65] = 1463075156,
+					[376] = 1463109324,
+					[628] = 1463084998,
+					[373] = 1463109325,
+					[142] = 1463076955,
+					[721] = 1463072406,
+					[143] = 1463076956,
+					[185] = 1463076872,
+					[223] = 1463076025,
+					[171] = 1463075080,
+				},
+				["ti3"] = 128391,
+				["tt3"] = true,
+			},
+			["curOil"] = 930,
+			["faction"] = "Alliance",
+			["class"] = "PALADIN",
+			["curRes"] = 1241,
+			["lastCacheTime"] = 1463073376,
+		},
+	},
+	["IgnoreRewards"] = {
+	},
+}

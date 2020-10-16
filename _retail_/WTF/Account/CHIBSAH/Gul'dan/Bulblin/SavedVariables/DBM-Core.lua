@@ -1,0 +1,87 @@
+
+DBM_SavedOptions = {
+	["SpecialWarningFontSize"] = 50,
+	["ShowWarningsInChat"] = true,
+	["DontSetIcons"] = false,
+	["BigBrotherAnnounceToRaid"] = false,
+	["ArrowPosX"] = 0,
+	["SpecialWarningSound"] = "Sound\\Spells\\PVPFlagTaken.wav",
+	["AutoRespond"] = true,
+	["HealthFrameGrowUp"] = false,
+	["StatusEnabled"] = true,
+	["HideBossEmoteFrame"] = false,
+	["ShowBigBrotherOnCombatStart"] = false,
+	["BlockVersionUpdatePopup"] = true,
+	["WarningColors"] = {
+		{
+			["r"] = 0.41,
+			["g"] = 0.8,
+			["b"] = 0.94,
+		}, -- [1]
+		{
+			["r"] = 0.95,
+			["g"] = 0.95,
+			["b"] = 0,
+		}, -- [2]
+		{
+			["r"] = 1,
+			["g"] = 0.5,
+			["b"] = 0,
+		}, -- [3]
+		{
+			["r"] = 1,
+			["g"] = 0.1,
+			["b"] = 0.1,
+		}, -- [4]
+	},
+	["AlwaysShowSpeedKillTimer"] = true,
+	["RangeFrameY"] = -50,
+	["SpecialWarningFont"] = "Fonts\\FRIZQT__.TTF",
+	["SpamBlockRaidWarning"] = true,
+	["ShowFakedRaidWarnings"] = false,
+	["LatencyThreshold"] = 250,
+	["DontSendBossAnnounces"] = false,
+	["RangeFrameSound1"] = "none",
+	["HPFrameMaxEntries"] = 5,
+	["SettingsMessageShown"] = true,
+	["ArrowPoint"] = "TOP",
+	["RangeFramePoint"] = "CENTER",
+	["SpecialWarningPoint"] = "CENTER",
+	["ArrowPosY"] = -150,
+	["RaidWarningSound"] = "Sound\\Doodad\\BellTollNightElf.wav",
+	["DontShowBossAnnounces"] = false,
+	["HealthFrameLocked"] = false,
+	["SpecialWarningY"] = 75,
+	["SpecialWarningX"] = 0,
+	["ShowMinimapButton"] = true,
+	["RaidWarningPosition"] = {
+		["Y"] = -185,
+		["X"] = 0,
+		["Point"] = "TOP",
+	},
+	["HealthFrameWidth"] = 200,
+	["Enabled"] = true,
+	["RangeFrameX"] = 50,
+	["DontSendBossWhispers"] = false,
+	["HelpMessageShown"] = true,
+	["SpecialWarningFontColor"] = {
+		0, -- [1]
+		0, -- [2]
+		1, -- [3]
+	},
+	["WarningIconLeft"] = true,
+	["RangeFrameLocked"] = false,
+	["HPFrameY"] = 50,
+	["FixCLEUOnCombatStart"] = false,
+	["HPFramePoint"] = "CENTER",
+	["AlwaysShowHealthFrame"] = false,
+	["HPFrameX"] = -50,
+	["RangeFrameSound2"] = "none",
+	["SpamBlockBossWhispers"] = false,
+	["ShowSpecialWarnings"] = true,
+	["WarningIconRight"] = true,
+}
+DBT_SavedOptions = {
+	["DBM"] = {
+	},
+}

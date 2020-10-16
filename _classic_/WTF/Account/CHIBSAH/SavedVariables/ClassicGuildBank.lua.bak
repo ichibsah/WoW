@@ -1,0 +1,11 @@
+
+ClassicGuildBankDb = {
+	["profileKeys"] = {
+		["Rhanellix - Bloodfang"] = "Rhanellix - Bloodfang",
+		["Krixsus - Bloodfang"] = "Krixsus - Bloodfang",
+		["Yesu - Bloodfang"] = "Yesu - Bloodfang",
+		["Leleti - Bloodfang"] = "Leleti - Bloodfang",
+		["Shadowland - Bloodfang"] = "Shadowland - Bloodfang",
+		["Xelle - Bloodfang"] = "Xelle - Bloodfang",
+	},
+}

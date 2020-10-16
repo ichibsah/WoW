@@ -1,0 +1,8 @@
+
+MultishotPlayerScreens = {
+	["Omarh"] = {
+		"WoWScrnShot_101515_212300.jpg", -- [1]
+		"WoWScrnShot_101515_212301.jpg", -- [2]
+		"WoWScrnShot_101515_212302.jpg", -- [3]
+	},
+}

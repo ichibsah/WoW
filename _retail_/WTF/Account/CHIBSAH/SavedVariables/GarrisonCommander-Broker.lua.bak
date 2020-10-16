@@ -1,0 +1,297 @@
+
+dbGACB = {
+	["char"] = {
+		["Yesu - Sporeggar"] = {
+			["firstun"] = false,
+		},
+		["Remraf - Sporeggar"] = {
+			["firstun"] = false,
+		},
+		["Oenomaus - Sporeggar"] = {
+			["firstun"] = false,
+		},
+		["Classtrialol - Sporeggar"] = {
+			["firstun"] = false,
+		},
+		["Nikilahi - Sporeggar"] = {
+			["firstun"] = false,
+		},
+		["Xelle - Sporeggar"] = {
+			["firstun"] = false,
+		},
+		["Corlin - Sporeggar"] = {
+			["firstun"] = false,
+		},
+		["Sarkodie - Sporeggar"] = {
+			["firstun"] = false,
+		},
+		["Leleti - Sporeggar"] = {
+			["firstun"] = false,
+		},
+		["Krivette - Sporeggar"] = {
+			["firstun"] = false,
+		},
+		["Shenglin - Sporeggar"] = {
+			["firstun"] = false,
+		},
+		["Krixus - Sporeggar"] = {
+			["firstun"] = false,
+		},
+		["Motsi - Sporeggar"] = {
+			["firstun"] = false,
+		},
+		["Rachel - Sporeggar"] = {
+			["firstun"] = false,
+		},
+		["Bleck - Sporeggar"] = {
+			["firstun"] = false,
+		},
+		["Krolraw - Sporeggar"] = {
+			["firstun"] = false,
+		},
+		["Youmie - Sporeggar"] = {
+			["firstun"] = false,
+		},
+		["Omarh - Sporeggar"] = {
+			["firstun"] = false,
+		},
+		["Teldrasil - Sporeggar"] = {
+			["firstun"] = false,
+		},
+		["Mengsk - Sporeggar"] = {
+			["firstun"] = false,
+		},
+		["Jeyliah - Sporeggar"] = {
+			["firstun"] = false,
+		},
+		["Barrymore - Sporeggar"] = {
+			["firstun"] = false,
+		},
+	},
+	["global"] = {
+		["firstrun"] = false,
+		["missionType"] = {
+			[2141] = 22,
+			[1920] = 22,
+			[2078] = 22,
+			[1952] = 22,
+			[2142] = 22,
+			[126] = 1,
+			[1889] = 22,
+			[385] = 1,
+			[1921] = 22,
+			[266] = 1,
+			[2144] = 22,
+			[1858] = 22,
+			[1890] = 22,
+			[2115] = 22,
+			[1907] = 22,
+			[1923] = 22,
+			[1939] = 22,
+			[2085] = 22,
+			[1892] = 22,
+			[1908] = 22,
+			[2086] = 22,
+			[1877] = 22,
+			[1893] = 22,
+			[1909] = 22,
+			[1925] = 22,
+			[275] = 1,
+			[1894] = 22,
+			[1910] = 22,
+			[1926] = 22,
+			[2090] = 22,
+			[1895] = 22,
+			[1911] = 22,
+			[1927] = 22,
+			[1943] = 22,
+			[1959] = 22,
+			[1896] = 22,
+			[2157] = 22,
+			[1928] = 22,
+			[2126] = 22,
+			[1897] = 22,
+			[1913] = 22,
+			[2096] = 22,
+			[2128] = 22,
+			[276] = 1,
+			[1866] = 22,
+			[1882] = 22,
+			[1898] = 22,
+			[1914] = 22,
+			[1930] = 22,
+			[1883] = 22,
+			[1915] = 22,
+			[2153] = 22,
+			[2152] = 22,
+			[1884] = 22,
+			[2123] = 22,
+			[1916] = 22,
+			[1932] = 22,
+			[1948] = 22,
+			[365] = 1,
+			[194] = 1,
+			[2071] = 22,
+			[1885] = 22,
+			[1901] = 22,
+			[1905] = 22,
+			[2072] = 22,
+			[2076] = 22,
+			[2073] = 22,
+			[812] = 4,
+			[281] = 1,
+			[1886] = 22,
+			[1902] = 22,
+			[2074] = 22,
+			[1934] = 22,
+			[1936] = 22,
+			[2138] = 22,
+			[1933] = 22,
+			[2075] = 22,
+			[1887] = 22,
+			[1903] = 22,
+			[1919] = 22,
+			[115] = 1,
+			[380] = 1,
+			[2140] = 22,
+			[2143] = 22,
+			[2077] = 22,
+			[1888] = 22,
+			[1891] = 22,
+		},
+	},
+	["profiles"] = {
+		["Default"] = {
+			["toggles"] = {
+				["SHOWNEXT"] = false,
+				["SUMMARY"] = false,
+				["OLDINT"] = false,
+				["FREQUENCY"] = 5,
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Yesu - Sporeggar"] = "Default",
+		["Remraf - Sporeggar"] = "Default",
+		["Oenomaus - Sporeggar"] = "Default",
+		["Classtrialol - Sporeggar"] = "Default",
+		["Nikilahi - Sporeggar"] = "Default",
+		["Xelle - Sporeggar"] = "Default",
+		["Corlin - Sporeggar"] = "Default",
+		["Sarkodie - Sporeggar"] = "Default",
+		["Leleti - Sporeggar"] = "Default",
+		["Krivette - Sporeggar"] = "Default",
+		["Shenglin - Sporeggar"] = "Default",
+		["Krixus - Sporeggar"] = "Default",
+		["Motsi - Sporeggar"] = "Default",
+		["Rachel - Sporeggar"] = "Default",
+		["Bleck - Sporeggar"] = "Default",
+		["Krolraw - Sporeggar"] = "Default",
+		["Youmie - Sporeggar"] = "Default",
+		["Omarh - Sporeggar"] = "Default",
+		["Teldrasil - Sporeggar"] = "Default",
+		["Mengsk - Sporeggar"] = "Default",
+		["Jeyliah - Sporeggar"] = "Default",
+		["Barrymore - Sporeggar"] = "Default",
+	},
+	["realm"] = {
+		["Sporeggar"] = {
+			["cachesize"] = {
+				["Teldrasil"] = 500,
+				["Krivette"] = 500,
+				["Oenomaus"] = 500,
+				["Classtrialol"] = 500,
+				["Yesu"] = 500,
+				["Youmie"] = 500,
+				["Remraf"] = 500,
+				["Sarkodie"] = 500,
+				["Nikilahi"] = 500,
+				["Omarh"] = 500,
+				["Krolraw"] = 500,
+				["Mengsk"] = 500,
+				["Xelle"] = 500,
+				["Krixus"] = 500,
+				["Leleti"] = 1000,
+				["Barrymore"] = 500,
+				["Jeyliah"] = 500,
+				["Corlin"] = 500,
+				["Rachel"] = 500,
+				["Motsi"] = 500,
+				["Bleck"] = 500,
+				["Shenglin"] = 500,
+			},
+			["farms"] = {
+				["Sarkodie"] = {
+					["Herb Garden"] = 0,
+					["Lunarfall Excavation"] = 0,
+				},
+				["Omarh"] = {
+					["Lunarfall Excavation"] = 0,
+					["Herb Garden"] = 0,
+				},
+				["Mengsk"] = {
+					["Lunarfall Excavation"] = 0,
+					["Herb Garden"] = 0,
+				},
+				["Krixus"] = {
+					["Lunarfall Excavation"] = 0,
+					["Herb Garden"] = 0,
+				},
+				["Leleti"] = {
+					["Lunarfall Excavation"] = 0,
+					["Herb Garden"] = 0,
+				},
+				["Yesu"] = {
+					["Lunarfall Excavation"] = 0,
+					["Herb Garden"] = 0,
+				},
+				["Barrymore"] = {
+					["Lunarfall Excavation"] = 0,
+					["Herb Garden"] = 0,
+				},
+				["Remraf"] = {
+					["Lunarfall Excavation"] = 0,
+					["Herb Garden"] = 0,
+				},
+				["Oenomaus"] = {
+					["Herb Garden"] = 0,
+					["Lunarfall Excavation"] = 0,
+				},
+			},
+			["orders"] = {
+				["Leleti"] = {
+					["Lunarfall Excavation"] = 0,
+					["Dwarven Bunker"] = 0,
+				},
+				["Omarh"] = {
+					["Dwarven Bunker"] = 0,
+					["Herb Garden"] = 0,
+					["Lunarfall Excavation"] = 0,
+				},
+				["Barrymore"] = {
+					["Lunarfall Excavation"] = 0,
+				},
+				["Yesu"] = {
+					["Dwarven Bunker"] = 0,
+				},
+				["Sarkodie"] = {
+					["Lunarfall Excavation"] = 0,
+				},
+				["Remraf"] = {
+					["Lunarfall Excavation"] = 0,
+					["Herb Garden"] = 0,
+					["Lunarfall Shipyard"] = 0,
+				},
+				["Oenomaus"] = {
+					["Herb Garden"] = 0,
+				},
+			},
+			["missions"] = {
+				"000001539525481.1877.Leleti.22", -- [1]
+				"000001561917358.1920.Teldrasil.22", -- [2]
+				"000001561917394.1939.Teldrasil.22", -- [3]
+				"000001562190955.1943.Teldrasil.22", -- [4]
+			},
+		},
+	},
+}

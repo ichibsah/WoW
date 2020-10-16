@@ -1,0 +1,22 @@
+VER 3 0000000001000002 "attack" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget [dead]
+/targetenemy [noharm]
+/castsequence reset=combat/target Holy Fire(Rank 4),Mind Blast(Rank 5),Shadow Word: Pain(Rank 4),Power Word: Shield(Rank 6),Smite(Rank 5),Mind Blast(Rank 5),Shoot
+END
+VER 3 0000000001000004 "attackgrp" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget [dead]
+/targetenemy [noharm]
+/castsequence reset=combat/target Mind Blast(Rank 4),Smite(Rank 4),Shadow Word: Pain(Rank 4),Holy Fire(Rank 2),Shoot
+END
+VER 3 0000000001000001 "dot" "INV_MISC_QUESTIONMARK"
+/cast Smite(Rank 1)
+/cast Shadow Word: Pain(Rank 1)
+END
+VER 3 0000000001000003 "shoot" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget [dead]
+/targetenemy [noharm]
+/cast Shoot
+END

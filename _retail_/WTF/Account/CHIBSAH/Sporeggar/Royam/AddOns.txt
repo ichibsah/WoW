@@ -1,0 +1,5 @@
+AspectedAgain: disabled
+FloAspectBar: enabled
+FuBar: disabled
+TankPoints: disabled
+SimpleMD: disabled

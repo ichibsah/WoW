@@ -1,0 +1,40 @@
+VER 3 0100000000000006 "01-legion" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget [dead]
+/targetenemy [noharm]
+/castsequence [mod:alt] Charge; reset=target/combat Whirlwind,Bloodthirst,Furious Slash,Furious Slash
+END
+VER 3 0100000000000007 "02-legion" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget [dead]
+/targetenemy [noharm]
+/castsequence [mod:alt] Enraged Regeneration; reset=target/combat Rampage,Raging Blow,Raging Blow,Raging Blow,Raging Blow
+END
+VER 3 0100000000000005 "dfsf" "INV_MISC_QUESTIONMARK"
+/cast Charge
+/cast Enraged Regeneration
+/cast Execute
+/cast Furious Slash
+/cast Heroic Leap
+/cast Heroic Throw
+/cast Intimidating Shout
+/cast Piercing Howl
+/cast Pummel
+/cast Raging Blow
+/cast Rampage
+/cast Taunt
+/cast Whirlwind
+/cast Bloodthirst
+END
+VER 3 0100000000000001 "hbCrashProt_0" "Spell_Holy_SealOfSacrifice"
+1:H:
+END
+VER 3 0100000000000002 "hbCrashProt_1" "Spell_Holy_SealOfSacrifice"
+Xelle:p:ayer-1096-047D12E4:1:
+END
+VER 3 0100000000000003 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1WM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000004 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Xel[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

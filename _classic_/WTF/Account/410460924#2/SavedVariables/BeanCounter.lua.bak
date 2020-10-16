@@ -1,0 +1,124 @@
+
+BeanCounterDB = {
+	["Bloodfang"] = {
+		["Ires"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["failedBidsNeutral"] = {
+			},
+			["completedBidsBuyouts"] = {
+			},
+			["completedAuctions"] = {
+			},
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["failedBids"] = {
+			},
+		},
+		["Daena"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["failedBidsNeutral"] = {
+			},
+			["completedBidsBuyouts"] = {
+			},
+			["completedAuctions"] = {
+			},
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["failedBids"] = {
+			},
+		},
+		["Krivette"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["failedBidsNeutral"] = {
+			},
+			["failedBids"] = {
+			},
+			["completedAuctions"] = {
+			},
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["completedBidsBuyouts"] = {
+			},
+		},
+	},
+}
+BeanCounterDBSettings = {
+	["Bloodfang"] = {
+		["Ires"] = {
+			["tasks.sortArray"] = 1581829868,
+			["version"] = 3.04,
+			["faction"] = "Alliance",
+			["tasks.compactDB"] = 1581829868,
+			["wealth"] = 15359,
+			["tasks.prunePostedDB"] = 1581829868,
+			["mailbox"] = {
+			},
+		},
+		["Daena"] = {
+			["tasks.sortArray"] = 1581485109,
+			["version"] = 3.04,
+			["faction"] = "Alliance",
+			["tasks.compactDB"] = 1581485109,
+			["wealth"] = 79543,
+			["tasks.prunePostedDB"] = 1581485109,
+			["mailbox"] = {
+			},
+		},
+		["Krivette"] = {
+			["tasks.sortArray"] = 1581854431,
+			["version"] = 3.04,
+			["faction"] = "Alliance",
+			["tasks.compactDB"] = 1581854431,
+			["wealth"] = 11002,
+			["tasks.prunePostedDB"] = 1581854431,
+			["mailbox"] = {
+			},
+		},
+	},
+	["util.beancounter.ButtonuseDateCheck"] = false,
+	["configator.left"] = 349.997009277344,
+	["configator.top"] = 651.666687011719,
+}
+BeanCounterDBNames = {
+}
+BeanCounterAccountDB = nil
+BeanCounterMailPatch = nil

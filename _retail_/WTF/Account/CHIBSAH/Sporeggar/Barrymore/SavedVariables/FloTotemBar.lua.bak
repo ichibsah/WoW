@@ -1,0 +1,25 @@
+
+FLOTOTEMBAR_OPTIONS = {
+	{
+		["scale"] = 1,
+		["borders"] = true,
+		["barSettings"] = {
+			["EARTH"] = {
+				["color"] = {
+					0.49, -- [1]
+					0, -- [2]
+					0.49, -- [3]
+					0.7, -- [4]
+				},
+				["hiddenSpells"] = {
+				},
+				["buttonsOrder"] = {
+					1, -- [1]
+					6, -- [2]
+				},
+				["position"] = "auto",
+			},
+		},
+	}, -- [1]
+	["active"] = 1,
+}

@@ -1,0 +1,41 @@
+
+SkadaDB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["hasUpgraded"] = true,
+	["profileKeys"] = {
+		["Killreme - Sporeggar"] = "Default",
+		["Daliya - Sporeggar"] = "Default",
+		["Killema - Sporeggar"] = "Default",
+		["Mtoto - Sporeggar"] = "Default",
+		["Bazza - Sporeggar"] = "Default",
+		["Melix - Sporeggar"] = "Default",
+		["Sorsh - Sporeggar"] = "Default",
+		["Tanasha - Sporeggar"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["scroll"] = {
+				["button"] = "MiddleButton",
+				["speed"] = 2,
+				["icon"] = true,
+				["kspeed"] = 3,
+			},
+			["windows"] = {
+				{
+					["y"] = 62.0000152587891,
+					["point"] = "BOTTOMRIGHT",
+					["mode"] = "Damage",
+					["x"] = -107.55712890625,
+				}, -- [1]
+			},
+			["versions"] = {
+				["1.6.7"] = true,
+				["1.6.4"] = true,
+				["1.6.3"] = true,
+			},
+		},
+	},
+}

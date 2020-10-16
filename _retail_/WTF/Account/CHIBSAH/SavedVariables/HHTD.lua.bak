@@ -1,0 +1,35 @@
+
+HHTD_SavedVariables = {
+	["char"] = {
+		["Motsi - Sporeggar"] = {
+			["settingsMigrated"] = false,
+		},
+		["Mengsk - Sporeggar"] = {
+			["settingsMigrated"] = false,
+		},
+		["Sarkodie - Sporeggar"] = {
+			["settingsMigrated"] = false,
+		},
+		["Leleti - Sporeggar"] = {
+			["settingsMigrated"] = false,
+		},
+	},
+	["profileKeys"] = {
+		["Motsi - Sporeggar"] = "Motsi - Sporeggar",
+		["Mengsk - Sporeggar"] = "Mengsk - Sporeggar",
+		["Sarkodie - Sporeggar"] = "Sarkodie - Sporeggar",
+		["Leleti - Sporeggar"] = "Leleti - Sporeggar",
+	},
+	["global"] = {
+		["settingsMigrated"] = false,
+		["oldNameEnableState"] = 0,
+	},
+	["namespaces"] = {
+		["Announcer"] = {
+		},
+		["CM"] = {
+		},
+		["NPH"] = {
+		},
+	},
+}

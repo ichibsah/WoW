@@ -1,0 +1,10 @@
+
+BWQDB = {
+	["profileKeys"] = {
+		["Bazza - Sporeggar"] = "Default",
+		["Daliya - Sporeggar"] = "Default",
+	},
+	["global"] = {
+		["versionCheck"] = "8.0.10d",
+	},
+}

@@ -1,0 +1,5 @@
+FollowerLocationInfo_Data: enabled
+ShamanFriend: disabled
+GuildManager: disabled
+Scrap_Spotlight: disabled
+TradeSkillMaster_Auctioning: disabled

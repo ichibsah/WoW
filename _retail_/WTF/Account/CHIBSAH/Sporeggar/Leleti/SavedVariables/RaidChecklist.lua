@@ -1,0 +1,4 @@
+
+RaidChecklistPetCache = {
+	"Cat", -- [1]
+}

@@ -1,0 +1,37 @@
+VER 3 0000000000000006 "assist" "INV_MISC_QUESTIONMARK"
+/assist [player=target];
+/cast Power Word: Solace(Talent)
+END
+VER 3 0000000000000009 "Auto Repair" "INV_MISC_QUESTIONMARK"
+/ar guild
+END
+VER 3 0000000000000001 "CollectMeRC" "INV_PET_BABYBLIZZARDBEAR"
+/cm rc
+END
+VER 3 0000000000000002 "CollectMeRM" "ABILITY_MOUNT_BIGBLIZZARDBEAR"
+/cancelform [nostance:5]
+/cm rm
+END
+VER 3 000000000000000C "CollectMeRT" "INV_PET_SCORCHEDSTONE"
+/cm rt
+END
+VER 3 000000000000000A "Decursive" "INV_MISC_QUESTIONMARK"
+/script DecursiveRootTable.Dcr:Println('No spell available')
+END
+VER 3 0000000000000007 "follow" "134892"
+/follow
+END
+VER 3 0000000000000004 "love" "INV_MISC_QUESTIONMARK"
+/love
+END
+VER 3 0000000000000008 "mending" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/targetenemyplayer;
+/cast Power Word: Solace(Talent)
+END
+VER 3 0000000000000005 "oom" "INV_MISC_QUESTIONMARK"
+/oom
+END
+VER 3 000000000000000B "Pet" "132209"
+/pet
+END

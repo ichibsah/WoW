@@ -1,0 +1,12 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0218,
+	["LastPlayerFullName"] = "Bazza-Sporeggar",
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "DRUID",
+	["LastAdded"] = 1,
+}

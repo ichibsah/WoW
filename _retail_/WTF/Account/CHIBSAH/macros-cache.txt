@@ -1,0 +1,215 @@
+VER 3 000000000000002C "04" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget
+/cast [@player] Lifebloom
+END
+VER 3 000000000000001B "13" "INV_Misc_QuestionMark"
+/use 13
+/cast Multi-Shot
+END
+VER 3 000000000000001C "14" "INV_Misc_QuestionMark"
+/use 14
+END
+VER 3 0000000000000010 "3-M" "INV_Misc_QuestionMark"
+/cast [target=pettarget,combat] Kill Command
+/script UIErrorsFrame:Clear();
+/cast [modifier:alt] !Aspect of the Dragonhawk
+/cast [modifier:ctrl] !Aspect of the Viper
+/cast !Auto Shot
+/cast Serpent Sting
+END
+VER 3 000000000000000F "4-M" "INV_Misc_QuestionMark"
+/focus [modifier:alt] target
+/stopmacro [modifier:alt]
+/tar [target=focus,harm] focus
+/assist [target=focus,help] focus; [target=pet, exists] friday
+/cast Hunter's Mark
+END
+VER 3 0000000000000011 "5-MArcane" "INV_Misc_QuestionMark"
+/cast [target=pettarget,combat] Kill Command
+/script UIErrorsFrame:Clear();
+/cast [modifier:alt] !Aspect of the Dragonhawk
+/cast [modifier:ctrl] !Aspect of the Viper
+/cast !Auto Shot
+/cast Silencing Shot
+/cast Arcane Shot
+END
+VER 3 0000000000000012 "6-M" "INV_Misc_QuestionMark"
+/cast [target=pettarget,combat] Kill Command
+/script UIErrorsFrame:Clear();
+/cast [modifier:alt] !Aspect of the Dragonhawk
+/cast [modifier:ctrl] !Aspect of the Viper
+/cast !Auto Shot
+/cast Chimera Shot
+END
+VER 3 0000000000000013 "7-MSteady" "INV_Misc_QuestionMark"
+/cast [target=pettarget,combat] Kill Command
+/script UIErrorsFrame:Clear();
+/cast [modifier:alt] !Aspect of the Dragonhawk
+/cast [modifier:ctrl] !Aspect of the Viper
+/cast !Auto Shot
+/cast Steady Shot
+END
+VER 3 0000000000000014 "8-M" "INV_Misc_QuestionMark"
+/cast [target=pettarget,combat] Kill Command
+/script UIErrorsFrame:Clear();
+/cast !Auto Shot
+/cast Tranquilizing Shot
+/cast Rapid Fire
+/cast Kill Shot
+END
+VER 3 0000000000000015 "9-M" "INV_Misc_QuestionMark"
+/cast Volley(Rank 6)
+END
+VER 3 0000000000000031 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click ExtraActionButton1
+END
+VER 3 000000000000000E "arc" "Ability_Druid_TravelForm"
+/emote wave
+/love
+/emote hug
+/emote kiss
+/emote cheer
+/emote bye
+/emote pray
+END
+VER 3 0000000000000026 "Auto Repair" "1320371"
+/ar guild
+END
+VER 3 0000000000000018 "bow" "INV_Misc_QuestionMark"
+/equip Felglacier Bolter
+/equip Iceblade Arrow
+END
+VER 3 000000000000001E "channels" "INV_Misc_QuestionMark"
+/join General
+/join Trade
+/join LookingForGroup
+END
+VER 3 0000000000000024 "CollectMeRC" "INV_PET_BABYBLIZZARDBEAR"
+/cm rc
+END
+VER 3 0000000000000025 "CollectMeRM" "ABILITY_MOUNT_BIGBLIZZARDBEAR"
+/cm rm
+END
+VER 3 0000000000000028 "CollectMeRT" "INV_PET_SCORCHEDSTONE"
+/cm rt
+END
+VER 3 000000000000001F "Decursive" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast [@mouseover,nomod,exists] Remove Corruption;  [@mouseover,exists,mod:ctrl] Cyclone; [@mouseover,exists,mod:shift] Remove Corruption
+END
+VER 3 0000000000000003 "Disarm" "Ability_Warrior_Disarm"
+/cast Defensive Stance 
+/case Disarm
+/cast Battle Stance
+END
+VER 3 0000000000000023 "Explosive" "INV_MISC_QUESTIONMARK"
+/cast Explosive Shot
+/cast Explosive Shot
+/cast Explosive Shot
+END
+VER 3 000000000000002A "farewell" "INV_MISC_QUESTIONMARK"
+/farewell
+END
+VER 3 0000000000000022 "Follow" "SPELL_DRUID_TIRELESSPURSUIT"
+/follow
+END
+VER 3 0000000000000001 "follow" "Ability_Creature_Disease_04"
+/f
+END
+VER 3 0000000000000029 "greet" "INV_MISC_QUESTIONMARK"
+/greet
+END
+VER 3 000000000000002E "guild repair" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/ar guildonly
+END
+VER 3 0000000000000055 "hbCrashProt_0" "Spell_Holy_SealOfSacrifice"
+1:H:1:1:Self:
+END
+VER 3 0000000000000054 "hbCrashProt_1" "Spell_Holy_SealOfSacrifice"
+Mengs:p:ayer-1096-047ECD26:1:
+END
+VER 3 000000000000002F "Heal Pet and I" "461117"
+/cast Exhilaration
+END
+VER 3 000000000000000A "helpme" "INV_Misc_QuestionMark"
+/emote healme
+/emote helpme
+/say helpme
+END
+VER 3 000000000000002B "Hug" "ABILITY_DRUID_FEROCIOUSBITE"
+/hug
+END
+VER 3 0000000000000019 "mark" "Ability_Hunter_SniperShot"
+/script SetRaidTarget(”target”,8);
+/cast Hunter’s Mark
+/stopmacro [nomodifier]
+/rw >> Assist me on %t <<
+END
+VER 3 0000000000000032 "mountspecial" "INV_MISC_QUESTIONMARK"
+/mountspecial
+END
+VER 3 000000000000002D "mouseover" "INV_MISC_QUESTIONMARK"
+#showtooltip Heal
+/cast [@mouseover,exists,nodead,help,][exists,nodead,help][@player] Heal
+END
+VER 3 0000000000000020 "oom" "INV_Misc_QuestionMark"
+/oom
+END
+VER 3 0000000000000016 "pet" "INV_Misc_QuestionMark"
+/cast Onyxian Whelpling
+END
+VER 3 0000000000000030 "Pet Heal" "132179"
+/cast Mend Pet
+END
+VER 3 0000000000000004 "pull" "INV_Misc_QuestionMark"
+#showtootip
+/cast [btn:2, combat] Aspect of the Hawk 
+/cast [btn:2, nocombat] Aspect of the Cheetah
+/stopmacro [btn:2, nocombat]
+/stopmacro [btn:2, combat]
+/targetenemy [noharm] 
+/stopmacro [noharm] 
+/cast [btn:3] Hunter's Mark; Arcane Shot 
+/petattack
+END
+VER 3 0000000000000009 "ready" "INV_Misc_QuestionMark"
+/readycheck
+END
+VER 3 000000000000001D "SNOBOLD" "INV_Misc_QuestionMark"
+/Yell SNOBOLD ON ME
+END
+VER 3 0000000000000033 "SunMoon" "236216"
+/Moonfire
+/Sunfire
+END
+VER 3 0000000000000034 "SunMoon" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/targetenemy [noexists][dead][noharm]
+/castsequence reset=target/combat Moonfire(Lunar),Sunfire(Solar)
+END
+VER 3 0000000000000035 "SunMoon" "236216"
+/cast Moonfire(Lunar)
+/cast Sunfire(Solar)
+END
+VER 3 000000000000001A "test" "INV_Misc_QuestionMark"
+#showtooltip
+/targetfriend
+/cast Prayer of Mending
+--
+#showtooltip
+/cleartarget [dead]
+/targetenemy [noharm]
+/cast Power Word: Solace(Talent)
+/cast Archangel
+--
+#showtooltip
+/cast [harm]Moonfire(Lunar;Wild Growth
+END
+VER 3 0000000000000027 "wave" "INV_MISC_QUESTIONMARK"
+#showtooltip Faerie
+/targetenemy [noexists][dead][noharm]
+/wave
+END

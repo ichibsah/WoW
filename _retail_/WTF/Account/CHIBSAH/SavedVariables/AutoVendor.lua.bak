@@ -1,0 +1,51 @@
+
+AutoVendorDB = {
+	["profileKeys"] = {
+		["Yesu - Sporeggar"] = "Yesu - Sporeggar",
+		["Remraf - Sporeggar"] = "Remraf - Sporeggar",
+		["Oenomaus - Sporeggar"] = "Oenomaus - Sporeggar",
+		["Teldrasil - Sporeggar"] = "Teldrasil - Sporeggar",
+		["Barrymore - Sporeggar"] = "Barrymore - Sporeggar",
+		["Rachel - Sporeggar"] = "Rachel - Sporeggar",
+		["Xelle - Sporeggar"] = "Xelle - Sporeggar",
+		["Corlin - Sporeggar"] = "Corlin - Sporeggar",
+		["Sarkodie - Sporeggar"] = "Sarkodie - Sporeggar",
+		["Leleti - Sporeggar"] = "Leleti - Sporeggar",
+		["Omarh - Sporeggar"] = "Omarh - Sporeggar",
+		["Krixus - Sporeggar"] = "Krixus - Sporeggar",
+		["Youmie - Sporeggar"] = "Youmie - Sporeggar",
+		["Mengsk - Sporeggar"] = "Mengsk - Sporeggar",
+	},
+	["profiles"] = {
+		["Yesu - Sporeggar"] = {
+		},
+		["Remraf - Sporeggar"] = {
+		},
+		["Oenomaus - Sporeggar"] = {
+		},
+		["Teldrasil - Sporeggar"] = {
+		},
+		["Barrymore - Sporeggar"] = {
+		},
+		["Rachel - Sporeggar"] = {
+		},
+		["Xelle - Sporeggar"] = {
+		},
+		["Corlin - Sporeggar"] = {
+		},
+		["Sarkodie - Sporeggar"] = {
+		},
+		["Leleti - Sporeggar"] = {
+			["guildbankrepair"] = true,
+		},
+		["Omarh - Sporeggar"] = {
+		},
+		["Krixus - Sporeggar"] = {
+		},
+		["Youmie - Sporeggar"] = {
+		},
+		["Mengsk - Sporeggar"] = {
+			["guildbankrepair"] = true,
+		},
+	},
+}

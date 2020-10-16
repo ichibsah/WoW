@@ -1,0 +1,33 @@
+
+SpyPerCharDB = {
+	["KOSData"] = {
+		["Ohoh-DefiasBrotherhood"] = 1533647698,
+	},
+	["IgnoreData"] = {
+	},
+	["PlayerData"] = {
+		["Ohoh-DefiasBrotherhood"] = {
+			["zone"] = "Darkshore",
+			["mapY"] = 0.2,
+			["class"] = "DRUID",
+			["isEnemy"] = true,
+			["mapX"] = 0.5,
+			["isGuess"] = true,
+			["subZone"] = "Lor'danel",
+			["level"] = 18,
+			["time"] = 1533647698,
+			["name"] = "Ohoh-DefiasBrotherhood",
+		},
+		["Intrepidan-Ravenholdt"] = {
+			["subZone"] = "Mist's Edge",
+			["mapX"] = 0.46,
+			["name"] = "Intrepidan-Ravenholdt",
+			["zone"] = "Darkshore",
+			["mapY"] = 0.18,
+			["time"] = 1533672539,
+			["isGuess"] = true,
+			["isEnemy"] = true,
+		},
+	},
+	["version"] = "1.1",
+}

@@ -1,0 +1,18 @@
+
+dbGACperChar = {
+	["profileKeys"] = {
+		["Krixus - Sporeggar"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["history"] = {
+				[1331] = {
+					[1534236120] = {
+						["result"] = 100,
+						["success"] = true,
+					},
+				},
+			},
+		},
+	},
+}

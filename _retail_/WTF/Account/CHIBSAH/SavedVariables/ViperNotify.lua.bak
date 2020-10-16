@@ -1,0 +1,7 @@
+
+ViperConfig = {
+	["Interval"] = 10,
+	["Message"] = "Full mana, Viper is still on!",
+	["ChatAnnounce"] = "OFF",
+	["Threshold"] = 90,
+}

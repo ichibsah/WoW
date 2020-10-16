@@ -1,0 +1,17 @@
+
+FGODB = {
+	["profileKeys"] = {
+		["Yesu - Sporeggar"] = "Default",
+		["Barrymore - Sporeggar"] = "Default",
+		["Sarkodie - Sporeggar"] = "Default",
+		["Remraf - Sporeggar"] = "Default",
+		["Omarh - Sporeggar"] = "Default",
+		["Leleti - Sporeggar"] = "Default",
+		["Xelle - Sporeggar"] = "Default",
+		["Mengsk - Sporeggar"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

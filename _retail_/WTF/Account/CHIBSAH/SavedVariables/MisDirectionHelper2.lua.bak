@@ -1,0 +1,12 @@
+
+MisDirectionHelperDB = {
+	["profileKeys"] = {
+		["Leleti - Sporeggar"] = "Leleti - Sporeggar",
+	},
+	["profiles"] = {
+		["Leleti - Sporeggar"] = {
+			["petname"] = "Friday",
+			["name"] = "Friday",
+		},
+	},
+}

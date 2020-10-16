@@ -1,0 +1,59 @@
+VER 3 010000000000000E "6" "INV_Misc_QuestionMark"
+/cast Blood Boil
+/cast Mind Freeze
+END
+VER 3 010000000000000F "7" "INV_Misc_QuestionMark"
+/cast Death Strike
+/cast Plague Strike
+/use 13
+END
+VER 3 0100000000000011 "8" "INV_Misc_QuestionMark"
+/cast Blood Tap
+/cast Icy Touch
+END
+VER 3 0100000000000010 "9" "INV_Misc_QuestionMark"
+/cast Heart Strike
+/cast Pestilence
+/use 14
+END
+VER 3 0100000000000017 "Blood Shield" "INV_MISC_QUESTIONMARK"
+/Mastery: Blood Shield
+END
+VER 3 0100000000000019 "hbCrashProt_0" "Spell_Holy_SealOfSacrifice"
+1:H:
+END
+VER 3 010000000000001A "hbCrashProt_1" "Spell_Holy_SealOfSacrifice"
+Youmi:p:ayer-1096-047F691F:1:
+END
+VER 3 0100000000000018 "Soul Reaper" "INV_MISC_QUESTIONMARK"
+/Soul Reaper
+END
+VER 3 0100000000000016 "U1" "INV_Misc_QuestionMark"
+/focus [modifier:alt] target
+/stopmacro [modifier:alt]
+/tar [target=focus,harm] focus
+/assist [target=focus,help] focus; [target=pet, exists]
+/cast Strangulate
+END
+VER 3 0100000000000015 "U6" "INV_Misc_QuestionMark"
+/cast Death Strike
+/cast Blood Tap
+/use 13
+/cast Plague Strike
+END
+VER 3 0100000000000014 "U7" "INV_Misc_QuestionMark"
+/cast Scourge Strike
+/cast Blood Boil
+/cast Horn of Winter
+/cast Chains of Ice
+END
+VER 3 0100000000000013 "U8" "INV_Misc_QuestionMark"
+/cast Pestilence
+/cast Blood Boil
+/use 13
+/cast Icy Touch
+END
+VER 3 0100000000000012 "U9" "INV_Misc_QuestionMark"
+/castrandom Mind Freeze, Death Coil
+/cast Horn of Winter
+END

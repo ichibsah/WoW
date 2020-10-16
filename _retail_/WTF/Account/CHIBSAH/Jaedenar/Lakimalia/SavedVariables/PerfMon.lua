@@ -1,0 +1,2 @@
+
+PerfMon_FrameLocation = nil

@@ -1,0 +1,125 @@
+
+Omen3DB = {
+	["profileKeys"] = {
+		["Bulblin - Gul'dan"] = "Bulblin - Gul'dan",
+		["Osofu - Stormscale"] = "Osofu - Stormscale",
+		["Remraf - Sporeggar"] = "Remraf - Sporeggar",
+		["Motsi - Sporeggar"] = "Motsi - Sporeggar",
+		["Mengsk - Sporeggar"] = "Mengsk - Sporeggar",
+		["Yesu - Sporeggar"] = "Yesu - Sporeggar",
+		["Youmie - Sporeggar"] = "Youmie - Sporeggar",
+		["Xelle - Sporeggar"] = "Xelle - Sporeggar",
+		["Bubbled - Gul'dan"] = "Bubbled - Gul'dan",
+		["Jamilah - Jaedenar"] = "Jamilah - Jaedenar",
+		["Leleti - Sporeggar"] = "Leleti - Sporeggar",
+		["Overkill - Sporeggar"] = "Overkill - Sporeggar",
+		["Stringer - Sporeggar"] = "Stringer - Sporeggar",
+		["Leula - Gul'dan"] = "Leula - Gul'dan",
+		["Barrymore - Sporeggar"] = "Barrymore - Sporeggar",
+	},
+	["profiles"] = {
+		["Bulblin - Gul'dan"] = {
+			["PositionX"] = 570.166691045108,
+			["PositionY"] = 501.666684402832,
+		},
+		["Osofu - Stormscale"] = {
+			["PositionX"] = 501.900029176813,
+			["PositionY"] = 459.000038729038,
+		},
+		["Remraf - Sporeggar"] = {
+			["Shown"] = false,
+			["PositionY"] = 501.666684402832,
+			["PositionX"] = 570.166691045108,
+		},
+		["Motsi - Sporeggar"] = {
+			["PositionX"] = 727.500052681332,
+			["PositionY"] = 600.000021930054,
+		},
+		["Mengsk - Sporeggar"] = {
+			["Shown"] = false,
+			["PositionY"] = 600.000021930054,
+			["PositionX"] = 727.500052681332,
+		},
+		["Yesu - Sporeggar"] = {
+			["PositionY"] = 1076.29205645968,
+			["PositionW"] = 199.999985228356,
+			["PositionX"] = 797.353842757631,
+			["Shown"] = false,
+			["ShowWith"] = {
+				["Party"] = false,
+				["Raid"] = false,
+				["HideWhileResting"] = false,
+				["Pet"] = false,
+				["HideInPVP"] = false,
+			},
+			["MinimapIcon"] = {
+				["minimapPos"] = 154.932580131646,
+			},
+			["PositionH"] = 81.9999547276475,
+		},
+		["Youmie - Sporeggar"] = {
+			["VGrip2"] = 194.908583383199,
+			["PositionY"] = 1037.00001019185,
+			["PositionW"] = 338.971503230009,
+			["Shown"] = false,
+			["PositionH"] = 81.9999950797955,
+			["PositionX"] = 740.090305995248,
+			["VGrip1"] = 144.062865978886,
+		},
+		["Xelle - Sporeggar"] = {
+			["PositionY"] = 853.333417304823,
+			["PositionW"] = 199.999989316127,
+			["Shown"] = false,
+			["PositionX"] = 546.598293068606,
+			["PositionH"] = 81.9999860828502,
+		},
+		["Bubbled - Gul'dan"] = {
+			["Shown"] = false,
+			["PositionY"] = 459.000038729038,
+			["PositionX"] = 501.900029176813,
+		},
+		["Jamilah - Jaedenar"] = {
+			["PositionX"] = 570.166691045108,
+			["PositionY"] = 501.666684402832,
+		},
+		["Leleti - Sporeggar"] = {
+			["PositionW"] = 196.749195036976,
+			["PositionH"] = 70.6221881119285,
+			["VGrip2"] = 113.130772496661,
+			["PositionY"] = 831.622420697023,
+			["Shown"] = false,
+			["MinimapIcon"] = {
+				["minimapPos"] = 207.681122790459,
+			},
+			["ShowWith"] = {
+				["Party"] = false,
+				["HideWhenOOC"] = true,
+				["Raid"] = false,
+				["HideWhileResting"] = false,
+				["Pet"] = false,
+				["HideInPVP"] = false,
+			},
+			["VGrip1"] = 83.6183970627491,
+			["PositionX"] = 486.45878784015,
+		},
+		["Overkill - Sporeggar"] = {
+			["Shown"] = false,
+			["PositionY"] = 524.999938964844,
+			["PositionX"] = 687.499938964844,
+		},
+		["Stringer - Sporeggar"] = {
+			["Shown"] = false,
+			["PositionY"] = 614.999962455406,
+			["PositionX"] = 847.500014874225,
+		},
+		["Leula - Gul'dan"] = {
+			["Shown"] = false,
+			["PositionY"] = 524.999938964844,
+			["PositionX"] = 687.499938964844,
+		},
+		["Barrymore - Sporeggar"] = {
+			["PositionX"] = 570.166691045108,
+			["PositionY"] = 501.666684402832,
+		},
+	},
+}

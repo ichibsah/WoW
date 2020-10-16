@@ -1,0 +1,3 @@
+DruidFriend: disabled
+ShamanFriend: disabled
+TradeSkillMaster_Auctioning: disabled

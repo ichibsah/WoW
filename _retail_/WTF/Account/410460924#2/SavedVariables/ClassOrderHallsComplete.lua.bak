@@ -1,0 +1,76 @@
+
+CLASSORDERHALLSCOMPLETE_SAVEDVARIABLES = {
+	["currentCharacterFirst"] = true,
+	["showCharacterTooltipMinimapButton"] = true,
+	["alertClassHallUpgrades"] = true,
+	["alertMissions"] = true,
+	["orderCharactersAutomatically"] = true,
+	["dockMinimapButton"] = true,
+	["monitorColumn"] = {
+		"missions", -- [1]
+		"advancement", -- [2]
+		"cooking-recipes", -- [3]
+		"troop1", -- [4]
+		"troop2", -- [5]
+		"champion-armaments", -- [6]
+		"bonus-roll", -- [7]
+		"troop3", -- [8]
+		"troop4", -- [9]
+		"troop5", -- [10]
+		"troop6", -- [11]
+		"troop7", -- [12]
+	},
+	["ldbTextFormat"] = "missions-upgrades-orders",
+	["characters"] = {
+		{
+			["orderResources"] = 4491,
+			["missions"] = {
+			},
+			["troops"] = {
+			},
+			["class"] = "DRUID",
+			["orders"] = {
+			},
+			["order"] = 1,
+			["sealOfBrokenFate"] = 0,
+			["name"] = "Daliya-Sporeggar",
+			["monitor"] = {
+			},
+			["seals"] = {
+			},
+			["level"] = 110,
+			["advancement"] = {
+			},
+			["realm"] = "Sporeggar",
+		}, -- [1]
+	},
+	["lockMinimapButton"] = false,
+	["version"] = 1.33,
+	["largeMinimapButton"] = true,
+	["ldbShowNextUpgradeCharacter"] = true,
+	["monitorRows"] = 8,
+	["ldbiShowCharacterTooltip"] = true,
+	["ldbi"] = {
+		["hide"] = true,
+	},
+	["alertLegionCookingRecipes"] = true,
+	["ldbSource"] = "current",
+	["showClassHallReportMinimapButton"] = true,
+	["alertTroops"] = true,
+	["ldbShowLabels"] = true,
+	["showMinimapButton"] = true,
+	["ldbShowNextUpgrade"] = true,
+	["ldbShowWhenNone"] = true,
+	["alertBonusRollTokenDisableWhenMaxSeals"] = true,
+	["alertChampionArmaments"] = true,
+	["ldbShowNextMission"] = true,
+	["ldbShowNextOrderCharacter"] = true,
+	["alertDisableInInstances"] = true,
+	["forgetDragPosition"] = true,
+	["ldbShowNextMissionCharacter"] = true,
+	["alertBonusRollToken"] = true,
+	["minimapButtonPosition"] = 237.2,
+	["showCharacterRealms"] = true,
+	["alert"] = "current",
+	["ldbShowNextOrder"] = true,
+}

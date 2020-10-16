@@ -1,0 +1,45 @@
+VER 3 0000000000000003 "Decursive" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast [@mouseover,nomod,exists] Abolish Disease;  [@mouseover,exists,mod:ctrl] Dispel Magic; [@mouseover,exists,mod:shift] Abolish Disease
+END
+VER 3 0000000000000007 "follow" "INV_MISC_QUESTIONMARK"
+/follow
+END
+VER 3 0000000000000009 "follow" "INV_MISC_QUESTIONMARK"
+/follow
+END
+VER 3 0000000000000004 "GRM_Tool" "INV_MISC_QUESTIONMARK"
+END
+VER 3 0000000000000002 "hbCrashProt_0" "Spell_Holy_SealOfSacrifice"
+1:H:1:1:Group:1:2:Pets:
+END
+VER 3 0000000000000001 "hbCrashProt_1" "Spell_Holy_SealOfSacrifice"
+Yesu:p:ayer-4746-01484067:1:
+END
+VER 3 000000000000000C "hbCrashProt_2" "Spell_Holy_SealOfSacrifice"
+Nacht:9:ayer-4442-00BDD50D:1:Stump:6:ayer-4476-01E15B40:1:
+END
+VER 3 0000000000000008 "Hi" "INV_MISC_QUESTIONMARK"
+/hi
+END
+VER 3 0000000000000005 "Pull" "136139"
+#showtooltip
+/cast Curse of Agony(Rank 2)
+/petattack
+/petattack [@focus,exists][]
+END
+VER 3 0000000000000006 "Pull" "136138"
+#showtooltip
+/cast Curse of Weakness(Rank 3)
+/petattack
+/petattack [@focus,exists][]
+END
+VER 3 000000000000000B "roll" "INV_MISC_QUESTIONMARK"
+/roll
+END
+VER 3 000000000000000A "sample" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget [dead]
+/targetenemy [noharm]
+/castsequence reset=combat/target Faerie Fire(Rank 1),Moonfire(Rank 3),Wrath(Rank 3),Wrath(Rank 3),Wrath(Rank 3)
+END

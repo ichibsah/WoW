@@ -1,0 +1,7053 @@
+
+SkadaPerCharDB = {
+	["sets"] = {
+		{
+			["orbhealingabsorbed"] = 0,
+			["healingabsorbed"] = 0,
+			["ffdamagedone"] = 0,
+			["ccTakenCount"] = 0,
+			["interrupts"] = 0,
+			["damagetaken"] = 0,
+			["orbbursthits"] = {
+				["total"] = 0,
+			},
+			["difficultyname"] = "Normal",
+			["healing"] = 0,
+			["orbsummon"] = 0,
+			["name"] = "Blackhand",
+			["mobhdone"] = 0,
+			["last_action"] = 1471102296,
+			["mobdone"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["orboverhealing"] = 0,
+			["endtime"] = 1471102330,
+			["overhealing"] = 0,
+			["damage"] = 539145,
+			["players"] = {
+				{
+					["last"] = 1471102321,
+					["orbhealingabsorbed"] = 0,
+					["orbburstcast"] = 0,
+					["class"] = "DEMONHUNTER",
+					["damaged"] = {
+						["Blackhand"] = 539145,
+					},
+					["auras"] = {
+						["Eye Beam"] = {
+							["name"] = "Eye Beam",
+							["active"] = 0,
+							["id"] = 198013,
+							["auratype"] = "BUFF",
+							["uptime"] = 1,
+						},
+					},
+					["ffdamagedone"] = 0,
+					["ccTakenCount"] = 0,
+					["interrupts"] = 0,
+					["damagespells"] = {
+						["Chaos Strike"] = {
+							["min"] = 12782,
+							["hit"] = 6,
+							["totalhits"] = 6,
+							["id"] = 222031,
+							["max"] = 25204,
+							["damage"] = 110733,
+						},
+						["Throw Glaive"] = {
+							["min"] = 40917,
+							["critical"] = 2,
+							["totalhits"] = 2,
+							["id"] = 185123,
+							["max"] = 40980,
+							["damage"] = 81897,
+						},
+						["Fel Rush"] = {
+							["min"] = 30643,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 192611,
+							["max"] = 45965,
+							["damage"] = 76608,
+						},
+						["Consume Magic"] = {
+							["id"] = 183752,
+							["totalhits"] = 1,
+							["IMMUNE"] = 1,
+							["max"] = 0,
+							["damage"] = 0,
+						},
+						["Eye Beam"] = {
+							["min"] = 7517,
+							["critical"] = 4,
+							["totalhits"] = 4,
+							["id"] = 198030,
+							["max"] = 7789,
+							["damage"] = 30717,
+						},
+						["Demon's Bite"] = {
+							["min"] = 9908,
+							["critical"] = 3,
+							["hit"] = 5,
+							["totalhits"] = 8,
+							["id"] = 162243,
+							["max"] = 32332,
+							["damage"] = 159158,
+						},
+						["Attack"] = {
+							["min"] = 2145,
+							["max"] = 8534,
+							["critical"] = 5,
+							["hit"] = 11,
+							["totalhits"] = 20,
+							["id"] = 6603,
+							["MISS"] = 4,
+							["damage"] = 80032,
+						},
+					},
+					["damagetaken"] = 0,
+					["orbhealed"] = {
+					},
+					["first"] = 1471102297,
+					["orbsummon"] = 0,
+					["name"] = "Sarkodie",
+					["leechTaken"] = 0,
+					["healed"] = {
+					},
+					["leech"] = 0,
+					["sam_breakdown"] = {
+					},
+					["score"] = 5.39145,
+					["ccDoneTargets"] = {
+					},
+					["ccTakenSpells"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["maxhp"] = 290160,
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["ccbreaks"] = 0,
+					["overhealing"] = 0,
+					["ccDoneSpells"] = {
+					},
+					["orboverhealing"] = 0,
+					["healing"] = 0,
+					["ccDoneCount"] = 0,
+					["damage"] = 539145,
+					["id"] = "Player-1096-075D8DEF",
+					["mitigated"] = 0,
+					["healthstone"] = 0,
+					["shielding"] = 0,
+					["orbhealing"] = 0,
+					["power"] = {
+						[17] = {
+							["amount"] = 204,
+							["spells"] = {
+								[162243] = 204,
+							},
+						},
+					},
+					["orbhealingspells"] = {
+					},
+					["damagetakenspells"] = {
+					},
+					["time"] = 24,
+					["leeched"] = {
+					},
+					["ffdamagedonetargets"] = {
+					},
+					["healingabsorbed"] = 0,
+					["ccTakenTargets"] = {
+					},
+					["role"] = "DAMAGER",
+					["sam_total_events"] = 0,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["ccDoneCount"] = 0,
+			["mobtaken"] = 539145,
+			["orbhealing"] = 0,
+			["leech"] = 0,
+			["orbpickuphits"] = {
+				["total"] = 0,
+			},
+			["power"] = {
+				[17] = 204,
+			},
+			["healthstone"] = 0,
+			["orbburstcast"] = 0,
+			["mobs"] = {
+				["Blackhand"] = {
+					["players"] = {
+						["Sarkodie"] = {
+							["taken"] = 539145,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "DEMONHUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["done"] = 0,
+					["taken"] = 539145,
+					["htakenspell"] = {
+					},
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobname"] = "Blackhand",
+			["shielding"] = 0,
+			["time"] = 34,
+			["starttime"] = 1471102296,
+			["multistrikes"] = 0,
+		}, -- [1]
+		{
+			["orbhealingabsorbed"] = 0,
+			["healingabsorbed"] = 0,
+			["ffdamagedone"] = 0,
+			["ccTakenCount"] = 0,
+			["interrupts"] = 0,
+			["damagetaken"] = 19049,
+			["orbbursthits"] = {
+				["total"] = 0,
+			},
+			["difficultyname"] = "Normal",
+			["healing"] = 5951,
+			["orbsummon"] = 0,
+			["name"] = "Machinist B'randt",
+			["mobhdone"] = 0,
+			["last_action"] = 1471102259,
+			["mobdone"] = 19049,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["orboverhealing"] = 0,
+			["endtime"] = 1471102273,
+			["overhealing"] = 66589,
+			["damage"] = 151691,
+			["players"] = {
+				{
+					["last"] = 1471102273,
+					["orbhealingabsorbed"] = 0,
+					["orbburstcast"] = 0,
+					["class"] = "DEMONHUNTER",
+					["damaged"] = {
+						["Machinist B'randt"] = 151691,
+					},
+					["auras"] = {
+					},
+					["ffdamagedone"] = 0,
+					["ccTakenCount"] = 0,
+					["interrupts"] = 0,
+					["damagespells"] = {
+						["Chaos Strike"] = {
+							["min"] = 13165,
+							["hit"] = 4,
+							["totalhits"] = 4,
+							["id"] = 222031,
+							["max"] = 16622,
+							["damage"] = 59702,
+						},
+						["Throw Glaive"] = {
+							["min"] = 20490,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 185123,
+							["max"] = 20490,
+							["damage"] = 20490,
+						},
+						["Demon's Bite"] = {
+							["min"] = 10195,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["id"] = 162243,
+							["max"] = 11182,
+							["damage"] = 32353,
+						},
+						["Attack"] = {
+							["min"] = 2094,
+							["critical"] = 4,
+							["hit"] = 4,
+							["totalhits"] = 8,
+							["id"] = 6603,
+							["max"] = 8575,
+							["damage"] = 39146,
+						},
+					},
+					["damagetaken"] = 19049,
+					["orbhealed"] = {
+					},
+					["first"] = 1471102259,
+					["orbsummon"] = 0,
+					["name"] = "Sarkodie",
+					["leechTaken"] = 0,
+					["healed"] = {
+						["Player-1096-075D8DEF"] = {
+							["role"] = "NONE",
+							["name"] = "Sarkodie",
+							["amount"] = 5951,
+							["class"] = "DEMONHUNTER",
+							["shielding"] = 0,
+						},
+					},
+					["sam_total_dmg"] = 19046,
+					["leech"] = 0,
+					["sam_breakdown"] = {
+						["Physical Hit"] = 2,
+						["Spell Hit"] = 1,
+						["Dodge"] = 1,
+					},
+					["score"] = 1.546665,
+					["healingabsorbed"] = 0,
+					["ccTakenSpells"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["overhealing"] = 66589,
+					["dispells"] = 0,
+					["ccbreaks"] = 0,
+					["healingspells"] = {
+						["Consume Soul"] = {
+							["shielding"] = 0,
+							["id"] = 178963,
+							["healing"] = 5951,
+							["absorbed"] = 0,
+							["min"] = 5951,
+							["multistrike"] = 0,
+							["name"] = "Consume Soul",
+							["critical"] = 0,
+							["max"] = 5951,
+							["overhealing"] = 66589,
+							["hits"] = 1,
+							["multistrikes"] = 0,
+						},
+					},
+					["time"] = 14,
+					["ccDoneSpells"] = {
+					},
+					["orboverhealing"] = 0,
+					["healing"] = 5951,
+					["id"] = "Player-1096-075D8DEF",
+					["damage"] = 151691,
+					["power"] = {
+						[17] = {
+							["amount"] = 78,
+							["spells"] = {
+								[162243] = 78,
+							},
+						},
+					},
+					["mitigated"] = 0,
+					["ccDoneCount"] = 0,
+					["shielding"] = 0,
+					["orbhealing"] = 0,
+					["healthstone"] = 0,
+					["orbhealingspells"] = {
+					},
+					["damagetakenspells"] = {
+						["Blackrock Bomb"] = {
+							["crushing"] = 0,
+							["id"] = 168118,
+							["absorbed"] = 0,
+							["glancing"] = 0,
+							["critical"] = 0,
+							["min"] = 13098,
+							["multistrike"] = 0,
+							["name"] = "Blackrock Bomb",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 13098,
+							["damage"] = 13098,
+						},
+						["Attack"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["absorbed"] = 0,
+							["glancing"] = 0,
+							["critical"] = 0,
+							["min"] = 2909,
+							["multistrike"] = 0,
+							["name"] = "Attack",
+							["blocked"] = 0,
+							["totalhits"] = 2,
+							["resisted"] = 0,
+							["max"] = 3042,
+							["damage"] = 5951,
+						},
+					},
+					["maxhp"] = 290160,
+					["leeched"] = {
+					},
+					["ffdamagedonetargets"] = {
+					},
+					["ccDoneTargets"] = {
+					},
+					["ccTakenTargets"] = {
+					},
+					["role"] = "DAMAGER",
+					["sam_total_events"] = 4,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["ccDoneCount"] = 0,
+			["mobtaken"] = 151691,
+			["orbhealing"] = 0,
+			["leech"] = 0,
+			["orbpickuphits"] = {
+				["total"] = 0,
+			},
+			["power"] = {
+				[17] = 78,
+			},
+			["healthstone"] = 0,
+			["orbburstcast"] = 0,
+			["mobs"] = {
+				["Blackrock Bomb"] = {
+					["players"] = {
+						["Sarkodie"] = {
+							["taken"] = 0,
+							["done"] = 13098,
+							["role"] = "NONE",
+							["class"] = "DEMONHUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["done"] = 13098,
+					["taken"] = 0,
+					["htakenspell"] = {
+					},
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Machinist B'randt"] = {
+					["players"] = {
+						["Sarkodie"] = {
+							["taken"] = 151691,
+							["done"] = 5951,
+							["role"] = "NONE",
+							["class"] = "DEMONHUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["done"] = 5951,
+					["taken"] = 151691,
+					["htakenspell"] = {
+					},
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobname"] = "Machinist B'randt",
+			["shielding"] = 0,
+			["time"] = 14,
+			["starttime"] = 1471102259,
+			["multistrikes"] = 0,
+		}, -- [2]
+		{
+			["orbhealingabsorbed"] = 0,
+			["healingabsorbed"] = 0,
+			["ffdamagedone"] = 0,
+			["ccTakenCount"] = 0,
+			["interrupts"] = 0,
+			["damagetaken"] = 0,
+			["orbbursthits"] = {
+				["total"] = 0,
+			},
+			["difficultyname"] = "Normal",
+			["healing"] = 0,
+			["orbsummon"] = 0,
+			["name"] = "Grom'kar Vanguard (3)",
+			["mobhdone"] = 0,
+			["last_action"] = 1471102242,
+			["mobdone"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["orboverhealing"] = 0,
+			["endtime"] = 1471102248,
+			["overhealing"] = 145080,
+			["damage"] = 222133,
+			["players"] = {
+				{
+					["last"] = 1471102247,
+					["orbhealingabsorbed"] = 0,
+					["orbburstcast"] = 0,
+					["class"] = "DEMONHUNTER",
+					["damaged"] = {
+						["Grom'kar Vanguard"] = 75959,
+						["Grom'kar Grenadier"] = 146174,
+					},
+					["auras"] = {
+						["Demonic Ferocity"] = {
+							["name"] = "Demonic Ferocity",
+							["active"] = 1,
+							["id"] = 226991,
+							["auratype"] = "BUFF",
+							["uptime"] = 6,
+						},
+					},
+					["ffdamagedone"] = 0,
+					["ccTakenCount"] = 0,
+					["interrupts"] = 0,
+					["damagespells"] = {
+						["Fel Rush"] = {
+							["min"] = 42057,
+							["critical"] = 1,
+							["hit"] = 2,
+							["totalhits"] = 3,
+							["id"] = 192611,
+							["max"] = 84114,
+							["damage"] = 168228,
+						},
+						["Throw Glaive"] = {
+							["min"] = 19330,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 185123,
+							["max"] = 20003,
+							["damage"] = 39333,
+						},
+						["Attack"] = {
+							["min"] = 2790,
+							["critical"] = 1,
+							["hit"] = 1,
+							["totalhits"] = 2,
+							["id"] = 6603,
+							["max"] = 11782,
+							["damage"] = 14572,
+						},
+					},
+					["damagetaken"] = 0,
+					["orbhealed"] = {
+					},
+					["first"] = 1471102243,
+					["orbsummon"] = 0,
+					["name"] = "Sarkodie",
+					["leechTaken"] = 0,
+					["healed"] = {
+						["Player-1096-075D8DEF"] = {
+							["role"] = "NONE",
+							["name"] = "Sarkodie",
+							["amount"] = 0,
+							["class"] = "DEMONHUNTER",
+							["shielding"] = 0,
+						},
+					},
+					["sam_total_dmg"] = 0,
+					["leech"] = 0,
+					["sam_breakdown"] = {
+						["Miss"] = 2,
+					},
+					["score"] = 2.22133,
+					["healingabsorbed"] = 0,
+					["ccTakenSpells"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["overhealing"] = 145080,
+					["dispells"] = 0,
+					["ccbreaks"] = 0,
+					["healingspells"] = {
+						["Consume Soul"] = {
+							["shielding"] = 0,
+							["id"] = 178963,
+							["healing"] = 0,
+							["absorbed"] = 0,
+							["min"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Consume Soul",
+							["critical"] = 0,
+							["max"] = 0,
+							["overhealing"] = 145080,
+							["hits"] = 2,
+							["multistrikes"] = 0,
+						},
+					},
+					["time"] = 4,
+					["ccDoneSpells"] = {
+					},
+					["orboverhealing"] = 0,
+					["healing"] = 0,
+					["id"] = "Player-1096-075D8DEF",
+					["damage"] = 222133,
+					["power"] = {
+					},
+					["mitigated"] = 0,
+					["ccDoneCount"] = 0,
+					["shielding"] = 0,
+					["orbhealing"] = 0,
+					["healthstone"] = 0,
+					["orbhealingspells"] = {
+					},
+					["damagetakenspells"] = {
+					},
+					["maxhp"] = 290160,
+					["leeched"] = {
+					},
+					["ffdamagedonetargets"] = {
+					},
+					["ccDoneTargets"] = {
+					},
+					["ccTakenTargets"] = {
+					},
+					["role"] = "DAMAGER",
+					["sam_total_events"] = 2,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["ccDoneCount"] = 0,
+			["mobtaken"] = 222133,
+			["orbhealing"] = 0,
+			["leech"] = 0,
+			["orbpickuphits"] = {
+				["total"] = 0,
+			},
+			["power"] = {
+			},
+			["healthstone"] = 0,
+			["orbburstcast"] = 0,
+			["mobs"] = {
+				["Grom'kar Vanguard"] = {
+					["players"] = {
+						["Sarkodie"] = {
+							["taken"] = 75959,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "DEMONHUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["done"] = 0,
+					["taken"] = 75959,
+					["htakenspell"] = {
+					},
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Grom'kar Grenadier"] = {
+					["players"] = {
+						["Sarkodie"] = {
+							["taken"] = 146174,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "DEMONHUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["done"] = 0,
+					["taken"] = 146174,
+					["htakenspell"] = {
+					},
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobname"] = "Grom'kar Vanguard",
+			["shielding"] = 0,
+			["time"] = 6,
+			["starttime"] = 1471102242,
+			["multistrikes"] = 0,
+		}, -- [3]
+		{
+			["orbhealingabsorbed"] = 0,
+			["healingabsorbed"] = 0,
+			["ffdamagedone"] = 0,
+			["ccTakenCount"] = 0,
+			["interrupts"] = 0,
+			["damagetaken"] = 3346,
+			["orbbursthits"] = {
+				["total"] = 0,
+			},
+			["difficultyname"] = "Normal",
+			["healing"] = 3346,
+			["orbsummon"] = 0,
+			["name"] = "Grom'kar Shadowblade",
+			["mobhdone"] = 0,
+			["last_action"] = 1471102145,
+			["mobdone"] = 3346,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["orboverhealing"] = 0,
+			["endtime"] = 1471102153,
+			["overhealing"] = 69194,
+			["damage"] = 242371,
+			["players"] = {
+				{
+					["last"] = 1471102153,
+					["orbhealingabsorbed"] = 0,
+					["orbburstcast"] = 0,
+					["class"] = "DEMONHUNTER",
+					["damaged"] = {
+						["Burning Blademaster"] = 50487,
+						["Grom'kar Vanguard"] = 61286,
+						["Grom'kar Shadowblade"] = 130598,
+					},
+					["auras"] = {
+					},
+					["ffdamagedone"] = 0,
+					["ccTakenCount"] = 0,
+					["interrupts"] = 0,
+					["damagespells"] = {
+						["Fel Rush"] = {
+							["min"] = 30643,
+							["critical"] = 2,
+							["hit"] = 1,
+							["totalhits"] = 3,
+							["id"] = 192611,
+							["max"] = 61286,
+							["damage"] = 153215,
+						},
+						["Throw Glaive"] = {
+							["min"] = 19844,
+							["critical"] = 1,
+							["hit"] = 2,
+							["totalhits"] = 3,
+							["id"] = 185123,
+							["max"] = 38318,
+							["damage"] = 78231,
+						},
+						["Attack"] = {
+							["min"] = 2246,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["id"] = 6603,
+							["max"] = 4557,
+							["damage"] = 10925,
+						},
+					},
+					["damagetaken"] = 3346,
+					["orbhealed"] = {
+					},
+					["first"] = 1471102147,
+					["orbsummon"] = 0,
+					["name"] = "Sarkodie",
+					["leechTaken"] = 0,
+					["healed"] = {
+						["Player-1096-075D8DEF"] = {
+							["role"] = "NONE",
+							["name"] = "Sarkodie",
+							["amount"] = 3346,
+							["class"] = "DEMONHUNTER",
+							["shielding"] = 0,
+						},
+					},
+					["sam_total_dmg"] = 3344,
+					["leech"] = 0,
+					["sam_breakdown"] = {
+						["Physical Hit"] = 2,
+						["Miss"] = 4,
+						["Dodge"] = 3,
+					},
+					["score"] = 2.44044,
+					["healingabsorbed"] = 0,
+					["ccTakenSpells"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["overhealing"] = 69194,
+					["dispells"] = 0,
+					["ccbreaks"] = 0,
+					["healingspells"] = {
+						["Consume Soul"] = {
+							["shielding"] = 0,
+							["id"] = 178963,
+							["healing"] = 3346,
+							["absorbed"] = 0,
+							["min"] = 3346,
+							["multistrike"] = 0,
+							["name"] = "Consume Soul",
+							["critical"] = 0,
+							["max"] = 3346,
+							["overhealing"] = 69194,
+							["hits"] = 1,
+							["multistrikes"] = 0,
+						},
+					},
+					["time"] = 6,
+					["ccDoneSpells"] = {
+					},
+					["orboverhealing"] = 0,
+					["healing"] = 3346,
+					["id"] = "Player-1096-075D8DEF",
+					["damage"] = 242371,
+					["power"] = {
+					},
+					["mitigated"] = 0,
+					["ccDoneCount"] = 0,
+					["shielding"] = 0,
+					["orbhealing"] = 0,
+					["healthstone"] = 0,
+					["orbhealingspells"] = {
+					},
+					["damagetakenspells"] = {
+						["Attack"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["absorbed"] = 0,
+							["glancing"] = 0,
+							["critical"] = 0,
+							["min"] = 1084,
+							["multistrike"] = 0,
+							["name"] = "Attack",
+							["blocked"] = 0,
+							["totalhits"] = 2,
+							["resisted"] = 0,
+							["max"] = 2262,
+							["damage"] = 3346,
+						},
+					},
+					["maxhp"] = 290160,
+					["leeched"] = {
+					},
+					["ffdamagedonetargets"] = {
+					},
+					["ccDoneTargets"] = {
+					},
+					["ccTakenTargets"] = {
+					},
+					["role"] = "DAMAGER",
+					["sam_total_events"] = 9,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["ccDoneCount"] = 0,
+			["mobtaken"] = 242371,
+			["orbhealing"] = 0,
+			["leech"] = 0,
+			["orbpickuphits"] = {
+				["total"] = 0,
+			},
+			["power"] = {
+			},
+			["healthstone"] = 0,
+			["orbburstcast"] = 0,
+			["mobs"] = {
+				["Burning Blademaster"] = {
+					["players"] = {
+						["Sarkodie"] = {
+							["taken"] = 50487,
+							["done"] = 1084,
+							["role"] = "NONE",
+							["class"] = "DEMONHUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["done"] = 1084,
+					["taken"] = 50487,
+					["htakenspell"] = {
+					},
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Grom'kar Vanguard"] = {
+					["players"] = {
+						["Sarkodie"] = {
+							["taken"] = 61286,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "DEMONHUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["done"] = 0,
+					["taken"] = 61286,
+					["htakenspell"] = {
+					},
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Grom'kar Shadowblade"] = {
+					["players"] = {
+						["Sarkodie"] = {
+							["taken"] = 130598,
+							["done"] = 2262,
+							["role"] = "NONE",
+							["class"] = "DEMONHUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["done"] = 2262,
+					["taken"] = 130598,
+					["htakenspell"] = {
+					},
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobname"] = "Grom'kar Shadowblade",
+			["shielding"] = 0,
+			["time"] = 8,
+			["starttime"] = 1471102145,
+			["multistrikes"] = 0,
+		}, -- [4]
+		{
+			["orbhealingabsorbed"] = 0,
+			["healingabsorbed"] = 0,
+			["ffdamagedone"] = 0,
+			["ccTakenCount"] = 0,
+			["interrupts"] = 0,
+			["damagetaken"] = 1017,
+			["orbbursthits"] = {
+				["total"] = 0,
+			},
+			["difficultyname"] = "Normal",
+			["healing"] = 0,
+			["orbsummon"] = 0,
+			["name"] = "Burning Blademaster (2)",
+			["mobhdone"] = 0,
+			["last_action"] = 1471102125,
+			["mobdone"] = 1017,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["orboverhealing"] = 0,
+			["endtime"] = 1471102132,
+			["overhealing"] = 72540,
+			["damage"] = 48861,
+			["players"] = {
+				{
+					["last"] = 1471102131,
+					["orbhealingabsorbed"] = 0,
+					["orbburstcast"] = 0,
+					["class"] = "DEMONHUNTER",
+					["damaged"] = {
+						["Grom'kar Vanguard"] = 44645,
+						["Burning Blademaster"] = 4216,
+					},
+					["auras"] = {
+					},
+					["ffdamagedone"] = 0,
+					["ccTakenCount"] = 0,
+					["interrupts"] = 0,
+					["damagespells"] = {
+						["Throw Glaive"] = {
+							["min"] = 20236,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 185123,
+							["max"] = 20236,
+							["damage"] = 20236,
+						},
+						["Demon's Bite"] = {
+							["min"] = 11017,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 162243,
+							["max"] = 11017,
+							["damage"] = 11017,
+						},
+						["Attack"] = {
+							["min"] = 4216,
+							["critical"] = 2,
+							["hit"] = 1,
+							["totalhits"] = 3,
+							["id"] = 6603,
+							["max"] = 9160,
+							["damage"] = 17608,
+						},
+					},
+					["damagetaken"] = 1017,
+					["orbhealed"] = {
+					},
+					["first"] = 1471102125,
+					["orbsummon"] = 0,
+					["name"] = "Sarkodie",
+					["leechTaken"] = 0,
+					["healed"] = {
+						["Player-1096-075D8DEF"] = {
+							["role"] = "NONE",
+							["name"] = "Sarkodie",
+							["amount"] = 0,
+							["class"] = "DEMONHUNTER",
+							["shielding"] = 0,
+						},
+					},
+					["sam_total_dmg"] = 1016,
+					["leech"] = 0,
+					["sam_breakdown"] = {
+						["Physical Hit"] = 1,
+						["Parry"] = 1,
+					},
+					["score"] = 0.48861,
+					["healingabsorbed"] = 0,
+					["ccTakenSpells"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["overhealing"] = 72540,
+					["dispells"] = 0,
+					["ccbreaks"] = 0,
+					["healingspells"] = {
+						["Consume Soul"] = {
+							["shielding"] = 0,
+							["id"] = 178963,
+							["healing"] = 0,
+							["absorbed"] = 0,
+							["min"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Consume Soul",
+							["critical"] = 0,
+							["max"] = 0,
+							["overhealing"] = 72540,
+							["hits"] = 1,
+							["multistrikes"] = 0,
+						},
+					},
+					["time"] = 6,
+					["ccDoneSpells"] = {
+					},
+					["orboverhealing"] = 0,
+					["healing"] = 0,
+					["id"] = "Player-1096-075D8DEF",
+					["damage"] = 48861,
+					["power"] = {
+						[17] = {
+							["amount"] = 25,
+							["spells"] = {
+								[162243] = 25,
+							},
+						},
+					},
+					["mitigated"] = 0,
+					["ccDoneCount"] = 0,
+					["shielding"] = 0,
+					["orbhealing"] = 0,
+					["healthstone"] = 0,
+					["orbhealingspells"] = {
+					},
+					["damagetakenspells"] = {
+						["Attack"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["absorbed"] = 0,
+							["glancing"] = 0,
+							["critical"] = 0,
+							["min"] = 1017,
+							["multistrike"] = 0,
+							["name"] = "Attack",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 1017,
+							["damage"] = 1017,
+						},
+					},
+					["maxhp"] = 290160,
+					["leeched"] = {
+					},
+					["ffdamagedonetargets"] = {
+					},
+					["ccDoneTargets"] = {
+					},
+					["ccTakenTargets"] = {
+					},
+					["role"] = "DAMAGER",
+					["sam_total_events"] = 2,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["ccDoneCount"] = 0,
+			["mobtaken"] = 48861,
+			["orbhealing"] = 0,
+			["leech"] = 0,
+			["orbpickuphits"] = {
+				["total"] = 0,
+			},
+			["power"] = {
+				[17] = 25,
+			},
+			["healthstone"] = 0,
+			["orbburstcast"] = 0,
+			["mobs"] = {
+				["Grom'kar Vanguard"] = {
+					["players"] = {
+						["Sarkodie"] = {
+							["taken"] = 44645,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "DEMONHUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["done"] = 0,
+					["taken"] = 44645,
+					["htakenspell"] = {
+					},
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Burning Blademaster"] = {
+					["players"] = {
+						["Sarkodie"] = {
+							["taken"] = 4216,
+							["done"] = 1017,
+							["role"] = "NONE",
+							["class"] = "DEMONHUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["done"] = 1017,
+					["taken"] = 4216,
+					["htakenspell"] = {
+					},
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobname"] = "Burning Blademaster",
+			["shielding"] = 0,
+			["time"] = 7,
+			["starttime"] = 1471102125,
+			["multistrikes"] = 0,
+		}, -- [5]
+		{
+			["orbhealingabsorbed"] = 0,
+			["healingabsorbed"] = 0,
+			["ffdamagedone"] = 0,
+			["ccTakenCount"] = 0,
+			["interrupts"] = 0,
+			["damagetaken"] = 2484,
+			["orbbursthits"] = {
+				["total"] = 0,
+			},
+			["difficultyname"] = "Normal",
+			["healing"] = 0,
+			["orbsummon"] = 0,
+			["name"] = "Burning Blademaster",
+			["mobhdone"] = 0,
+			["last_action"] = 1471102082,
+			["mobdone"] = 2484,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["orboverhealing"] = 0,
+			["endtime"] = 1471102123,
+			["overhealing"] = 507780,
+			["damage"] = 458515,
+			["players"] = {
+				{
+					["last"] = 1471102122,
+					["orbhealingabsorbed"] = 0,
+					["orbburstcast"] = 0,
+					["class"] = "DEMONHUNTER",
+					["damaged"] = {
+						["Burning Blademaster"] = 164099,
+						["Grom'kar Vanguard"] = 243591,
+						["Grom'kar Grimshot"] = 50825,
+					},
+					["auras"] = {
+					},
+					["ffdamagedone"] = 0,
+					["ccTakenCount"] = 0,
+					["interrupts"] = 0,
+					["damagespells"] = {
+						["Chaos Strike"] = {
+							["min"] = 12493,
+							["critical"] = 1,
+							["hit"] = 2,
+							["totalhits"] = 3,
+							["id"] = 222031,
+							["max"] = 32653,
+							["damage"] = 61662,
+						},
+						["Demon's Bite"] = {
+							["min"] = 9992,
+							["critical"] = 2,
+							["hit"] = 5,
+							["totalhits"] = 7,
+							["id"] = 162243,
+							["max"] = 21515,
+							["damage"] = 95396,
+						},
+						["Fel Rush"] = {
+							["min"] = 30643,
+							["hit"] = 5,
+							["totalhits"] = 5,
+							["id"] = 192611,
+							["max"] = 30643,
+							["damage"] = 153215,
+						},
+						["Throw Glaive"] = {
+							["min"] = 19417,
+							["critical"] = 1,
+							["hit"] = 3,
+							["totalhits"] = 4,
+							["id"] = 185123,
+							["max"] = 42392,
+							["damage"] = 101462,
+						},
+						["Attack"] = {
+							["min"] = 2061,
+							["max"] = 8648,
+							["critical"] = 4,
+							["hit"] = 5,
+							["totalhits"] = 10,
+							["id"] = 6603,
+							["MISS"] = 1,
+							["damage"] = 46780,
+						},
+					},
+					["damagetaken"] = 2484,
+					["orbhealed"] = {
+					},
+					["first"] = 1471102082,
+					["orbsummon"] = 0,
+					["name"] = "Sarkodie",
+					["leechTaken"] = 0,
+					["healed"] = {
+						["Player-1096-075D8DEF"] = {
+							["role"] = "NONE",
+							["name"] = "Sarkodie",
+							["amount"] = 0,
+							["class"] = "DEMONHUNTER",
+							["shielding"] = 0,
+						},
+					},
+					["sam_total_dmg"] = 2483,
+					["leech"] = 0,
+					["sam_breakdown"] = {
+						["Miss"] = 1,
+						["Dodge"] = 1,
+						["Crit"] = 1,
+						["Parry"] = 2,
+					},
+					["score"] = 4.58515,
+					["healingabsorbed"] = 0,
+					["ccTakenSpells"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["overhealing"] = 507780,
+					["dispells"] = 0,
+					["ccbreaks"] = 0,
+					["healingspells"] = {
+						["Consume Soul"] = {
+							["shielding"] = 0,
+							["id"] = 178963,
+							["healing"] = 0,
+							["absorbed"] = 0,
+							["min"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Consume Soul",
+							["critical"] = 0,
+							["max"] = 0,
+							["overhealing"] = 507780,
+							["hits"] = 7,
+							["multistrikes"] = 0,
+						},
+					},
+					["time"] = 40,
+					["ccDoneSpells"] = {
+					},
+					["orboverhealing"] = 0,
+					["healing"] = 0,
+					["id"] = "Player-1096-075D8DEF",
+					["damage"] = 458515,
+					["power"] = {
+						[17] = {
+							["amount"] = 201,
+							["spells"] = {
+								[162243] = 181,
+								[193840] = 20,
+							},
+						},
+					},
+					["mitigated"] = 0,
+					["ccDoneCount"] = 0,
+					["shielding"] = 0,
+					["orbhealing"] = 0,
+					["healthstone"] = 0,
+					["orbhealingspells"] = {
+					},
+					["damagetakenspells"] = {
+						["Attack"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["absorbed"] = 0,
+							["glancing"] = 0,
+							["critical"] = 1,
+							["min"] = 2484,
+							["multistrike"] = 0,
+							["name"] = "Attack",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 2484,
+							["damage"] = 2484,
+						},
+					},
+					["maxhp"] = 290160,
+					["leeched"] = {
+					},
+					["ffdamagedonetargets"] = {
+					},
+					["ccDoneTargets"] = {
+					},
+					["ccTakenTargets"] = {
+					},
+					["role"] = "DAMAGER",
+					["sam_total_events"] = 5,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["ccDoneCount"] = 0,
+			["mobtaken"] = 458515,
+			["orbhealing"] = 0,
+			["leech"] = 0,
+			["orbpickuphits"] = {
+				["total"] = 0,
+			},
+			["power"] = {
+				[17] = 201,
+			},
+			["healthstone"] = 0,
+			["orbburstcast"] = 0,
+			["mobs"] = {
+				["Burning Blademaster"] = {
+					["players"] = {
+						["Sarkodie"] = {
+							["taken"] = 164099,
+							["done"] = 2484,
+							["role"] = "NONE",
+							["class"] = "DEMONHUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["done"] = 2484,
+					["taken"] = 164099,
+					["htakenspell"] = {
+					},
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Grom'kar Vanguard"] = {
+					["players"] = {
+						["Sarkodie"] = {
+							["taken"] = 243591,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "DEMONHUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["done"] = 0,
+					["taken"] = 243591,
+					["htakenspell"] = {
+					},
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Grom'kar Grimshot"] = {
+					["players"] = {
+						["Sarkodie"] = {
+							["taken"] = 50825,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "DEMONHUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["done"] = 0,
+					["taken"] = 50825,
+					["htakenspell"] = {
+					},
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobname"] = "Burning Blademaster",
+			["shielding"] = 0,
+			["time"] = 41,
+			["starttime"] = 1471102082,
+			["multistrikes"] = 0,
+		}, -- [6]
+		{
+			["orbhealingabsorbed"] = 0,
+			["healingabsorbed"] = 0,
+			["ffdamagedone"] = 0,
+			["ccTakenCount"] = 0,
+			["interrupts"] = 0,
+			["damagetaken"] = 0,
+			["orbbursthits"] = {
+				["total"] = 0,
+			},
+			["difficultyname"] = "Normal",
+			["healing"] = 0,
+			["orbsummon"] = 0,
+			["name"] = "Grom'kar Vanguard (2)",
+			["mobhdone"] = 0,
+			["last_action"] = 1471102017,
+			["mobdone"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["orboverhealing"] = 0,
+			["endtime"] = 1471102053,
+			["overhealing"] = 0,
+			["damage"] = 2785666,
+			["players"] = {
+				{
+					["last"] = 1471102046,
+					["orbhealingabsorbed"] = 0,
+					["orbburstcast"] = 0,
+					["class"] = "DEMONHUNTER",
+					["damaged"] = {
+						["Grom'kar Grimshot"] = 285468,
+						["Grom'kar Shadowblade"] = 286098,
+						["Fireblade Invoker"] = 344953,
+						["Burning Blademaster"] = 470492,
+						["Grom'kar Deadeye"] = 714771,
+						["Grom'kar Vanguard"] = 683884,
+					},
+					["auras"] = {
+					},
+					["ffdamagedone"] = 0,
+					["ccTakenCount"] = 0,
+					["interrupts"] = 0,
+					["damagespells"] = {
+						["Iron Star: Fiery Death"] = {
+							["min"] = 35406,
+							["hit"] = 59,
+							["totalhits"] = 59,
+							["id"] = 173428,
+							["max"] = 58484,
+							["damage"] = 2785666,
+						},
+					},
+					["damagetaken"] = 0,
+					["orbhealed"] = {
+					},
+					["first"] = 1471102017,
+					["orbsummon"] = 0,
+					["name"] = "Sarkodie",
+					["leechTaken"] = 0,
+					["healed"] = {
+					},
+					["leech"] = 0,
+					["sam_breakdown"] = {
+					},
+					["score"] = 27.85666,
+					["ccDoneTargets"] = {
+					},
+					["ccTakenSpells"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["maxhp"] = 290160,
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["ccbreaks"] = 0,
+					["overhealing"] = 0,
+					["ccDoneSpells"] = {
+					},
+					["orboverhealing"] = 0,
+					["healing"] = 0,
+					["ccDoneCount"] = 0,
+					["damage"] = 2785666,
+					["id"] = "Player-1096-075D8DEF",
+					["mitigated"] = 0,
+					["healthstone"] = 0,
+					["shielding"] = 0,
+					["orbhealing"] = 0,
+					["power"] = {
+					},
+					["orbhealingspells"] = {
+					},
+					["damagetakenspells"] = {
+					},
+					["time"] = 29,
+					["leeched"] = {
+					},
+					["ffdamagedonetargets"] = {
+					},
+					["healingabsorbed"] = 0,
+					["ccTakenTargets"] = {
+					},
+					["role"] = "DAMAGER",
+					["sam_total_events"] = 0,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["ccDoneCount"] = 0,
+			["mobtaken"] = 2785666,
+			["orbhealing"] = 0,
+			["leech"] = 0,
+			["orbpickuphits"] = {
+				["total"] = 0,
+			},
+			["power"] = {
+			},
+			["healthstone"] = 0,
+			["orbburstcast"] = 0,
+			["mobs"] = {
+				["Grom'kar Grimshot"] = {
+					["players"] = {
+						["Sarkodie"] = {
+							["taken"] = 285468,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "DEMONHUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["done"] = 0,
+					["taken"] = 285468,
+					["htakenspell"] = {
+					},
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Grom'kar Shadowblade"] = {
+					["players"] = {
+						["Sarkodie"] = {
+							["taken"] = 286098,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "DEMONHUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["done"] = 0,
+					["taken"] = 286098,
+					["htakenspell"] = {
+					},
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Fireblade Invoker"] = {
+					["players"] = {
+						["Sarkodie"] = {
+							["taken"] = 344953,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "DEMONHUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["done"] = 0,
+					["taken"] = 344953,
+					["htakenspell"] = {
+					},
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Burning Blademaster"] = {
+					["players"] = {
+						["Sarkodie"] = {
+							["taken"] = 470492,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "DEMONHUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["done"] = 0,
+					["taken"] = 470492,
+					["htakenspell"] = {
+					},
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Grom'kar Deadeye"] = {
+					["players"] = {
+						["Sarkodie"] = {
+							["taken"] = 714771,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "DEMONHUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["done"] = 0,
+					["taken"] = 714771,
+					["htakenspell"] = {
+					},
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Grom'kar Vanguard"] = {
+					["players"] = {
+						["Sarkodie"] = {
+							["taken"] = 683884,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "DEMONHUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["done"] = 0,
+					["taken"] = 683884,
+					["htakenspell"] = {
+					},
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobname"] = "Grom'kar Vanguard",
+			["shielding"] = 0,
+			["time"] = 36,
+			["starttime"] = 1471102017,
+			["multistrikes"] = 0,
+		}, -- [7]
+		{
+			["orbhealingabsorbed"] = 0,
+			["healingabsorbed"] = 0,
+			["ffdamagedone"] = 0,
+			["ccTakenCount"] = 0,
+			["interrupts"] = 0,
+			["damagetaken"] = 4741,
+			["orbbursthits"] = {
+				["total"] = 0,
+			},
+			["difficultyname"] = "Normal",
+			["healing"] = 3269,
+			["orbsummon"] = 0,
+			["name"] = "Iron Shredder Prototype",
+			["mobhdone"] = 0,
+			["last_action"] = 1471101845,
+			["mobdone"] = 4741,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["orboverhealing"] = 0,
+			["endtime"] = 1471101861,
+			["overhealing"] = 69271,
+			["damage"] = 254934,
+			["players"] = {
+				{
+					["last"] = 1471101860,
+					["orbhealingabsorbed"] = 0,
+					["orbburstcast"] = 0,
+					["class"] = "DEMONHUNTER",
+					["damaged"] = {
+						["Iron Shredder Prototype"] = 79492,
+						["Ketya Shrediron"] = 175442,
+					},
+					["auras"] = {
+						["Demonic Ferocity"] = {
+							["name"] = "Demonic Ferocity",
+							["active"] = 0,
+							["id"] = 226991,
+							["auratype"] = "BUFF",
+							["uptime"] = 12,
+						},
+					},
+					["ffdamagedone"] = 0,
+					["ccTakenCount"] = 0,
+					["interrupts"] = 0,
+					["damagespells"] = {
+						["Chaos Strike"] = {
+							["min"] = 33862,
+							["critical"] = 3,
+							["totalhits"] = 3,
+							["id"] = 222031,
+							["max"] = 42647,
+							["damage"] = 110935,
+						},
+						["Throw Glaive"] = {
+							["min"] = 25860,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 185123,
+							["max"] = 25860,
+							["damage"] = 25860,
+						},
+						["Consume Magic"] = {
+							["id"] = 183752,
+							["totalhits"] = 1,
+							["IMMUNE"] = 1,
+							["max"] = 0,
+							["damage"] = 0,
+						},
+						["Demon's Bite"] = {
+							["min"] = 21601,
+							["critical"] = 3,
+							["totalhits"] = 3,
+							["id"] = 162243,
+							["max"] = 27665,
+							["damage"] = 76895,
+						},
+						["Attack"] = {
+							["min"] = 2142,
+							["critical"] = 2,
+							["hit"] = 6,
+							["totalhits"] = 8,
+							["id"] = 6603,
+							["max"] = 11722,
+							["damage"] = 41244,
+						},
+					},
+					["damagetaken"] = 4741,
+					["orbhealed"] = {
+					},
+					["first"] = 1471101845,
+					["orbsummon"] = 0,
+					["name"] = "Sarkodie",
+					["leechTaken"] = 0,
+					["healed"] = {
+						["Player-1096-075D8DEF"] = {
+							["role"] = "NONE",
+							["name"] = "Sarkodie",
+							["amount"] = 3269,
+							["class"] = "DEMONHUNTER",
+							["shielding"] = 0,
+						},
+					},
+					["sam_total_dmg"] = 4739,
+					["leech"] = 0,
+					["sam_breakdown"] = {
+						["Physical Hit"] = 1,
+						["Miss"] = 2,
+						["Spell Hit"] = 1,
+						["Dodge"] = 2,
+					},
+					["score"] = 2.565685,
+					["healingabsorbed"] = 0,
+					["ccTakenSpells"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["overhealing"] = 69271,
+					["dispells"] = 0,
+					["ccbreaks"] = 0,
+					["healingspells"] = {
+						["Consume Soul"] = {
+							["shielding"] = 0,
+							["id"] = 178963,
+							["healing"] = 3269,
+							["absorbed"] = 0,
+							["min"] = 3269,
+							["multistrike"] = 0,
+							["name"] = "Consume Soul",
+							["critical"] = 0,
+							["max"] = 3269,
+							["overhealing"] = 69271,
+							["hits"] = 1,
+							["multistrikes"] = 0,
+						},
+					},
+					["time"] = 15,
+					["ccDoneSpells"] = {
+					},
+					["orboverhealing"] = 0,
+					["healing"] = 3269,
+					["id"] = "Player-1096-075D8DEF",
+					["damage"] = 254934,
+					["power"] = {
+						[17] = {
+							["amount"] = 114,
+							["spells"] = {
+								[162243] = 74,
+								[193840] = 40,
+							},
+						},
+					},
+					["mitigated"] = 0,
+					["ccDoneCount"] = 0,
+					["shielding"] = 0,
+					["orbhealing"] = 0,
+					["healthstone"] = 0,
+					["orbhealingspells"] = {
+					},
+					["damagetakenspells"] = {
+						["Elecrostatic Distortion"] = {
+							["crushing"] = 0,
+							["id"] = 160151,
+							["absorbed"] = 0,
+							["glancing"] = 0,
+							["critical"] = 0,
+							["min"] = 3269,
+							["multistrike"] = 0,
+							["name"] = "Elecrostatic Distortion",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 3269,
+							["damage"] = 3269,
+						},
+						["Zot!"] = {
+							["crushing"] = 0,
+							["id"] = 160184,
+							["absorbed"] = 0,
+							["glancing"] = 0,
+							["critical"] = 0,
+							["min"] = 1472,
+							["multistrike"] = 0,
+							["name"] = "Zot!",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 1472,
+							["damage"] = 1472,
+						},
+					},
+					["maxhp"] = 290160,
+					["leeched"] = {
+					},
+					["ffdamagedonetargets"] = {
+					},
+					["ccDoneTargets"] = {
+					},
+					["ccTakenTargets"] = {
+					},
+					["role"] = "DAMAGER",
+					["sam_total_events"] = 6,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["ccDoneCount"] = 0,
+			["mobtaken"] = 254934,
+			["orbhealing"] = 0,
+			["leech"] = 0,
+			["orbpickuphits"] = {
+				["total"] = 0,
+			},
+			["power"] = {
+				[17] = 114,
+			},
+			["healthstone"] = 0,
+			["orbburstcast"] = 0,
+			["mobs"] = {
+				["Iron Shredder Prototype"] = {
+					["players"] = {
+						["Sarkodie"] = {
+							["taken"] = 79492,
+							["done"] = 3269,
+							["role"] = "NONE",
+							["class"] = "DEMONHUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["done"] = 3269,
+					["taken"] = 79492,
+					["htakenspell"] = {
+					},
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Ketya Shrediron"] = {
+					["players"] = {
+						["Sarkodie"] = {
+							["taken"] = 175442,
+							["done"] = 1472,
+							["role"] = "NONE",
+							["class"] = "DEMONHUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["done"] = 1472,
+					["taken"] = 175442,
+					["htakenspell"] = {
+					},
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobname"] = "Iron Shredder Prototype",
+			["shielding"] = 0,
+			["time"] = 16,
+			["starttime"] = 1471101845,
+			["multistrikes"] = 0,
+		}, -- [8]
+		{
+			["orbhealingabsorbed"] = 0,
+			["healingabsorbed"] = 0,
+			["ffdamagedone"] = 0,
+			["ccTakenCount"] = 0,
+			["interrupts"] = 0,
+			["damagetaken"] = 0,
+			["orbbursthits"] = {
+				["total"] = 0,
+			},
+			["difficultyname"] = "Normal",
+			["healing"] = 0,
+			["orbsummon"] = 0,
+			["name"] = "Grom'kar Grimshot",
+			["mobhdone"] = 0,
+			["last_action"] = 1471101810,
+			["mobdone"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["orboverhealing"] = 0,
+			["endtime"] = 1471101830,
+			["overhealing"] = 0,
+			["damage"] = 1622222,
+			["players"] = {
+				{
+					["last"] = 1471101829,
+					["orbhealingabsorbed"] = 0,
+					["orbburstcast"] = 0,
+					["class"] = "DEMONHUNTER",
+					["damaged"] = {
+						["Iron Brute"] = 276613,
+						["Grom'kar Grimshot"] = 694856,
+						["Grom'kar Shadowblade"] = 567769,
+						["Burning Blademaster"] = 43468,
+						["Grom'kar Vanguard"] = 39516,
+					},
+					["auras"] = {
+					},
+					["ffdamagedone"] = 0,
+					["ccTakenCount"] = 0,
+					["interrupts"] = 0,
+					["damagespells"] = {
+						["Iron Shredder Prototype: Electrostatic Discharge"] = {
+							["min"] = 39516,
+							["hit"] = 5,
+							["totalhits"] = 5,
+							["id"] = 173033,
+							["max"] = 276613,
+							["damage"] = 438629,
+						},
+						["Iron Shredder Prototype: Death from Above"] = {
+							["min"] = 61962,
+							["hit"] = 12,
+							["totalhits"] = 12,
+							["id"] = 173022,
+							["max"] = 64491,
+							["damage"] = 756818,
+						},
+						["Iron Shredder Prototype: Electrostatic Distortion"] = {
+							["min"] = 47419,
+							["hit"] = 9,
+							["totalhits"] = 9,
+							["id"] = 173015,
+							["max"] = 47420,
+							["damage"] = 426775,
+						},
+					},
+					["damagetaken"] = 0,
+					["orbhealed"] = {
+					},
+					["first"] = 1471101810,
+					["orbsummon"] = 0,
+					["name"] = "Sarkodie",
+					["leechTaken"] = 0,
+					["healed"] = {
+					},
+					["leech"] = 0,
+					["sam_breakdown"] = {
+					},
+					["score"] = 16.22222,
+					["ccDoneTargets"] = {
+					},
+					["ccTakenSpells"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["maxhp"] = 290160,
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["ccbreaks"] = 0,
+					["overhealing"] = 0,
+					["ccDoneSpells"] = {
+					},
+					["orboverhealing"] = 0,
+					["healing"] = 0,
+					["ccDoneCount"] = 0,
+					["damage"] = 1622222,
+					["id"] = "Player-1096-075D8DEF",
+					["mitigated"] = 0,
+					["healthstone"] = 0,
+					["shielding"] = 0,
+					["orbhealing"] = 0,
+					["power"] = {
+					},
+					["orbhealingspells"] = {
+					},
+					["damagetakenspells"] = {
+					},
+					["time"] = 19,
+					["leeched"] = {
+					},
+					["ffdamagedonetargets"] = {
+					},
+					["healingabsorbed"] = 0,
+					["ccTakenTargets"] = {
+					},
+					["role"] = "DAMAGER",
+					["sam_total_events"] = 0,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["ccDoneCount"] = 0,
+			["mobtaken"] = 1622222,
+			["orbhealing"] = 0,
+			["leech"] = 0,
+			["orbpickuphits"] = {
+				["total"] = 0,
+			},
+			["power"] = {
+			},
+			["healthstone"] = 0,
+			["orbburstcast"] = 0,
+			["mobs"] = {
+				["Iron Brute"] = {
+					["players"] = {
+						["Sarkodie"] = {
+							["taken"] = 276613,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "DEMONHUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["done"] = 0,
+					["taken"] = 276613,
+					["htakenspell"] = {
+					},
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Grom'kar Grimshot"] = {
+					["players"] = {
+						["Sarkodie"] = {
+							["taken"] = 694856,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "DEMONHUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["done"] = 0,
+					["taken"] = 694856,
+					["htakenspell"] = {
+					},
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Grom'kar Shadowblade"] = {
+					["players"] = {
+						["Sarkodie"] = {
+							["taken"] = 567769,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "DEMONHUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["done"] = 0,
+					["taken"] = 567769,
+					["htakenspell"] = {
+					},
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Burning Blademaster"] = {
+					["players"] = {
+						["Sarkodie"] = {
+							["taken"] = 43468,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "DEMONHUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["done"] = 0,
+					["taken"] = 43468,
+					["htakenspell"] = {
+					},
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Grom'kar Vanguard"] = {
+					["players"] = {
+						["Sarkodie"] = {
+							["taken"] = 39516,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "DEMONHUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["done"] = 0,
+					["taken"] = 39516,
+					["htakenspell"] = {
+					},
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobname"] = "Grom'kar Grimshot",
+			["shielding"] = 0,
+			["time"] = 20,
+			["starttime"] = 1471101810,
+			["multistrikes"] = 0,
+		}, -- [9]
+		{
+			["orbhealingabsorbed"] = 0,
+			["healingabsorbed"] = 0,
+			["ffdamagedone"] = 0,
+			["ccTakenCount"] = 0,
+			["interrupts"] = 0,
+			["damagetaken"] = 0,
+			["orbbursthits"] = {
+				["total"] = 0,
+			},
+			["difficultyname"] = "Normal",
+			["healing"] = 0,
+			["orbsummon"] = 0,
+			["name"] = "Grom'kar Deadeye (2)",
+			["mobhdone"] = 0,
+			["last_action"] = 1471101801,
+			["mobdone"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["orboverhealing"] = 0,
+			["endtime"] = 1471101809,
+			["overhealing"] = 0,
+			["damage"] = 221291,
+			["players"] = {
+				{
+					["last"] = 1471101805,
+					["orbhealingabsorbed"] = 0,
+					["orbburstcast"] = 0,
+					["class"] = "DEMONHUNTER",
+					["damaged"] = {
+						["Grom'kar Deadeye"] = 221291,
+					},
+					["auras"] = {
+					},
+					["ffdamagedone"] = 0,
+					["ccTakenCount"] = 0,
+					["interrupts"] = 0,
+					["damagespells"] = {
+						["Iron Shredder Prototype: Electrostatic Discharge"] = {
+							["min"] = 39516,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 173033,
+							["max"] = 39516,
+							["damage"] = 79032,
+						},
+						["Iron Shredder Prototype: Electrostatic Distortion"] = {
+							["min"] = 47419,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["id"] = 173015,
+							["max"] = 47420,
+							["damage"] = 142259,
+						},
+					},
+					["damagetaken"] = 0,
+					["orbhealed"] = {
+					},
+					["first"] = 1471101801,
+					["orbsummon"] = 0,
+					["name"] = "Sarkodie",
+					["leechTaken"] = 0,
+					["healed"] = {
+					},
+					["leech"] = 0,
+					["sam_breakdown"] = {
+					},
+					["score"] = 2.21291,
+					["ccDoneTargets"] = {
+					},
+					["ccTakenSpells"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["maxhp"] = 290160,
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["ccbreaks"] = 0,
+					["overhealing"] = 0,
+					["ccDoneSpells"] = {
+					},
+					["orboverhealing"] = 0,
+					["healing"] = 0,
+					["ccDoneCount"] = 0,
+					["damage"] = 221291,
+					["id"] = "Player-1096-075D8DEF",
+					["mitigated"] = 0,
+					["healthstone"] = 0,
+					["shielding"] = 0,
+					["orbhealing"] = 0,
+					["power"] = {
+					},
+					["orbhealingspells"] = {
+					},
+					["damagetakenspells"] = {
+					},
+					["time"] = 4,
+					["leeched"] = {
+					},
+					["ffdamagedonetargets"] = {
+					},
+					["healingabsorbed"] = 0,
+					["ccTakenTargets"] = {
+					},
+					["role"] = "DAMAGER",
+					["sam_total_events"] = 0,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["ccDoneCount"] = 0,
+			["mobtaken"] = 221291,
+			["orbhealing"] = 0,
+			["leech"] = 0,
+			["orbpickuphits"] = {
+				["total"] = 0,
+			},
+			["power"] = {
+			},
+			["healthstone"] = 0,
+			["orbburstcast"] = 0,
+			["mobs"] = {
+				["Grom'kar Deadeye"] = {
+					["players"] = {
+						["Sarkodie"] = {
+							["taken"] = 221291,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "DEMONHUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["done"] = 0,
+					["taken"] = 221291,
+					["htakenspell"] = {
+					},
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobname"] = "Grom'kar Deadeye",
+			["shielding"] = 0,
+			["time"] = 8,
+			["starttime"] = 1471101801,
+			["multistrikes"] = 0,
+		}, -- [10]
+	},
+	["total"] = {
+		["orbhealingabsorbed"] = 0,
+		["healingabsorbed"] = 0,
+		["ffdamagedone"] = 0,
+		["ccTakenCount"] = 0,
+		["interrupts"] = 0,
+		["damagetaken"] = 1641431,
+		["orbbursthits"] = {
+			["total"] = 0,
+		},
+		["difficultyname"] = "Normal",
+		["healing"] = 1651192,
+		["orbsummon"] = 0,
+		["name"] = "Total",
+		["mobhdone"] = 606420,
+		["last_action"] = 1471087576,
+		["mobdone"] = 1634762,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["orboverhealing"] = 0,
+		["damage"] = 53860513,
+		["starttime"] = 1471087576,
+		["deaths"] = 0,
+		["ccDoneCount"] = 0,
+		["mobtaken"] = 53860513,
+		["orbhealing"] = 0,
+		["leech"] = 0,
+		["orbpickuphits"] = {
+			["total"] = 0,
+		},
+		["power"] = {
+			[17] = 8184,
+		},
+		["healthstone"] = 0,
+		["orbburstcast"] = 0,
+		["mobs"] = {
+			["Kuu'rat"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 184696,
+						["done"] = 2036,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 2036,
+				["taken"] = 184696,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Ula"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 0,
+				["htakenspell"] = {
+					["Rejuvenating Vines"] = {
+						["min"] = 1973,
+						["crits"] = 0,
+						["max"] = 3954,
+						["healing"] = 19615,
+						["overhealing"] = 4110,
+						["hits"] = 6,
+					},
+				},
+				["htaken"] = 19615,
+				["hdonespell"] = {
+				},
+			},
+			["Bloom Weaver"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 404679,
+						["done"] = 4162,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 4162,
+				["taken"] = 404679,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Commander Gar"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 493593,
+						["done"] = 5451,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 5451,
+				["taken"] = 493593,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Krull"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 168614,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 168614,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Angered Sapling"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 40916,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 40916,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Blackrock Bomb"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 0,
+						["done"] = 13098,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 13098,
+				["taken"] = 0,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Vicious Observer"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 66657,
+						["done"] = 3138,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 3138,
+				["taken"] = 66657,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Shadowmoon Voidmancer"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 77528,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 77528,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Heartsting Pollinator"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 64375,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 64375,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Lesser Warlock"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 334879,
+						["done"] = 4747,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 4747,
+				["taken"] = 334879,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Voice of Iyu"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 84180,
+						["done"] = 1715,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 5800,
+				["done"] = 1715,
+				["taken"] = 84180,
+				["htakenspell"] = {
+					["Rejuvenating Water"] = {
+						["min"] = 5800,
+						["crits"] = 0,
+						["max"] = 5800,
+						["healing"] = 5800,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+				["htaken"] = 5800,
+				["hdonespell"] = {
+					["Rejuvenating Water"] = {
+						["min"] = 5800,
+						["crits"] = 0,
+						["max"] = 5800,
+						["healing"] = 5800,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+			},
+			["Spore Shambler"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 707814,
+						["done"] = 42409,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 42409,
+				["taken"] = 707814,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Small Illusionary Varmint"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 667561,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 667561,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["King Deathbloom"] = {
+				["players"] = {
+					["Critter Buddy"] = {
+						["taken"] = 22974,
+						["done"] = 0,
+						["role"] = "NONE",
+					},
+					["Sarkodie"] = {
+						["taken"] = 109505,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 132479,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Vicious Voidwalker"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 59056,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 59056,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Glowgullet Devourer"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 362177,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 362177,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Luminous Orchid"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 89116,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 89116,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Shadowmoon Voidaxe"] = {
+				["players"] = {
+					["Yrel"] = {
+						["taken"] = 1034,
+						["done"] = 0,
+						["role"] = "NONE",
+					},
+					["Sarkodie"] = {
+						["taken"] = 2752100,
+						["done"] = 180761,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 180761,
+				["taken"] = 2753134,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Fungal Stomper"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 180386,
+						["done"] = 1626,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 1626,
+				["taken"] = 180386,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Blackrock Flamecaster"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 218842,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 218842,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Crimsonwing Wasp"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 412699,
+						["done"] = 69767,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 69767,
+				["taken"] = 412699,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Podling Bopper"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 41044,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 41044,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Mad \"King\" Sporeon"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 107459,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 107459,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Infected Bar Patron"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 171705,
+						["done"] = 11565,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 11565,
+				["taken"] = 171705,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Podling Spitter"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 19900,
+						["done"] = 804,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 804,
+				["taken"] = 19900,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Void Wolf"] = {
+				["players"] = {
+					["Yrel"] = {
+						["taken"] = 5218,
+						["done"] = 0,
+						["role"] = "NONE",
+					},
+					["Sarkodie"] = {
+						["taken"] = 306429,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 311647,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Jiasska the Sporegorger"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 281589,
+						["done"] = 11908,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 11908,
+				["taken"] = 281589,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Spore Drifter"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 485106,
+						["done"] = 12378,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 12378,
+				["taken"] = 485106,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Swamplighter Hive"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 50112,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 50112,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Infested Orc"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 57571,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 57571,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Fungal Giant"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 120165,
+						["done"] = 1940,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 1940,
+				["taken"] = 120165,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Vicious Felhunter"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 25113,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 25113,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Shadowmoon Dark Priestess"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 64028,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 64028,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Shardback Breacher"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 189029,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 189029,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Grom'kar Deadeye"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 3734334,
+						["done"] = 215135,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 215135,
+				["taken"] = 3734334,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Void Fragment"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 108038,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 108038,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Botani Grower"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 24535,
+						["done"] = 4388,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 4388,
+				["taken"] = 24535,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Gorgrond Water Snake"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 546919,
+						["done"] = 2259,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 2259,
+				["taken"] = 546919,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Podling Trapper"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 22888,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 22888,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Large Illusionary Varmint"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 521499,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 521499,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Ash Spiderling"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 30643,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 30643,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Shadowmoon Raider"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 291937,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 291937,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Botani Grovetender"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 120048,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 120048,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Lunarfall Goren"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 293742,
+						["done"] = 1962,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 1962,
+				["taken"] = 293742,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Riot Blossom"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 235908,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 235908,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Infested Behemoth"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 184429,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 184429,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Shadow Warrior"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 225859,
+						["done"] = 9123,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 9123,
+				["taken"] = 225859,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Peon"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 90348,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 90348,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Goc"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 381865,
+						["done"] = 6018,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 6018,
+				["taken"] = 381865,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Tangled Sapling"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 252273,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 252273,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Blooming Genesaur"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 192940,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 192940,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Burning Blademaster"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 1974067,
+						["done"] = 4585,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 4585,
+				["taken"] = 1974067,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Huge Illusionary Slayer"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 633968,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 633968,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Botani Roottender"] = {
+				["players"] = {
+				},
+				["hdone"] = 19615,
+				["done"] = 0,
+				["taken"] = 0,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Rejuvenating Vines"] = {
+						["min"] = 1973,
+						["crits"] = 0,
+						["max"] = 3954,
+						["healing"] = 19615,
+						["overhealing"] = 4110,
+						["hits"] = 6,
+					},
+				},
+			},
+			["Shattered Chainmaster"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 245487,
+						["done"] = 4282,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 4282,
+				["taken"] = 245487,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Karnoth"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 87695,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 87695,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Podling Squirt"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 537127,
+						["done"] = 6940,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 6940,
+				["taken"] = 537127,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Shadowmoon Voidspeaker"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 96657,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 96657,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Gul'var Grunt"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 117237,
+						["done"] = 2923,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 2923,
+				["taken"] = 117237,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Podling Nibbler"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 963245,
+						["done"] = 3032,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 3032,
+				["taken"] = 963245,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Harvester Ommru"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 109826,
+						["done"] = 1323,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 1323,
+				["taken"] = 109826,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Shadowmoon Ritualist"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 1596630,
+						["done"] = 94985,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 94985,
+				["taken"] = 1596630,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Tangleheart Cultivator"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 225818,
+						["done"] = 7604,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 7604,
+				["taken"] = 225818,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Kil'uun"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 202114,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 202114,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Swamplighter Drone"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 124131,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 124131,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Small Illusionary Slayer"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 123254,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 123254,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Echidnian Hydra"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 333241,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 333241,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Swamplighter Worker"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 261951,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 261951,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Blackhand"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 539145,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 539145,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Lunarfall Raccoon"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 508384,
+						["done"] = 2925,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 2925,
+				["taken"] = 508384,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Dreadpiston"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 226382,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 226382,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Lunarfall Footman"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 0,
+				["htakenspell"] = {
+					["Rally"] = {
+						["min"] = 136995,
+						["crits"] = 0,
+						["max"] = 136995,
+						["healing"] = 410985,
+						["overhealing"] = 0,
+						["hits"] = 3,
+					},
+				},
+				["htaken"] = 410985,
+				["hdonespell"] = {
+				},
+			},
+			["Primordial Horror"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 715882,
+						["done"] = 93613,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 93613,
+				["taken"] = 715882,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Smokemaster Snarl"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 142537,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 142537,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Thicket Ravager"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 201781,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 201781,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Shadowmoon Voidbinder"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 425826,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+					["Yrel"] = {
+						["taken"] = 13005,
+						["done"] = 0,
+						["role"] = "NONE",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 438831,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Siege Cannon"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 646660,
+						["done"] = 3719,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 3719,
+				["taken"] = 646660,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Hyacinth Mandragora"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 42571,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 42571,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Infested Ogron"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 121907,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 121907,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Fireblade Invoker"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 989963,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 989963,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Grom'kar Siegesmith"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 209880,
+						["done"] = 13472,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 13472,
+				["taken"] = 209880,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Fungus Covered Shambler"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 245216,
+						["done"] = 12184,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 12184,
+				["taken"] = 245216,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Gronnling Slave"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 335742,
+						["done"] = 2778,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 2778,
+				["taken"] = 335742,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Maa'run"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 175305,
+						["done"] = 3575,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 3575,
+				["taken"] = 175305,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Steeltusk"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 150234,
+						["done"] = 10029,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 10029,
+				["taken"] = 150234,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Horde Opportunist"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 611259,
+						["done"] = 134386,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 134386,
+				["taken"] = 611259,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Silverwing Kaliri"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 42057,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 42057,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Blademaster Bralok"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 77823,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 77823,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Moon Snake"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 61286,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 61286,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Grom'kar Grunt"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 1986507,
+						["done"] = 98992,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 98992,
+				["taken"] = 1986507,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Grom'kar Grimshot"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 1342966,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 1342966,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Small Illusionary Guardian"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 671157,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 671157,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Crimson Mandragora"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 114238,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 114238,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Phlox"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 105921,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 105921,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Ketya Shrediron"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 175442,
+						["done"] = 1472,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 1472,
+				["taken"] = 175442,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Mimmi-DefiasBrotherhood"] = {
+				["players"] = {
+				},
+				["hdone"] = 1006,
+				["done"] = 0,
+				["taken"] = 0,
+				["htakenspell"] = {
+					["Touch of the Grave"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 1006,
+						["healing"] = 1006,
+						["overhealing"] = 3358,
+						["hits"] = 2,
+					},
+				},
+				["htaken"] = 1006,
+				["hdonespell"] = {
+					["Touch of the Grave"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 1006,
+						["healing"] = 1006,
+						["overhealing"] = 3358,
+						["hits"] = 2,
+					},
+				},
+			},
+			["Khaano"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 172739,
+						["done"] = 2289,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 2289,
+				["taken"] = 172739,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Glowing Draenite Crystal"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 55837,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 55837,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Fungal Lurcher"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 217042,
+						["done"] = 6032,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 6032,
+				["taken"] = 217042,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Daggerjaw Pridelord"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 121622,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 121622,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Fel Mistress Hagra"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 95294,
+						["done"] = 6429,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 6429,
+				["taken"] = 95294,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Daggerjaw Raider"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 91539,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 91539,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Machinist B'randt"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 151691,
+						["done"] = 5951,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 5951,
+				["taken"] = 151691,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["All-Seeing Eye"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 220116,
+						["done"] = 4044,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 409,
+				["done"] = 4044,
+				["taken"] = 220116,
+				["htakenspell"] = {
+					["Drain Life"] = {
+						["min"] = 204,
+						["crits"] = 0,
+						["max"] = 205,
+						["healing"] = 409,
+						["overhealing"] = 0,
+						["hits"] = 2,
+					},
+				},
+				["htaken"] = 409,
+				["hdonespell"] = {
+					["Drain Life"] = {
+						["min"] = 204,
+						["crits"] = 0,
+						["max"] = 205,
+						["healing"] = 409,
+						["overhealing"] = 0,
+						["hits"] = 2,
+					},
+				},
+			},
+			["Sarkodie"] = {
+				["players"] = {
+				},
+				["hdone"] = 547980,
+				["done"] = 0,
+				["taken"] = 0,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Rally"] = {
+						["min"] = 136995,
+						["crits"] = 0,
+						["max"] = 136995,
+						["healing"] = 547980,
+						["overhealing"] = 0,
+						["hits"] = 4,
+					},
+				},
+			},
+			["Riverbeast"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 24503,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 24503,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Twilight Riverbeast"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 78076,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 78076,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Gul'var Peon"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 130775,
+						["done"] = 1161,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 1161,
+				["taken"] = 130775,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Lunarfall Rifleman"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 0,
+				["htakenspell"] = {
+					["Rally"] = {
+						["min"] = 136995,
+						["crits"] = 0,
+						["max"] = 136995,
+						["healing"] = 136995,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+				["htaken"] = 136995,
+				["hdonespell"] = {
+				},
+			},
+			["Corruptor Kurgoth"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 28690,
+						["done"] = 3399,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 3399,
+				["taken"] = 28690,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Glowgullet Shardshedder"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 139529,
+						["done"] = 5848,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 5848,
+				["taken"] = 139529,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Iron Brute"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 553227,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 553227,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Primal Growth"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 183447,
+						["done"] = 1519,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 1519,
+				["taken"] = 183447,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Acidmouth Breacher"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 155999,
+						["done"] = 2113,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 2113,
+				["taken"] = 155999,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Ripgut"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 238834,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 238834,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Engineer Trak"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 119389,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 119389,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Stompalupagus"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 176657,
+						["done"] = 5430,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 5430,
+				["taken"] = 176657,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Wandering Vindicator"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 232339,
+						["done"] = 5182,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 5182,
+				["taken"] = 232339,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Subjugated Gronn"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 335452,
+						["done"] = 7849,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 7849,
+				["taken"] = 335452,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Shadowmoon Darkcaster"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 249726,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 249726,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Krosnis"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 125189,
+						["done"] = 2390,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 2390,
+				["taken"] = 125189,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Large Illusionary Slayer"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 398425,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 398425,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Podling Scavenger"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 433623,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 433623,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Fungal Hulk"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 182453,
+						["done"] = 6022,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 6022,
+				["taken"] = 182453,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Greenbough Ancient"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 64719,
+						["done"] = 1520,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 1520,
+				["taken"] = 64719,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Iyu"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 296075,
+						["done"] = 1530,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 1530,
+				["taken"] = 296075,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Gloomshade Howler"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 107828,
+						["done"] = 1775,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 1775,
+				["taken"] = 107828,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Iyun Pustule"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 92022,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 92022,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Grogal the Harvester"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 148280,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 148280,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Gloomshade Fungi"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 101731,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 101731,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Dark Apparition"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 141678,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 141678,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Terrorfang"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 139554,
+						["done"] = 4000,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+					["Yrel"] = {
+						["taken"] = 5187,
+						["done"] = 0,
+						["role"] = "NONE",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 4000,
+				["taken"] = 144741,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Darkwing Scavenger"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 614389,
+						["done"] = 96118,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 96118,
+				["taken"] = 614389,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Shadowmoon Portalmaster"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 66421,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 66421,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Steamscar Primalist"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 134771,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 134771,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Gloomshade Blossom"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 518626,
+						["done"] = 576,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 576,
+				["taken"] = 518626,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Gloomshade Gulper"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 95228,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 95228,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Shadowmoon Peon"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 153215,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 153215,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Iron Shredder Prototype"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 79492,
+						["done"] = 3269,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 3269,
+				["taken"] = 79492,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Utrophis"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 122508,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 122508,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Blooming Mandragora"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 159550,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 159550,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Liquid Life"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 44472,
+						["done"] = 541,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 541,
+				["taken"] = 44472,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Reanimated Bones"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 249310,
+						["done"] = 10851,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 10851,
+				["taken"] = 249310,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Ra'tok the Hammer"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 211257,
+						["done"] = 10969,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 10969,
+				["taken"] = 211257,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Dionor Seedpriest"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 331484,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 331484,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Golden Pollinator"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 95174,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 95174,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Daggerjaw Hoarder"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 171508,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 171508,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Podling Tender"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 41552,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 41552,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Infected Bruiser"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 379849,
+						["done"] = 66231,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 66231,
+				["taken"] = 379849,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Gorgrond Python"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 28335,
+						["done"] = 4902,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 4902,
+				["taken"] = 28335,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Razuun"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 228137,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 31610,
+				["done"] = 0,
+				["taken"] = 228137,
+				["htakenspell"] = {
+					["Consume"] = {
+						["min"] = 7835,
+						["crits"] = 0,
+						["max"] = 7925,
+						["healing"] = 31610,
+						["overhealing"] = 0,
+						["hits"] = 4,
+					},
+				},
+				["htaken"] = 31610,
+				["hdonespell"] = {
+					["Consume"] = {
+						["min"] = 7835,
+						["crits"] = 0,
+						["max"] = 7925,
+						["healing"] = 31610,
+						["overhealing"] = 0,
+						["hits"] = 4,
+					},
+				},
+			},
+			["Dol'mak"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 21823,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 21823,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Stonetooth"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 42563,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 42563,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Steamscar Warrior"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 140436,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 140436,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Ontogen the Harvester"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 95229,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 95229,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Aggressive Growth"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 0,
+						["done"] = 1467,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 1467,
+				["taken"] = 0,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Shadowmoon Deathcaller"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 625032,
+						["done"] = 129264,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 129264,
+				["taken"] = 625032,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Tainted Lightwing"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 48377,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 48377,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Emberbark Ancient"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 135356,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 135356,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Swamplighter Queen"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 79218,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 79218,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Blademoon Botani"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 282010,
+						["done"] = 1042,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 1042,
+				["taken"] = 282010,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Dark Acolyte"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 61285,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 61285,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Iridium Geode"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 346507,
+						["done"] = 7455,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 7455,
+				["taken"] = 346507,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Furious Glowgullet"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 24930,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 24930,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Iron Explosive"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 122572,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 122572,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Dew Master"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 90724,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 90724,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Fluttering Teromoth"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 0,
+						["done"] = 2643,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 2643,
+				["taken"] = 0,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Frenzied Swamplighter"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 252264,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 252264,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Volatile Sludge"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 669322,
+						["done"] = 79556,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 79556,
+				["taken"] = 669322,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Warsong Overseer"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 49663,
+						["done"] = 4189,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 4189,
+				["taken"] = 49663,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Vined Guardian"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 135100,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 135100,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Grom'kar Shieldbearer"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 72299,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 72299,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Lunarfall Goren Hatchling"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 398752,
+						["done"] = 274,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 274,
+				["taken"] = 398752,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Iron Shieldbearer"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 165312,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 165312,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Gokrum Wolfgrinder"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 105877,
+						["done"] = 3027,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 3027,
+				["taken"] = 105877,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Iron Boltblaster"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 20941,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 20941,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Shadowmoon Reaver"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 280347,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+					["Yrel"] = {
+						["taken"] = 1695,
+						["done"] = 0,
+						["role"] = "NONE",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 282042,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Swamplighter Firefly"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 61286,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 61286,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Iron Shredder"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 195216,
+						["done"] = 2325,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 2325,
+				["taken"] = 195216,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Grom'kar Shadowblade"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 1851767,
+						["done"] = 2262,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 2262,
+				["taken"] = 1851767,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Risen Guard"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 120230,
+						["done"] = 24109,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 24109,
+				["taken"] = 120230,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Grom'kar Vanguard"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 2048107,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 2048107,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Corrupted Toad"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 237956,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 237956,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Grom'kar Grenadier"] = {
+				["players"] = {
+					["Sarkodie"] = {
+						["taken"] = 146174,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 0,
+				["taken"] = 146174,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["overhealing"] = 17160556,
+		["shielding"] = 0,
+		["time"] = 1728,
+		["players"] = {
+			{
+				["orbhealingabsorbed"] = 0,
+				["orbburstcast"] = 0,
+				["class"] = "DEMONHUNTER",
+				["damaged"] = {
+				},
+				["auras"] = {
+					["Vengeful Retreat"] = {
+						["name"] = "Vengeful Retreat",
+						["active"] = 0,
+						["id"] = 198813,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 3,
+					},
+					["Singularity"] = {
+						["name"] = "Singularity",
+						["active"] = 0,
+						["id"] = 171350,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 3,
+					},
+					["Pain Spike"] = {
+						["name"] = "Pain Spike",
+						["active"] = 0,
+						["id"] = 25572,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 10,
+					},
+					["Death Sweep"] = {
+						["name"] = "Death Sweep",
+						["active"] = 0,
+						["id"] = 210152,
+						["auratype"] = "BUFF",
+						["uptime"] = 3,
+					},
+					["Demon Soul"] = {
+						["name"] = "Demon Soul",
+						["active"] = 0,
+						["id"] = 163073,
+						["auratype"] = "BUFF",
+						["uptime"] = 25,
+					},
+					["Prepared"] = {
+						["name"] = "Prepared",
+						["active"] = 0,
+						["id"] = 203650,
+						["auratype"] = "BUFF",
+						["uptime"] = 15,
+					},
+					["Howling Blade"] = {
+						["name"] = "Howling Blade",
+						["active"] = 7,
+						["id"] = 167077,
+						["auratype"] = "BUFF",
+						["uptime"] = 360,
+					},
+					["Blade Dance"] = {
+						["name"] = "Blade Dance",
+						["active"] = 0,
+						["id"] = 188499,
+						["auratype"] = "BUFF",
+						["uptime"] = 6,
+					},
+					["Primal Artifact"] = {
+						["name"] = "Primal Artifact",
+						["active"] = 1,
+						["id"] = 172875,
+						["auratype"] = "BUFF",
+						["uptime"] = 828,
+					},
+					["Rally"] = {
+						["name"] = "Rally",
+						["active"] = 0,
+						["id"] = 165551,
+						["auratype"] = "BUFF",
+						["uptime"] = 17,
+					},
+					["Shadowmeld"] = {
+						["name"] = "Shadowmeld",
+						["active"] = 1,
+						["id"] = 58984,
+						["auratype"] = "BUFF",
+						["uptime"] = 1373,
+					},
+					["Metamorphosis"] = {
+						["name"] = "Metamorphosis",
+						["active"] = 0,
+						["id"] = 162264,
+						["auratype"] = "BUFF",
+						["uptime"] = 66,
+					},
+					["Demonic Ferocity"] = {
+						["name"] = "Demonic Ferocity",
+						["active"] = 64,
+						["id"] = 226991,
+						["auratype"] = "BUFF",
+						["uptime"] = 2611,
+					},
+					["Eye Beam"] = {
+						["name"] = "Eye Beam",
+						["active"] = 0,
+						["id"] = 198013,
+						["auratype"] = "BUFF",
+						["uptime"] = 1257,
+					},
+				},
+				["ffdamagedone"] = 0,
+				["ccTakenCount"] = 0,
+				["interrupts"] = 0,
+				["damagespells"] = {
+					["Chaos Nova"] = {
+						["min"] = 17374,
+						["critical"] = 1,
+						["totalhits"] = 1,
+						["id"] = 179057,
+						["max"] = 17374,
+						["damage"] = 17374,
+					},
+					["Yrel: Shield of Vengeance"] = {
+						["min"] = 1635,
+						["hit"] = 3,
+						["totalhits"] = 3,
+						["id"] = 160387,
+						["max"] = 1804,
+						["damage"] = 5218,
+					},
+					["Metamorphosis"] = {
+						["min"] = 11410,
+						["hit"] = 3,
+						["critical"] = 1,
+						["DEFLECT"] = 1,
+						["totalhits"] = 5,
+						["id"] = 200166,
+						["max"] = 22820,
+						["damage"] = 65550,
+					},
+					["Demon's Bite"] = {
+						["min"] = 8437,
+						["BLOCK"] = 4,
+						["critical"] = 96,
+						["hit"] = 185,
+						["totalhits"] = 285,
+						["id"] = 162243,
+						["max"] = 32332,
+						["damage"] = 4058312,
+					},
+					["Iron Shredder Prototype: Electrostatic Distortion"] = {
+						["min"] = 37935,
+						["hit"] = 40,
+						["totalhits"] = 40,
+						["id"] = 173015,
+						["max"] = 52161,
+						["damage"] = 1849349,
+					},
+					["Iron Star: Fiery Death"] = {
+						["min"] = 35406,
+						["hit"] = 59,
+						["totalhits"] = 59,
+						["id"] = 173428,
+						["max"] = 58484,
+						["damage"] = 2785666,
+					},
+					["Critter Buddy: Attack"] = {
+						["min"] = 2850,
+						["hit"] = 7,
+						["totalhits"] = 7,
+						["id"] = 6603,
+						["max"] = 3770,
+						["damage"] = 22974,
+					},
+					["Eye Beam"] = {
+						["min"] = 7273,
+						["critical"] = 61,
+						["totalhits"] = 61,
+						["id"] = 198030,
+						["max"] = 11688,
+						["damage"] = 535815,
+					},
+					["Chaos Strike"] = {
+						["min"] = 12431,
+						["critical"] = 63,
+						["BLOCK"] = 7,
+						["hit"] = 115,
+						["totalhits"] = 185,
+						["id"] = 222031,
+						["max"] = 44310,
+						["damage"] = 3949228,
+					},
+					["Iron Shredder Prototype: Death from Above"] = {
+						["min"] = 49568,
+						["hit"] = 46,
+						["totalhits"] = 46,
+						["id"] = 173022,
+						["max"] = 70591,
+						["damage"] = 2892655,
+					},
+					["Fel Rush"] = {
+						["min"] = 29439,
+						["BLOCK"] = 2,
+						["critical"] = 136,
+						["hit"] = 297,
+						["totalhits"] = 435,
+						["id"] = 192611,
+						["max"] = 84114,
+						["damage"] = 19305414,
+					},
+					["Howling Blade"] = {
+						["min"] = 2759,
+						["hit"] = 2,
+						["totalhits"] = 2,
+						["id"] = 167078,
+						["max"] = 2968,
+						["damage"] = 5727,
+					},
+					["Iron Shredder Prototype: Electrostatic Discharge"] = {
+						["min"] = 31613,
+						["hit"] = 29,
+						["totalhits"] = 29,
+						["id"] = 173033,
+						["max"] = 276614,
+						["damage"] = 1628066,
+					},
+					["Consume Magic"] = {
+						["id"] = 183752,
+						["totalhits"] = 3,
+						["IMMUNE"] = 3,
+						["max"] = 0,
+						["damage"] = 0,
+					},
+					["Annihilation"] = {
+						["min"] = 16590,
+						["critical"] = 4,
+						["hit"] = 6,
+						["totalhits"] = 10,
+						["id"] = 227518,
+						["max"] = 43923,
+						["damage"] = 294813,
+					},
+					["Blade Dance"] = {
+						["min"] = 2896,
+						["critical"] = 8,
+						["hit"] = 20,
+						["totalhits"] = 28,
+						["id"] = 199552,
+						["max"] = 16195,
+						["damage"] = 205831,
+					},
+					["Throw Glaive"] = {
+						["min"] = 15899,
+						["critical"] = 135,
+						["hit"] = 295,
+						["totalhits"] = 430,
+						["id"] = 185123,
+						["max"] = 62801,
+						["damage"] = 11958720,
+					},
+					["Yrel: Attack"] = {
+						["min"] = 940,
+						["critical"] = 1,
+						["hit"] = 5,
+						["totalhits"] = 6,
+						["id"] = 6603,
+						["max"] = 2139,
+						["damage"] = 7366,
+					},
+					["Death Sweep"] = {
+						["min"] = 5612,
+						["critical"] = 21,
+						["hit"] = 39,
+						["totalhits"] = 60,
+						["id"] = 210153,
+						["max"] = 37435,
+						["damage"] = 695156,
+					},
+					["Yrel: Vindicator's Fury"] = {
+						["min"] = 1694,
+						["hit"] = 8,
+						["totalhits"] = 8,
+						["id"] = 161919,
+						["max"] = 1695,
+						["damage"] = 13555,
+					},
+					["Vengeful Retreat"] = {
+						["min"] = 7293,
+						["critical"] = 3,
+						["totalhits"] = 3,
+						["id"] = 198813,
+						["max"] = 9198,
+						["damage"] = 25160,
+					},
+					["Attack"] = {
+						["id"] = 6603,
+						["min"] = 1736,
+						["BLOCK"] = 14,
+						["critical"] = 255,
+						["hit"] = 502,
+						["totalhits"] = 849,
+						["max"] = 11901,
+						["MISS"] = 78,
+						["damage"] = 3538564,
+					},
+				},
+				["damagetaken"] = 1641431,
+				["orbhealed"] = {
+				},
+				["ccDoneTargets"] = {
+				},
+				["orbsummon"] = 0,
+				["name"] = "Sarkodie",
+				["leechTaken"] = 0,
+				["sam_total_dmg"] = 1547731,
+				["leech"] = 0,
+				["sam_breakdown"] = {
+					["Spell Hit"] = 91,
+					["Miss"] = 148,
+					["Physical Hit"] = 329,
+					["Dodge"] = 128,
+					["Crit"] = 20,
+					["Parry"] = 49,
+				},
+				["score"] = 0,
+				["healingabsorbed"] = 0,
+				["ccTakenTargets"] = {
+				},
+				["ffdamagedonespells"] = {
+				},
+				["ccbreaks"] = 0,
+				["dispells"] = 0,
+				["shielding"] = 0,
+				["healingspells"] = {
+					["Rally"] = {
+						["shielding"] = 0,
+						["id"] = 165570,
+						["healing"] = 547980,
+						["absorbed"] = 0,
+						["min"] = 136995,
+						["multistrike"] = 0,
+						["name"] = "Rally",
+						["critical"] = 0,
+						["max"] = 136995,
+						["overhealing"] = 0,
+						["hits"] = 4,
+						["multistrikes"] = 0,
+					},
+					["Consume Soul"] = {
+						["shielding"] = 0,
+						["id"] = 178963,
+						["healing"] = 1092149,
+						["absorbed"] = 0,
+						["min"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Consume Soul",
+						["critical"] = 0,
+						["max"] = 72540,
+						["overhealing"] = 17160556,
+						["hits"] = 249,
+						["multistrikes"] = 0,
+					},
+					["Pain Spike"] = {
+						["shielding"] = 0,
+						["id"] = 24117,
+						["healing"] = 11063,
+						["absorbed"] = 0,
+						["min"] = 2212,
+						["multistrike"] = 0,
+						["name"] = "Pain Spike",
+						["critical"] = 0,
+						["max"] = 2213,
+						["overhealing"] = 0,
+						["hits"] = 5,
+						["multistrikes"] = 0,
+					},
+				},
+				["time"] = 1730,
+				["ccDoneSpells"] = {
+				},
+				["healing"] = 1651192,
+				["healed"] = {
+					["Creature-0-3890-1331-31485-77370-00002F19EB"] = {
+						["amount"] = 136995,
+						["role"] = "NONE",
+						["name"] = "Lunarfall Footman",
+						["shielding"] = 0,
+					},
+					["Creature-0-3890-1331-31485-77370-0001AF19EA"] = {
+						["amount"] = 136995,
+						["role"] = "NONE",
+						["name"] = "Lunarfall Footman",
+						["shielding"] = 0,
+					},
+					["Creature-0-3890-1331-31485-77370-00012F19EA"] = {
+						["amount"] = 136995,
+						["role"] = "NONE",
+						["name"] = "Lunarfall Footman",
+						["shielding"] = 0,
+					},
+					["Player-1096-075D8DEF"] = {
+						["role"] = "NONE",
+						["name"] = "Sarkodie",
+						["amount"] = 1103212,
+						["class"] = "DEMONHUNTER",
+						["shielding"] = 0,
+					},
+					["Creature-0-3890-1331-31485-85312-00002F19E7"] = {
+						["amount"] = 136995,
+						["role"] = "NONE",
+						["name"] = "Lunarfall Rifleman",
+						["shielding"] = 0,
+					},
+				},
+				["orboverhealing"] = 0,
+				["damage"] = 53860513,
+				["id"] = "Player-1096-075D8DEF",
+				["power"] = {
+					[17] = {
+						["amount"] = 8184,
+						["spells"] = {
+							[193840] = 840,
+							[162243] = 7236,
+							[203650] = 108,
+						},
+					},
+				},
+				["ccDoneCount"] = 0,
+				["deathlog"] = {
+					{
+						["ts"] = 1471102264.868,
+						["amount"] = 0,
+						["absorb"] = 0,
+						["srcname"] = "Sarkodie",
+						["hp"] = 290160,
+						["spellid"] = 178963,
+					}, -- [1]
+					{
+						["ts"] = 1471102264.952,
+						["amount"] = 0,
+						["absorb"] = 0,
+						["srcname"] = "Sarkodie",
+						["hp"] = 290160,
+						["spellid"] = 178963,
+					}, -- [2]
+					{
+						["ts"] = 1471102268.901,
+						["amount"] = -2909,
+						["hp"] = 290160,
+						["spellid"] = 88163,
+						["srcname"] = "Machinist B'randt",
+					}, -- [3]
+					{
+						["ts"] = 1471102272.917,
+						["amount"] = -3042,
+						["spellid"] = 88163,
+						["srcname"] = "Machinist B'randt",
+						["hp"] = 287251,
+					}, -- [4]
+					{
+						["absorb"] = 0,
+						["amount"] = 5951,
+						["hp"] = 290160,
+						["srcname"] = "Sarkodie",
+						["spellid"] = 178963,
+						["ts"] = 1471102278.071,
+					}, -- [5]
+					{
+						["ts"] = 1471102281.688,
+						["amount"] = -13098,
+						["hp"] = 277062,
+						["spellid"] = 168118,
+						["srcname"] = "Blackrock Bomb",
+					}, -- [6]
+					{
+						["absorb"] = 0,
+						["amount"] = 0,
+						["hp"] = 290160,
+						["srcname"] = "Sarkodie",
+						["spellid"] = 178963,
+						["ts"] = 1471102131.084,
+					}, -- [7]
+					{
+						["absorb"] = 0,
+						["amount"] = 0,
+						["hp"] = 290160,
+						["srcname"] = "Sarkodie",
+						["spellid"] = 178963,
+						["ts"] = 1471102131.145,
+					}, -- [8]
+					{
+						["absorb"] = 0,
+						["amount"] = 0,
+						["ts"] = 1471102134.363,
+						["hp"] = 290160,
+						["srcname"] = "Sarkodie",
+						["spellid"] = 178963,
+					}, -- [9]
+					{
+						["ts"] = 1471102135.542,
+						["amount"] = -1017,
+						["hp"] = 290160,
+						["spellid"] = 88163,
+						["srcname"] = "Burning Blademaster",
+					}, -- [10]
+					{
+						["ts"] = 1471102160.036,
+						["amount"] = -2262,
+						["hp"] = 290160,
+						["spellid"] = 88163,
+						["srcname"] = "Grom'kar Shadowblade",
+					}, -- [11]
+					{
+						["ts"] = 1471102161.24,
+						["amount"] = -1084,
+						["hp"] = 287898,
+						["spellid"] = 88163,
+						["srcname"] = "Burning Blademaster",
+					}, -- [12]
+					{
+						["absorb"] = 0,
+						["amount"] = 3346,
+						["ts"] = 1471102162.269,
+						["hp"] = 290160,
+						["srcname"] = "Sarkodie",
+						["spellid"] = 178963,
+					}, -- [13]
+					{
+						["absorb"] = 0,
+						["amount"] = 0,
+						["hp"] = 290160,
+						["srcname"] = "Sarkodie",
+						["spellid"] = 178963,
+						["ts"] = 1471102256.109,
+					}, -- [14]
+					{
+						["absorb"] = 0,
+						["amount"] = 0,
+						["hp"] = 290160,
+						["srcname"] = "Sarkodie",
+						["spellid"] = 178963,
+						["ts"] = 1471102256.228,
+					}, -- [15]
+					["pos"] = 7,
+				},
+				["orbhealing"] = 0,
+				["healthstone"] = 0,
+				["orbhealingspells"] = {
+				},
+				["damagetakenspells"] = {
+					["Charge"] = {
+						["crushing"] = 0,
+						["id"] = 22120,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 2255,
+						["multistrike"] = 0,
+						["name"] = "Charge",
+						["blocked"] = 0,
+						["totalhits"] = 3,
+						["resisted"] = 0,
+						["max"] = 3197,
+						["damage"] = 8297,
+					},
+					["Deadly Poison"] = {
+						["crushing"] = 0,
+						["id"] = 177918,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 1324,
+						["multistrike"] = 0,
+						["name"] = "Deadly Poison",
+						["blocked"] = 0,
+						["totalhits"] = 22,
+						["resisted"] = 0,
+						["max"] = 1504,
+						["damage"] = 31388,
+					},
+					["Hurl Seed"] = {
+						["crushing"] = 0,
+						["id"] = 169567,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 1467,
+						["multistrike"] = 0,
+						["name"] = "Hurl Seed",
+						["blocked"] = 0,
+						["totalhits"] = 2,
+						["resisted"] = 0,
+						["max"] = 1519,
+						["damage"] = 2986,
+					},
+					["Ground Slap"] = {
+						["crushing"] = 0,
+						["id"] = 150790,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 2096,
+						["multistrike"] = 0,
+						["name"] = "Ground Slap",
+						["blocked"] = 0,
+						["totalhits"] = 1,
+						["resisted"] = 0,
+						["max"] = 2096,
+						["damage"] = 2096,
+					},
+					["Arcane Glare"] = {
+						["crushing"] = 0,
+						["id"] = 36415,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 697,
+						["multistrike"] = 0,
+						["name"] = "Arcane Glare",
+						["blocked"] = 0,
+						["totalhits"] = 1,
+						["resisted"] = 0,
+						["max"] = 697,
+						["damage"] = 697,
+					},
+					["Aimed Shot"] = {
+						["crushing"] = 0,
+						["id"] = 159056,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 10780,
+						["multistrike"] = 0,
+						["name"] = "Aimed Shot",
+						["blocked"] = 0,
+						["totalhits"] = 1,
+						["resisted"] = 0,
+						["max"] = 10780,
+						["damage"] = 10780,
+					},
+					["Void Shards"] = {
+						["crushing"] = 0,
+						["id"] = 172162,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 2721,
+						["multistrike"] = 0,
+						["name"] = "Void Shards",
+						["blocked"] = 0,
+						["totalhits"] = 20,
+						["resisted"] = 0,
+						["max"] = 4044,
+						["damage"] = 66220,
+					},
+					["Singularity"] = {
+						["crushing"] = 0,
+						["id"] = 171355,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 26030,
+						["multistrike"] = 0,
+						["name"] = "Singularity",
+						["blocked"] = 0,
+						["totalhits"] = 1,
+						["resisted"] = 0,
+						["max"] = 26030,
+						["damage"] = 26030,
+					},
+					["Cannon Shot"] = {
+						["crushing"] = 0,
+						["id"] = 171046,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 3719,
+						["multistrike"] = 0,
+						["name"] = "Cannon Shot",
+						["blocked"] = 0,
+						["totalhits"] = 1,
+						["resisted"] = 0,
+						["max"] = 3719,
+						["damage"] = 3719,
+					},
+					["Drain Life"] = {
+						["crushing"] = 0,
+						["id"] = 148612,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 136,
+						["multistrike"] = 0,
+						["name"] = "Drain Life",
+						["blocked"] = 0,
+						["totalhits"] = 2,
+						["resisted"] = 0,
+						["max"] = 137,
+						["damage"] = 273,
+					},
+					["Chomp"] = {
+						["crushing"] = 0,
+						["id"] = 161533,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 6542,
+						["multistrike"] = 0,
+						["name"] = "Chomp",
+						["blocked"] = 0,
+						["totalhits"] = 1,
+						["resisted"] = 0,
+						["max"] = 6542,
+						["damage"] = 6542,
+					},
+					["Chain Volley"] = {
+						["crushing"] = 0,
+						["id"] = 171041,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 3143,
+						["multistrike"] = 0,
+						["name"] = "Chain Volley",
+						["blocked"] = 0,
+						["totalhits"] = 1,
+						["resisted"] = 0,
+						["max"] = 3143,
+						["damage"] = 3143,
+					},
+					["Twist Reality"] = {
+						["crushing"] = 0,
+						["id"] = 171342,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 2711,
+						["multistrike"] = 0,
+						["name"] = "Twist Reality",
+						["blocked"] = 0,
+						["totalhits"] = 7,
+						["resisted"] = 0,
+						["max"] = 17968,
+						["damage"] = 34237,
+					},
+					["Elecrostatic Distortion"] = {
+						["crushing"] = 0,
+						["id"] = 160151,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 3269,
+						["multistrike"] = 0,
+						["name"] = "Elecrostatic Distortion",
+						["blocked"] = 0,
+						["totalhits"] = 1,
+						["resisted"] = 0,
+						["max"] = 3269,
+						["damage"] = 3269,
+					},
+					["Void Bolt"] = {
+						["crushing"] = 0,
+						["id"] = 157355,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 6689,
+						["multistrike"] = 0,
+						["name"] = "Void Bolt",
+						["blocked"] = 0,
+						["totalhits"] = 10,
+						["resisted"] = 0,
+						["max"] = 7629,
+						["damage"] = 70790,
+					},
+					["Lightning Spit"] = {
+						["crushing"] = 0,
+						["id"] = 177885,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 5082,
+						["multistrike"] = 0,
+						["name"] = "Lightning Spit",
+						["blocked"] = 0,
+						["totalhits"] = 9,
+						["resisted"] = 0,
+						["max"] = 5655,
+						["damage"] = 47997,
+					},
+					["Spore Burst"] = {
+						["crushing"] = 0,
+						["id"] = 173285,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 141,
+						["multistrike"] = 0,
+						["name"] = "Spore Burst",
+						["blocked"] = 0,
+						["totalhits"] = 1,
+						["resisted"] = 0,
+						["max"] = 141,
+						["damage"] = 141,
+					},
+					["Poison Vial"] = {
+						["crushing"] = 0,
+						["id"] = 177935,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 2147,
+						["multistrike"] = 0,
+						["name"] = "Poison Vial",
+						["blocked"] = 0,
+						["totalhits"] = 12,
+						["resisted"] = 0,
+						["max"] = 2148,
+						["damage"] = 25771,
+					},
+					["Brutal Slam"] = {
+						["crushing"] = 0,
+						["id"] = 158193,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 4647,
+						["multistrike"] = 0,
+						["name"] = "Brutal Slam",
+						["blocked"] = 0,
+						["totalhits"] = 8,
+						["resisted"] = 0,
+						["max"] = 6269,
+						["damage"] = 42487,
+					},
+					["Rifle Shot"] = {
+						["crushing"] = 0,
+						["id"] = 159085,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 2522,
+						["multistrike"] = 0,
+						["name"] = "Rifle Shot",
+						["blocked"] = 0,
+						["totalhits"] = 64,
+						["resisted"] = 0,
+						["max"] = 3772,
+						["damage"] = 200628,
+					},
+					["Rapid Shot"] = {
+						["crushing"] = 0,
+						["id"] = 162667,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 440,
+						["multistrike"] = 0,
+						["name"] = "Rapid Shot",
+						["blocked"] = 0,
+						["totalhits"] = 5,
+						["resisted"] = 0,
+						["max"] = 495,
+						["damage"] = 2324,
+					},
+					["Shoot"] = {
+						["crushing"] = 0,
+						["id"] = 162665,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 1403,
+						["multistrike"] = 0,
+						["name"] = "Shoot",
+						["blocked"] = 0,
+						["totalhits"] = 1,
+						["resisted"] = 0,
+						["max"] = 1403,
+						["damage"] = 1403,
+					},
+					["Volatile Discharge"] = {
+						["crushing"] = 0,
+						["id"] = 173280,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 486,
+						["multistrike"] = 0,
+						["name"] = "Volatile Discharge",
+						["blocked"] = 0,
+						["totalhits"] = 22,
+						["resisted"] = 0,
+						["max"] = 2396,
+						["damage"] = 30602,
+					},
+					["Cannon Barrage"] = {
+						["crushing"] = 0,
+						["id"] = 172597,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 4928,
+						["multistrike"] = 0,
+						["name"] = "Cannon Barrage",
+						["blocked"] = 0,
+						["totalhits"] = 1,
+						["resisted"] = 0,
+						["max"] = 4928,
+						["damage"] = 4928,
+					},
+					["Zot!"] = {
+						["crushing"] = 0,
+						["id"] = 160184,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 1472,
+						["multistrike"] = 0,
+						["name"] = "Zot!",
+						["blocked"] = 0,
+						["totalhits"] = 1,
+						["resisted"] = 0,
+						["max"] = 1472,
+						["damage"] = 1472,
+					},
+					["Shredding Whirl"] = {
+						["crushing"] = 0,
+						["id"] = 158128,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 2096,
+						["multistrike"] = 0,
+						["name"] = "Shredding Whirl",
+						["blocked"] = 0,
+						["totalhits"] = 4,
+						["resisted"] = 0,
+						["max"] = 5004,
+						["damage"] = 11292,
+					},
+					["Gore"] = {
+						["crushing"] = 0,
+						["id"] = 152571,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 2955,
+						["multistrike"] = 0,
+						["name"] = "Gore",
+						["blocked"] = 0,
+						["totalhits"] = 2,
+						["resisted"] = 0,
+						["max"] = 2955,
+						["damage"] = 5910,
+					},
+					["Fiery Headbutt"] = {
+						["crushing"] = 0,
+						["id"] = 175626,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 662,
+						["multistrike"] = 0,
+						["name"] = "Fiery Headbutt",
+						["blocked"] = 0,
+						["totalhits"] = 2,
+						["resisted"] = 0,
+						["max"] = 4921,
+						["damage"] = 5583,
+					},
+					["Spore Bolt"] = {
+						["crushing"] = 0,
+						["id"] = 163957,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 6012,
+						["multistrike"] = 0,
+						["name"] = "Spore Bolt",
+						["blocked"] = 0,
+						["totalhits"] = 2,
+						["resisted"] = 0,
+						["max"] = 6172,
+						["damage"] = 12184,
+					},
+					["Leaf Blast"] = {
+						["crushing"] = 0,
+						["id"] = 174931,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 4162,
+						["multistrike"] = 0,
+						["name"] = "Leaf Blast",
+						["blocked"] = 0,
+						["totalhits"] = 2,
+						["resisted"] = 0,
+						["max"] = 4388,
+						["damage"] = 8550,
+					},
+					["Optic Blast"] = {
+						["crushing"] = 0,
+						["id"] = 169903,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 3138,
+						["multistrike"] = 0,
+						["name"] = "Optic Blast",
+						["blocked"] = 0,
+						["totalhits"] = 1,
+						["resisted"] = 0,
+						["max"] = 3138,
+						["damage"] = 3138,
+					},
+					["Blackrock Bomb"] = {
+						["crushing"] = 0,
+						["id"] = 168118,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 13098,
+						["multistrike"] = 0,
+						["name"] = "Blackrock Bomb",
+						["blocked"] = 0,
+						["totalhits"] = 1,
+						["resisted"] = 0,
+						["max"] = 13098,
+						["damage"] = 13098,
+					},
+					["Pain Spike"] = {
+						["crushing"] = 0,
+						["id"] = 32741,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 11063,
+						["multistrike"] = 0,
+						["name"] = "Pain Spike",
+						["blocked"] = 0,
+						["totalhits"] = 1,
+						["resisted"] = 0,
+						["max"] = 11063,
+						["damage"] = 11063,
+					},
+					["Wicked Slash"] = {
+						["crushing"] = 0,
+						["id"] = 170418,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 6616,
+						["multistrike"] = 0,
+						["name"] = "Wicked Slash",
+						["blocked"] = 0,
+						["totalhits"] = 5,
+						["resisted"] = 0,
+						["max"] = 7311,
+						["damage"] = 34527,
+					},
+					["Rolling Charge"] = {
+						["crushing"] = 0,
+						["id"] = 158998,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 1040,
+						["multistrike"] = 0,
+						["name"] = "Rolling Charge",
+						["blocked"] = 0,
+						["totalhits"] = 1,
+						["resisted"] = 0,
+						["max"] = 1040,
+						["damage"] = 1040,
+					},
+					["Spore Strike"] = {
+						["crushing"] = 0,
+						["id"] = 173711,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 1479,
+						["multistrike"] = 0,
+						["name"] = "Spore Strike",
+						["blocked"] = 0,
+						["totalhits"] = 2,
+						["resisted"] = 0,
+						["max"] = 5522,
+						["damage"] = 7001,
+					},
+					["Shocking Breath"] = {
+						["crushing"] = 0,
+						["id"] = 177898,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 10236,
+						["multistrike"] = 0,
+						["name"] = "Shocking Breath",
+						["blocked"] = 0,
+						["totalhits"] = 4,
+						["resisted"] = 0,
+						["max"] = 10988,
+						["damage"] = 42735,
+					},
+					["Dancing Thorns"] = {
+						["crushing"] = 0,
+						["id"] = 169571,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 3767,
+						["multistrike"] = 0,
+						["name"] = "Dancing Thorns",
+						["blocked"] = 0,
+						["totalhits"] = 2,
+						["resisted"] = 0,
+						["max"] = 3837,
+						["damage"] = 7604,
+					},
+					["Void Strikes"] = {
+						["crushing"] = 0,
+						["id"] = 157588,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 2025,
+						["multistrike"] = 0,
+						["name"] = "Void Strikes",
+						["blocked"] = 0,
+						["totalhits"] = 6,
+						["resisted"] = 0,
+						["max"] = 2459,
+						["damage"] = 13486,
+					},
+					["Poison Squirt"] = {
+						["crushing"] = 0,
+						["id"] = 141427,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 557,
+						["multistrike"] = 0,
+						["name"] = "Poison Squirt",
+						["blocked"] = 0,
+						["totalhits"] = 10,
+						["resisted"] = 0,
+						["max"] = 784,
+						["damage"] = 6940,
+					},
+					["Felfire Bolt"] = {
+						["crushing"] = 0,
+						["id"] = 175479,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 6429,
+						["multistrike"] = 0,
+						["name"] = "Felfire Bolt",
+						["blocked"] = 0,
+						["totalhits"] = 1,
+						["resisted"] = 0,
+						["max"] = 6429,
+						["damage"] = 6429,
+					},
+					["Darkrush"] = {
+						["crushing"] = 0,
+						["id"] = 149239,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 2000,
+						["multistrike"] = 0,
+						["name"] = "Darkrush",
+						["blocked"] = 0,
+						["totalhits"] = 2,
+						["resisted"] = 0,
+						["max"] = 2000,
+						["damage"] = 4000,
+					},
+					["Lacerating Spines"] = {
+						["crushing"] = 0,
+						["id"] = 162949,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 1741,
+						["multistrike"] = 0,
+						["name"] = "Lacerating Spines",
+						["blocked"] = 0,
+						["totalhits"] = 2,
+						["resisted"] = 0,
+						["max"] = 4727,
+						["damage"] = 6468,
+					},
+					["Curse of Agony"] = {
+						["crushing"] = 0,
+						["id"] = 170825,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 0,
+						["min"] = 1090,
+						["multistrike"] = 0,
+						["name"] = "Curse of Agony",
+						["blocked"] = 0,
+						["totalhits"] = 1,
+						["resisted"] = 0,
+						["max"] = 1090,
+						["damage"] = 1090,
+					},
+					["Attack"] = {
+						["crushing"] = 0,
+						["id"] = 6603,
+						["absorbed"] = 0,
+						["glancing"] = 0,
+						["critical"] = 20,
+						["min"] = 106,
+						["multistrike"] = 0,
+						["name"] = "Attack",
+						["blocked"] = 0,
+						["totalhits"] = 250,
+						["resisted"] = 0,
+						["max"] = 10075,
+						["damage"] = 811073,
+					},
+				},
+				["overhealing"] = 17160556,
+				["leeched"] = {
+				},
+				["ffdamagedonetargets"] = {
+				},
+				["ccTakenSpells"] = {
+				},
+				["role"] = "NONE",
+				["maxhp"] = 290160,
+				["sam_total_events"] = 765,
+				["multistrikes"] = 0,
+			}, -- [1]
+			{
+				["orbhealingabsorbed"] = 0,
+				["orbburstcast"] = 0,
+				["sam_breakdown"] = {
+				},
+				["damaged"] = {
+				},
+				["auras"] = {
+					["Avenger's Shield"] = {
+						["name"] = "Avenger's Shield",
+						["active"] = 0,
+						["id"] = 37554,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 6,
+					},
+					["Hammer of Light"] = {
+						["name"] = "Hammer of Light",
+						["active"] = 0,
+						["id"] = 160420,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 7,
+					},
+					["Shield of Vengeance"] = {
+						["name"] = "Shield of Vengeance",
+						["active"] = 0,
+						["id"] = 160387,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 4,
+					},
+				},
+				["role"] = "NONE",
+				["ccTakenCount"] = 0,
+				["interrupts"] = 0,
+				["damagespells"] = {
+				},
+				["damagetaken"] = 0,
+				["orbhealed"] = {
+				},
+				["maxhp"] = 0,
+				["orbsummon"] = 0,
+				["name"] = "Yrel",
+				["leechTaken"] = 0,
+				["leech"] = 0,
+				["score"] = 0,
+				["ccDoneTargets"] = {
+				},
+				["healingabsorbed"] = 0,
+				["ffdamagedonespells"] = {
+				},
+				["overhealing"] = 0,
+				["dispells"] = 0,
+				["ccbreaks"] = 0,
+				["healingspells"] = {
+				},
+				["time"] = 14,
+				["ccDoneSpells"] = {
+				},
+				["healed"] = {
+				},
+				["healing"] = 0,
+				["orboverhealing"] = 0,
+				["damage"] = 0,
+				["ccDoneCount"] = 0,
+				["deathlog"] = {
+				},
+				["healthstone"] = 0,
+				["shielding"] = 0,
+				["orbhealing"] = 0,
+				["id"] = "Creature-0-1471-1116-20884-73412-00002F11AA",
+				["power"] = {
+				},
+				["damagetakenspells"] = {
+				},
+				["orbhealingspells"] = {
+				},
+				["leeched"] = {
+				},
+				["ffdamagedonetargets"] = {
+				},
+				["ccTakenSpells"] = {
+				},
+				["ccTakenTargets"] = {
+				},
+				["ffdamagedone"] = 0,
+				["sam_total_events"] = 0,
+				["multistrikes"] = 0,
+			}, -- [2]
+		},
+		["multistrikes"] = 0,
+	},
+}

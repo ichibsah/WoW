@@ -1,0 +1,8 @@
+
+SlideBarConfig = {
+	["enabled"] = true,
+	["position"] = 248.999916737898,
+	["locked"] = false,
+	["visibility"] = false,
+	["anchor"] = "right",
+}

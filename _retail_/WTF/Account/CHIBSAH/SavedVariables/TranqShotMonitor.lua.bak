@@ -1,0 +1,18 @@
+
+TSM_DB = {
+	["TRchannel"] = "SAY",
+	["Point"] = "TOP",
+	["active"] = true,
+	["yOfs"] = -150,
+	["xOfs"] = 0,
+	["fontHeight"] = 30,
+	["activechannel"] = false,
+	["selfPrint"] = false,
+	["WarningColora"] = 1,
+	["WarningColorr"] = 1,
+	["relativePoint"] = "TOP",
+	["silence"] = false,
+	["WarningColorg"] = 1,
+	["WarningColorb"] = 1,
+	["autochannel"] = false,
+}

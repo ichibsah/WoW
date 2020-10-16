@@ -1,0 +1,10 @@
+
+SmartRes2DB = {
+	["profileKeys"] = {
+		["Yesu - Sporeggar"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

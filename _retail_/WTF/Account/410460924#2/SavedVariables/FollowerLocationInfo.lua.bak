@@ -1,0 +1,27 @@
+
+FollowerLocationInfoDB = {
+	["LDB_NumFollowers"] = true,
+	["ExternalURL"] = "WoWHead",
+	["standalone"] = true,
+	["showInfoBox"] = false,
+	["ShowFollowerID"] = true,
+	["LDBi_Data"] = {
+		["minimapPos"] = 45.6585278933751,
+		["hide"] = false,
+	},
+	["LDB_TargetCoords"] = false,
+	["LDBi_Enabled"] = true,
+	["LDB_PlayerCoords"] = false,
+}
+FollowerLocationInfoCache = {
+	["Locale"] = "enUS",
+	["questNames"] = {
+	},
+	["npcTitles"] = {
+	},
+	["objectNames"] = {
+	},
+	["npcNames"] = {
+	},
+}
+FollowerLocationInfoCollectorCache = nil

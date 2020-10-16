@@ -1,0 +1,710 @@
+
+QuestHelper_Version = "0.62"
+QuestHelper_SaveVersion = 10
+QuestHelper_Locale = "enUS"
+QuestHelper_Quests = {
+	["0.62 on 3.0.2"] = {
+		{
+			[60] = {
+				["The Perfect Poison"] = {
+					["hash"] = 2590385383,
+					["id"] = 9023,
+				},
+			},
+			[70] = {
+				["Arm the Wards!"] = {
+					["hash"] = 773149724,
+					["id"] = 11523,
+				},
+				["The Vials of Eternity"] = {
+					["hash"] = 4071112497,
+					["id"] = 10445,
+				},
+				["The Warlord's Hideout"] = {
+					["hash"] = 1465196457,
+					["id"] = 9763,
+				},
+				["The Multiphase Survey"] = {
+					["hash"] = 2756062322,
+					["id"] = 11880,
+				},
+				["Wanted: A Black Stalker Egg"] = {
+					["hash"] = 1149321487,
+					["id"] = 11369,
+				},
+				["Keeping the Enemy at Bay"] = {
+					["hash"] = 562779721,
+					["id"] = 11543,
+				},
+				["The Opening of the Dark Portal"] = {
+					["hash"] = 3405267366,
+					["id"] = 10297,
+				},
+				["Magisters' Terrace"] = {
+					["hash"] = 2440965000,
+					["id"] = 11488,
+				},
+				["Arcane Disturbances"] = {
+					["hash"] = 4184945393,
+					["id"] = 9824,
+				},
+				["Further Conversions"] = {
+					["hash"] = 1903574059,
+					["id"] = 11525,
+				},
+				["The Air Strikes Must Continue"] = {
+					["hash"] = 4009379951,
+					["id"] = 11533,
+				},
+				["Restless Activity"] = {
+					["hash"] = 189142962,
+					["id"] = 9825,
+				},
+				["Know Your Ley Lines"] = {
+					["hash"] = 3660660898,
+					["id"] = 11547,
+				},
+				["Crush the Dawnblade"] = {
+					["hash"] = 4242550326,
+					["id"] = 11540,
+				},
+				["Don't Stop Now...."] = {
+					["hash"] = 4163057641,
+					["id"] = 11536,
+				},
+			},
+			[65] = {
+				["Lost in Action"] = {
+					["hash"] = 2040216853,
+					["id"] = 9738,
+				},
+			},
+			[67] = {
+				["Oshu'gun Crystal Powder"] = {
+					["hash"] = 3577223737,
+					["id"] = 10076,
+				},
+			},
+		}, -- [1]
+	},
+}
+QuestHelper_Objectives = {
+	["0.62 on 3.0.2"] = {
+		["monster"] = {
+			["Deathshadow Warlock"] = {
+			},
+			["Converted Sentry Deployed"] = {
+				["quest"] = true,
+			},
+			["Shrine Reading Taken"] = {
+				["quest"] = true,
+			},
+			["Gurric"] = {
+			},
+			["Bilko Driftspark"] = {
+			},
+			["Halu"] = {
+			},
+			["Ravenous Windroc"] = {
+			},
+			["Kurinnaxx"] = {
+			},
+			["Maddix"] = {
+			},
+			["Deathshadow Overlord"] = {
+			},
+			["Chief Researcher Kartos"] = {
+			},
+			["Cho'war the Pillager"] = {
+			},
+			["Teloren"] = {
+			},
+			["Ohura"] = {
+			},
+			["Vana Grey"] = {
+			},
+			["Watcher Jhang"] = {
+			},
+			["Surristrasz"] = {
+			},
+			["Palena Silvercloud"] = {
+			},
+			["Kil'sorrow Cultist"] = {
+			},
+			["Ariena Stormfeather"] = {
+			},
+			["Dyslix Silvergrub"] = {
+			},
+			["Suralais Farwind"] = {
+			},
+			["Flightmaster Krill Bitterhue"] = {
+			},
+			["Halvdan"] = {
+			},
+			["Agitated Orc Spirit"] = {
+			},
+			["Multiphase Readings Taken"] = {
+				["quest"] = true,
+			},
+			["Talbuk Thorngrazer"] = {
+			},
+			["Storming Wind-Ripper"] = {
+			},
+			["Grennik"] = {
+			},
+			["Boulderfist Crusher"] = {
+			},
+			["Windroc Matriarch"] = {
+			},
+			["Enraged Crusher"] = {
+			},
+			["Dark Worg"] = {
+			},
+			["Kiz Coilspanner"] = {
+			},
+			["Raging Fire-Soul"] = {
+			},
+			["Caylais Moonfeather"] = {
+			},
+			["Gyll"] = {
+			},
+			["Mo'arg Engineer"] = {
+			},
+			["Windyreed Wretch"] = {
+			},
+			["Thorgrum Borrelson"] = {
+			},
+			["Battlemage Arynna"] = {
+			},
+			["Arzo Safeflight"] = {
+			},
+			["Bloodcrystal Reading Taken"] = {
+				["quest"] = true,
+			},
+			["Alieshor"] = {
+			},
+			["Demos, Overseer of Hate"] = {
+			},
+			["Kael'thas Sunstrider"] = {
+			},
+			["Unliving Caretaker"] = {
+			},
+			["Rafae"] = {
+			},
+			["Nizzle"] = {
+			},
+			["Fyldren Moonfeather"] = {
+			},
+			["Kil'sorrow Deathsworn"] = {
+			},
+			["Darla Harris"] = {
+			},
+			["Aged Clefthoof"] = {
+			},
+			["Sin'loren sails burned"] = {
+				["quest"] = true,
+			},
+			["Mountain Gronn"] = {
+			},
+			["Baneflight"] = {
+			},
+			["Astromancer Darnarian"] = {
+			},
+			["Portal Reading Taken"] = {
+				["quest"] = true,
+			},
+			["Tortured Earth Spirit"] = {
+			},
+			["Brubeck Stormfoot"] = {
+			},
+			["Magister Ilastar"] = {
+			},
+			["Deathshadow Acolyte"] = {
+			},
+			["Soridormi"] = {
+			},
+			["Munci"] = {
+			},
+			["Gryfe"] = {
+			},
+			["Warmaul Brute"] = {
+			},
+			["Subjugator Vaz'shir"] = {
+			},
+			["Shellei Brondir"] = {
+			},
+			["Kil'sorrow Spellbinder"] = {
+			},
+			["Dust Howler"] = {
+			},
+			["Archmage Alturus"] = {
+			},
+			["Bloodoath sails burned"] = {
+				["quest"] = true,
+			},
+			["Kil'sorrow Ritualist"] = {
+			},
+			["Smith Hauthaa"] = {
+			},
+			["Nethestrasz"] = {
+			},
+			["Vindicator Xayann"] = {
+			},
+			["Boulderfist Warrior"] = {
+			},
+			["Warmage Adami"] = {
+			},
+			["Dirk Thunderwood"] = {
+			},
+			["Bull Elekk"] = {
+			},
+			["Pricilla Winterwind"] = {
+			},
+			["Damned Soul"] = {
+			},
+			["Wailing Spectre"] = {
+			},
+			["Murkblood Raider"] = {
+			},
+			["Gryth Thurden"] = {
+			},
+			["Vindicator Kaalan"] = {
+			},
+			["Wrath Enforcer"] = {
+				["quest"] = true,
+			},
+			["Pit Overlord"] = {
+				["quest"] = true,
+			},
+			["Warmaul Shaman"] = {
+			},
+			["Baldruc"] = {
+			},
+			["Eredar Sorcerer"] = {
+				["quest"] = true,
+			},
+			["Clefthoof Bull"] = {
+			},
+			["Dawnblade Reservist"] = {
+				["quest"] = true,
+			},
+			["Crashing Wave-Spirit"] = {
+			},
+			["Nutral"] = {
+			},
+			["Kara Thricestar"] = {
+			},
+			["Felicia Maline"] = {
+			},
+			["Dawnblade Marksman"] = {
+				["quest"] = true,
+			},
+			["Vesprystus"] = {
+			},
+			["Dawnblade Blood Knight"] = {
+				["quest"] = true,
+			},
+			["Dawnblade Summoner"] = {
+				["quest"] = true,
+			},
+			["The Black Stalker"] = {
+			},
+			["Jarrodenus"] = {
+			},
+			["Rip Pedalslam"] = {
+			},
+			["Sindrayl"] = {
+			},
+			["Mishellena"] = {
+			},
+			["Windroc"] = {
+			},
+			["Silva Fil'naveth"] = {
+			},
+			["Boulderfist Mage"] = {
+			},
+			["Faldorf Bitterchill"] = {
+			},
+			["Voidspawn"] = {
+			},
+			["Captain Theris Dawnhearth"] = {
+			},
+			["Gava'xi"] = {
+			},
+			["Lady Vashj"] = {
+			},
+			["Tyrith"] = {
+			},
+			["Lake Surger"] = {
+			},
+			["Fhyn Leafshadow"] = {
+			},
+			["Tomas Riverwell"] = {
+			},
+			["Underground Well Reading"] = {
+				["quest"] = true,
+			},
+			["Dungar Longdrink"] = {
+			},
+			["Gutripper"] = {
+			},
+			["Rumbling Earth-Heart"] = {
+			},
+			["Felguard Legionnaire"] = {
+			},
+			["Rodney Wells"] = {
+			},
+			["Wild Elekk"] = {
+			},
+			["Murkblood Putrifier"] = {
+			},
+			["Storm Rager"] = {
+			},
+			["Furnan Skysoar"] = {
+			},
+			["Grimwing"] = {
+			},
+			["Greer Orehammer"] = {
+			},
+			["Morlia Doomwing"] = {
+			},
+			["Muck Spawn"] = {
+			},
+			["Maaka"] = {
+			},
+			["Sa'at"] = {
+			},
+			["Earthbinder Rayge Discovered"] = {
+				["quest"] = true,
+			},
+			["Deathshadow Archon"] = {
+			},
+			["Bragok"] = {
+			},
+			["Living Cyclone"] = {
+			},
+			["Windcaller Claw Discovered"] = {
+				["quest"] = true,
+			},
+			["Kip Trawlskip"] = {
+			},
+			["Gan'arg Tinkerer"] = {
+			},
+			["Lake Spirit"] = {
+			},
+			["Warmaul Reaver"] = {
+			},
+			["Murkblood Invader"] = {
+			},
+			["Lanie Reed"] = {
+			},
+			["Injured Talbuk"] = {
+			},
+			["Skizzle Slickslide"] = {
+			},
+			["Terrorguard"] = {
+			},
+			["Ortor of Murkblood"] = {
+			},
+			["Penumbrius"] = {
+			},
+			["Restless Shade"] = {
+			},
+			["Windyreed Scavenger"] = {
+			},
+			["Derek Rammel"] = {
+			},
+			["Stephanos"] = {
+			},
+			["Talbuk Patriarch"] = {
+			},
+			["Zorbo the Advisor"] = {
+			},
+			["Vir'aani Arcanist"] = {
+			},
+			["Aludane Whitecloud"] = {
+			},
+			["Clefthoof"] = {
+			},
+			["Gorrim"] = {
+			},
+			["Boulderfist Mystic"] = {
+			},
+			["Galendror Whitewing"] = {
+			},
+			["Harbinger Haronem"] = {
+			},
+			["Murkblood Brute"] = {
+			},
+			["Shattered Rumbler"] = {
+			},
+			["Amerun Leafshade"] = {
+			},
+			["Clefthoof Calf"] = {
+			},
+			["Kuma"] = {
+			},
+			["Laando"] = {
+			},
+			["Bibilfaz Featherwhistle"] = {
+			},
+			["Tusker"] = {
+			},
+			["Danica Saint"] = {
+			},
+			["Deathshadow Spellbinder"] = {
+			},
+			["Alexandra Constantine"] = {
+			},
+			["Cloud Skydancer"] = {
+			},
+			["Amish Wildhammer"] = {
+			},
+			["Samuel Clearbook"] = {
+			},
+			["Murkblood Scavenger"] = {
+			},
+			["Khaelyn Steelwing"] = {
+			},
+			["Underground Pond Reading"] = {
+				["quest"] = true,
+			},
+			["Warmaul Warlock"] = {
+			},
+			["Baritanas Skyriver"] = {
+			},
+			["Warlord Kalithresh"] = {
+				["quest"] = true,
+			},
+			["Boulderfist Hunter"] = {
+			},
+			["Furgu"] = {
+			},
+			["Runetog Wildhammer"] = {
+			},
+			["Harpax"] = {
+			},
+			["Greater Windroc"] = {
+			},
+			["James Ormsby"] = {
+			},
+			["Borgus Stoutarm"] = {
+			},
+			["Wind Trader Zhareem"] = {
+			},
+			["Maethrya"] = {
+			},
+			["Krexcil"] = {
+			},
+			["Bera Stonehammer"] = {
+			},
+			["Naturalist Bite Discovered"] = {
+				["quest"] = true,
+			},
+			["Windroc Hunter"] = {
+			},
+			["Talbuk Stag"] = {
+			},
+			["Weeder Greenthumb Discovered"] = {
+				["quest"] = true,
+			},
+			["Aedan Moran"] = {
+			},
+			["Thyssiana"] = {
+			},
+			["Thor"] = {
+			},
+			["Deathshadow Hound"] = {
+			},
+			["Guthrum Thunderfist"] = {
+			},
+			["Vir'aani Raider"] = {
+			},
+			["Cid Flounderfix"] = {
+			},
+			["Banthar"] = {
+			},
+			["The Spirit of Gnomeregan"] = {
+			},
+			["Cedrik Prose"] = {
+			},
+			["Daelyshia"] = {
+			},
+			["Dawnchaser sails burned"] = {
+				["quest"] = true,
+			},
+		},
+		["item"] = {
+			["Blackflight Arrow"] = {
+				["id"] = 28056,
+			},
+			["Vashj's Vial Remnant"] = {
+				["quest"] = true,
+			},
+			["Mag'har Grainbread"] = {
+				["id"] = 27855,
+			},
+			["Knothide Leather Scraps"] = {
+				["id"] = 25649,
+			},
+			["Light Leather"] = {
+				["id"] = 2318,
+			},
+			["Razor Claw"] = {
+				["id"] = 27932,
+			},
+			["Blackened Basilisk"] = {
+				["id"] = 27657,
+			},
+			["Super Mana Potion"] = {
+				["id"] = 22832,
+			},
+			["Dense War Staff"] = {
+				["id"] = 25404,
+			},
+			["Bloody Fang"] = {
+				["id"] = 25417,
+			},
+			["Pattern: Drums of Battle"] = {
+				["id"] = 29717,
+			},
+			["Knothide Leather"] = {
+				["id"] = 21887,
+			},
+			["Adamantite Stinger"] = {
+				["id"] = 33803,
+			},
+			["Elixir of Camouflage"] = {
+				["id"] = 22823,
+			},
+			["Major Mana Potion"] = {
+				["id"] = 13444,
+			},
+			["Broken Ravager Carapace"] = {
+				["id"] = 23944,
+			},
+			["Major Rejuvenation Potion"] = {
+				["id"] = 18253,
+			},
+			["Broken Ravager Claw"] = {
+				["id"] = 23946,
+			},
+			["Kurinnaxx's Venom Sac"] = {
+				["quest"] = true,
+			},
+			["Ruined Leather Scraps"] = {
+				["id"] = 2934,
+			},
+			["Fel Hide"] = {
+				["id"] = 25707,
+			},
+			["Elixir of Shadows"] = {
+				["id"] = 32446,
+			},
+			["Pattern: Drums of Panic"] = {
+				["id"] = 29713,
+			},
+			["Basilisk Liver"] = {
+				["id"] = 29553,
+			},
+			["Ghostly Essence"] = {
+				["quest"] = true,
+			},
+			["Darkspine Iron Ore"] = {
+				["quest"] = true,
+			},
+			["Heavy Knothide Leather"] = {
+				["id"] = 23793,
+			},
+			["Netherweave Cloth"] = {
+				["id"] = 21877,
+			},
+			["Black Stalker Egg"] = {
+				["quest"] = true,
+			},
+			["Strength of the High Chief"] = {
+				["id"] = 34423,
+			},
+			["Venoxis's Venom Sac"] = {
+				["quest"] = true,
+			},
+			["Purified Draenic Water"] = {
+				["id"] = 27860,
+			},
+			["Warped Flesh"] = {
+				["id"] = 27681,
+			},
+			["Telaari Grapes"] = {
+				["id"] = 29450,
+			},
+			["Oshu'gun Crystal Powder Sample"] = {
+				["quest"] = true,
+			},
+			["Kael's Vial Remnant"] = {
+				["quest"] = true,
+			},
+			["Primal Buckler"] = {
+				["id"] = 15006,
+			},
+			["Underspore Pod"] = {
+				["id"] = 28112,
+			},
+			["Chunk o' Basilisk"] = {
+				["id"] = 27677,
+			},
+		},
+		["event"] = {
+			["Energize a Crystal Ward"] = {
+				["quest"] = true,
+			},
+			["The Dark Portal Opened"] = {
+				["quest"] = true,
+			},
+		},
+	},
+}
+QuestHelper_FlightInstructors = {
+	["0.62 on 3.0.2"] = {
+	},
+}
+QuestHelper_FlightRoutes = {
+	["0.62 on 3.0.2"] = {
+	},
+}
+QuestHelper_Pref = {
+	["track"] = true,
+	["filter_zone"] = false,
+	["scale"] = 1,
+	["comm"] = false,
+	["locale"] = "enUS",
+	["track_level"] = true,
+	["hide"] = false,
+	["show_ants"] = true,
+	["track_size"] = 8,
+	["perf_scale"] = 1,
+	["level"] = 2,
+	["map_button"] = true,
+	["solo"] = false,
+	["filter_level"] = true,
+	["filter_blocked"] = false,
+	["track_minimized"] = false,
+	["cart_wp"] = true,
+	["track_qcolour"] = true,
+	["tomtom_wp"] = true,
+	["tooltip"] = true,
+	["share"] = true,
+	["filter_watched"] = false,
+	["track_ocolour"] = true,
+	["filter_done"] = false,
+	["flight_time"] = true,
+	["track_scale"] = 1,
+}
+QuestHelper_UID = "KexI1DyS0SzNSHvn6O9OYY4O0tc2Ro7v"
+QuestHelper_SaveDate = 1224283922
+QuestHelper_SeenRealms = {
+	["Sporeggar"] = true,
+}
+QuestHelper_Errors = {
+	["crashes"] = {
+	},
+}

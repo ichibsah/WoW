@@ -1,0 +1,84 @@
+VER 3 0100000000000020 "01-legion" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget [dead]
+/targetenemy [noharm]
+/castsequence reset=target/combat/10 Sidewinders,Marked Shot,Sidewinders,Aimed Shot,Aimed Shot,Aimed Shot
+END
+VER 3 010000000000001F "02-legion" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget [dead]
+/targetenemy [noharm]
+/castrandom Counter Shot,Concussive Shot
+END
+VER 3 0100000000000019 "1 - Chimaera" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/targetenemy [noharm]
+/castsequence [mod:alt]Mend Pet; reset=target/combat Chimaera Shot,Aimed Shot,Glaive Toss,Tranquilizing Shot,Steady Shot,Chimaera Shot,Aimed Shot,Steady Shot,Steady Shot
+/petattack
+END
+VER 3 0100000000000026 "1-legion" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget [dead]
+/targetenemy [noharm]
+/cast Kill Command
+/cast A Murder of Crows
+END
+VER 3 0100000000000027 "2-legion" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget [dead]
+/targetenemy [noharm]
+/cast Dire Beast
+/cast A Murder of Crows
+END
+VER 3 010000000000001B "3 - Slow" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/targetenemy [noharm]
+/castsequence [mod:alt] Explosive Trap(Fire Trap); reset=target/combat Concussive Shot,Ice Trap(Frost Trap),Wyvern Sting,Aspect of the Cheetah
+/petattack
+END
+VER 3 0100000000000028 "3-legion" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget [dead]
+/targetenemy [noharm]
+/cast Cobra Shot
+/cast A Murder of Crows
+END
+VER 3 0100000000000029 "4-legion" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget [dead]
+/targetenemy [noharm]
+/cast Multi-Shot
+/cast A Murder of Crows
+END
+VER 3 010000000000002A "5-legion" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget [dead]
+/targetenemy [noharm]
+/cast Bestial Wrath
+/cast A Murder of Crows
+END
+VER 3 0100000000000025 "Altimate" "INV_MISC_QUESTIONMARK"
+/cast Aspect of the Wild
+/cast A Murder of Crows
+/cast Stampede
+/cast Bestial Wrath
+/cast Counter Shot
+END
+VER 3 010000000000001A "Buff" "SPELL_MAGIC_MANAGAIN"
+/use Oralius' Whispering Crystal
+/use Order of the Awakened Battle Standard
+/use Saberstalkers Battle Standard
+/use Hand of the Prophet Battle Standard
+/use Elixir of Giant Growth
+/cast Lone Wolf: Power of the Primates
+/recount hide
+END
+VER 3 010000000000002B "Cobra Shot" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget [dead]
+/targetenemy [noharm]
+/cast Cobra Shot
+END
+VER 3 0100000000000013 "Misdirection" "INV_Misc_QuestionMark"
+/cast Misdirection
+END

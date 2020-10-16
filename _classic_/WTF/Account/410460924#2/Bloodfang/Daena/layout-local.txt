@@ -1,0 +1,15 @@
+Version: 1
+Frame: f1_HealBot_Action
+FrameLevel: 1
+Anchor: LEFT
+X: 159
+Y: 20
+W: 160
+H: 97
+Frame: GRM_RosterChangeLogFrame
+FrameLevel: 1
+Anchor: CENTER
+X: 0
+Y: 0
+W: 600
+H: 465

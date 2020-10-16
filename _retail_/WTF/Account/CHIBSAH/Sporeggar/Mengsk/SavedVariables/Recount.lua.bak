@@ -1,0 +1,7223 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Миштат-ПиратскаяБухта"] = {
+			["GUID"] = "Player-1924-083AF4F9",
+			["TimeLast"] = {
+				["TimeHeal"] = 186328.136,
+				["OVERALL"] = 186333.138,
+				["DamageTaken"] = 186333.138,
+				["Healing"] = 186328.136,
+				["Absorbs"] = 186327.139,
+				["RageGain"] = 186327.139,
+				["Overhealing"] = 186324.138,
+				["TimeDamage"] = 186328.136,
+				["ActiveTime"] = 186328.136,
+				["HealingTaken"] = 186328.136,
+				["DOT_Time"] = 186327.139,
+				["Damage"] = 186328.136,
+			},
+			["LastAttackedBy"] = "Haywire Golem",
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"DAMAGE", -- [4]
+				"HEAL", -- [5]
+				"DAMAGE", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"HEAL", -- [10]
+				"DAMAGE", -- [11]
+				"DAMAGE", -- [12]
+				"DAMAGE", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"DAMAGE", -- [16]
+				"DAMAGE", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"HEAL", -- [20]
+				"HEAL", -- [21]
+				"HEAL", -- [22]
+				"HEAL", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"DAMAGE", -- [26]
+				"DAMAGE", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"DAMAGE", -- [32]
+				"DAMAGE", -- [33]
+				"DAMAGE", -- [34]
+				"HEAL", -- [35]
+				"DAMAGE", -- [36]
+				"DAMAGE", -- [37]
+				"DAMAGE", -- [38]
+				"DAMAGE", -- [39]
+				"DAMAGE", -- [40]
+				"DAMAGE", -- [41]
+				"DAMAGE", -- [42]
+				"DAMAGE", -- [43]
+				"DAMAGE", -- [44]
+				"DAMAGE", -- [45]
+				"DAMAGE", -- [46]
+				"DAMAGE", -- [47]
+				"DAMAGE", -- [48]
+				"DAMAGE", -- [49]
+				"DAMAGE", -- [50]
+			},
+			["TimeWindows"] = {
+				["TimeHeal"] = {
+					31.61, -- [1]
+				},
+				["Healing"] = {
+					15597, -- [1]
+				},
+				["DamageTaken"] = {
+					46526, -- [1]
+				},
+				["Absorbs"] = {
+					8839, -- [1]
+				},
+				["HealingTaken"] = {
+					43062, -- [1]
+				},
+				["Overhealing"] = {
+					11392, -- [1]
+				},
+				["TimeDamage"] = {
+					39.87, -- [1]
+				},
+				["ActiveTime"] = {
+					71.48, -- [1]
+				},
+				["RageGain"] = {
+					169, -- [1]
+				},
+				["DOT_Time"] = {
+					93, -- [1]
+				},
+				["Damage"] = {
+					125546, -- [1]
+				},
+			},
+			["enClass"] = "DRUID",
+			["unit"] = true,
+			["level"] = 120,
+			["LastDamageAbility"] = "Mulching Strike (DoT)",
+			["LastFightIn"] = 1,
+			["LastHealTime"] = 186328.947,
+			["type"] = "Ungrouped",
+			["FightsSaved"] = 2,
+			["LastDamageTaken"] = 448,
+			["LastEventHealth"] = {
+				128007, -- [1]
+				128007, -- [2]
+				128007, -- [3]
+				128007, -- [4]
+				131990, -- [5]
+				131542, -- [6]
+				131093, -- [7]
+				132005, -- [8]
+				131556, -- [9]
+				132763, -- [10]
+				132314, -- [11]
+				132315, -- [12]
+				131685, -- [13]
+				131685, -- [14]
+				131685, -- [15]
+				130607, -- [16]
+				130607, -- [17]
+				130607, -- [18]
+				130607, -- [19]
+				131893, -- [20]
+				132008, -- [21]
+				132140, -- [22]
+				132152, -- [23]
+				132152, -- [24]
+				131074, -- [25]
+				131074, -- [26]
+				131074, -- [27]
+				131074, -- [28]
+				131074, -- [29]
+				129995, -- [30]
+				129995, -- [31]
+				129995, -- [32]
+				129995, -- [33]
+				129995, -- [34]
+				132763, -- [35]
+				131685, -- [36]
+				131685, -- [37]
+				131685, -- [38]
+				131685, -- [39]
+				131685, -- [40]
+				131685, -- [41]
+				130607, -- [42]
+				130607, -- [43]
+				130607, -- [44]
+				130607, -- [45]
+				130607, -- [46]
+				130607, -- [47]
+				129679, -- [48]
+				129679, -- [49]
+				128007, -- [50]
+			},
+			["Owner"] = false,
+			["LastEventHealthMax"] = {
+				132763, -- [1]
+				132763, -- [2]
+				132763, -- [3]
+				132763, -- [4]
+				132763, -- [5]
+				132763, -- [6]
+				132763, -- [7]
+				132763, -- [8]
+				132763, -- [9]
+				132763, -- [10]
+				132763, -- [11]
+				132763, -- [12]
+				132763, -- [13]
+				132763, -- [14]
+				132763, -- [15]
+				132763, -- [16]
+				132763, -- [17]
+				132763, -- [18]
+				132763, -- [19]
+				132763, -- [20]
+				132763, -- [21]
+				132763, -- [22]
+				132763, -- [23]
+				132763, -- [24]
+				132763, -- [25]
+				132763, -- [26]
+				132763, -- [27]
+				132763, -- [28]
+				132763, -- [29]
+				132763, -- [30]
+				132763, -- [31]
+				132763, -- [32]
+				132763, -- [33]
+				132763, -- [34]
+				132763, -- [35]
+				132763, -- [36]
+				132763, -- [37]
+				132763, -- [38]
+				132763, -- [39]
+				132763, -- [40]
+				132763, -- [41]
+				132763, -- [42]
+				132763, -- [43]
+				132763, -- [44]
+				132763, -- [45]
+				132763, -- [46]
+				132763, -- [47]
+				132763, -- [48]
+				132763, -- [49]
+				132763, -- [50]
+			},
+			["NextEventNum"] = 13,
+			["LastDamageTime"] = 186328.226,
+			["LastEvents"] = {
+				"Haywire Golem Mulching Strike Миштат-ПиратскаяБухта Hit -1672 (240 Absorbed) (Physical)", -- [1]
+				"Миштат-ПиратскаяБухта Brambles Haywire Golem Hit -306 (Nature)", -- [2]
+				"Миштат-ПиратскаяБухта Mangle Haywire Golem Hit -1994 (Physical)", -- [3]
+				"Миштат-ПиратскаяБухта Melee Haywire Golem Crit -2950 (Physical)", -- [4]
+				"Миштат-ПиратскаяБухта Ysera's Gift Миштат-ПиратскаяБухта Hit +3983", -- [5]
+				"Haywire Golem Mulching Strike (DoT) Миштат-ПиратскаяБухта Tick -448 (Physical)", -- [6]
+				"Haywire Golem Mulching Strike (DoT) Миштат-ПиратскаяБухта Tick -449 (Physical)", -- [7]
+				"Haywire Golem Mulching Strike (DoT) Миштат-ПиратскаяБухта Tick -448 (Physical)", -- [8]
+				"Haywire Golem Mulching Strike (DoT) Миштат-ПиратскаяБухта Tick -449 (Physical)", -- [9]
+				"Миштат-ПиратскаяБухта Ysera's Gift Миштат-ПиратскаяБухта Hit +3983 (2776 Overheal)", -- [10]
+				"Haywire Golem Mulching Strike (DoT) Миштат-ПиратскаяБухта Tick -449 (Physical)", -- [11]
+				"Haywire Golem Mulching Strike (DoT) Миштат-ПиратскаяБухта Tick -448 (Physical)", -- [12]
+				"Haywire Golem Malfunctioning Jolt Миштат-ПиратскаяБухта Hit -1078 (240 Absorbed) (Nature)", -- [13]
+				"Миштат-ПиратскаяБухта Brambles Haywire Golem Hit -305 (Nature)", -- [14]
+				"Миштат-ПиратскаяБухта Thrash (DoT) Haywire Golem Tick -507 (Physical)", -- [15]
+				"Haywire Golem Malfunctioning Jolt Миштат-ПиратскаяБухта Absorb -240 (Nature)", -- [16]
+				"Haywire Golem Malfunctioning Jolt Миштат-ПиратскаяБухта Hit -1078 (240 Absorbed) (Nature)", -- [17]
+				"Миштат-ПиратскаяБухта Brambles Haywire Golem Hit -306 (Nature)", -- [18]
+				"Миштат-ПиратскаяБухта Swipe Haywire Golem Hit -1419 (Physical)", -- [19]
+				"Mengsk Efflorescence Миштат-ПиратскаяБухта Hit +1286", -- [20]
+				"Миштат-ПиратскаяБухта Nature's Guardian Миштат-ПиратскаяБухта Hit +115", -- [21]
+				"Mengsk Efflorescence Миштат-ПиратскаяБухта Hit +132", -- [22]
+				"Миштат-ПиратскаяБухта Nature's Guardian Миштат-ПиратскаяБухта Hit +12", -- [23]
+				"Миштат-ПиратскаяБухта Moonfire (DoT) Haywire Golem Crit -1402 (Arcane)", -- [24]
+				"Haywire Golem Malfunctioning Jolt Миштат-ПиратскаяБухта Absorb -240 (Nature)", -- [25]
+				"Haywire Golem Malfunctioning Jolt Миштат-ПиратскаяБухта Hit -1078 (240 Absorbed) (Nature)", -- [26]
+				"Миштат-ПиратскаяБухта Brambles Haywire Golem Hit -306 (Nature)", -- [27]
+				"Миштат-ПиратскаяБухта Melee Haywire Golem Crit -3033 (Physical)", -- [28]
+				"Миштат-ПиратскаяБухта Thrash Haywire Golem Hit -2162 (Physical)", -- [29]
+				"Haywire Golem Malfunctioning Jolt Миштат-ПиратскаяБухта Absorb -240 (Nature)", -- [30]
+				"Haywire Golem Malfunctioning Jolt Миштат-ПиратскаяБухта Hit -1079 (240 Absorbed) (Nature)", -- [31]
+				"Миштат-ПиратскаяБухта Brambles Haywire Golem Crit -612 (Nature)", -- [32]
+				"Миштат-ПиратскаяБухта Moonfire (DoT) Haywire Golem Tick -701 (Arcane)", -- [33]
+				"Миштат-ПиратскаяБухта Thrash (DoT) Haywire Golem Tick -506 (Physical)", -- [34]
+				"Миштат-ПиратскаяБухта Ysera's Gift Миштат-ПиратскаяБухта Hit +3982 (1214 Overheal)", -- [35]
+				"Haywire Golem Malfunctioning Jolt Миштат-ПиратскаяБухта Absorb -240 (Nature)", -- [36]
+				"Haywire Golem Malfunctioning Jolt Миштат-ПиратскаяБухта Hit -1078 (240 Absorbed) (Nature)", -- [37]
+				"Миштат-ПиратскаяБухта Brambles Haywire Golem Crit -612 (Nature)", -- [38]
+				"Миштат-ПиратскаяБухта Mangle Haywire Golem Hit -1995 (Physical)", -- [39]
+				"Миштат-ПиратскаяБухта Moonfire (DoT) Haywire Golem Crit -634 (Arcane)", -- [40]
+				"Миштат-ПиратскаяБухта Melee Haywire Golem Hit -1484 (Physical)", -- [41]
+				"Haywire Golem Malfunctioning Jolt Миштат-ПиратскаяБухта Absorb -240 (Nature)", -- [42]
+				"Haywire Golem Malfunctioning Jolt Миштат-ПиратскаяБухта Hit -1078 (240 Absorbed) (Nature)", -- [43]
+				"Миштат-ПиратскаяБухта Brambles Haywire Golem Crit -612 (Nature)", -- [44]
+				"Haywire Golem Melee Миштат-ПиратскаяБухта Absorb -663 (1)", -- [45]
+				"Haywire Golem Melee Миштат-ПиратскаяБухта Hit -928 (663 Absorbed) (Physical)", -- [46]
+				"Миштат-ПиратскаяБухта Brambles Haywire Golem Crit -611 (Nature)", -- [47]
+				"Миштат-ПиратскаяБухта Moonfire Haywire Golem Hit -406 (Arcane)", -- [48]
+				"Миштат-ПиратскаяБухта Thrash (DoT) Haywire Golem Tick -406 (Physical)", -- [49]
+				"Haywire Golem Mulching Strike Миштат-ПиратскаяБухта Absorb -240 (Physical)", -- [50]
+			},
+			["Name"] = "Миштат-ПиратскаяБухта",
+			["LastEventIncoming"] = {
+				true, -- [1]
+				false, -- [2]
+				false, -- [3]
+				false, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+				true, -- [9]
+				true, -- [10]
+				true, -- [11]
+				true, -- [12]
+				true, -- [13]
+				false, -- [14]
+				false, -- [15]
+				true, -- [16]
+				true, -- [17]
+				false, -- [18]
+				false, -- [19]
+				true, -- [20]
+				true, -- [21]
+				true, -- [22]
+				true, -- [23]
+				false, -- [24]
+				true, -- [25]
+				true, -- [26]
+				false, -- [27]
+				false, -- [28]
+				false, -- [29]
+				true, -- [30]
+				true, -- [31]
+				false, -- [32]
+				false, -- [33]
+				false, -- [34]
+				true, -- [35]
+				true, -- [36]
+				true, -- [37]
+				false, -- [38]
+				false, -- [39]
+				false, -- [40]
+				false, -- [41]
+				true, -- [42]
+				true, -- [43]
+				false, -- [44]
+				true, -- [45]
+				true, -- [46]
+				false, -- [47]
+				false, -- [48]
+				false, -- [49]
+				true, -- [50]
+			},
+			["LastEventTimes"] = {
+				186328.018, -- [1]
+				186328.018, -- [2]
+				186328.018, -- [3]
+				186328.226, -- [4]
+				186328.947, -- [5]
+				186329.092, -- [6]
+				186330.029, -- [7]
+				186331.091, -- [8]
+				186332.065, -- [9]
+				186332.916, -- [10]
+				186333.068, -- [11]
+				186334.068, -- [12]
+				186320.996, -- [13]
+				186320.996, -- [14]
+				186321.865, -- [15]
+				186322.137, -- [16]
+				186322.137, -- [17]
+				186322.137, -- [18]
+				186322.274, -- [19]
+				186322.487, -- [20]
+				186322.487, -- [21]
+				186322.619, -- [22]
+				186322.619, -- [23]
+				186322.743, -- [24]
+				186323.054, -- [25]
+				186323.054, -- [26]
+				186323.054, -- [27]
+				186323.24, -- [28]
+				186323.761, -- [29]
+				186324.118, -- [30]
+				186324.118, -- [31]
+				186324.118, -- [32]
+				186324.672, -- [33]
+				186324.672, -- [34]
+				186324.936, -- [35]
+				186325.061, -- [36]
+				186325.061, -- [37]
+				186325.061, -- [38]
+				186325.198, -- [39]
+				186325.534, -- [40]
+				186325.771, -- [41]
+				186325.982, -- [42]
+				186325.982, -- [43]
+				186326.081, -- [44]
+				186326.205, -- [45]
+				186326.205, -- [46]
+				186326.205, -- [47]
+				186326.647, -- [48]
+				186327.494, -- [49]
+				186328.018, -- [50]
+			},
+			["Fights"] = {
+				["Fight2"] = {
+					["Absorbs"] = 8839,
+					["TimeHealing"] = {
+						["Миштат-ПиратскаяБухта"] = {
+							["Details"] = {
+								["Brambles"] = {
+									["count"] = 23.79,
+								},
+								["Ysera's Gift"] = {
+									["count"] = 2.2,
+								},
+								["Nature's Guardian"] = {
+									["count"] = 5.62,
+								},
+							},
+							["amount"] = 31.61,
+						},
+					},
+					["OverHeals"] = {
+						["Ysera's Gift"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3669,
+									["min"] = 1214,
+									["count"] = 5,
+									["amount"] = 9295,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 9295,
+						},
+						["Nature's Guardian"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 300,
+									["min"] = 49,
+									["count"] = 11,
+									["amount"] = 2097,
+								},
+							},
+							["count"] = 11,
+							["amount"] = 2097,
+						},
+					},
+					["DOTs"] = {
+						["Moonfire (DoT)"] = {
+							["Details"] = {
+								["Haywire Golem"] = {
+									["count"] = 54,
+								},
+							},
+							["amount"] = 54,
+						},
+						["Thrash (DoT)"] = {
+							["Details"] = {
+								["Haywire Golem"] = {
+									["count"] = 39,
+								},
+							},
+							["amount"] = 39,
+						},
+					},
+					["DOT_Time"] = 93,
+					["TimeSpent"] = {
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Brambles"] = {
+									["count"] = 9.33,
+								},
+								["Thrash (DoT)"] = {
+									["count"] = 5.73,
+								},
+								["Melee"] = {
+									["count"] = 8.63,
+								},
+								["Moonfire"] = {
+									["count"] = 2.48,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 7.5,
+								},
+								["Thrash"] = {
+									["count"] = 3,
+								},
+								["Maul"] = {
+									["count"] = 0.9,
+								},
+								["Mangle"] = {
+									["count"] = 2.15,
+								},
+								["Swipe"] = {
+									["count"] = 0.15,
+								},
+							},
+							["amount"] = 39.87,
+						},
+						["Миштат-ПиратскаяБухта"] = {
+							["Details"] = {
+								["Brambles"] = {
+									["count"] = 23.79,
+								},
+								["Ysera's Gift"] = {
+									["count"] = 2.2,
+								},
+								["Nature's Guardian"] = {
+									["count"] = 5.62,
+								},
+							},
+							["amount"] = 31.61,
+						},
+					},
+					["DamageTaken"] = 44732,
+					["RageGainedFrom"] = {
+						["Миштат-ПиратскаяБухта"] = {
+							["Details"] = {
+								["Rage"] = {
+									["count"] = 27,
+								},
+								["Bear Form"] = {
+									["count"] = 20,
+								},
+								["Thrash"] = {
+									["count"] = 30,
+								},
+								["Mangle"] = {
+									["count"] = 92,
+								},
+							},
+							["amount"] = 169,
+						},
+					},
+					["PartialResist"] = {
+						["Mulching Strike (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 14,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 14,
+						},
+						["Malfunctioning Jolt"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 24,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 24,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 18,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 18,
+						},
+						["Mulching Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 6,
+						},
+					},
+					["Overhealing"] = 11392,
+					["PartialAbsorb"] = {
+						["Mulching Strike (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 14,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 14,
+							["amount"] = 0,
+						},
+						["Malfunctioning Jolt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 12,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 269,
+									["min"] = 240,
+									["count"] = 12,
+									["amount"] = 3054,
+								},
+							},
+							["count"] = 24,
+							["amount"] = 3054,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 894,
+									["min"] = 240,
+									["count"] = 9,
+									["amount"] = 5007,
+								},
+							},
+							["count"] = 18,
+							["amount"] = 5007,
+						},
+						["Mulching Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 269,
+									["min"] = 240,
+									["count"] = 3,
+									["amount"] = 778,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 778,
+						},
+					},
+					["ActiveTime"] = 71.48,
+					["WhoHealed"] = {
+						["Миштат-ПиратскаяБухта"] = {
+							["Details"] = {
+								["Brambles"] = {
+									["count"] = 6108,
+								},
+								["Earthwarden"] = {
+									["count"] = 2731,
+								},
+								["Ysera's Gift"] = {
+									["count"] = 14601,
+								},
+								["Nature's Guardian"] = {
+									["count"] = 996,
+								},
+							},
+							["amount"] = 24436,
+						},
+						["Mengsk"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 4149,
+								},
+								["Efflorescence"] = {
+									["count"] = 14477,
+								},
+							},
+							["amount"] = 18626,
+						},
+					},
+					["ElementTaken"] = {
+						["Physical"] = 11831,
+						["Melee"] = 17055,
+						["Nature"] = 15846,
+					},
+					["RageGained"] = {
+						["Rage"] = {
+							["Details"] = {
+								["Миштат-ПиратскаяБухта"] = {
+									["count"] = 27,
+								},
+							},
+							["amount"] = 27,
+						},
+						["Bear Form"] = {
+							["Details"] = {
+								["Миштат-ПиратскаяБухта"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 20,
+						},
+						["Thrash"] = {
+							["Details"] = {
+								["Миштат-ПиратскаяБухта"] = {
+									["count"] = 30,
+								},
+							},
+							["amount"] = 30,
+						},
+						["Mangle"] = {
+							["Details"] = {
+								["Миштат-ПиратскаяБухта"] = {
+									["count"] = 92,
+								},
+							},
+							["amount"] = 92,
+						},
+					},
+					["Damage"] = 125546,
+					["HealingTaken"] = 43062,
+					["TimeHeal"] = 31.61,
+					["HealedWho"] = {
+						["Миштат-ПиратскаяБухта"] = {
+							["Details"] = {
+								["Brambles"] = {
+									["count"] = 6108,
+								},
+								["Earthwarden"] = {
+									["count"] = 2731,
+								},
+								["Ysera's Gift"] = {
+									["count"] = 14601,
+								},
+								["Nature's Guardian"] = {
+									["count"] = 996,
+								},
+							},
+							["amount"] = 24436,
+						},
+					},
+					["Heals"] = {
+						["Brambles"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 269,
+									["min"] = 240,
+									["count"] = 24,
+									["amount"] = 6108,
+								},
+							},
+							["count"] = 24,
+							["amount"] = 6108,
+						},
+						["Earthwarden"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 625,
+									["min"] = 423,
+									["count"] = 5,
+									["amount"] = 2731,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 2731,
+						},
+						["Ysera's Gift"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3983,
+									["min"] = 314,
+									["count"] = 6,
+									["amount"] = 14601,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 14601,
+						},
+						["Nature's Guardian"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 115,
+									["min"] = 12,
+									["count"] = 10,
+									["amount"] = 996,
+								},
+							},
+							["count"] = 10,
+							["amount"] = 996,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Arcane"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+								["Crit"] = {
+									["count"] = 4,
+								},
+								["Tick"] = {
+									["count"] = 15,
+								},
+							},
+							["amount"] = 21,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 10,
+								},
+								["Crit"] = {
+									["count"] = 5,
+								},
+								["Hit"] = {
+									["count"] = 21,
+								},
+							},
+							["amount"] = 36,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 6,
+								},
+								["Hit"] = {
+									["count"] = 12,
+								},
+							},
+							["amount"] = 18,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 10,
+								},
+								["Hit"] = {
+									["count"] = 14,
+								},
+							},
+							["amount"] = 24,
+						},
+					},
+					["Healing"] = 15597,
+					["ElementTakenAbsorb"] = {
+						["Physical"] = 778,
+						["Melee"] = 5007,
+						["Nature"] = 3054,
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 3,
+								},
+								["Tick"] = {
+									["count"] = 14,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 20,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 9,
+								},
+								["Absorb"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 18,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 12,
+								},
+								["Absorb"] = {
+									["count"] = 12,
+								},
+							},
+							["amount"] = 24,
+						},
+					},
+					["Attacks"] = {
+						["Brambles"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 687,
+									["min"] = 611,
+									["count"] = 10,
+									["amount"] = 6487,
+								},
+								["Hit"] = {
+									["max"] = 343,
+									["min"] = 305,
+									["count"] = 14,
+									["amount"] = 4541,
+								},
+							},
+							["count"] = 24,
+							["amount"] = 11028,
+						},
+						["Thrash (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 1014,
+									["min"] = 909,
+									["count"] = 3,
+									["amount"] = 2937,
+								},
+								["Tick"] = {
+									["max"] = 568,
+									["min"] = 129,
+									["count"] = 10,
+									["amount"] = 3900,
+								},
+							},
+							["count"] = 13,
+							["amount"] = 6837,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 3315,
+									["min"] = 2795,
+									["count"] = 6,
+									["amount"] = 17995,
+								},
+								["Hit"] = {
+									["max"] = 1689,
+									["min"] = 1392,
+									["count"] = 12,
+									["amount"] = 18977,
+								},
+							},
+							["count"] = 18,
+							["amount"] = 36972,
+						},
+						["Moonfire"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 782,
+									["min"] = 782,
+									["count"] = 1,
+									["amount"] = 782,
+								},
+								["Hit"] = {
+									["max"] = 456,
+									["min"] = 406,
+									["count"] = 2,
+									["amount"] = 862,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 1644,
+						},
+						["Moonfire (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 1541,
+									["min"] = 634,
+									["count"] = 3,
+									["amount"] = 3577,
+								},
+								["Tick"] = {
+									["max"] = 786,
+									["min"] = 355,
+									["count"] = 15,
+									["amount"] = 10669,
+								},
+							},
+							["count"] = 18,
+							["amount"] = 14246,
+						},
+						["Thrash"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 4758,
+									["min"] = 4758,
+									["count"] = 1,
+									["amount"] = 4758,
+								},
+								["Hit"] = {
+									["max"] = 2333,
+									["min"] = 1632,
+									["count"] = 5,
+									["amount"] = 10229,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 14987,
+						},
+						["Maul"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3561,
+									["min"] = 3115,
+									["count"] = 4,
+									["amount"] = 13150,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 13150,
+						},
+						["Mangle"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 4306,
+									["min"] = 4306,
+									["count"] = 1,
+									["amount"] = 4306,
+								},
+								["Hit"] = {
+									["max"] = 2237,
+									["min"] = 1568,
+									["count"] = 8,
+									["amount"] = 16215,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 20521,
+						},
+						["Swipe"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 1591,
+									["min"] = 1419,
+									["count"] = 4,
+									["amount"] = 6161,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 6161,
+						},
+					},
+					["RageGain"] = 169,
+					["DamagedWho"] = {
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Brambles"] = {
+									["count"] = 11028,
+								},
+								["Thrash (DoT)"] = {
+									["count"] = 6837,
+								},
+								["Melee"] = {
+									["count"] = 36972,
+								},
+								["Moonfire"] = {
+									["count"] = 1644,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 14246,
+								},
+								["Thrash"] = {
+									["count"] = 14987,
+								},
+								["Maul"] = {
+									["count"] = 13150,
+								},
+								["Mangle"] = {
+									["count"] = 20521,
+								},
+								["Swipe"] = {
+									["count"] = 6161,
+								},
+							},
+							["amount"] = 125546,
+						},
+					},
+					["TimeDamage"] = 39.87,
+					["TimeDamaging"] = {
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Brambles"] = {
+									["count"] = 9.33,
+								},
+								["Thrash (DoT)"] = {
+									["count"] = 5.73,
+								},
+								["Melee"] = {
+									["count"] = 8.63,
+								},
+								["Moonfire"] = {
+									["count"] = 2.48,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 7.5,
+								},
+								["Thrash"] = {
+									["count"] = 3,
+								},
+								["Maul"] = {
+									["count"] = 0.9,
+								},
+								["Mangle"] = {
+									["count"] = 2.15,
+								},
+								["Swipe"] = {
+									["count"] = 0.15,
+								},
+							},
+							["amount"] = 39.87,
+						},
+					},
+					["WhoDamaged"] = {
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Mulching Strike (DoT)"] = {
+									["count"] = 6021,
+								},
+								["Malfunctioning Jolt"] = {
+									["count"] = 15846,
+								},
+								["Melee"] = {
+									["count"] = 17055,
+								},
+								["Mulching Strike"] = {
+									["count"] = 5810,
+								},
+							},
+							["amount"] = 44732,
+						},
+					},
+					["ElementDone"] = {
+						["Arcane"] = 15890,
+						["Physical"] = 61656,
+						["Melee"] = 36972,
+						["Nature"] = 11028,
+					},
+					["Absorbed"] = {
+						["Brambles"] = {
+							["Details"] = {
+								["Миштат-ПиратскаяБухта"] = {
+									["max"] = 269,
+									["min"] = 240,
+									["count"] = 24,
+									["amount"] = 6108,
+								},
+							},
+							["count"] = 24,
+							["amount"] = 6108,
+						},
+						["Earthwarden"] = {
+							["Details"] = {
+								["Миштат-ПиратскаяБухта"] = {
+									["max"] = 625,
+									["min"] = 423,
+									["count"] = 5,
+									["amount"] = 2731,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 2731,
+						},
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Physical"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+						["Mulching Strike (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Mulching Strike (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Mulching Strike (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight1"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Physical"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+						["Mulching Strike (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Mulching Strike (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Mulching Strike (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["Absorbs"] = 8839,
+					["TimeHealing"] = {
+						["Миштат-ПиратскаяБухта"] = {
+							["Details"] = {
+								["Brambles"] = {
+									["count"] = 23.79,
+								},
+								["Ysera's Gift"] = {
+									["count"] = 2.2,
+								},
+								["Nature's Guardian"] = {
+									["count"] = 5.62,
+								},
+							},
+							["amount"] = 31.61,
+						},
+					},
+					["OverHeals"] = {
+						["Ysera's Gift"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3669,
+									["min"] = 1214,
+									["count"] = 5,
+									["amount"] = 9295,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 9295,
+						},
+						["Nature's Guardian"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 300,
+									["min"] = 49,
+									["count"] = 11,
+									["amount"] = 2097,
+								},
+							},
+							["count"] = 11,
+							["amount"] = 2097,
+						},
+					},
+					["DOTs"] = {
+						["Moonfire (DoT)"] = {
+							["Details"] = {
+								["Haywire Golem"] = {
+									["count"] = 54,
+								},
+							},
+							["amount"] = 54,
+						},
+						["Thrash (DoT)"] = {
+							["Details"] = {
+								["Haywire Golem"] = {
+									["count"] = 39,
+								},
+							},
+							["amount"] = 39,
+						},
+					},
+					["DOT_Time"] = 93,
+					["TimeSpent"] = {
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Brambles"] = {
+									["count"] = 9.33,
+								},
+								["Thrash (DoT)"] = {
+									["count"] = 5.73,
+								},
+								["Melee"] = {
+									["count"] = 8.63,
+								},
+								["Moonfire"] = {
+									["count"] = 2.48,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 7.5,
+								},
+								["Thrash"] = {
+									["count"] = 3,
+								},
+								["Maul"] = {
+									["count"] = 0.9,
+								},
+								["Mangle"] = {
+									["count"] = 2.15,
+								},
+								["Swipe"] = {
+									["count"] = 0.15,
+								},
+							},
+							["amount"] = 39.87,
+						},
+						["Миштат-ПиратскаяБухта"] = {
+							["Details"] = {
+								["Brambles"] = {
+									["count"] = 23.79,
+								},
+								["Ysera's Gift"] = {
+									["count"] = 2.2,
+								},
+								["Nature's Guardian"] = {
+									["count"] = 5.62,
+								},
+							},
+							["amount"] = 31.61,
+						},
+					},
+					["DamageTaken"] = 46526,
+					["RageGainedFrom"] = {
+						["Миштат-ПиратскаяБухта"] = {
+							["Details"] = {
+								["Rage"] = {
+									["count"] = 27,
+								},
+								["Bear Form"] = {
+									["count"] = 20,
+								},
+								["Thrash"] = {
+									["count"] = 30,
+								},
+								["Mangle"] = {
+									["count"] = 92,
+								},
+							},
+							["amount"] = 169,
+						},
+					},
+					["PartialResist"] = {
+						["Mulching Strike (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 18,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 18,
+						},
+						["Malfunctioning Jolt"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 24,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 24,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 18,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 18,
+						},
+						["Mulching Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 6,
+						},
+					},
+					["Overhealing"] = 11392,
+					["PartialAbsorb"] = {
+						["Mulching Strike (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 18,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 18,
+							["amount"] = 0,
+						},
+						["Malfunctioning Jolt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 12,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 269,
+									["min"] = 240,
+									["count"] = 12,
+									["amount"] = 3054,
+								},
+							},
+							["count"] = 24,
+							["amount"] = 3054,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 894,
+									["min"] = 240,
+									["count"] = 9,
+									["amount"] = 5007,
+								},
+							},
+							["count"] = 18,
+							["amount"] = 5007,
+						},
+						["Mulching Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 269,
+									["min"] = 240,
+									["count"] = 3,
+									["amount"] = 778,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 778,
+						},
+					},
+					["ActiveTime"] = 71.48,
+					["WhoHealed"] = {
+						["Миштат-ПиратскаяБухта"] = {
+							["Details"] = {
+								["Brambles"] = {
+									["count"] = 6108,
+								},
+								["Earthwarden"] = {
+									["count"] = 2731,
+								},
+								["Ysera's Gift"] = {
+									["count"] = 14601,
+								},
+								["Nature's Guardian"] = {
+									["count"] = 996,
+								},
+							},
+							["amount"] = 24436,
+						},
+						["Mengsk"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 4149,
+								},
+								["Efflorescence"] = {
+									["count"] = 14477,
+								},
+							},
+							["amount"] = 18626,
+						},
+					},
+					["ElementTaken"] = {
+						["Physical"] = 13625,
+						["Melee"] = 17055,
+						["Nature"] = 15846,
+					},
+					["RageGained"] = {
+						["Rage"] = {
+							["Details"] = {
+								["Миштат-ПиратскаяБухта"] = {
+									["count"] = 27,
+								},
+							},
+							["amount"] = 27,
+						},
+						["Bear Form"] = {
+							["Details"] = {
+								["Миштат-ПиратскаяБухта"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 20,
+						},
+						["Thrash"] = {
+							["Details"] = {
+								["Миштат-ПиратскаяБухта"] = {
+									["count"] = 30,
+								},
+							},
+							["amount"] = 30,
+						},
+						["Mangle"] = {
+							["Details"] = {
+								["Миштат-ПиратскаяБухта"] = {
+									["count"] = 92,
+								},
+							},
+							["amount"] = 92,
+						},
+					},
+					["Damage"] = 125546,
+					["HealingTaken"] = 43062,
+					["TimeHeal"] = 31.61,
+					["HealedWho"] = {
+						["Миштат-ПиратскаяБухта"] = {
+							["Details"] = {
+								["Brambles"] = {
+									["count"] = 6108,
+								},
+								["Earthwarden"] = {
+									["count"] = 2731,
+								},
+								["Ysera's Gift"] = {
+									["count"] = 14601,
+								},
+								["Nature's Guardian"] = {
+									["count"] = 996,
+								},
+							},
+							["amount"] = 24436,
+						},
+					},
+					["Heals"] = {
+						["Brambles"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 269,
+									["min"] = 240,
+									["count"] = 24,
+									["amount"] = 6108,
+								},
+							},
+							["count"] = 24,
+							["amount"] = 6108,
+						},
+						["Earthwarden"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 625,
+									["min"] = 423,
+									["count"] = 5,
+									["amount"] = 2731,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 2731,
+						},
+						["Ysera's Gift"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3983,
+									["min"] = 314,
+									["count"] = 6,
+									["amount"] = 14601,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 14601,
+						},
+						["Nature's Guardian"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 115,
+									["min"] = 12,
+									["count"] = 10,
+									["amount"] = 996,
+								},
+							},
+							["count"] = 10,
+							["amount"] = 996,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Arcane"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+								["Crit"] = {
+									["count"] = 4,
+								},
+								["Tick"] = {
+									["count"] = 15,
+								},
+							},
+							["amount"] = 21,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 10,
+								},
+								["Crit"] = {
+									["count"] = 5,
+								},
+								["Hit"] = {
+									["count"] = 21,
+								},
+							},
+							["amount"] = 36,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 6,
+								},
+								["Hit"] = {
+									["count"] = 12,
+								},
+							},
+							["amount"] = 18,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 10,
+								},
+								["Hit"] = {
+									["count"] = 14,
+								},
+							},
+							["amount"] = 24,
+						},
+					},
+					["Healing"] = 15597,
+					["ElementTakenAbsorb"] = {
+						["Physical"] = 778,
+						["Melee"] = 5007,
+						["Nature"] = 3054,
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 3,
+								},
+								["Tick"] = {
+									["count"] = 18,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 24,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 9,
+								},
+								["Absorb"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 18,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 12,
+								},
+								["Absorb"] = {
+									["count"] = 12,
+								},
+							},
+							["amount"] = 24,
+						},
+					},
+					["Attacks"] = {
+						["Brambles"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 687,
+									["min"] = 611,
+									["count"] = 10,
+									["amount"] = 6487,
+								},
+								["Hit"] = {
+									["max"] = 343,
+									["min"] = 305,
+									["count"] = 14,
+									["amount"] = 4541,
+								},
+							},
+							["count"] = 24,
+							["amount"] = 11028,
+						},
+						["Thrash (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 1014,
+									["min"] = 909,
+									["count"] = 3,
+									["amount"] = 2937,
+								},
+								["Tick"] = {
+									["max"] = 568,
+									["min"] = 129,
+									["count"] = 10,
+									["amount"] = 3900,
+								},
+							},
+							["count"] = 13,
+							["amount"] = 6837,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 3315,
+									["min"] = 2795,
+									["count"] = 6,
+									["amount"] = 17995,
+								},
+								["Hit"] = {
+									["max"] = 1689,
+									["min"] = 1392,
+									["count"] = 12,
+									["amount"] = 18977,
+								},
+							},
+							["count"] = 18,
+							["amount"] = 36972,
+						},
+						["Moonfire"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 782,
+									["min"] = 782,
+									["count"] = 1,
+									["amount"] = 782,
+								},
+								["Hit"] = {
+									["max"] = 456,
+									["min"] = 406,
+									["count"] = 2,
+									["amount"] = 862,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 1644,
+						},
+						["Moonfire (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 1541,
+									["min"] = 634,
+									["count"] = 3,
+									["amount"] = 3577,
+								},
+								["Tick"] = {
+									["max"] = 786,
+									["min"] = 355,
+									["count"] = 15,
+									["amount"] = 10669,
+								},
+							},
+							["count"] = 18,
+							["amount"] = 14246,
+						},
+						["Thrash"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 4758,
+									["min"] = 4758,
+									["count"] = 1,
+									["amount"] = 4758,
+								},
+								["Hit"] = {
+									["max"] = 2333,
+									["min"] = 1632,
+									["count"] = 5,
+									["amount"] = 10229,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 14987,
+						},
+						["Maul"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3561,
+									["min"] = 3115,
+									["count"] = 4,
+									["amount"] = 13150,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 13150,
+						},
+						["Mangle"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 4306,
+									["min"] = 4306,
+									["count"] = 1,
+									["amount"] = 4306,
+								},
+								["Hit"] = {
+									["max"] = 2237,
+									["min"] = 1568,
+									["count"] = 8,
+									["amount"] = 16215,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 20521,
+						},
+						["Swipe"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 1591,
+									["min"] = 1419,
+									["count"] = 4,
+									["amount"] = 6161,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 6161,
+						},
+					},
+					["RageGain"] = 169,
+					["DamagedWho"] = {
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Brambles"] = {
+									["count"] = 11028,
+								},
+								["Thrash (DoT)"] = {
+									["count"] = 6837,
+								},
+								["Melee"] = {
+									["count"] = 36972,
+								},
+								["Moonfire"] = {
+									["count"] = 1644,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 14246,
+								},
+								["Thrash"] = {
+									["count"] = 14987,
+								},
+								["Maul"] = {
+									["count"] = 13150,
+								},
+								["Mangle"] = {
+									["count"] = 20521,
+								},
+								["Swipe"] = {
+									["count"] = 6161,
+								},
+							},
+							["amount"] = 125546,
+						},
+					},
+					["TimeDamage"] = 39.87,
+					["TimeDamaging"] = {
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Brambles"] = {
+									["count"] = 9.33,
+								},
+								["Thrash (DoT)"] = {
+									["count"] = 5.73,
+								},
+								["Melee"] = {
+									["count"] = 8.63,
+								},
+								["Moonfire"] = {
+									["count"] = 2.48,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 7.5,
+								},
+								["Thrash"] = {
+									["count"] = 3,
+								},
+								["Maul"] = {
+									["count"] = 0.9,
+								},
+								["Mangle"] = {
+									["count"] = 2.15,
+								},
+								["Swipe"] = {
+									["count"] = 0.15,
+								},
+							},
+							["amount"] = 39.87,
+						},
+					},
+					["WhoDamaged"] = {
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Mulching Strike (DoT)"] = {
+									["count"] = 7815,
+								},
+								["Malfunctioning Jolt"] = {
+									["count"] = 15846,
+								},
+								["Melee"] = {
+									["count"] = 17055,
+								},
+								["Mulching Strike"] = {
+									["count"] = 5810,
+								},
+							},
+							["amount"] = 46526,
+						},
+					},
+					["ElementDone"] = {
+						["Arcane"] = 15890,
+						["Physical"] = 61656,
+						["Melee"] = 36972,
+						["Nature"] = 11028,
+					},
+					["Absorbed"] = {
+						["Brambles"] = {
+							["Details"] = {
+								["Миштат-ПиратскаяБухта"] = {
+									["max"] = 269,
+									["min"] = 240,
+									["count"] = 24,
+									["amount"] = 6108,
+								},
+							},
+							["count"] = 24,
+							["amount"] = 6108,
+						},
+						["Earthwarden"] = {
+							["Details"] = {
+								["Миштат-ПиратскаяБухта"] = {
+									["max"] = 625,
+									["min"] = 423,
+									["count"] = 5,
+									["amount"] = 2731,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 2731,
+						},
+					},
+				},
+			},
+			["UnitLockout"] = 186312.14,
+			["LastActive"] = 186333.138,
+		},
+		["Тенжин-Гордунни"] = {
+			["GUID"] = "Player-1602-00FD757F",
+			["LastEventHealth"] = {
+				138580, -- [1]
+				138580, -- [2]
+				138580, -- [3]
+				138580, -- [4]
+				138580, -- [5]
+				138580, -- [6]
+				138580, -- [7]
+				138580, -- [8]
+				138580, -- [9]
+				138580, -- [10]
+				138580, -- [11]
+				138580, -- [12]
+				138580, -- [13]
+				138580, -- [14]
+				138580, -- [15]
+				138580, -- [16]
+				138580, -- [17]
+				138580, -- [18]
+				138580, -- [19]
+				138580, -- [20]
+				138580, -- [21]
+				138580, -- [22]
+				138580, -- [23]
+				138580, -- [24]
+				138580, -- [25]
+				138580, -- [26]
+				138580, -- [27]
+				138580, -- [28]
+				138580, -- [29]
+				138580, -- [30]
+				138580, -- [31]
+				138580, -- [32]
+			},
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"DAMAGE", -- [4]
+				"DAMAGE", -- [5]
+				"DAMAGE", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"DAMAGE", -- [10]
+				"DAMAGE", -- [11]
+				"DAMAGE", -- [12]
+				"DAMAGE", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"DAMAGE", -- [16]
+				"DAMAGE", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"DAMAGE", -- [26]
+				"DAMAGE", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"DAMAGE", -- [32]
+			},
+			["TimeWindows"] = {
+				["Damage"] = {
+					264921, -- [1]
+				},
+				["TimeDamage"] = {
+					27.44, -- [1]
+				},
+				["ActiveTime"] = {
+					27.44, -- [1]
+				},
+			},
+			["enClass"] = "MAGE",
+			["unit"] = "Тенжин-Гордунни",
+			["level"] = 120,
+			["LastFightIn"] = 0,
+			["type"] = "Ungrouped",
+			["FightsSaved"] = 2,
+			["TimeLast"] = {
+				["Damage"] = 186328.136,
+				["OVERALL"] = 186328.136,
+				["TimeDamage"] = 186328.136,
+				["ActiveTime"] = 186328.136,
+			},
+			["Owner"] = false,
+			["LastEventHealthMax"] = {
+				138580, -- [1]
+				138580, -- [2]
+				138580, -- [3]
+				138580, -- [4]
+				138580, -- [5]
+				138580, -- [6]
+				138580, -- [7]
+				138580, -- [8]
+				138580, -- [9]
+				138580, -- [10]
+				138580, -- [11]
+				138580, -- [12]
+				138580, -- [13]
+				138580, -- [14]
+				138580, -- [15]
+				138580, -- [16]
+				138580, -- [17]
+				138580, -- [18]
+				138580, -- [19]
+				138580, -- [20]
+				138580, -- [21]
+				138580, -- [22]
+				138580, -- [23]
+				138580, -- [24]
+				138580, -- [25]
+				138580, -- [26]
+				138580, -- [27]
+				138580, -- [28]
+				138580, -- [29]
+				138580, -- [30]
+				138580, -- [31]
+				138580, -- [32]
+			},
+			["NextEventNum"] = 33,
+			["LastDamageTime"] = 186328.299,
+			["LastEvents"] = {
+				"Тенжин-Гордунни Arcane Missiles Haywire Golem Hit -2671 (Arcane)", -- [1]
+				"Тенжин-Гордунни Arcane Missiles Haywire Golem Hit -2671 (Arcane)", -- [2]
+				"Тенжин-Гордунни Arcane Missiles Haywire Golem Hit -2678 (Arcane)", -- [3]
+				"Тенжин-Гордунни Arcane Missiles Haywire Golem Hit -2678 (Arcane)", -- [4]
+				"Тенжин-Гордунни Arcane Missiles Haywire Golem Hit -2678 (Arcane)", -- [5]
+				"Тенжин-Гордунни Arcane Blast Haywire Golem Hit -3311 (Arcane)", -- [6]
+				"Тенжин-Гордунни Arcane Blast Haywire Golem Hit -5690 (Arcane)", -- [7]
+				"Тенжин-Гордунни Arcane Blast Haywire Golem Hit -8071 (Arcane)", -- [8]
+				"Тенжин-Гордунни Arcane Blast Haywire Golem Hit -10450 (Arcane)", -- [9]
+				"Тенжин-Гордунни Arcane Blast Haywire Golem Crit -25660 (Arcane)", -- [10]
+				"Тенжин-Гордунни Arcane Blast Haywire Golem Hit -12830 (Arcane)", -- [11]
+				"Тенжин-Гордунни Arcane Missiles Haywire Golem Crit -5355 (Arcane)", -- [12]
+				"Тенжин-Гордунни Arcane Missiles Haywire Golem Hit -2677 (Arcane)", -- [13]
+				"Тенжин-Гордунни Arcane Missiles Haywire Golem Hit -2678 (Arcane)", -- [14]
+				"Тенжин-Гордунни Arcane Missiles Haywire Golem Crit -5355 (Arcane)", -- [15]
+				"Тенжин-Гордунни Arcane Blast Haywire Golem Hit -12830 (Arcane)", -- [16]
+				"Тенжин-Гордунни Arcane Blast Haywire Golem Hit -12830 (Arcane)", -- [17]
+				"Тенжин-Гордунни Arcane Blast Haywire Golem Hit -12858 (Arcane)", -- [18]
+				"Тенжин-Гордунни Gutripper Haywire Golem Hit -2425 (Physical)", -- [19]
+				"Тенжин-Гордунни Arcane Blast Haywire Golem Hit -12857 (Arcane)", -- [20]
+				"Тенжин-Гордунни Arcane Blast Haywire Golem Hit -12857 (Arcane)", -- [21]
+				"Тенжин-Гордунни Arcane Blast Haywire Golem Hit -12857 (Arcane)", -- [22]
+				"Тенжин-Гордунни Gutripper Haywire Golem Hit -2425 (Physical)", -- [23]
+				"Тенжин-Гордунни Arcane Blast Haywire Golem Crit -25714 (Arcane)", -- [24]
+				"Тенжин-Гордунни Arcane Blast Haywire Golem Hit -12858 (Arcane)", -- [25]
+				"Тенжин-Гордунни Gutripper Haywire Golem Hit -2425 (Physical)", -- [26]
+				"Тенжин-Гордунни Arcane Missiles Haywire Golem Hit -2683 (Arcane)", -- [27]
+				"Тенжин-Гордунни Arcane Missiles Haywire Golem Hit -2684 (Arcane)", -- [28]
+				"Тенжин-Гордунни Arcane Missiles Haywire Golem Hit -2952 (Arcane)", -- [29]
+				"Тенжин-Гордунни Arcane Missiles Haywire Golem Hit -2952 (Arcane)", -- [30]
+				"Тенжин-Гордунни Touch of the Magi Haywire Golem Hit -6975 (Arcane)", -- [31]
+				"Тенжин-Гордунни Arcane Blast Haywire Golem Crit -28286 (Arcane)", -- [32]
+			},
+			["Name"] = "Тенжин-Гордунни",
+			["LastEventIncoming"] = {
+				false, -- [1]
+				false, -- [2]
+				false, -- [3]
+				false, -- [4]
+				false, -- [5]
+				false, -- [6]
+				false, -- [7]
+				false, -- [8]
+				false, -- [9]
+				false, -- [10]
+				false, -- [11]
+				false, -- [12]
+				false, -- [13]
+				false, -- [14]
+				false, -- [15]
+				false, -- [16]
+				false, -- [17]
+				false, -- [18]
+				false, -- [19]
+				false, -- [20]
+				false, -- [21]
+				false, -- [22]
+				false, -- [23]
+				false, -- [24]
+				false, -- [25]
+				false, -- [26]
+				false, -- [27]
+				false, -- [28]
+				false, -- [29]
+				false, -- [30]
+				false, -- [31]
+				false, -- [32]
+			},
+			["LastEventTimes"] = {
+				186301.057, -- [1]
+				186301.057, -- [2]
+				186301.16, -- [3]
+				186301.477, -- [4]
+				186302.034, -- [5]
+				186303.489, -- [6]
+				186305.489, -- [7]
+				186307.279, -- [8]
+				186309.086, -- [9]
+				186310.725, -- [10]
+				186312.102, -- [11]
+				186312.809, -- [12]
+				186313.135, -- [13]
+				186313.555, -- [14]
+				186314.176, -- [15]
+				186315.194, -- [16]
+				186316.572, -- [17]
+				186318.053, -- [18]
+				186318.053, -- [19]
+				186319.367, -- [20]
+				186320.871, -- [21]
+				186322.274, -- [22]
+				186322.387, -- [23]
+				186323.761, -- [24]
+				186325.31, -- [25]
+				186325.41, -- [26]
+				186325.982, -- [27]
+				186326.406, -- [28]
+				186326.832, -- [29]
+				186327.225, -- [30]
+				186327.494, -- [31]
+				186328.299, -- [32]
+			},
+			["Fights"] = {
+				["Fight2"] = {
+					["TimeSpent"] = {
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Arcane Blast"] = {
+									["count"] = 20.59,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 6.37,
+								},
+								["Gutripper"] = {
+									["count"] = 0.21,
+								},
+								["Touch of the Magi"] = {
+									["count"] = 0.27,
+								},
+							},
+							["amount"] = 27.44,
+						},
+					},
+					["ElementDone"] = {
+						["Physical"] = 7275,
+						["Arcane"] = 257646,
+					},
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Arcane"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 5,
+								},
+								["Hit"] = {
+									["count"] = 24,
+								},
+							},
+							["amount"] = 29,
+						},
+					},
+					["DamagedWho"] = {
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Arcane Blast"] = {
+									["count"] = 209959,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 40712,
+								},
+								["Gutripper"] = {
+									["count"] = 7275,
+								},
+								["Touch of the Magi"] = {
+									["count"] = 6975,
+								},
+							},
+							["amount"] = 264921,
+						},
+					},
+					["TimeDamage"] = 27.44,
+					["TimeDamaging"] = {
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Arcane Blast"] = {
+									["count"] = 20.59,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 6.37,
+								},
+								["Gutripper"] = {
+									["count"] = 0.21,
+								},
+								["Touch of the Magi"] = {
+									["count"] = 0.27,
+								},
+							},
+							["amount"] = 27.44,
+						},
+					},
+					["Attacks"] = {
+						["Arcane Blast"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 28286,
+									["min"] = 25660,
+									["count"] = 3,
+									["amount"] = 79660,
+								},
+								["Hit"] = {
+									["max"] = 12858,
+									["min"] = 3311,
+									["count"] = 12,
+									["amount"] = 130299,
+								},
+							},
+							["count"] = 15,
+							["amount"] = 209959,
+						},
+						["Arcane Missiles"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 5355,
+									["min"] = 5355,
+									["count"] = 2,
+									["amount"] = 10710,
+								},
+								["Hit"] = {
+									["max"] = 2952,
+									["min"] = 2671,
+									["count"] = 11,
+									["amount"] = 30002,
+								},
+							},
+							["count"] = 13,
+							["amount"] = 40712,
+						},
+						["Gutripper"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2425,
+									["min"] = 2425,
+									["count"] = 3,
+									["amount"] = 7275,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 7275,
+						},
+						["Touch of the Magi"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 6975,
+									["min"] = 6975,
+									["count"] = 1,
+									["amount"] = 6975,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 6975,
+						},
+					},
+					["ActiveTime"] = 27.44,
+					["Damage"] = 264921,
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["TimeSpent"] = {
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Arcane Blast"] = {
+									["count"] = 20.59,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 6.37,
+								},
+								["Gutripper"] = {
+									["count"] = 0.21,
+								},
+								["Touch of the Magi"] = {
+									["count"] = 0.27,
+								},
+							},
+							["amount"] = 27.44,
+						},
+					},
+					["ElementDone"] = {
+						["Physical"] = 7275,
+						["Arcane"] = 257646,
+					},
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Arcane"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 5,
+								},
+								["Hit"] = {
+									["count"] = 24,
+								},
+							},
+							["amount"] = 29,
+						},
+					},
+					["DamagedWho"] = {
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Arcane Blast"] = {
+									["count"] = 209959,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 40712,
+								},
+								["Gutripper"] = {
+									["count"] = 7275,
+								},
+								["Touch of the Magi"] = {
+									["count"] = 6975,
+								},
+							},
+							["amount"] = 264921,
+						},
+					},
+					["TimeDamage"] = 27.44,
+					["TimeDamaging"] = {
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Arcane Blast"] = {
+									["count"] = 20.59,
+								},
+								["Arcane Missiles"] = {
+									["count"] = 6.37,
+								},
+								["Gutripper"] = {
+									["count"] = 0.21,
+								},
+								["Touch of the Magi"] = {
+									["count"] = 0.27,
+								},
+							},
+							["amount"] = 27.44,
+						},
+					},
+					["Attacks"] = {
+						["Arcane Blast"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 28286,
+									["min"] = 25660,
+									["count"] = 3,
+									["amount"] = 79660,
+								},
+								["Hit"] = {
+									["max"] = 12858,
+									["min"] = 3311,
+									["count"] = 12,
+									["amount"] = 130299,
+								},
+							},
+							["count"] = 15,
+							["amount"] = 209959,
+						},
+						["Arcane Missiles"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 5355,
+									["min"] = 5355,
+									["count"] = 2,
+									["amount"] = 10710,
+								},
+								["Hit"] = {
+									["max"] = 2952,
+									["min"] = 2671,
+									["count"] = 11,
+									["amount"] = 30002,
+								},
+							},
+							["count"] = 13,
+							["amount"] = 40712,
+						},
+						["Gutripper"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2425,
+									["min"] = 2425,
+									["count"] = 3,
+									["amount"] = 7275,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 7275,
+						},
+						["Touch of the Magi"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 6975,
+									["min"] = 6975,
+									["count"] = 1,
+									["amount"] = 6975,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 6975,
+						},
+					},
+					["ActiveTime"] = 27.44,
+					["Damage"] = 264921,
+				},
+			},
+			["UnitLockout"] = 186312.14,
+			["LastActive"] = 186328.136,
+		},
+		["Efflorescence <Mengsk>"] = {
+			["GUID"] = "Creature-0-3151-1643-16696-47649-00002756BF",
+			["TimeLast"] = {
+				["OVERALL"] = 186322.137,
+				["DeathCount"] = 186322.137,
+			},
+			["LastEventType"] = {
+				"MISC", -- [1]
+			},
+			["TimeWindows"] = {
+				["DeathCount"] = {
+					1, -- [1]
+				},
+			},
+			["enClass"] = "PET",
+			["level"] = 1,
+			["LastFightIn"] = 0,
+			["type"] = "Pet",
+			["FightsSaved"] = 2,
+			["ownerName"] = "Mengsk",
+			["DeathLogs"] = {
+				{
+					["MessageTimes"] = {
+						0, -- [1]
+					},
+					["MessageIncoming"] = {
+						true, -- [1]
+					},
+					["Messages"] = {
+						"Efflorescence <Mengsk> dies.", -- [1]
+					},
+					["HealthMax"] = {
+					},
+					["DeathAt"] = 186324.138,
+					["EventNum"] = {
+						0, -- [1]
+					},
+					["Health"] = {
+					},
+					["MessageType"] = {
+						"MISC", -- [1]
+					},
+				}, -- [1]
+			},
+			["NextEventNum"] = 2,
+			["LastEvents"] = {
+				"Efflorescence <Mengsk> dies.", -- [1]
+			},
+			["Name"] = "Efflorescence",
+			["LastEventIncoming"] = {
+				true, -- [1]
+			},
+			["LastEventTimes"] = {
+				186322.855, -- [1]
+			},
+			["UnitLockout"] = 186322.137,
+			["Fights"] = {
+				["Fight2"] = {
+					["DeathCount"] = 1,
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["DeathCount"] = 1,
+				},
+			},
+		},
+		["Mengsk"] = {
+			["GUID"] = "Player-1096-047ECD26",
+			["LastEventHealth"] = {
+				94306, -- [1]
+				97657, -- [2]
+				89976, -- [3]
+				93327, -- [4]
+				96678, -- [5]
+				102305, -- [6]
+				107928, -- [7]
+				111700, -- [8]
+				91317, -- [9]
+				94668, -- [10]
+				100288, -- [11]
+				107030, -- [12]
+				111700, -- [13]
+				109524, -- [14]
+				109524, -- [15]
+				109524, -- [16]
+				108019, -- [17]
+				108019, -- [18]
+				111370, -- [19]
+				111370, -- [20]
+				106797, -- [21]
+				106797, -- [22]
+				106797, -- [23]
+				106797, -- [24]
+				106797, -- [25]
+				106797, -- [26]
+				106797, -- [27]
+				103976, -- [28]
+				103976, -- [29]
+				103976, -- [30]
+				101076, -- [31]
+				101076, -- [32]
+				99912, -- [33]
+				99912, -- [34]
+				99912, -- [35]
+				99912, -- [36]
+				99912, -- [37]
+				97694, -- [38]
+				97694, -- [39]
+				97694, -- [40]
+				97694, -- [41]
+				98966, -- [42]
+				98369, -- [43]
+				97667, -- [44]
+				97667, -- [45]
+				97667, -- [46]
+				100498, -- [47]
+				100498, -- [48]
+				99300, -- [49]
+				99300, -- [50]
+			},
+			["LastAttackedBy"] = "Environment",
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"HEAL", -- [2]
+				"DAMAGE", -- [3]
+				"HEAL", -- [4]
+				"HEAL", -- [5]
+				"HEAL", -- [6]
+				"HEAL", -- [7]
+				"HEAL", -- [8]
+				"DAMAGE", -- [9]
+				"HEAL", -- [10]
+				"HEAL", -- [11]
+				"HEAL", -- [12]
+				"HEAL", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"DAMAGE", -- [16]
+				"DAMAGE", -- [17]
+				"DAMAGE", -- [18]
+				"HEAL", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"DAMAGE", -- [26]
+				"DAMAGE", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"DAMAGE", -- [32]
+				"DAMAGE", -- [33]
+				"DAMAGE", -- [34]
+				"DAMAGE", -- [35]
+				"DAMAGE", -- [36]
+				"DAMAGE", -- [37]
+				"DAMAGE", -- [38]
+				"DAMAGE", -- [39]
+				"DAMAGE", -- [40]
+				"DAMAGE", -- [41]
+				"HEAL", -- [42]
+				"DAMAGE", -- [43]
+				"DAMAGE", -- [44]
+				"DAMAGE", -- [45]
+				"DAMAGE", -- [46]
+				"HEAL", -- [47]
+				"DAMAGE", -- [48]
+				"DAMAGE", -- [49]
+				"DAMAGE", -- [50]
+			},
+			["TimeWindows"] = {
+				["TimeHeal"] = {
+					32.81, -- [1]
+				},
+				["Healing"] = {
+					58664, -- [1]
+				},
+				["DamageTaken"] = {
+					81971, -- [1]
+				},
+				["HealingTaken"] = {
+					40038, -- [1]
+				},
+				["Overhealing"] = {
+					42770, -- [1]
+				},
+				["TimeDamage"] = {
+					34.53, -- [1]
+				},
+				["ActiveTime"] = {
+					67.34, -- [1]
+				},
+				["ManaGain"] = {
+					0, -- [1]
+				},
+				["DOT_Time"] = {
+					81, -- [1]
+				},
+				["Damage"] = {
+					144941, -- [1]
+				},
+			},
+			["enClass"] = "DRUID",
+			["unit"] = "Mengsk",
+			["LastHealTime"] = 186830.826,
+			["LastDamageTaken"] = 20383,
+			["level"] = 120,
+			["LastDamageAbility"] = "Falling",
+			["LastFightIn"] = 2,
+			["LastEventHealthMax"] = {
+				111700, -- [1]
+				111700, -- [2]
+				111700, -- [3]
+				111700, -- [4]
+				111700, -- [5]
+				111700, -- [6]
+				111700, -- [7]
+				111700, -- [8]
+				111700, -- [9]
+				111700, -- [10]
+				111700, -- [11]
+				111700, -- [12]
+				111700, -- [13]
+				111700, -- [14]
+				111700, -- [15]
+				111700, -- [16]
+				111700, -- [17]
+				111700, -- [18]
+				111700, -- [19]
+				111700, -- [20]
+				111700, -- [21]
+				111700, -- [22]
+				111700, -- [23]
+				111700, -- [24]
+				111700, -- [25]
+				111700, -- [26]
+				111700, -- [27]
+				111700, -- [28]
+				111700, -- [29]
+				111700, -- [30]
+				111700, -- [31]
+				111700, -- [32]
+				111700, -- [33]
+				111700, -- [34]
+				111700, -- [35]
+				111700, -- [36]
+				111700, -- [37]
+				111700, -- [38]
+				111700, -- [39]
+				111700, -- [40]
+				111700, -- [41]
+				111700, -- [42]
+				111700, -- [43]
+				111700, -- [44]
+				111700, -- [45]
+				111700, -- [46]
+				111700, -- [47]
+				111700, -- [48]
+				111700, -- [49]
+				111700, -- [50]
+			},
+			["type"] = "Self",
+			["FightsSaved"] = 2,
+			["GuardianReverseGUIDs"] = {
+				["Efflorescence"] = {
+					["LatestGuardian"] = 0,
+					["GUIDs"] = {
+						[0] = "Creature-0-3151-1643-16696-47649-00002756BF",
+					},
+				},
+			},
+			["TimeLast"] = {
+				["TimeHeal"] = 186830.038,
+				["OVERALL"] = 187686.467,
+				["DamageTaken"] = 187686.467,
+				["Healing"] = 186830.038,
+				["HealingTaken"] = 186830.038,
+				["Overhealing"] = 186407.135,
+				["ActiveTime"] = 186830.038,
+				["TimeDamage"] = 186326.143,
+				["ManaGain"] = 186420.137,
+				["DOT_Time"] = 186316.142,
+				["Damage"] = 186326.143,
+			},
+			["Owner"] = false,
+			["Pet"] = {
+				"Efflorescence <Mengsk>", -- [1]
+			},
+			["NextEventNum"] = 14,
+			["LastDamageTime"] = 186326.647,
+			["LastEvents"] = {
+				"Bloodhunter Drudge Swipe Mengsk Hit -2673 (Physical)", -- [1]
+				"Mengsk Ysera's Gift Mengsk Hit +3351", -- [2]
+				"Bloodhunter Cursecarver Shadow Bolt Mengsk Hit -7681 (Shadow)", -- [3]
+				"Mengsk Ysera's Gift Mengsk Hit +3351", -- [4]
+				"Mengsk Ysera's Gift Mengsk Hit +3351", -- [5]
+				"Mengsk Ysera's Gift Mengsk Hit +3351", -- [6]
+				"Mengsk Ysera's Gift Mengsk Hit +3351", -- [7]
+				"Mengsk Ysera's Gift Mengsk Hit +3351 (2990 Overheal)", -- [8]
+				"Environment Falling Mengsk Hit -20383 (Physical)", -- [9]
+				"Mengsk Ysera's Gift Mengsk Hit +3351", -- [10]
+				"Mengsk Ysera's Gift Mengsk Hit +3351", -- [11]
+				"Mengsk Ysera's Gift Mengsk Hit +3351", -- [12]
+				"Mengsk Ysera's Gift Mengsk Hit +3351 (952 Overheal)", -- [13]
+				"Razorjaw Chomper Melee Mengsk Hit -605 (Physical)", -- [14]
+				"Razorjaw Chomper Melee Mengsk Hit -628 (Physical)", -- [15]
+				"Razorjaw Chomper Melee Mengsk Hit -498 (Physical)", -- [16]
+				"Razorjaw Chomper Melee Mengsk Hit -543 (Physical)", -- [17]
+				"Razorjaw Chomper Melee Mengsk Hit -488 (Physical)", -- [18]
+				"Mengsk Ysera's Gift Mengsk Hit +3351", -- [19]
+				"Razorjaw Chomper Melee Mengsk Hit -638 (Physical)", -- [20]
+				"Razorjaw Chomper Razor Teeth Mengsk Hit -713 (Physical)", -- [21]
+				"Razorjaw Chomper Melee Mengsk Hit -626 (Physical)", -- [22]
+				"Razorjaw Chomper Melee Mengsk Hit -631 (Physical)", -- [23]
+				"Razorjaw Chomper Melee Mengsk Hit -513 (Physical)", -- [24]
+				"Razorjaw Chomper Melee Mengsk Hit -568 (Physical)", -- [25]
+				"Razorjaw Chomper Melee Mengsk Hit -483 (Physical)", -- [26]
+				"Razorjaw Chomper Melee Mengsk Crit -1037 (Physical)", -- [27]
+				"Razorjaw Chomper Melee Mengsk Hit -583 (Physical)", -- [28]
+				"Razorjaw Chomper Melee Mengsk Hit -504 (Physical)", -- [29]
+				"Razorjaw Chomper Melee Mengsk Miss (1)", -- [30]
+				"Razorjaw Chomper Razor Teeth Mengsk Hit -776 (Physical)", -- [31]
+				"Razorjaw Chomper Melee Mengsk Hit -573 (Physical)", -- [32]
+				"Razorjaw Chomper Razor Teeth Mengsk Hit -591 (Physical)", -- [33]
+				"Razorjaw Chomper Melee Mengsk Hit -559 (Physical)", -- [34]
+				"Razorjaw Chomper Melee Mengsk Hit -628 (Physical)", -- [35]
+				"Razorjaw Chomper Melee Mengsk Hit -458 (Physical)", -- [36]
+				"Razorjaw Chomper Melee Mengsk Hit -530 (Physical)", -- [37]
+				"Razorjaw Chomper Razor Teeth Mengsk Hit -573 (Physical)", -- [38]
+				"Razorjaw Chomper Melee Mengsk Hit -583 (Physical)", -- [39]
+				"Razorjaw Chomper Melee Mengsk Hit -498 (Physical)", -- [40]
+				"Razorjaw Chomper Melee Mengsk Hit -468 (Physical)", -- [41]
+				"Mengsk Ysera's Gift Mengsk Hit +3351", -- [42]
+				"Razorjaw Chomper Razor Teeth Mengsk Hit -597 (Physical)", -- [43]
+				"Razorjaw Chomper Razor Teeth Mengsk Hit -702 (Physical)", -- [44]
+				"Razorjaw Chomper Melee Mengsk Hit -520 (Physical)", -- [45]
+				"Razorjaw Chomper Melee Mengsk Miss (1)", -- [46]
+				"Mengsk Ysera's Gift Mengsk Hit +3351", -- [47]
+				"Bloodhunter Drudge Melee Mengsk Hit -1198 (Physical)", -- [48]
+				"Bloodhunter Drudge Melee Mengsk Hit -1222 (Physical)", -- [49]
+				"Bloodhunter Drudge Melee Mengsk Hit -1099 (Physical)", -- [50]
+			},
+			["Name"] = "Mengsk",
+			["LastEventIncoming"] = {
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+				true, -- [9]
+				true, -- [10]
+				true, -- [11]
+				true, -- [12]
+				true, -- [13]
+				true, -- [14]
+				true, -- [15]
+				true, -- [16]
+				true, -- [17]
+				true, -- [18]
+				true, -- [19]
+				true, -- [20]
+				true, -- [21]
+				true, -- [22]
+				true, -- [23]
+				true, -- [24]
+				true, -- [25]
+				true, -- [26]
+				true, -- [27]
+				true, -- [28]
+				true, -- [29]
+				true, -- [30]
+				true, -- [31]
+				true, -- [32]
+				true, -- [33]
+				true, -- [34]
+				true, -- [35]
+				true, -- [36]
+				true, -- [37]
+				true, -- [38]
+				true, -- [39]
+				true, -- [40]
+				true, -- [41]
+				true, -- [42]
+				true, -- [43]
+				true, -- [44]
+				true, -- [45]
+				true, -- [46]
+				true, -- [47]
+				true, -- [48]
+				true, -- [49]
+				true, -- [50]
+			},
+			["LastEventTimes"] = {
+				186820.322, -- [1]
+				186820.812, -- [2]
+				186823.852, -- [3]
+				186825.813, -- [4]
+				186830.826, -- [5]
+				186835.866, -- [6]
+				186840.856, -- [7]
+				186845.931, -- [8]
+				187687.326, -- [9]
+				187687.623, -- [10]
+				187692.722, -- [11]
+				187697.747, -- [12]
+				187702.718, -- [13]
+				186805.516, -- [14]
+				186805.516, -- [15]
+				186805.516, -- [16]
+				186805.613, -- [17]
+				186805.613, -- [18]
+				186805.795, -- [19]
+				186805.934, -- [20]
+				186806.732, -- [21]
+				186807.24, -- [22]
+				186807.24, -- [23]
+				186807.514, -- [24]
+				186807.514, -- [25]
+				186807.514, -- [26]
+				186807.514, -- [27]
+				186807.609, -- [28]
+				186807.609, -- [29]
+				186807.955, -- [30]
+				186808.341, -- [31]
+				186808.764, -- [32]
+				186809.167, -- [33]
+				186809.167, -- [34]
+				186809.518, -- [35]
+				186809.518, -- [36]
+				186809.518, -- [37]
+				186809.629, -- [38]
+				186809.629, -- [39]
+				186809.629, -- [40]
+				186809.945, -- [41]
+				186810.718, -- [42]
+				186810.831, -- [43]
+				186810.831, -- [44]
+				186810.831, -- [45]
+				186810.831, -- [46]
+				186815.752, -- [47]
+				186817.393, -- [48]
+				186819.404, -- [49]
+				186819.801, -- [50]
+			},
+			["Fights"] = {
+				["Fight2"] = {
+					["TimeHealing"] = {
+						["Миштат-ПиратскаяБухта"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 3.41,
+								},
+								["Efflorescence"] = {
+									["count"] = 8.48,
+								},
+							},
+							["amount"] = 11.89,
+						},
+						["Mengsk"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 3.52,
+								},
+								["Efflorescence"] = {
+									["count"] = 5.4,
+								},
+							},
+							["amount"] = 8.92,
+						},
+					},
+					["OverHeals"] = {
+						["Ysera's Gift"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3472,
+									["min"] = 991,
+									["count"] = 5,
+									["amount"] = 11073,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 11073,
+						},
+						["Efflorescence"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 2573,
+									["min"] = 265,
+									["count"] = 8,
+									["amount"] = 15853,
+								},
+								["Hit"] = {
+									["max"] = 1287,
+									["min"] = 236,
+									["count"] = 12,
+									["amount"] = 13963,
+								},
+							},
+							["count"] = 20,
+							["amount"] = 29816,
+						},
+					},
+					["TimeSpent"] = {
+						["Миштат-ПиратскаяБухта"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 3.41,
+								},
+								["Efflorescence"] = {
+									["count"] = 8.48,
+								},
+							},
+							["amount"] = 11.89,
+						},
+						["Mengsk"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 3.52,
+								},
+								["Efflorescence"] = {
+									["count"] = 5.4,
+								},
+							},
+							["amount"] = 8.92,
+						},
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Sunfire (DoT)"] = {
+									["count"] = 3.95,
+								},
+								["Lunar Strike"] = {
+									["count"] = 8.48,
+								},
+								["Solar Wrath"] = {
+									["count"] = 0.83,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 15.83,
+								},
+								["Starsurge"] = {
+									["count"] = 0.48,
+								},
+								["Sunfire"] = {
+									["count"] = 1.75,
+								},
+								["Moonfire"] = {
+									["count"] = 1.71,
+								},
+								["Silver Shrapnel"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 34.53,
+						},
+					},
+					["HealedWho"] = {
+						["Миштат-ПиратскаяБухта"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 4149,
+								},
+								["Efflorescence"] = {
+									["count"] = 14477,
+								},
+							},
+							["amount"] = 18626,
+						},
+						["Mengsk"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 8845,
+								},
+								["Efflorescence"] = {
+									["count"] = 6266,
+								},
+							},
+							["amount"] = 15111,
+						},
+					},
+					["PartialResist"] = {
+						["Malfunctioning Jolt"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 12,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 12,
+						},
+					},
+					["Overhealing"] = 40889,
+					["ActiveTime"] = 55.34,
+					["ElementTaken"] = {
+						["Nature"] = 17640,
+					},
+					["DOT_Time"] = 81,
+					["Damage"] = 144941,
+					["DOTs"] = {
+						["Sunfire (DoT)"] = {
+							["Details"] = {
+								["Haywire Golem"] = {
+									["count"] = 36,
+								},
+							},
+							["amount"] = 36,
+						},
+						["Moonfire (DoT)"] = {
+							["Details"] = {
+								["Haywire Golem"] = {
+									["count"] = 45,
+								},
+							},
+							["amount"] = 45,
+						},
+					},
+					["Heals"] = {
+						["Ysera's Gift"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3656,
+									["min"] = 184,
+									["count"] = 7,
+									["amount"] = 12994,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 12994,
+						},
+						["Efflorescence"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 1298,
+									["min"] = 1121,
+									["count"] = 2,
+									["amount"] = 2419,
+								},
+								["Hit"] = {
+									["max"] = 1287,
+									["min"] = 132,
+									["count"] = 16,
+									["amount"] = 18324,
+								},
+							},
+							["count"] = 18,
+							["amount"] = 20743,
+						},
+					},
+					["WhoHealed"] = {
+						["Mengsk"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 8845,
+								},
+								["Efflorescence"] = {
+									["count"] = 6266,
+								},
+							},
+							["amount"] = 15111,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Nature"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 12,
+								},
+							},
+							["amount"] = 12,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Malfunctioning Jolt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 12,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 0,
+						},
+					},
+					["Healing"] = 33737,
+					["WhoDamaged"] = {
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Malfunctioning Jolt"] = {
+									["count"] = 17640,
+								},
+							},
+							["amount"] = 17640,
+						},
+					},
+					["DamageTaken"] = 17640,
+					["Attacks"] = {
+						["Sunfire (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 2404,
+									["min"] = 2404,
+									["count"] = 2,
+									["amount"] = 4808,
+								},
+								["Tick"] = {
+									["max"] = 1202,
+									["min"] = 949,
+									["count"] = 10,
+									["amount"] = 11761,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 16569,
+						},
+						["Lunar Strike"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 14510,
+									["min"] = 14510,
+									["count"] = 1,
+									["amount"] = 14510,
+								},
+								["Hit"] = {
+									["max"] = 8706,
+									["min"] = 7254,
+									["count"] = 7,
+									["amount"] = 52232,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 66742,
+						},
+						["Solar Wrath"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 9576,
+									["min"] = 9576,
+									["count"] = 1,
+									["amount"] = 9576,
+								},
+								["Hit"] = {
+									["max"] = 4788,
+									["min"] = 4788,
+									["count"] = 1,
+									["amount"] = 4788,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 14364,
+						},
+						["Moonfire (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 2239,
+									["min"] = 2238,
+									["count"] = 3,
+									["amount"] = 6716,
+								},
+								["Tick"] = {
+									["max"] = 1120,
+									["min"] = 619,
+									["count"] = 12,
+									["amount"] = 12930,
+								},
+							},
+							["count"] = 15,
+							["amount"] = 19646,
+						},
+						["Starsurge"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 10365,
+									["min"] = 10365,
+									["count"] = 1,
+									["amount"] = 10365,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 10365,
+						},
+						["Sunfire"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 3316,
+									["min"] = 3316,
+									["count"] = 1,
+									["amount"] = 3316,
+								},
+								["Hit"] = {
+									["max"] = 1658,
+									["min"] = 1658,
+									["count"] = 1,
+									["amount"] = 1658,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 4974,
+						},
+						["Moonfire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 1201,
+									["min"] = 1201,
+									["count"] = 2,
+									["amount"] = 2402,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 2402,
+						},
+						["Silver Shrapnel"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 9879,
+									["min"] = 9879,
+									["count"] = 1,
+									["amount"] = 9879,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 9879,
+						},
+					},
+					["HealingTaken"] = 15111,
+					["DamagedWho"] = {
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Sunfire (DoT)"] = {
+									["count"] = 16569,
+								},
+								["Lunar Strike"] = {
+									["count"] = 66742,
+								},
+								["Solar Wrath"] = {
+									["count"] = 14364,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 19646,
+								},
+								["Starsurge"] = {
+									["count"] = 10365,
+								},
+								["Sunfire"] = {
+									["count"] = 4974,
+								},
+								["Moonfire"] = {
+									["count"] = 2402,
+								},
+								["Silver Shrapnel"] = {
+									["count"] = 9879,
+								},
+							},
+							["amount"] = 144941,
+						},
+					},
+					["TimeDamage"] = 34.53,
+					["TimeDamaging"] = {
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Sunfire (DoT)"] = {
+									["count"] = 3.95,
+								},
+								["Lunar Strike"] = {
+									["count"] = 8.48,
+								},
+								["Solar Wrath"] = {
+									["count"] = 0.83,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 15.83,
+								},
+								["Starsurge"] = {
+									["count"] = 0.48,
+								},
+								["Sunfire"] = {
+									["count"] = 1.75,
+								},
+								["Moonfire"] = {
+									["count"] = 1.71,
+								},
+								["Silver Shrapnel"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 34.53,
+						},
+					},
+					["TimeHeal"] = 20.81,
+					["ElementDone"] = {
+						["Physical"] = 9879,
+						["Arcane"] = 88790,
+						["Nature"] = 35907,
+					},
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Arcane"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 12,
+								},
+								["Crit"] = {
+									["count"] = 4,
+								},
+								["Hit"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 25,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 10,
+								},
+								["Crit"] = {
+									["count"] = 4,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 16,
+						},
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Physical"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 35128,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 7,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 2,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 33,
+								},
+							},
+							["amount"] = 36,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Shadow"] = 7681,
+						["Physical"] = 6625,
+						["Melee"] = 20822,
+						["Nature"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 9,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 36,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 36,
+							["amount"] = 0,
+						},
+						["Shadow Bolt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Razor Teeth"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 0,
+						},
+						["Malfunctioning Jolt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Swipe"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Malfunctioning Jolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bloodhunter Drudge"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3519,
+								},
+								["Swipe"] = {
+									["count"] = 2673,
+								},
+							},
+							["amount"] = 6192,
+						},
+						["Bloodhunter Cursecarver"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 7681,
+								},
+							},
+							["amount"] = 7681,
+						},
+						["Razorjaw Chomper"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 17303,
+								},
+								["Razor Teeth"] = {
+									["count"] = 3952,
+								},
+							},
+							["amount"] = 21255,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 36,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 36,
+						},
+						["Shadow Bolt"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Razor Teeth"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 6,
+						},
+						["Malfunctioning Jolt"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Swipe"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Mengsk"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 9,
+						},
+					},
+					["OverHeals"] = {
+						["Ysera's Gift"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ManaGainedFrom"] = {
+						["Mengsk"] = {
+							["Details"] = {
+								["Fangs of Intertwined Essence"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+						["Mengsk"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 20106,
+								},
+							},
+							["amount"] = 20106,
+						},
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+						["Fangs of Intertwined Essence"] = {
+							["Details"] = {
+								["Mengsk"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Mengsk"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 9,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+						["Ysera's Gift"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3351,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 20106,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 20106,
+						},
+					},
+					["WhoHealed"] = {
+						["Mengsk"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 20106,
+								},
+							},
+							["amount"] = 20106,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 9,
+					["Healing"] = 20106,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 20106,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight1"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 35128,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 7,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 2,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 33,
+								},
+							},
+							["amount"] = 36,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Shadow"] = 7681,
+						["Physical"] = 6625,
+						["Melee"] = 20822,
+						["Nature"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 9,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 36,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 36,
+							["amount"] = 0,
+						},
+						["Shadow Bolt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Razor Teeth"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 0,
+						},
+						["Malfunctioning Jolt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Swipe"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Malfunctioning Jolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bloodhunter Drudge"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3519,
+								},
+								["Swipe"] = {
+									["count"] = 2673,
+								},
+							},
+							["amount"] = 6192,
+						},
+						["Bloodhunter Cursecarver"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 7681,
+								},
+							},
+							["amount"] = 7681,
+						},
+						["Razorjaw Chomper"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 17303,
+								},
+								["Razor Teeth"] = {
+									["count"] = 3952,
+								},
+							},
+							["amount"] = 21255,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 36,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 36,
+						},
+						["Shadow Bolt"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Razor Teeth"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 6,
+						},
+						["Malfunctioning Jolt"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Swipe"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Mengsk"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 9,
+						},
+					},
+					["OverHeals"] = {
+						["Ysera's Gift"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ManaGainedFrom"] = {
+						["Mengsk"] = {
+							["Details"] = {
+								["Fangs of Intertwined Essence"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+						["Mengsk"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 20106,
+								},
+							},
+							["amount"] = 20106,
+						},
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+						["Fangs of Intertwined Essence"] = {
+							["Details"] = {
+								["Mengsk"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Mengsk"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 9,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+						["Ysera's Gift"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3351,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 20106,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 20106,
+						},
+					},
+					["WhoHealed"] = {
+						["Mengsk"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 20106,
+								},
+							},
+							["amount"] = 20106,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 9,
+					["Healing"] = 20106,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 20106,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["TimeHealing"] = {
+						["Миштат-ПиратскаяБухта"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 3.41,
+								},
+								["Efflorescence"] = {
+									["count"] = 8.48,
+								},
+							},
+							["amount"] = 11.89,
+						},
+						["Mengsk"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 15.52,
+								},
+								["Efflorescence"] = {
+									["count"] = 5.4,
+								},
+							},
+							["amount"] = 20.92,
+						},
+					},
+					["OverHeals"] = {
+						["Ysera's Gift"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3472,
+									["min"] = 991,
+									["count"] = 6,
+									["amount"] = 12954,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 12954,
+						},
+						["Efflorescence"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 2573,
+									["min"] = 265,
+									["count"] = 8,
+									["amount"] = 15853,
+								},
+								["Hit"] = {
+									["max"] = 1287,
+									["min"] = 236,
+									["count"] = 12,
+									["amount"] = 13963,
+								},
+							},
+							["count"] = 20,
+							["amount"] = 29816,
+						},
+					},
+					["TimeSpent"] = {
+						["Миштат-ПиратскаяБухта"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 3.41,
+								},
+								["Efflorescence"] = {
+									["count"] = 8.48,
+								},
+							},
+							["amount"] = 11.89,
+						},
+						["Mengsk"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 15.52,
+								},
+								["Efflorescence"] = {
+									["count"] = 5.4,
+								},
+							},
+							["amount"] = 20.92,
+						},
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Sunfire (DoT)"] = {
+									["count"] = 3.95,
+								},
+								["Lunar Strike"] = {
+									["count"] = 8.48,
+								},
+								["Solar Wrath"] = {
+									["count"] = 0.83,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 15.83,
+								},
+								["Starsurge"] = {
+									["count"] = 0.48,
+								},
+								["Sunfire"] = {
+									["count"] = 1.75,
+								},
+								["Moonfire"] = {
+									["count"] = 1.71,
+								},
+								["Silver Shrapnel"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 34.53,
+						},
+					},
+					["HealedWho"] = {
+						["Миштат-ПиратскаяБухта"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 4149,
+								},
+								["Efflorescence"] = {
+									["count"] = 14477,
+								},
+							},
+							["amount"] = 18626,
+						},
+						["Mengsk"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 33772,
+								},
+								["Efflorescence"] = {
+									["count"] = 6266,
+								},
+							},
+							["amount"] = 40038,
+						},
+					},
+					["ManaGainedFrom"] = {
+						["Mengsk"] = {
+							["Details"] = {
+								["Fangs of Intertwined Essence"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialResist"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 36,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 36,
+						},
+						["Shadow Bolt"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Razor Teeth"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 6,
+						},
+						["Malfunctioning Jolt"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 18,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 18,
+						},
+						["Swipe"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+					},
+					["ManaGained"] = {
+						["Fangs of Intertwined Essence"] = {
+							["Details"] = {
+								["Mengsk"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Overhealing"] = 42770,
+					["ActiveTime"] = 67.34,
+					["TimeHeal"] = 32.81,
+					["ElementTaken"] = {
+						["Shadow"] = 7681,
+						["Physical"] = 27008,
+						["Melee"] = 20822,
+						["Nature"] = 26460,
+					},
+					["DOT_Time"] = 81,
+					["Damage"] = 144941,
+					["DOTs"] = {
+						["Sunfire (DoT)"] = {
+							["Details"] = {
+								["Haywire Golem"] = {
+									["count"] = 36,
+								},
+							},
+							["amount"] = 36,
+						},
+						["Moonfire (DoT)"] = {
+							["Details"] = {
+								["Haywire Golem"] = {
+									["count"] = 45,
+								},
+							},
+							["amount"] = 45,
+						},
+					},
+					["Heals"] = {
+						["Ysera's Gift"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3656,
+									["min"] = 184,
+									["count"] = 15,
+									["amount"] = 37921,
+								},
+							},
+							["count"] = 15,
+							["amount"] = 37921,
+						},
+						["Efflorescence"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 1298,
+									["min"] = 1121,
+									["count"] = 2,
+									["amount"] = 2419,
+								},
+								["Hit"] = {
+									["max"] = 1287,
+									["min"] = 132,
+									["count"] = 16,
+									["amount"] = 18324,
+								},
+							},
+							["count"] = 18,
+							["amount"] = 20743,
+						},
+					},
+					["WhoHealed"] = {
+						["Mengsk"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 33772,
+								},
+								["Efflorescence"] = {
+									["count"] = 6266,
+								},
+							},
+							["amount"] = 40038,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 8,
+								},
+							},
+							["amount"] = 8,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 2,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 33,
+								},
+							},
+							["amount"] = 36,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 18,
+								},
+							},
+							["amount"] = 18,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 36,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 36,
+							["amount"] = 0,
+						},
+						["Shadow Bolt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Razor Teeth"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 0,
+						},
+						["Malfunctioning Jolt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 18,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 18,
+							["amount"] = 0,
+						},
+						["Swipe"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["Healing"] = 58664,
+					["WhoDamaged"] = {
+						["Bloodhunter Drudge"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3519,
+								},
+								["Swipe"] = {
+									["count"] = 2673,
+								},
+							},
+							["amount"] = 6192,
+						},
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 20383,
+								},
+							},
+							["amount"] = 20383,
+						},
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Malfunctioning Jolt"] = {
+									["count"] = 26460,
+								},
+							},
+							["amount"] = 26460,
+						},
+						["Bloodhunter Cursecarver"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 7681,
+								},
+							},
+							["amount"] = 7681,
+						},
+						["Razorjaw Chomper"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 17303,
+								},
+								["Razor Teeth"] = {
+									["count"] = 3952,
+								},
+							},
+							["amount"] = 21255,
+						},
+					},
+					["DamageTaken"] = 81971,
+					["Attacks"] = {
+						["Sunfire (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 2404,
+									["min"] = 2404,
+									["count"] = 2,
+									["amount"] = 4808,
+								},
+								["Tick"] = {
+									["max"] = 1202,
+									["min"] = 949,
+									["count"] = 10,
+									["amount"] = 11761,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 16569,
+						},
+						["Lunar Strike"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 14510,
+									["min"] = 14510,
+									["count"] = 1,
+									["amount"] = 14510,
+								},
+								["Hit"] = {
+									["max"] = 8706,
+									["min"] = 7254,
+									["count"] = 7,
+									["amount"] = 52232,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 66742,
+						},
+						["Solar Wrath"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 9576,
+									["min"] = 9576,
+									["count"] = 1,
+									["amount"] = 9576,
+								},
+								["Hit"] = {
+									["max"] = 4788,
+									["min"] = 4788,
+									["count"] = 1,
+									["amount"] = 4788,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 14364,
+						},
+						["Moonfire (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 2239,
+									["min"] = 2238,
+									["count"] = 3,
+									["amount"] = 6716,
+								},
+								["Tick"] = {
+									["max"] = 1120,
+									["min"] = 619,
+									["count"] = 12,
+									["amount"] = 12930,
+								},
+							},
+							["count"] = 15,
+							["amount"] = 19646,
+						},
+						["Starsurge"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 10365,
+									["min"] = 10365,
+									["count"] = 1,
+									["amount"] = 10365,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 10365,
+						},
+						["Sunfire"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 3316,
+									["min"] = 3316,
+									["count"] = 1,
+									["amount"] = 3316,
+								},
+								["Hit"] = {
+									["max"] = 1658,
+									["min"] = 1658,
+									["count"] = 1,
+									["amount"] = 1658,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 4974,
+						},
+						["Moonfire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 1201,
+									["min"] = 1201,
+									["count"] = 2,
+									["amount"] = 2402,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 2402,
+						},
+						["Silver Shrapnel"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 9879,
+									["min"] = 9879,
+									["count"] = 1,
+									["amount"] = 9879,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 9879,
+						},
+					},
+					["HealingTaken"] = 40038,
+					["DamagedWho"] = {
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Sunfire (DoT)"] = {
+									["count"] = 16569,
+								},
+								["Lunar Strike"] = {
+									["count"] = 66742,
+								},
+								["Solar Wrath"] = {
+									["count"] = 14364,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 19646,
+								},
+								["Starsurge"] = {
+									["count"] = 10365,
+								},
+								["Sunfire"] = {
+									["count"] = 4974,
+								},
+								["Moonfire"] = {
+									["count"] = 2402,
+								},
+								["Silver Shrapnel"] = {
+									["count"] = 9879,
+								},
+							},
+							["amount"] = 144941,
+						},
+					},
+					["TimeDamage"] = 34.53,
+					["TimeDamaging"] = {
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Sunfire (DoT)"] = {
+									["count"] = 3.95,
+								},
+								["Lunar Strike"] = {
+									["count"] = 8.48,
+								},
+								["Solar Wrath"] = {
+									["count"] = 0.83,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 15.83,
+								},
+								["Starsurge"] = {
+									["count"] = 0.48,
+								},
+								["Sunfire"] = {
+									["count"] = 1.75,
+								},
+								["Moonfire"] = {
+									["count"] = 1.71,
+								},
+								["Silver Shrapnel"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 34.53,
+						},
+					},
+					["ManaGain"] = 0,
+					["ElementDone"] = {
+						["Physical"] = 9879,
+						["Arcane"] = 88790,
+						["Nature"] = 35907,
+					},
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Arcane"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 12,
+								},
+								["Crit"] = {
+									["count"] = 4,
+								},
+								["Hit"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 25,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 10,
+								},
+								["Crit"] = {
+									["count"] = 4,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 16,
+						},
+					},
+				},
+			},
+			["UnitLockout"] = 186286.141,
+			["LastActive"] = 187702.465,
+		},
+		["Water Elemental <Shivrzz-Magtheridon>"] = {
+			["GUID"] = "Pet-0-3889-1643-23563-78116-0202B7E819",
+			["LastEventHealth"] = {
+				44076, -- [1]
+				44076, -- [2]
+				44076, -- [3]
+				44076, -- [4]
+				44076, -- [5]
+				44076, -- [6]
+				44076, -- [7]
+				44076, -- [8]
+				44076, -- [9]
+				44076, -- [10]
+				44076, -- [11]
+				44076, -- [12]
+				44076, -- [13]
+				44076, -- [14]
+			},
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"DAMAGE", -- [4]
+				"DAMAGE", -- [5]
+				"DAMAGE", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"DAMAGE", -- [10]
+				"DAMAGE", -- [11]
+				"DAMAGE", -- [12]
+				"DAMAGE", -- [13]
+				"DAMAGE", -- [14]
+			},
+			["TimeWindows"] = {
+				["Damage"] = {
+					19151, -- [1]
+				},
+				["TimeDamage"] = {
+					19.72, -- [1]
+				},
+				["ActiveTime"] = {
+					19.72, -- [1]
+				},
+			},
+			["enClass"] = "PET",
+			["unit"] = "Water Elemental",
+			["level"] = 1,
+			["LastFightIn"] = 0,
+			["type"] = "Pet",
+			["FightsSaved"] = 2,
+			["ownerName"] = "Shivrzz-Magtheridon",
+			["TimeLast"] = {
+				["Damage"] = 186326.143,
+				["OVERALL"] = 186326.143,
+				["TimeDamage"] = 186326.143,
+				["ActiveTime"] = 186326.143,
+			},
+			["LastEventHealthMax"] = {
+				44076, -- [1]
+				44076, -- [2]
+				44076, -- [3]
+				44076, -- [4]
+				44076, -- [5]
+				44076, -- [6]
+				44076, -- [7]
+				44076, -- [8]
+				44076, -- [9]
+				44076, -- [10]
+				44076, -- [11]
+				44076, -- [12]
+				44076, -- [13]
+				44076, -- [14]
+			},
+			["NextEventNum"] = 15,
+			["LastDamageTime"] = 186326.832,
+			["LastEvents"] = {
+				"Water Elemental <Shivrzz-Magtheridon> Waterbolt Haywire Golem Hit -1022 (Frost)", -- [1]
+				"Water Elemental <Shivrzz-Magtheridon> Waterbolt Haywire Golem Hit -1057 (Frost)", -- [2]
+				"Water Elemental <Shivrzz-Magtheridon> Waterbolt Haywire Golem Crit -1912 (Frost)", -- [3]
+				"Water Elemental <Shivrzz-Magtheridon> Waterbolt Haywire Golem Hit -1013 (Frost)", -- [4]
+				"Water Elemental <Shivrzz-Magtheridon> Waterbolt Haywire Golem Hit -1095 (Frost)", -- [5]
+				"Water Elemental <Shivrzz-Magtheridon> Waterbolt Haywire Golem Hit -1173 (Frost)", -- [6]
+				"Water Elemental <Shivrzz-Magtheridon> Waterbolt Haywire Golem Hit -1112 (Frost)", -- [7]
+				"Water Elemental <Shivrzz-Magtheridon> Waterbolt Haywire Golem Crit -2064 (Frost)", -- [8]
+				"Water Elemental <Shivrzz-Magtheridon> Waterbolt Haywire Golem Crit -2237 (Frost)", -- [9]
+				"Water Elemental <Shivrzz-Magtheridon> Waterbolt Haywire Golem Crit -2395 (Frost)", -- [10]
+				"Water Elemental <Shivrzz-Magtheridon> Waterbolt Haywire Golem Hit -1064 (Frost)", -- [11]
+				"Water Elemental <Shivrzz-Magtheridon> Waterbolt Haywire Golem Hit -953 (Frost)", -- [12]
+				"Water Elemental <Shivrzz-Magtheridon> Waterbolt Haywire Golem Hit -990 (Frost)", -- [13]
+				"Water Elemental <Shivrzz-Magtheridon> Waterbolt Haywire Golem Hit -1064 (Frost)", -- [14]
+			},
+			["Name"] = "Water Elemental",
+			["LastEventIncoming"] = {
+				false, -- [1]
+				false, -- [2]
+				false, -- [3]
+				false, -- [4]
+				false, -- [5]
+				false, -- [6]
+				false, -- [7]
+				false, -- [8]
+				false, -- [9]
+				false, -- [10]
+				false, -- [11]
+				false, -- [12]
+				false, -- [13]
+				false, -- [14]
+			},
+			["LastEventTimes"] = {
+				186295.708, -- [1]
+				186300.837, -- [2]
+				186301.057, -- [3]
+				186302.928, -- [4]
+				186305.27, -- [5]
+				186307.598, -- [6]
+				186309.948, -- [7]
+				186312.331, -- [8]
+				186314.816, -- [9]
+				186317.123, -- [10]
+				186319.593, -- [11]
+				186322.001, -- [12]
+				186324.458, -- [13]
+				186326.832, -- [14]
+			},
+			["Fights"] = {
+				["Fight2"] = {
+					["TimeSpent"] = {
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 19.72,
+								},
+							},
+							["amount"] = 19.72,
+						},
+					},
+					["ElementDone"] = {
+						["Frost"] = 19151,
+					},
+					["ElementHitsDone"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 4,
+								},
+								["Hit"] = {
+									["count"] = 10,
+								},
+							},
+							["amount"] = 14,
+						},
+					},
+					["DamagedWho"] = {
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 19151,
+								},
+							},
+							["amount"] = 19151,
+						},
+					},
+					["TimeDamage"] = 19.72,
+					["TimeDamaging"] = {
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 19.72,
+								},
+							},
+							["amount"] = 19.72,
+						},
+					},
+					["Attacks"] = {
+						["Waterbolt"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 2395,
+									["min"] = 1912,
+									["count"] = 4,
+									["amount"] = 8608,
+								},
+								["Hit"] = {
+									["max"] = 1173,
+									["min"] = 953,
+									["count"] = 10,
+									["amount"] = 10543,
+								},
+							},
+							["count"] = 14,
+							["amount"] = 19151,
+						},
+					},
+					["ActiveTime"] = 19.72,
+					["Damage"] = 19151,
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["TimeSpent"] = {
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 19.72,
+								},
+							},
+							["amount"] = 19.72,
+						},
+					},
+					["ElementDone"] = {
+						["Frost"] = 19151,
+					},
+					["ElementHitsDone"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 4,
+								},
+								["Hit"] = {
+									["count"] = 10,
+								},
+							},
+							["amount"] = 14,
+						},
+					},
+					["DamagedWho"] = {
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 19151,
+								},
+							},
+							["amount"] = 19151,
+						},
+					},
+					["TimeDamage"] = 19.72,
+					["TimeDamaging"] = {
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Waterbolt"] = {
+									["count"] = 19.72,
+								},
+							},
+							["amount"] = 19.72,
+						},
+					},
+					["Attacks"] = {
+						["Waterbolt"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 2395,
+									["min"] = 1912,
+									["count"] = 4,
+									["amount"] = 8608,
+								},
+								["Hit"] = {
+									["max"] = 1173,
+									["min"] = 953,
+									["count"] = 10,
+									["amount"] = 10543,
+								},
+							},
+							["count"] = 14,
+							["amount"] = 19151,
+						},
+					},
+					["ActiveTime"] = 19.72,
+					["Damage"] = 19151,
+				},
+			},
+			["UnitLockout"] = 186295.135,
+			["LastActive"] = 186326.143,
+		},
+		["Shivrzz-Magtheridon"] = {
+			["GUID"] = "Player-3681-0850BF4F",
+			["LastEventHealth"] = {
+				73460, -- [1]
+				73460, -- [2]
+				73460, -- [3]
+				73460, -- [4]
+				73460, -- [5]
+				73460, -- [6]
+				73460, -- [7]
+				73460, -- [8]
+				73460, -- [9]
+				73460, -- [10]
+				73460, -- [11]
+				73460, -- [12]
+				73460, -- [13]
+				73460, -- [14]
+				73460, -- [15]
+				73460, -- [16]
+				73460, -- [17]
+				73460, -- [18]
+				73460, -- [19]
+				73460, -- [20]
+				73460, -- [21]
+				73460, -- [22]
+				73460, -- [23]
+				73460, -- [24]
+				73460, -- [25]
+				73460, -- [26]
+				73460, -- [27]
+				73460, -- [28]
+				73460, -- [29]
+				73460, -- [30]
+				73460, -- [31]
+				73460, -- [32]
+				73460, -- [33]
+				73460, -- [34]
+				73460, -- [35]
+				73460, -- [36]
+				73460, -- [37]
+			},
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"DAMAGE", -- [4]
+				"DAMAGE", -- [5]
+				"DAMAGE", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"DAMAGE", -- [10]
+				"DAMAGE", -- [11]
+				"DAMAGE", -- [12]
+				"DAMAGE", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"DAMAGE", -- [16]
+				"DAMAGE", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"DAMAGE", -- [26]
+				"DAMAGE", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"DAMAGE", -- [32]
+				"DAMAGE", -- [33]
+				"DAMAGE", -- [34]
+				"DAMAGE", -- [35]
+				"DAMAGE", -- [36]
+				"DAMAGE", -- [37]
+			},
+			["TimeWindows"] = {
+				["Damage"] = {
+					174832, -- [1]
+				},
+				["Healing"] = {
+					0, -- [1]
+				},
+				["TimeDamage"] = {
+					24.39, -- [1]
+				},
+				["ActiveTime"] = {
+					24.39, -- [1]
+				},
+			},
+			["enClass"] = "MAGE",
+			["unit"] = true,
+			["level"] = 120,
+			["LastFightIn"] = 0,
+			["type"] = "Ungrouped",
+			["FightsSaved"] = 2,
+			["LastEventHealthMax"] = {
+				73460, -- [1]
+				73460, -- [2]
+				73460, -- [3]
+				73460, -- [4]
+				73460, -- [5]
+				73460, -- [6]
+				73460, -- [7]
+				73460, -- [8]
+				73460, -- [9]
+				73460, -- [10]
+				73460, -- [11]
+				73460, -- [12]
+				73460, -- [13]
+				73460, -- [14]
+				73460, -- [15]
+				73460, -- [16]
+				73460, -- [17]
+				73460, -- [18]
+				73460, -- [19]
+				73460, -- [20]
+				73460, -- [21]
+				73460, -- [22]
+				73460, -- [23]
+				73460, -- [24]
+				73460, -- [25]
+				73460, -- [26]
+				73460, -- [27]
+				73460, -- [28]
+				73460, -- [29]
+				73460, -- [30]
+				73460, -- [31]
+				73460, -- [32]
+				73460, -- [33]
+				73460, -- [34]
+				73460, -- [35]
+				73460, -- [36]
+				73460, -- [37]
+			},
+			["TimeLast"] = {
+				["ActiveTime"] = 186326.143,
+				["Healing"] = 186295.135,
+				["OVERALL"] = 186326.143,
+				["TimeDamage"] = 186326.143,
+				["Damage"] = 186326.143,
+			},
+			["Owner"] = false,
+			["Pet"] = {
+				"Water Elemental <Shivrzz-Magtheridon>", -- [1]
+			},
+			["NextEventNum"] = 38,
+			["LastDamageTime"] = 186326.832,
+			["LastEvents"] = {
+				"Shivrzz-Magtheridon Frostbolt Haywire Golem Hit -2191 (Frost)", -- [1]
+				"Shivrzz-Magtheridon Frostbolt Haywire Golem Hit -2366 (Frost)", -- [2]
+				"Shivrzz-Magtheridon Comet Storm Haywire Golem Hit -2096 (Frost)", -- [3]
+				"Shivrzz-Magtheridon Comet Storm Haywire Golem Hit -2096 (Frost)", -- [4]
+				"Shivrzz-Magtheridon Comet Storm Haywire Golem Hit -2096 (Frost)", -- [5]
+				"Shivrzz-Magtheridon Comet Storm Haywire Golem Hit -2168 (Frost)", -- [6]
+				"Shivrzz-Magtheridon Comet Storm Haywire Golem Hit -2168 (Frost)", -- [7]
+				"Shivrzz-Magtheridon Comet Storm Haywire Golem Hit -2168 (Frost)", -- [8]
+				"Shivrzz-Magtheridon Comet Storm Haywire Golem Hit -2168 (Frost)", -- [9]
+				"Shivrzz-Magtheridon Frostbolt Haywire Golem Hit -2380 (Frost)", -- [10]
+				"Shivrzz-Magtheridon Frostbolt Haywire Golem Hit -2227 (Frost)", -- [11]
+				"Shivrzz-Magtheridon Frostbolt Haywire Golem Hit -2156 (Frost)", -- [12]
+				"Shivrzz-Magtheridon Frostbolt Haywire Golem Hit -2539 (Frost)", -- [13]
+				"Shivrzz-Magtheridon Icicle Haywire Golem Hit -1220 (Frost)", -- [14]
+				"Shivrzz-Magtheridon Flurry Haywire Golem Hit -2452 (Frost)", -- [15]
+				"Shivrzz-Magtheridon Glacial Spike Haywire Golem Crit -46432 (Frost)", -- [16]
+				"Shivrzz-Magtheridon Flurry Haywire Golem Crit -4928 (Frost)", -- [17]
+				"Shivrzz-Magtheridon Flurry Haywire Golem Crit -4780 (Frost)", -- [18]
+				"Shivrzz-Magtheridon Flurry Haywire Golem Crit -4461 (Frost)", -- [19]
+				"Shivrzz-Magtheridon Flurry Haywire Golem Hit -2243 (Frost)", -- [20]
+				"Shivrzz-Magtheridon Ebonbolt Haywire Golem Crit -18934 (Frost)", -- [21]
+				"Shivrzz-Magtheridon Flurry Haywire Golem Crit -4660 (Frost)", -- [22]
+				"Shivrzz-Magtheridon Ice Lance Haywire Golem Crit -10323 (Frost)", -- [23]
+				"Shivrzz-Magtheridon Glacial Assault Haywire Golem Crit -4048 (Frost)", -- [24]
+				"Shivrzz-Magtheridon Frostbolt Haywire Golem Hit -2563 (Frost)", -- [25]
+				"Shivrzz-Magtheridon Frostbolt Haywire Golem Hit -2391 (Frost)", -- [26]
+				"Shivrzz-Magtheridon Flurry Haywire Golem Hit -2140 (Frost)", -- [27]
+				"Shivrzz-Magtheridon Frostbolt Haywire Golem Crit -4613 (Frost)", -- [28]
+				"Shivrzz-Magtheridon Flurry Haywire Golem Crit -4121 (Frost)", -- [29]
+				"Shivrzz-Magtheridon Icicle Haywire Golem Hit -1161 (Frost)", -- [30]
+				"Shivrzz-Magtheridon Flurry Haywire Golem Crit -4122 (Frost)", -- [31]
+				"Shivrzz-Magtheridon Glacial Assault Haywire Golem Crit -3759 (Frost)", -- [32]
+				"Shivrzz-Magtheridon Ice Lance Haywire Golem Crit -9130 (Frost)", -- [33]
+				"Shivrzz-Magtheridon Frostbolt Haywire Golem Hit -2478 (Frost)", -- [34]
+				"Shivrzz-Magtheridon Icicle Haywire Golem Hit -1202 (Frost)", -- [35]
+				"Shivrzz-Magtheridon Frostbolt Haywire Golem Hit -2563 (Frost)", -- [36]
+				"Shivrzz-Magtheridon Icicle Haywire Golem Hit -1289 (Frost)", -- [37]
+			},
+			["Name"] = "Shivrzz-Magtheridon",
+			["LastEventIncoming"] = {
+				false, -- [1]
+				false, -- [2]
+				false, -- [3]
+				false, -- [4]
+				false, -- [5]
+				false, -- [6]
+				false, -- [7]
+				false, -- [8]
+				false, -- [9]
+				false, -- [10]
+				false, -- [11]
+				false, -- [12]
+				false, -- [13]
+				false, -- [14]
+				false, -- [15]
+				false, -- [16]
+				false, -- [17]
+				false, -- [18]
+				false, -- [19]
+				false, -- [20]
+				false, -- [21]
+				false, -- [22]
+				false, -- [23]
+				false, -- [24]
+				false, -- [25]
+				false, -- [26]
+				false, -- [27]
+				false, -- [28]
+				false, -- [29]
+				false, -- [30]
+				false, -- [31]
+				false, -- [32]
+				false, -- [33]
+				false, -- [34]
+				false, -- [35]
+				false, -- [36]
+				false, -- [37]
+			},
+			["LastEventTimes"] = {
+				186291.456, -- [1]
+				186293.553, -- [2]
+				186293.752, -- [3]
+				186293.964, -- [4]
+				186294.164, -- [5]
+				186294.282, -- [6]
+				186294.554, -- [7]
+				186294.791, -- [8]
+				186294.924, -- [9]
+				186299.638, -- [10]
+				186301.057, -- [11]
+				186301.057, -- [12]
+				186302.532, -- [13]
+				186302.928, -- [14]
+				186307.078, -- [15]
+				186307.175, -- [16]
+				186307.507, -- [17]
+				186307.82, -- [18]
+				186310.902, -- [19]
+				186311.242, -- [20]
+				186311.341, -- [21]
+				186311.69, -- [22]
+				186312.331, -- [23]
+				186312.809, -- [24]
+				186315.935, -- [25]
+				186317.821, -- [26]
+				186319.593, -- [27]
+				186319.686, -- [28]
+				186320.073, -- [29]
+				186320.17, -- [30]
+				186320.509, -- [31]
+				186320.634, -- [32]
+				186321.11, -- [33]
+				186324.572, -- [34]
+				186324.936, -- [35]
+				186326.647, -- [36]
+				186326.832, -- [37]
+			},
+			["Fights"] = {
+				["Fight2"] = {
+					["TimeSpent"] = {
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Glacial Assault"] = {
+									["count"] = 0.61,
+								},
+								["Ebonbolt"] = {
+									["count"] = 0.1,
+								},
+								["Icicle"] = {
+									["count"] = 1.04,
+								},
+								["Comet Storm"] = {
+									["count"] = 1.37,
+								},
+								["Flurry"] = {
+									["count"] = 6.56,
+								},
+								["Frostbolt"] = {
+									["count"] = 13.49,
+								},
+								["Ice Lance"] = {
+									["count"] = 1.12,
+								},
+								["Glacial Spike"] = {
+									["count"] = 0.1,
+								},
+							},
+							["amount"] = 24.39,
+						},
+					},
+					["Healing"] = 0,
+					["ElementDone"] = {
+						["Frost"] = 174832,
+					},
+					["ElementHitsDone"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 13,
+								},
+								["Hit"] = {
+									["count"] = 24,
+								},
+							},
+							["amount"] = 37,
+						},
+					},
+					["DamagedWho"] = {
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Glacial Assault"] = {
+									["count"] = 7807,
+								},
+								["Ebonbolt"] = {
+									["count"] = 18934,
+								},
+								["Icicle"] = {
+									["count"] = 4872,
+								},
+								["Comet Storm"] = {
+									["count"] = 14960,
+								},
+								["Flurry"] = {
+									["count"] = 33907,
+								},
+								["Frostbolt"] = {
+									["count"] = 28467,
+								},
+								["Ice Lance"] = {
+									["count"] = 19453,
+								},
+								["Glacial Spike"] = {
+									["count"] = 46432,
+								},
+							},
+							["amount"] = 174832,
+						},
+					},
+					["TimeDamage"] = 24.39,
+					["TimeDamaging"] = {
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Glacial Assault"] = {
+									["count"] = 0.61,
+								},
+								["Ebonbolt"] = {
+									["count"] = 0.1,
+								},
+								["Icicle"] = {
+									["count"] = 1.04,
+								},
+								["Comet Storm"] = {
+									["count"] = 1.37,
+								},
+								["Flurry"] = {
+									["count"] = 6.56,
+								},
+								["Frostbolt"] = {
+									["count"] = 13.49,
+								},
+								["Ice Lance"] = {
+									["count"] = 1.12,
+								},
+								["Glacial Spike"] = {
+									["count"] = 0.1,
+								},
+							},
+							["amount"] = 24.39,
+						},
+					},
+					["Attacks"] = {
+						["Glacial Assault"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 4048,
+									["min"] = 3759,
+									["count"] = 2,
+									["amount"] = 7807,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 7807,
+						},
+						["Ebonbolt"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 18934,
+									["min"] = 18934,
+									["count"] = 1,
+									["amount"] = 18934,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 18934,
+						},
+						["Icicle"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 1289,
+									["min"] = 1161,
+									["count"] = 4,
+									["amount"] = 4872,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 4872,
+						},
+						["Comet Storm"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2168,
+									["min"] = 2096,
+									["count"] = 7,
+									["amount"] = 14960,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 14960,
+						},
+						["Flurry"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 4928,
+									["min"] = 4121,
+									["count"] = 6,
+									["amount"] = 27072,
+								},
+								["Hit"] = {
+									["max"] = 2452,
+									["min"] = 2140,
+									["count"] = 3,
+									["amount"] = 6835,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 33907,
+						},
+						["Frostbolt"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 4613,
+									["min"] = 4613,
+									["count"] = 1,
+									["amount"] = 4613,
+								},
+								["Hit"] = {
+									["max"] = 2563,
+									["min"] = 2156,
+									["count"] = 10,
+									["amount"] = 23854,
+								},
+							},
+							["count"] = 11,
+							["amount"] = 28467,
+						},
+						["Ice Lance"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 10323,
+									["min"] = 9130,
+									["count"] = 2,
+									["amount"] = 19453,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 19453,
+						},
+						["Glacial Spike"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 46432,
+									["min"] = 46432,
+									["count"] = 1,
+									["amount"] = 46432,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 46432,
+						},
+					},
+					["ActiveTime"] = 24.39,
+					["Damage"] = 174832,
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["TimeSpent"] = {
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Glacial Assault"] = {
+									["count"] = 0.61,
+								},
+								["Ebonbolt"] = {
+									["count"] = 0.1,
+								},
+								["Icicle"] = {
+									["count"] = 1.04,
+								},
+								["Comet Storm"] = {
+									["count"] = 1.37,
+								},
+								["Flurry"] = {
+									["count"] = 6.56,
+								},
+								["Frostbolt"] = {
+									["count"] = 13.49,
+								},
+								["Ice Lance"] = {
+									["count"] = 1.12,
+								},
+								["Glacial Spike"] = {
+									["count"] = 0.1,
+								},
+							},
+							["amount"] = 24.39,
+						},
+					},
+					["Healing"] = 0,
+					["ElementDone"] = {
+						["Frost"] = 174832,
+					},
+					["ElementHitsDone"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 13,
+								},
+								["Hit"] = {
+									["count"] = 24,
+								},
+							},
+							["amount"] = 37,
+						},
+					},
+					["DamagedWho"] = {
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Glacial Assault"] = {
+									["count"] = 7807,
+								},
+								["Ebonbolt"] = {
+									["count"] = 18934,
+								},
+								["Icicle"] = {
+									["count"] = 4872,
+								},
+								["Comet Storm"] = {
+									["count"] = 14960,
+								},
+								["Flurry"] = {
+									["count"] = 33907,
+								},
+								["Frostbolt"] = {
+									["count"] = 28467,
+								},
+								["Ice Lance"] = {
+									["count"] = 19453,
+								},
+								["Glacial Spike"] = {
+									["count"] = 46432,
+								},
+							},
+							["amount"] = 174832,
+						},
+					},
+					["TimeDamage"] = 24.39,
+					["TimeDamaging"] = {
+						["Haywire Golem"] = {
+							["Details"] = {
+								["Glacial Assault"] = {
+									["count"] = 0.61,
+								},
+								["Ebonbolt"] = {
+									["count"] = 0.1,
+								},
+								["Icicle"] = {
+									["count"] = 1.04,
+								},
+								["Comet Storm"] = {
+									["count"] = 1.37,
+								},
+								["Flurry"] = {
+									["count"] = 6.56,
+								},
+								["Frostbolt"] = {
+									["count"] = 13.49,
+								},
+								["Ice Lance"] = {
+									["count"] = 1.12,
+								},
+								["Glacial Spike"] = {
+									["count"] = 0.1,
+								},
+							},
+							["amount"] = 24.39,
+						},
+					},
+					["Attacks"] = {
+						["Glacial Assault"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 4048,
+									["min"] = 3759,
+									["count"] = 2,
+									["amount"] = 7807,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 7807,
+						},
+						["Ebonbolt"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 18934,
+									["min"] = 18934,
+									["count"] = 1,
+									["amount"] = 18934,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 18934,
+						},
+						["Icicle"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 1289,
+									["min"] = 1161,
+									["count"] = 4,
+									["amount"] = 4872,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 4872,
+						},
+						["Comet Storm"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2168,
+									["min"] = 2096,
+									["count"] = 7,
+									["amount"] = 14960,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 14960,
+						},
+						["Flurry"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 4928,
+									["min"] = 4121,
+									["count"] = 6,
+									["amount"] = 27072,
+								},
+								["Hit"] = {
+									["max"] = 2452,
+									["min"] = 2140,
+									["count"] = 3,
+									["amount"] = 6835,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 33907,
+						},
+						["Frostbolt"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 4613,
+									["min"] = 4613,
+									["count"] = 1,
+									["amount"] = 4613,
+								},
+								["Hit"] = {
+									["max"] = 2563,
+									["min"] = 2156,
+									["count"] = 10,
+									["amount"] = 23854,
+								},
+							},
+							["count"] = 11,
+							["amount"] = 28467,
+						},
+						["Ice Lance"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 10323,
+									["min"] = 9130,
+									["count"] = 2,
+									["amount"] = 19453,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 19453,
+						},
+						["Glacial Spike"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 46432,
+									["min"] = 46432,
+									["count"] = 1,
+									["amount"] = 46432,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 46432,
+						},
+					},
+					["ActiveTime"] = 24.39,
+					["Damage"] = 174832,
+				},
+			},
+			["UnitLockout"] = 186312.14,
+			["LastActive"] = 186326.143,
+		},
+	},
+	["FightNum"] = 2,
+	["CombatTimes"] = {
+		{
+			186286.141, -- [1]
+			186330.137, -- [2]
+			"11:02:52", -- [3]
+			"11:03:35", -- [4]
+			"Haywire Golem", -- [5]
+		}, -- [1]
+		{
+			186803.037, -- [1]
+			186833.039, -- [2]
+			"11:11:28", -- [3]
+			"11:11:58", -- [4]
+			"Razorjaw Chomper", -- [5]
+		}, -- [2]
+	},
+	["FoughtWho"] = {
+		"Razorjaw Chomper 11:11:28-11:11:58", -- [1]
+		"Haywire Golem 11:02:52-11:03:35", -- [2]
+	},
+}

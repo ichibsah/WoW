@@ -1,0 +1,98 @@
+
+CartographerDB = {
+	["namespaces"] = {
+		["Waypoints"] = {
+			["profiles"] = {
+				["Default"] = {
+					["waypointX"] = 84.38522285794238,
+					["waypointY"] = 373.570361681645,
+				},
+			},
+		},
+		["Notes"] = {
+			["account"] = {
+				["pois"] = {
+					["version"] = 3,
+				},
+			},
+		},
+		["POI"] = {
+			["profiles"] = {
+				["Default"] = {
+					["pois"] = {
+						["Stormwind City"] = {
+							[99987818] = {
+								["title"] = "Stormwind City",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+						},
+						["Elwynn Forest"] = {
+							[62639366] = {
+								["title"] = "Mirror Lake",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[53801548] = {
+								["title"] = "Jasperlode Mine",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[72429743] = {
+								["title"] = "Westbrook Garrison",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[31847952] = {
+								["title"] = "Echo Ridge Mine",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[84761809] = {
+								["title"] = "Stonefield Farm",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[66570897] = {
+								["title"] = "Goldshire",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[48730258] = {
+								["title"] = "Northshire Vineyards",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[52468621] = {
+								["title"] = "Stormwind City",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[41339073] = {
+								["title"] = "Northshire Abbey",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[86802904] = {
+								["title"] = "Maclure Vineyards",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+						},
+						["version"] = 3,
+						["Shattrath City"] = {
+							[44779877] = {
+								["title"] = "Shattrath City",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+						},
+					},
+				},
+			},
+		},
+	},
+	["account"] = {
+		["firstTimeWoW21"] = true,
+	},
+}

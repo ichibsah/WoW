@@ -1,0 +1,5 @@
+
+MythicChestTimersDB = {
+	["currentRun"] = {
+	},
+}

@@ -1,0 +1,88 @@
+VER 3 010000000000000F "01 - Mending" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/targetfriend
+/cast Prayer of Mending
+END
+VER 3 010000000000000E "02 - Solace" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget [dead]
+/targetenemy [noharm]
+/cast Power Word: Solace(Talent)
+/cast Smite
+END
+VER 3 0100000000000019 "03" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget
+/targetenemy [noharm]
+/cast Holy Word: Chastise
+END
+VER 3 0100000000000010 "05 . Cascade" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget
+/cast Cascade
+END
+VER 3 0100000000000015 "1-dmg" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/targetenemy [noharm]
+/castsequence [mod:alt] Power Word: Shield; reset=target/combat Shadow Word: Pain,Power Word: Solace(Talent),Smite,Smite,Smite,Smite,Penance
+/cast Silence
+END
+VER 3 0100000000000009 "3sh" "INV_Misc_QuestionMark"
+/cast Devouring Plague
+/cast [target=focus,harm] Shackle Undead; [harm] Shackle Undead
+/stopmacro [target=focus,noharm]
+/script SendChatMessage(UnitName("focus").." is shackled! DO NOT BREAK!")
+END
+VER 3 010000000000000D "assist" "INV_MISC_QUESTIONMARK"
+/assist [player=target];
+/cast Power Word: Solace(Talent)
+END
+VER 3 0100000000000017 "buff" "INV_MISC_QUESTIONMARK"
+/cast Power Word: Fortitude
+/use Oralius' Whispering Crystal
+/use Song Flower
+/use Hand of the Prophet Battle Standard
+/use Order of the Awakened Battle Standard
+/use Crystal of Insanity
+/use Focus Augment Rune
+/ar guild
+END
+VER 3 0100000000000008 "dots" "INV_Misc_QuestionMark"
+/cast Devouring Plague
+/cast Vampiric Touch
+END
+VER 3 0100000000000016 "HB-R-Alt" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Holy Word: Serenity
+END
+VER 3 0100000000000011 "hbCrashProt_0" "Spell_Holy_SealOfSacrifice"
+1:H:
+END
+VER 3 0100000000000012 "hbCrashProt_1" "Spell_Holy_SealOfSacrifice"
+Yesu:p:ayer-1096-0480D988:1:
+END
+VER 3 0100000000000002 "Holy fire" "INV_Misc_QuestionMark"
+/focus [modifier:alt] target
+/stopmacro [modifier:alt]
+/tar [target=focus,harm] focus
+/assist [target=focus,help] focus; [target=pet, exists] friday
+/cast Holy Fire
+END
+VER 3 010000000000001A "rotation" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget [dead]
+/targetenemy [noharm]
+/castsequence reset=target/combat Shadow Word: Pain,Vampiric Touch,Mind Blast,Mind Flay,Mind Flay,Mind Flay
+END
+VER 3 0100000000000018 "test" "INV_MISC_QUESTIONMARK"
+#showtooltip 02
+/targetenemy [noharm]
+/castsequence reset=target/combat Smite,Smite,Smite,Smite,Smite,Power Word: Solace(Talent),Archangel
+/cast Silence
+END
+VER 3 0100000000000013 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1IH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000014 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Yes[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

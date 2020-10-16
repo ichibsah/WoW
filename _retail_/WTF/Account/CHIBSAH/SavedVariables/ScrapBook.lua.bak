@@ -1,0 +1,9 @@
+
+ScrapBookSettings = {
+	["enabled"] = true,
+	["warn"] = true,
+	["interval"] = 10,
+	["petbattle"] = true,
+	["ach"] = true,
+	["hideui"] = true,
+}

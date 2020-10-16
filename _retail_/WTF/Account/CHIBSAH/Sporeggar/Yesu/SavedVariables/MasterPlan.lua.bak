@@ -1,0 +1,5 @@
+
+MasterPlanPC = {
+	["sortFollowers"] = false,
+	["version"] = "0.16",
+}

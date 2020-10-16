@@ -1,0 +1,23 @@
+
+ItemScoreDB = {
+	["profileKeys"] = {
+		["Youmie - Sporeggar"] = "Youmie - Sporeggar",
+	},
+	["char"] = {
+		["Youmie - Sporeggar"] = {
+			["scoreSets"] = {
+				["Default"] = {
+					["info"] = {
+					},
+					["pattern"] = "%n: %a",
+					["name"] = "Default",
+					["r"] = 0,
+					["display"] = 1,
+					["precision"] = 2,
+					["g"] = 0,
+					["b"] = 1,
+				},
+			},
+		},
+	},
+}

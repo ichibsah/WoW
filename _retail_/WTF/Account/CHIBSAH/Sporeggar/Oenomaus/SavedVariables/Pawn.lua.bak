@@ -1,0 +1,30 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0228,
+	["LastPlayerFullName"] = "Oenomaus-Sporeggar",
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["Artifacts"] = {
+		[120978] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 8,
+					["Type"] = "Holy",
+				}, -- [1]
+				{
+					["ItemLevel"] = 8,
+					["Type"] = "Fire",
+				}, -- [2]
+				{
+					["Type"] = "Holy",
+				}, -- [3]
+			},
+			["Name"] = "Ashbringer",
+		},
+	},
+	["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "PALADIN",
+	["LastAdded"] = 1,
+}

@@ -1,0 +1,11 @@
+
+MultishotPlayerScreens = {
+	["Motsi"] = {
+		"WoWScrnShot_111215_135850.jpg", -- [1]
+		"WoWScrnShot_111215_135851.jpg", -- [2]
+		"WoWScrnShot_111215_135852.jpg", -- [3]
+		"WoWScrnShot_111215_140125.jpg", -- [4]
+		"WoWScrnShot_111215_140126.jpg", -- [5]
+		"WoWScrnShot_111215_140127.jpg", -- [6]
+	},
+}

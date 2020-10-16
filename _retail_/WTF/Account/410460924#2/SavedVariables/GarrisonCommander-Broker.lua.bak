@@ -1,0 +1,46 @@
+
+dbGACB = {
+	["char"] = {
+		["Daliya - Sporeggar"] = {
+			["firstun"] = false,
+		},
+	},
+	["global"] = {
+		["firstrun"] = false,
+	},
+	["realm"] = {
+		["Sporeggar"] = {
+			["cachesize"] = {
+				["Daliya"] = 500,
+			},
+			["farms"] = {
+				["Daliya"] = {
+					["Lunarfall Excavation"] = 0,
+					["Herb Garden"] = 0,
+				},
+			},
+			["orders"] = {
+				["Daliya"] = {
+					["Tailoring Emporium"] = 0,
+					["Trading Post"] = 0,
+					["The Forge"] = 0,
+					["Lunarfall Excavation"] = 0,
+					["Herb Garden"] = 0,
+				},
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Daliya - Sporeggar"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["toggles"] = {
+				["FREQUENCY"] = 5,
+				["SUMMARY"] = false,
+				["OLDINT"] = false,
+				["SHOWNEXT"] = false,
+			},
+		},
+	},
+}

@@ -1,0 +1,31 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0231,
+	["LastPlayerFullName"] = "Omarh-Sporeggar",
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["Artifacts"] = {
+		[128823] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 12,
+					["Type"] = "Holy",
+				}, -- [1]
+				{
+					["ItemLevel"] = 14,
+					["Type"] = "Life",
+				}, -- [2]
+				{
+					["ItemLevel"] = 11,
+					["Type"] = "Holy",
+				}, -- [3]
+			},
+			["Name"] = "The Silver Hand",
+		},
+	},
+	["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "PALADIN",
+	["LastAdded"] = 1,
+}

@@ -1,0 +1,2 @@
+
+GarrisonOrderHallReportButton = "RightButton"

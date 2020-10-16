@@ -1,0 +1,31 @@
+
+AucAdvancedFilterBasic_IgnoreList = {
+	["Stormscale"] = {
+		["Alliance"] = {
+		},
+	},
+	["Terrordar"] = {
+		["Horde"] = {
+		},
+	},
+	["Gul'dan"] = {
+		["Horde"] = {
+		},
+	},
+	["Lightbringer"] = {
+		["List"] = {
+		},
+	},
+	["Jaedenar"] = {
+		["List"] = {
+		},
+	},
+	["Sporeggar"] = {
+		["List"] = {
+		},
+	},
+	["Argent Dawn"] = {
+		["Alliance"] = {
+		},
+	},
+}

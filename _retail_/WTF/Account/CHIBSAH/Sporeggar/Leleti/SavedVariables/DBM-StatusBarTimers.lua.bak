@@ -1,0 +1,27 @@
+
+DBT_PersistentOptions = {
+	["DBM"] = {
+		["FontSize"] = 10,
+		["HugeTimerY"] = -120,
+		["HugeBarXOffset"] = 0,
+		["Scale"] = 0.8999999761581421,
+		["HugeBarYOffset"] = 0,
+		["HugeScale"] = 1.049999952316284,
+		["BarYOffset"] = 0,
+		["TimerX"] = -223.0000152587891,
+		["TimerPoint"] = "TOPRIGHT",
+		["StartColorG"] = 0.6980392156862745,
+		["TimerY"] = -260,
+		["IconRight"] = true,
+		["EndColorR"] = 1,
+		["Width"] = 183,
+		["HugeTimerPoint"] = "CENTER",
+		["StartColorB"] = 0,
+		["HugeWidth"] = 200,
+		["StartColorR"] = 1,
+		["HugeTimerX"] = 0,
+		["EndColorG"] = 0,
+		["BarXOffset"] = 0,
+		["EndColorB"] = 0,
+	},
+}

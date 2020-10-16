@@ -1,0 +1,32 @@
+
+WoWDBProfilerData = {
+	["profileKeys"] = {
+		["Yesu - Sporeggar"] = "Default",
+		["Remraf - Sporeggar"] = "Default",
+		["Oenomaus - Sporeggar"] = "Default",
+		["Xelle - Sporeggar"] = "Default",
+		["Sarkodie - Sporeggar"] = "Default",
+		["Omarh - Sporeggar"] = "Default",
+		["Mengsk - Sporeggar"] = "Default",
+		["Leleti - Sporeggar"] = "Default",
+		["Barrymore - Sporeggar"] = "Default",
+	},
+	["region"] = "EU",
+	["global"] = {
+		["npcs"] = {
+			["104091"] = {
+				["encounter_data"] = {
+					["NONE:0:false"] = {
+						["stats"] = {
+						},
+						["spells"] = {
+							[79849] = 2,
+						},
+					},
+				},
+			},
+		},
+	},
+	["build_num"] = 27101,
+	["version"] = 19,
+}

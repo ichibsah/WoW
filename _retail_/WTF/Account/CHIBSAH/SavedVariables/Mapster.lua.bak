@@ -1,0 +1,35 @@
+
+MapsterDB = {
+	["namespaces"] = {
+		["FogClear"] = {
+			["global"] = {
+			},
+			["profiles"] = {
+				["Default"] = {
+				},
+			},
+		},
+		["Coords"] = {
+			["profiles"] = {
+				["Default"] = {
+				},
+			},
+		},
+		["BattleMap"] = {
+			["profiles"] = {
+				["Default"] = {
+				},
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Youmie - Sporeggar"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["point"] = "TOPLEFT",
+			["x"] = -2.844452444853118,
+			["y"] = -23.2634555116166,
+		},
+	},
+}

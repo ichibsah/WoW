@@ -1,0 +1,91 @@
+VER 3 0100000000000006 "01 - Faerie" "SPELL_DRUID_SWARM"
+#showtooltip Faerie
+/targetenemy [noexists][dead][noharm]
+/castsequence reset=target/combat Faerie Swarm(Talent), Moonfire(Lunar), Wrath(Solar), Wrath(Solar), Wrath(Solar)
+END
+VER 3 0100000000000014 "01-legion" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/targetenemy [noexists][dead][noharm]
+/castsequence reset=target/combat Sunfire(Solar),Moonfire(Lunar),Solar Wrath(Solar)
+END
+VER 3 0100000000000013 "02 - legion" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget [dead]
+/targetenemy [noharm]
+/cast Sunfire(Solar)
+END
+VER 3 0100000000000007 "02 - Toughness" "SPELL_DRUID_IRONBARK"
+#showtooltip Faerie
+/cleartarget
+/cast Ironbark
+/cast Barkskin
+/cast Stampeding Roar
+/use 13
+/use 14
+END
+VER 3 0100000000000012 "02-l-car" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/targetenemy [noexists][dead][noharm]
+/cast Cat Form(Shapeshift)
+/cast Thrash
+END
+VER 3 0100000000000004 "03-l-bear" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/targetenemy [noexists][dead][noharm]
+/castsequence Bear Form(Shapeshift, Ironfur, Mangle, Thrash(Feral, Guardian),Entangling Roots
+END
+VER 3 0100000000000009 "04 - Touch" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/targetfriend [noexists][dead][noharm]
+/cast Healing Touch
+END
+VER 3 0100000000000010 "bear-dps" "ABILITY_DRUID_MANGLE2"
+#showtooltip bear mod dps
+/targetenemy [noharm]
+/castsequence [mod:alt] Frenzied Regeneration; reset=target/combat Mangle,Thrash(Feral, Guardian),Frenzied Regeneration
+/cast Incapacitating Roar
+END
+VER 3 0100000000000002 "Buff" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget
+/cast Mark of the Wild
+/ar guild
+END
+VER 3 010000000000000B "HB - Toughness" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Ironbark
+/cast Barkskin
+/cast Stampeding Roar
+END
+VER 3 0100000000000011 "HB-M-Alt" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Renewal
+END
+VER 3 0100000000000001 "HB-M-Ctrl" "ABILITY_DRUID_FLOURISH"
+#showtooltip
+/cast Bear Form(Shapeshift)
+/cast Frenzied Regeneration
+END
+VER 3 010000000000000C "HB-R-Ctrl" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Efflorescence
+END
+VER 3 0100000000000019 "ihcmv" "INV_MISC_QUESTIONMARK"
+Intellect [9.02] > Haste [7.52] > Crit [6.02] > Mastery [4.52] > Versatility [3.02]
+END
+VER 3 0100000000000008 "legion test" "INV_MISC_QUESTIONMARK"
+#showtooltip Healing Touch
+/run SetCVar("autoUnshift",0)
+/cast Healing Touch
+/run SetCVar("autoUnshift",1)
+END
+VER 3 0100000000000003 "Rebirth" "SPELL_NATURE_REINCARNATION"
+#showtooltip
+/cast Rebirth
+END
+VER 3 0100000000000017 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1DH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000018 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Men[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

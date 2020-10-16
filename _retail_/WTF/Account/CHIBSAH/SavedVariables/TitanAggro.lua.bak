@@ -1,0 +1,5 @@
+
+TitanAggroSettings = {
+	["ReportTypeCustom"] = 0,
+	["ReportType"] = 1,
+}

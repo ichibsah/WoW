@@ -1,0 +1,51 @@
+VER 3 000000000000000D "Attack" "INV_MISC_QUESTIONMARK"
+#showtootip
+/click PetActionButton1
+/castsequence reset=6/target/combat/shift/alt/ctrl/ Corruption, Curse of Agony, Immolate
+END
+VER 3 0000000000000001 "Decursive" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast [@mouseover,nomod,exists] Cure Poison;  [@mouseover,exists,mod:ctrl] Cure Poison; [@mouseover,exists,mod:shift] Cure Poison
+END
+VER 3 0000000000000004 "Follow" "132097"
+/follow
+END
+VER 3 0000000000000006 "GRM_Tool" "INV_MISC_QUESTIONMARK"
+END
+VER 3 0000000000000003 "hbCrashProt_0" "Spell_Holy_SealOfSacrifice"
+1:H:1:1:Group:
+END
+VER 3 0000000000000002 "hbCrashProt_1" "Spell_Holy_SealOfSacrifice"
+Krive:p:ayer-4746-015D9DC4:1:
+END
+VER 3 000000000000000B "Help" "132127"
+/helpme
+END
+VER 3 0000000000000005 "HI" "132121"
+/hi
+END
+VER 3 0000000000000008 "LOW ON MANA" "136129"
+/oom
+END
+VER 3 000000000000000A "Pain Bolt" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Shadow Bolt(Rank 5)
+/cast Searing Pain(Rank 2)
+END
+VER 3 0000000000000007 "Pull" "136138"
+#showtooltip
+/cast Curse of Weakness(Rank 3)
+/petattack
+/petattack [@focus,exists][]
+END
+VER 3 0000000000000009 "Pull" "136139"
+#showtooltip
+/cast Curse of Agony(Rank 3)
+/petattack
+/petattack [@focus,exists][]
+END
+VER 3 000000000000000C "Soulstone" "136210"
+#Showtooltip
+/cast Lesser Soulstone
+/p I'm putting a soulstone on %t
+END

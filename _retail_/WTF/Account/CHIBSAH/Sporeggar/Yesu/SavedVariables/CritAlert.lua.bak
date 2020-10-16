@@ -1,0 +1,43 @@
+
+CA_Data = {
+	["DamageDone"] = {
+	},
+	["HealTaken"] = {
+	},
+	["BeastCount"] = 0,
+	["TimeStamp"] = 1296404923,
+	["DeathCountTotal"] = 0,
+	["DeathCount"] = 0,
+	["HealDone"] = {
+	},
+	["DamageTaken"] = {
+		["FALLING"] = {
+			["RecordDate"] = {
+				["hour"] = 17,
+				["min"] = 32,
+				["wday"] = 1,
+				["day"] = 30,
+				["month"] = 1,
+				["year"] = 2011,
+				["sec"] = 33,
+				["yday"] = 30,
+				["isdst"] = false,
+			},
+			["CritCount"] = 0,
+			["Zone"] = {
+				["Coords"] = {
+					["y"] = 0.1843183040618897,
+					["x"] = 0.7440131902694702,
+				},
+				["SubZone"] = "The Eastern Earthshrine",
+				["Zone"] = "Stormwind City",
+			},
+			["Cumulative"] = 4447,
+			["RecordLevel"] = 85,
+			["Count"] = 1,
+			["Record"] = 4.058703806803143,
+			["SpellName"] = "FALLING",
+			["SpellID"] = "FALLING",
+		},
+	},
+}

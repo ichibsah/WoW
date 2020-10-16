@@ -1,0 +1,5 @@
+
+NugComboBarDB_Global = {
+	["charspec"] = {
+	},
+}

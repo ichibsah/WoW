@@ -1,0 +1,7 @@
+VER 3 0100000000000001 "Misdirection" "INV_MISC_QUESTIONMARK"
+#showtooltip Misdirection
+#show misdirection
+/target focus
+/cast misdirection
+/assist
+END

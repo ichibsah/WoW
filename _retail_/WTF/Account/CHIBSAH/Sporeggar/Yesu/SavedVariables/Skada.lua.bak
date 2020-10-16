@@ -1,0 +1,48 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["orbhealingabsorbed"] = 0,
+		["healingabsorbed"] = 0,
+		["ffdamagedone"] = 0,
+		["ccTakenCount"] = 0,
+		["interrupts"] = 0,
+		["damagetaken"] = 0,
+		["orbbursthits"] = {
+			["total"] = 0,
+		},
+		["difficultyname"] = "Normal",
+		["healing"] = 0,
+		["orbsummon"] = 0,
+		["name"] = "Total",
+		["mobhdone"] = 0,
+		["last_action"] = 1470924005,
+		["mobdone"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["orboverhealing"] = 0,
+		["damage"] = 0,
+		["starttime"] = 1470924005,
+		["deaths"] = 0,
+		["ccDoneCount"] = 0,
+		["mobtaken"] = 0,
+		["orbhealing"] = 0,
+		["leech"] = 0,
+		["orbpickuphits"] = {
+			["total"] = 0,
+		},
+		["players"] = {
+		},
+		["time"] = 0,
+		["shielding"] = 0,
+		["overhealing"] = 0,
+		["mobs"] = {
+		},
+		["orbburstcast"] = 0,
+		["healthstone"] = 0,
+		["power"] = {
+		},
+		["multistrikes"] = 0,
+	},
+	["sets"] = {
+	},
+}

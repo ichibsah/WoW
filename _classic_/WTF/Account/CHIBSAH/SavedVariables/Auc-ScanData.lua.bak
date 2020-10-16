@@ -1,0 +1,15 @@
+
+AucScanData = {
+	["Version"] = 1.4,
+	["scans"] = {
+		["Bloodfang"] = {
+			["scanstats"] = {
+				["ImageUpdated"] = 1584696890,
+			},
+			["image"] = "rope",
+			["ropes"] = {
+				"return {}", -- [1]
+			},
+		},
+	},
+}

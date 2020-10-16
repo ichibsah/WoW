@@ -1,0 +1,39 @@
+
+SpyDB = {
+	["kosData"] = {
+		["Sporeggar"] = {
+			["Alliance"] = {
+				["Daliya"] = {
+				},
+			},
+		},
+	},
+	["removeKOSData"] = {
+		["Sporeggar"] = {
+			["Alliance"] = {
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Daliya - Sporeggar"] = "Daliya - Sporeggar",
+	},
+	["profiles"] = {
+		["Daliya - Sporeggar"] = {
+			["MainWindow"] = {
+				["Position"] = {
+					["h"] = 45.0000076293945,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["MainWindowVis"] = false,
+			["AppendUnitKoSCheck"] = true,
+			["AppendUnitNameCheck"] = true,
+		},
+	},
+}

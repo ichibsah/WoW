@@ -1,0 +1,4862 @@
+
+ElephantDBPerChar = {
+	["profileKeys"] = {
+		["Kethrry - Jaedenar"] = "Kethrry - Jaedenar",
+	},
+	["char"] = {
+		["Kethrry - Jaedenar"] = {
+			["logs"] = {
+				{
+					["enabled"] = true,
+					["hasMessage"] = true,
+					["name"] = "Whisper",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 05/06/2017 at 13:11:36.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+						{
+							["arg2"] = "|Kf106|k00000000|k",
+							["type"] = "BN_WHISPER",
+							["time"] = 1494070016,
+							["arg1"] = "im back",
+						}, -- [2]
+						{
+							["arg2"] = "|Kf106|k00000000|k",
+							["type"] = "BN_WHISPER",
+							["time"] = 1494070168,
+							["arg1"] = "xD",
+						}, -- [3]
+						{
+							["arg2"] = "|Kf106|k00000000|k",
+							["type"] = "BN_WHISPER",
+							["time"] = 1494070480,
+							["arg1"] = "Ehm",
+						}, -- [4]
+						{
+							["arg2"] = "|Kf106|k00000000|k",
+							["type"] = "BN_WHISPER",
+							["time"] = 1494070493,
+							["arg1"] = "27 min and im disconnected",
+						}, -- [5]
+						{
+							["arg2"] = "|Kf106|k00000000|k",
+							["type"] = "BN_WHISPER_INFORM",
+							["time"] = 1494070510,
+							["arg1"] = "okay",
+						}, -- [6]
+						{
+							["arg2"] = "|Kf106|k00000000|k",
+							["type"] = "BN_WHISPER",
+							["time"] = 1494071057,
+							["arg1"] = "ehm hf bye",
+						}, -- [7]
+						{
+							["arg2"] = "|Kf106|k00000000|k",
+							["type"] = "BN_WHISPER",
+							["time"] = 1494071158,
+							["arg1"] = "ill come back in 1 hour",
+						}, -- [8]
+					},
+				}, -- [1]
+				{
+					["enabled"] = true,
+					["hasMessage"] = true,
+					["name"] = "Raid",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 05/06/2017 at 13:11:36.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+						{
+							["arg2"] = "Dargrul",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494070745,
+							["arg1"] = "Are these ronir giving you too much trouble, Gelmogg?",
+						}, -- [2]
+						{
+							["arg2"] = "Dargrul",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494070749,
+							["arg1"] = "Perhaps I misjudged your worth...",
+						}, -- [3]
+						{
+							["arg2"] = "Dargrul",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494070755,
+							["arg1"] = "When you're done with this distraction, meet us in Riverbend.",
+						}, -- [4]
+						{
+							["arg2"] = "Dargrul",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494070981,
+							["arg1"] = "By this hammer, I claim this mountain!",
+						}, -- [5]
+						{
+							["arg2"] = "Warbrave Oro",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494071305,
+							["arg1"] = "Aaaaah!",
+						}, -- [6]
+						{
+							["arg2"] = "Sella Waterwise",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494071521,
+							["arg1"] = "If you deep-dwellers touched a hair on Moozy's head you'll never leave that cave alive!",
+						}, -- [7]
+						{
+							["arg2"] = "Sella Waterwise",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494071522,
+							["arg1"] = "Give Moozy back! Where is he?!",
+						}, -- [8]
+						{
+							["arg2"] = "Archdruid Glaidalis",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072233,
+							["arg1"] = "Defilers... I can smell the Nightmare in your blood. Be gone from these woods or suffer nature's wrath!",
+						}, -- [9]
+						{
+							["arg2"] = "Druidic Preserver",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072234,
+							["arg1"] = "Kill him! Protect the grove!",
+						}, -- [10]
+						{
+							["arg2"] = "Archdruid Glaidalis",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072247,
+							["arg1"] = "Defilers... so it is you who have befouled these woods with the Nightmare.",
+						}, -- [11]
+						{
+							["arg2"] = "Archdruid Glaidalis",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072253,
+							["arg1"] = "I sense a powerful druid among you. You dare to challenge my authority?",
+						}, -- [12]
+						{
+							["arg2"] = "Archdruid Glaidalis",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072270,
+							["arg1"] = "What is that you hold, druid?",
+						}, -- [13]
+						{
+							["arg2"] = "Archdruid Glaidalis",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072273,
+							["arg1"] = "Andu-falah-dor!",
+						}, -- [14]
+						{
+							["arg2"] = "Archdruid Glaidalis",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072287,
+							["arg1"] = "What power comes from those fangs, defiler? You fight with the strength of the Ancients themselves.",
+						}, -- [15]
+						{
+							["arg2"] = "Archdruid Glaidalis",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072316,
+							["arg1"] = "The Nightmare... clouds my thoughts no more...",
+						}, -- [16]
+						{
+							["arg2"] = "Oakheart",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072673,
+							["arg1"] = "My bark is worse than my bite.",
+						}, -- [17]
+						{
+							["arg2"] = "Oakheart",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072683,
+							["arg1"] = "I will crush you to splinters.",
+						}, -- [18]
+						{
+							["arg2"] = "Oakheart",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072712,
+							["arg1"] = "Its time we get to the root of the problem.",
+						}, -- [19]
+						{
+							["arg2"] = "Oakheart",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072751,
+							["arg1"] = "I told you to leave me alone...",
+						}, -- [20]
+						{
+							["arg2"] = "Shade of Xavius",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494073141,
+							["arg1"] = "You wish to die? So be it!",
+						}, -- [21]
+						{
+							["arg2"] = "Shade of Xavius",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494073171,
+							["arg1"] = "You will waste away slowly, painfully.",
+						}, -- [22]
+						{
+							["arg2"] = "Shade of Xavius",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494073224,
+							["arg1"] = "This must be some kind of... mistake...",
+						}, -- [23]
+						{
+							["arg2"] = "Gravax the Desecrator",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494073333,
+							["arg1"] = "Rend the flesh from their bones... and drain the life from their mortal bodies!",
+						}, -- [24]
+						{
+							["arg2"] = "Loramus Thalipedes",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494073458,
+							["arg1"] = "And now, to break these fetters and feast upon your souls. Ahahahahahaha!",
+						}, -- [25]
+						{
+							["arg2"] = "Ethel Waterwise",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494074746,
+							["arg1"] = "Get outta here, varmint!",
+						}, -- [26]
+						{
+							["arg2"] = "Sella Waterwise",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494074848,
+							["arg1"] = "Mother!",
+						}, -- [27]
+						{
+							["arg2"] = "Tichondrius",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494075281,
+							["arg1"] = "Kneel before your new masters!",
+						}, -- [28]
+						{
+							["arg2"] = "Tichondrius",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494075283,
+							["arg1"] = "You will never defeat us! We are Legion!",
+						}, -- [29]
+						{
+							["arg2"] = "Tichondrius",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494075287,
+							["arg1"] = "Your world is ours now!",
+						}, -- [30]
+						{
+							["arg2"] = "Tichondrius",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494075289,
+							["arg1"] = "You will not stop me! I will not fail!",
+						}, -- [31]
+						{
+							["arg2"] = "Huln Highmountain",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494075683,
+							["arg1"] = "Stand your ground, warbraves!",
+						}, -- [32]
+						{
+							["arg2"] = "Vision of Deathwing",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494075689,
+							["arg1"] = "You dare challenge me?!",
+						}, -- [33]
+						{
+							["arg2"] = "Lasan Skyhorn",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494076976,
+							["arg1"] = "Skyhorn! Take to the air and show these harpies and their rocs the meaning of battle!",
+						}, -- [34]
+						{
+							["arg2"] = "Lasan Skyhorn",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494077309,
+							["arg1"] = "Skyhorn, to me!",
+						}, -- [35]
+						{
+							["arg2"] = "High Crawliac",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494077624,
+							["arg1"] = "You will fall like all the others!",
+						}, -- [36]
+						{
+							["arg2"] = "High Crawliac",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494077632,
+							["arg1"] = "Your blood will rain from the sky!",
+						}, -- [37]
+						{
+							["arg2"] = "High Crawliac",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494077638,
+							["arg1"] = "Feast on their eyes my beauties!",
+						}, -- [38]
+					},
+				}, -- [2]
+				{
+					["enabled"] = true,
+					["hasMessage"] = true,
+					["name"] = "Party",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 05/06/2017 at 13:11:36.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+						{
+							["arg2"] = "Dargrul",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494070745,
+							["arg1"] = "Are these ronir giving you too much trouble, Gelmogg?",
+						}, -- [2]
+						{
+							["arg2"] = "Dargrul",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494070749,
+							["arg1"] = "Perhaps I misjudged your worth...",
+						}, -- [3]
+						{
+							["arg2"] = "Dargrul",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494070755,
+							["arg1"] = "When you're done with this distraction, meet us in Riverbend.",
+						}, -- [4]
+						{
+							["arg2"] = "Dargrul",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494070981,
+							["arg1"] = "By this hammer, I claim this mountain!",
+						}, -- [5]
+						{
+							["arg2"] = "Warbrave Oro",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494071305,
+							["arg1"] = "Aaaaah!",
+						}, -- [6]
+						{
+							["arg2"] = "Sella Waterwise",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494071521,
+							["arg1"] = "If you deep-dwellers touched a hair on Moozy's head you'll never leave that cave alive!",
+						}, -- [7]
+						{
+							["arg2"] = "Sella Waterwise",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494071522,
+							["arg1"] = "Give Moozy back! Where is he?!",
+						}, -- [8]
+						{
+							["arg2"] = "Archdruid Glaidalis",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072233,
+							["arg1"] = "Defilers... I can smell the Nightmare in your blood. Be gone from these woods or suffer nature's wrath!",
+						}, -- [9]
+						{
+							["arg2"] = "Druidic Preserver",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072234,
+							["arg1"] = "Kill him! Protect the grove!",
+						}, -- [10]
+						{
+							["arg2"] = "Archdruid Glaidalis",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072247,
+							["arg1"] = "Defilers... so it is you who have befouled these woods with the Nightmare.",
+						}, -- [11]
+						{
+							["arg2"] = "Archdruid Glaidalis",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072253,
+							["arg1"] = "I sense a powerful druid among you. You dare to challenge my authority?",
+						}, -- [12]
+						{
+							["arg2"] = "Archdruid Glaidalis",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072270,
+							["arg1"] = "What is that you hold, druid?",
+						}, -- [13]
+						{
+							["arg2"] = "Archdruid Glaidalis",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072273,
+							["arg1"] = "Andu-falah-dor!",
+						}, -- [14]
+						{
+							["arg2"] = "Archdruid Glaidalis",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072287,
+							["arg1"] = "What power comes from those fangs, defiler? You fight with the strength of the Ancients themselves.",
+						}, -- [15]
+						{
+							["arg2"] = "Archdruid Glaidalis",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072316,
+							["arg1"] = "The Nightmare... clouds my thoughts no more...",
+						}, -- [16]
+						{
+							["arg2"] = "Oakheart",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072673,
+							["arg1"] = "My bark is worse than my bite.",
+						}, -- [17]
+						{
+							["arg2"] = "Oakheart",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072683,
+							["arg1"] = "I will crush you to splinters.",
+						}, -- [18]
+						{
+							["arg2"] = "Oakheart",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072712,
+							["arg1"] = "Its time we get to the root of the problem.",
+						}, -- [19]
+						{
+							["arg2"] = "Oakheart",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072751,
+							["arg1"] = "I told you to leave me alone...",
+						}, -- [20]
+						{
+							["arg2"] = "Shade of Xavius",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494073141,
+							["arg1"] = "You wish to die? So be it!",
+						}, -- [21]
+						{
+							["arg2"] = "Shade of Xavius",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494073171,
+							["arg1"] = "You will waste away slowly, painfully.",
+						}, -- [22]
+						{
+							["arg2"] = "Shade of Xavius",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494073224,
+							["arg1"] = "This must be some kind of... mistake...",
+						}, -- [23]
+						{
+							["arg2"] = "Gravax the Desecrator",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494073333,
+							["arg1"] = "Rend the flesh from their bones... and drain the life from their mortal bodies!",
+						}, -- [24]
+						{
+							["arg2"] = "Loramus Thalipedes",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494073458,
+							["arg1"] = "And now, to break these fetters and feast upon your souls. Ahahahahahaha!",
+						}, -- [25]
+						{
+							["arg2"] = "Ethel Waterwise",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494074746,
+							["arg1"] = "Get outta here, varmint!",
+						}, -- [26]
+						{
+							["arg2"] = "Sella Waterwise",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494074848,
+							["arg1"] = "Mother!",
+						}, -- [27]
+						{
+							["arg2"] = "Tichondrius",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494075281,
+							["arg1"] = "Kneel before your new masters!",
+						}, -- [28]
+						{
+							["arg2"] = "Tichondrius",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494075283,
+							["arg1"] = "You will never defeat us! We are Legion!",
+						}, -- [29]
+						{
+							["arg2"] = "Tichondrius",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494075287,
+							["arg1"] = "Your world is ours now!",
+						}, -- [30]
+						{
+							["arg2"] = "Tichondrius",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494075289,
+							["arg1"] = "You will not stop me! I will not fail!",
+						}, -- [31]
+						{
+							["arg2"] = "Huln Highmountain",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494075683,
+							["arg1"] = "Stand your ground, warbraves!",
+						}, -- [32]
+						{
+							["arg2"] = "Vision of Deathwing",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494075689,
+							["arg1"] = "You dare challenge me?!",
+						}, -- [33]
+						{
+							["arg2"] = "Lasan Skyhorn",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494076976,
+							["arg1"] = "Skyhorn! Take to the air and show these harpies and their rocs the meaning of battle!",
+						}, -- [34]
+						{
+							["arg2"] = "Lasan Skyhorn",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494077309,
+							["arg1"] = "Skyhorn, to me!",
+						}, -- [35]
+						{
+							["arg2"] = "High Crawliac",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494077624,
+							["arg1"] = "You will fall like all the others!",
+						}, -- [36]
+						{
+							["arg2"] = "High Crawliac",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494077632,
+							["arg1"] = "Your blood will rain from the sky!",
+						}, -- [37]
+						{
+							["arg2"] = "High Crawliac",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494077638,
+							["arg1"] = "Feast on their eyes my beauties!",
+						}, -- [38]
+					},
+				}, -- [3]
+				{
+					["enabled"] = true,
+					["hasMessage"] = true,
+					["name"] = "Say",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 05/06/2017 at 13:11:36.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+						{
+							["arg2"] = "Mayla Highmountain",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494069318,
+							["arg1"] = "I am Mayla, daughter of the late High Chieftain Ulan, and I... I speak for the tribes.",
+						}, -- [2]
+						{
+							["arg2"] = "Ormgul the Pestilent",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494069496,
+							["arg1"] = "Puny karkun! Shouldn't be here!",
+						}, -- [3]
+						{
+							["arg2"] = "Jale Rivermane",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494069597,
+							["arg1"] = "We must assist at Whitewater Wash before it is too late.",
+						}, -- [4]
+						{
+							["arg2"] = "Hakmud of Argus",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494069623,
+							["arg1"] = "I thought we were friend, buddy! You leave Hakmud stranded?",
+						}, -- [5]
+						{
+							["arg2"] = "Rordan Waterwise",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494069646,
+							["arg1"] = "Please find Moozy. I will try to recover and search as well. If you find him, take him to his mother upriver.",
+						}, -- [6]
+						{
+							["arg2"] = "Rivermane Tauren",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494069685,
+							["arg1"] = "Where did all these drogbar come from?!",
+						}, -- [7]
+						{
+							["arg2"] = "Rivermane Tauren",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494069705,
+							["arg1"] = "May the Earthmother bless you!",
+						}, -- [8]
+						{
+							["arg2"] = "Rivermane Tauren",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494069780,
+							["arg1"] = "I'm getting out of here!",
+						}, -- [9]
+						{
+							["arg2"] = "Rivermane Tauren",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494069850,
+							["arg1"] = "You wield such power!",
+						}, -- [10]
+						{
+							["arg2"] = "Drogbar Wormhook",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494069955,
+							["arg1"] = "Puny karkun! Shouldn't be here!",
+						}, -- [11]
+						{
+							["arg2"] = "Captive Rivermane",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494069955,
+							["arg1"] = "May the Earthmother bless you!",
+						}, -- [12]
+						{
+							["arg2"] = "Jale Rivermane",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494070001,
+							["arg1"] = "Lifespring Cavern is to the west. Meet me there when you can.",
+						}, -- [13]
+						{
+							["arg2"] = "Jale Rivermane",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494070013,
+							["arg1"] = "Let's go, Kethrry. This moisture makes my joints hurt; make it snappy.",
+						}, -- [14]
+						{
+							["arg2"] = "Drogbar Manathirster",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494070103,
+							["arg1"] = "The stone answers to me!",
+						}, -- [15]
+						{
+							["arg2"] = "Drogbar Manathirster",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494070329,
+							["arg1"] = "Foolish karkun! Let's see how fast you die!",
+						}, -- [16]
+						{
+							["arg2"] = "Jale Rivermane",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494070392,
+							["arg1"] = "Let's go, Kethrry. This moisture makes my joints hurt; make it snappy.",
+						}, -- [17]
+						{
+							["arg2"] = "Laeni Silvershot",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494070439,
+							["arg1"] = "You weren't lying, Elias. The Demon Hunters are on the loose. Be careful - with those eyes, Kethrry sees everything.",
+						}, -- [18]
+						{
+							["arg2"] = "Jale Rivermane",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494070475,
+							["arg1"] = "Let's go, Kethrry. This moisture makes my joints hurt; make it snappy.",
+						}, -- [19]
+						{
+							["arg2"] = "Jale Rivermane",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494070827,
+							["arg1"] = "Meet me at Riverbend as soon as you can, Kethrry. I'll meet you there--my old bones don't move like they used to.",
+						}, -- [20]
+						{
+							["arg2"] = "Drogbar Manathirster",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494070860,
+							["arg1"] = "Foolish karkun! Let's see how fast you die!",
+						}, -- [21]
+						{
+							["arg2"] = "Rivermane Tauren",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494070951,
+							["arg1"] = "The drogbar are coming?",
+						}, -- [22]
+						{
+							["arg2"] = "Rivermane Tauren",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494070951,
+							["arg1"] = "Bah! The drogbar can't win. They are just a bunch of savages.",
+						}, -- [23]
+						{
+							["arg2"] = "Rivermane Tauren",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494070951,
+							["arg1"] = "Bah! The drogbar can't win. They are just a bunch of savages.",
+						}, -- [24]
+						{
+							["arg2"] = "Rivermane Tauren",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494070957,
+							["arg1"] = "Evacuate? But we have tilled this soil for generations.",
+						}, -- [25]
+						{
+							["arg2"] = "Rivermane Tauren",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494070957,
+							["arg1"] = "But... this is our land.",
+						}, -- [26]
+						{
+							["arg2"] = "Rivermane Tauren",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494070957,
+							["arg1"] = "Bah! The drogbar can't win. They are just a bunch of savages.",
+						}, -- [27]
+						{
+							["arg2"] = "Rivermane Tauren",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494070961,
+							["arg1"] = "But... this is our land.",
+						}, -- [28]
+						{
+							["arg2"] = "Rivermane Tauren",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494070961,
+							["arg1"] = "Bah! The drogbar can't win. They are just a bunch of savages.",
+						}, -- [29]
+						{
+							["arg2"] = "Rivermane Tauren",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494070964,
+							["arg1"] = "Bah! The drogbar can't win. They are just a bunch of savages.",
+						}, -- [30]
+						{
+							["arg2"] = "Rivermane Tauren",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494070964,
+							["arg1"] = "We need to get out of here!",
+						}, -- [31]
+						{
+							["arg2"] = "Bitestone Raider",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494071001,
+							["arg1"] = "These are drogbar rocks! Drogbar stones!",
+						}, -- [32]
+						{
+							["arg2"] = "Jale Rivermane",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494071053,
+							["arg1"] = "My... my village. It is gone.",
+						}, -- [33]
+						{
+							["arg2"] = "Bitestone Raider",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494071070,
+							["arg1"] = "These are drogbar rocks! Drogbar stones!",
+						}, -- [34]
+						{
+							["arg2"] = "Oakin Ironbull",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494071092,
+							["arg1"] = "You have my thanks, champion.",
+						}, -- [35]
+						{
+							["arg2"] = "Warbrave Oro",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494071109,
+							["arg1"] = "Thank you for the rescue. I will see if any of the other warbraves survived the attack.",
+						}, -- [36]
+						{
+							["arg2"] = "Bitestone Fishbrul",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494071229,
+							["arg1"] = "Lemme hear your bones crunch!",
+						}, -- [37]
+						{
+							["arg2"] = "Unseen Pathfinder",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494071229,
+							["arg1"] = "I will hunt you down!",
+						}, -- [38]
+						{
+							["arg2"] = "Warbrave Oro",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494071292,
+							["arg1"] = "Well timed, champion. We have cleared a path to Dargrul. This way...",
+						}, -- [39]
+						{
+							["arg2"] = "Dargrul",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494071303,
+							["arg1"] = "You dare challenge me?",
+						}, -- [40]
+						{
+							["arg2"] = "Ularogg Cragshaper",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494071307,
+							["arg1"] = "My underking, this one still lives.",
+						}, -- [41]
+						{
+							["arg2"] = "Dargrul",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494071312,
+							["arg1"] = "I want this shan ronir to tell the others. Tell them their doom will come once I master this hammer.",
+						}, -- [42]
+						{
+							["arg2"] = "Jale Rivermane",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494071484,
+							["arg1"] = "When Dargrul stole the Hammer of Khaz'goroth he did so right in front of myself and the other chieftains.",
+						}, -- [43]
+						{
+							["arg2"] = "Jale Rivermane",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494071493,
+							["arg1"] = "Our last High Chieftain, Ulan, tried to stop him and was slain. Mayla may have picked up her father's totem, but she is not High Chieftain yet.",
+						}, -- [44]
+						{
+							["arg2"] = "Jale Rivermane",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494071505,
+							["arg1"] = "Dargrul didn't just steal a hammer, he shattered our people, driving a wedge between our tribes.",
+						}, -- [45]
+						{
+							["arg2"] = "Sella Waterwise",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494071526,
+							["arg1"] = "Moozy! Oh, thank the Earthmother that you are okay! Bless you!",
+						}, -- [46]
+						{
+							["arg2"] = "Jale Rivermane",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494071559,
+							["arg1"] = "When Dargrul stole the Hammer of Khaz'goroth he did so right in front of myself and the other chieftains.",
+						}, -- [47]
+						{
+							["arg2"] = "Jale Rivermane",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494071568,
+							["arg1"] = "Our last High Chieftain, Ulan, tried to stop him and was slain. Mayla may have picked up her father's totem, but she is not High Chieftain yet.",
+						}, -- [48]
+						{
+							["arg2"] = "Jale Rivermane",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494071570,
+							["arg1"] = "Thank you champion. We should be safe now. Come, let us speak with Mayla.",
+						}, -- [49]
+						{
+							["arg2"] = "Jale Rivermane",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494071581,
+							["arg1"] = "Dargrul didn't just steal a hammer, he shattered our people, driving a wedge between our tribes.",
+						}, -- [50]
+						{
+							["arg2"] = "Mayla Highmountain",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494071587,
+							["arg1"] = "Jale! You have returned. Thank the spirits.",
+						}, -- [51]
+						{
+							["arg2"] = "Jale Rivermane",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494071591,
+							["arg1"] = "Mayla, child, the Underking has destroyed Riverbend.",
+						}, -- [52]
+						{
+							["arg2"] = "Mayla Highmountain",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494071595,
+							["arg1"] = "Destroyed?",
+						}, -- [53]
+						{
+							["arg2"] = "Shade of Xavius",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494071901,
+							["arg1"] = "Those who challenge me only speed themselves to an agonizing death.",
+						}, -- [54]
+						{
+							["arg2"] = "Malfurion Stormrage",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494071906,
+							["arg1"] = "So says the shadow of Xavius.",
+						}, -- [55]
+						{
+							["arg2"] = "Shade of Xavius",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494071909,
+							["arg1"] = "Be still, worm! I will deal with you shortly.",
+						}, -- [56]
+						{
+							["arg2"] = "Shade of Xavius",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494072321,
+							["arg1"] = "A fluke. Savor it, and pray you do not face me next.",
+						}, -- [57]
+						{
+							["arg2"] = "Malfurion Stormrage",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494072326,
+							["arg1"] = "They will be more than prepared, for your true power rests in the Nightmare.",
+						}, -- [58]
+						{
+							["arg2"] = "Shade of Xavius",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494072332,
+							["arg1"] = "Silence, weakling! When you open your mouth again, it will be to cry for mercy!",
+						}, -- [59]
+						{
+							["arg2"] = "Chron-Eonar",
+							["type"] = "SAY",
+							["time"] = 1494072704,
+							["arg1"] = "Throw on Chron!",
+							["clColor"] = "fff48cba",
+						}, -- [60]
+						{
+							["arg2"] = "Shade of Xavius",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494072759,
+							["arg1"] = "A pity you have come this far only to die at the hands of Xavius!",
+						}, -- [61]
+						{
+							["arg2"] = "Malfurion Stormrage",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494072764,
+							["arg1"] = "An empty threat. You hold no sway over this realm, Nightmare Lord.",
+						}, -- [62]
+						{
+							["arg2"] = "Shade of Xavius",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494072770,
+							["arg1"] = "Bold words for a prisoner. Even an echo of my power was enough to overwhelm you!",
+						}, -- [63]
+						{
+							["arg2"] = "Galador-Auchindoun",
+							["type"] = "SAY",
+							["time"] = 1494073207,
+							["arg1"] = "Growing Paranoia on Galador!",
+							["clColor"] = "ffff7c0a",
+						}, -- [64]
+						{
+							["arg2"] = "Malfurion Stormrage",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494073230,
+							["arg1"] = "A well-earned victory! We must, however, stay vigilant. Deep inside the Nightmare Xavius remains, unvanquished. The enemy you fought here was merely his shadow.",
+						}, -- [65]
+						{
+							["arg2"] = "Gnimo",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494073353,
+							["arg1"] = "Goodbye! You were Gnimo's best friend ever!",
+						}, -- [66]
+						{
+							["arg2"] = "Ethel Waterwise",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494074685,
+							["arg1"] = "My daughter really is a beautiful woman.",
+						}, -- [67]
+						{
+							["arg2"] = "Ethel Waterwise",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494074687,
+							["arg1"] = "Can't see you, Kethrry!",
+						}, -- [68]
+						{
+							["arg2"] = "Ethel Waterwise",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494074703,
+							["arg1"] = "Get where I can see you!",
+						}, -- [69]
+						{
+							["arg2"] = "Ethel Waterwise",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494074705,
+							["arg1"] = "Let's go see Moozy!",
+						}, -- [70]
+						{
+							["arg2"] = "Ethel Waterwise",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494074722,
+							["arg1"] = "Slow down, heifer!",
+						}, -- [71]
+						{
+							["arg2"] = "Ethel Waterwise",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494074723,
+							["arg1"] = "Let's go see Moozy!",
+						}, -- [72]
+						{
+							["arg2"] = "Ethel Waterwise",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494074772,
+							["arg1"] = "Why is everyone always in such a hurry?",
+						}, -- [73]
+						{
+							["arg2"] = "Ethel Waterwise",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494074775,
+							["arg1"] = "What a nice young woman.",
+						}, -- [74]
+						{
+							["arg2"] = "Ethel Waterwise",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494074812,
+							["arg1"] = "Can't see you, Kethrry!",
+						}, -- [75]
+						{
+							["arg2"] = "Ethel Waterwise",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494074814,
+							["arg1"] = "Little Moozy is a gorgeous calf.",
+						}, -- [76]
+						{
+							["arg2"] = "Ethel Waterwise",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494074844,
+							["arg1"] = "There's my Moozy...",
+						}, -- [77]
+						{
+							["arg2"] = "Lanna Skyspark",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494074875,
+							["arg1"] = "It is customary in Highmountain to pay for goods. If you need Airspark, speak with me.",
+						}, -- [78]
+						{
+							["arg2"] = "Lanna Skyspark",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494074879,
+							["arg1"] = "It is customary in Highmountain to pay for goods. If you need Airspark, speak with me.",
+						}, -- [79]
+						{
+							["arg2"] = "Darkshard Crystal",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494074902,
+							["arg1"] = "This crystal belongs to the earth!",
+						}, -- [80]
+						{
+							["arg2"] = "Turbulent Lifefury",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494074952,
+							["arg1"] = "Mu'sha's Tears are not for the mundane!",
+						}, -- [81]
+						{
+							["arg2"] = "Turbulent Lifefury",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494074953,
+							["arg1"] = "This water is sacred!",
+						}, -- [82]
+						{
+							["arg2"] = "Spiritwalker Ebonhorn",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494075029,
+							["arg1"] = "Huln was the strongest of champions and first of our tribe.",
+						}, -- [83]
+						{
+							["arg2"] = "Spiritwalker Ebonhorn",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494075033,
+							["arg1"] = "At the call of Krasus, he defied the Legion and defeated many demons with the Eagle Spear.",
+						}, -- [84]
+						{
+							["arg2"] = "Spiritwalker Ebonhorn",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494075092,
+							["arg1"] = "Huln's prowess in combat was unmatched.",
+						}, -- [85]
+						{
+							["arg2"] = "Spiritwalker Ebonhorn",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494075156,
+							["arg1"] = "Huln sought Eche'ro, a beast injured in combat with many demons.",
+						}, -- [86]
+						{
+							["arg2"] = "Spiritwalker Ebonhorn",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494075169,
+							["arg1"] = "Malfurion Stormrage eagerly awaited the arrival of Huln and his tauren reinforcements. Krasus--also known as the dragon Korialstrasz--aided their efforts from the sky.",
+						}, -- [87]
+						{
+							["arg2"] = "Cenarius",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494075184,
+							["arg1"] = "Receive my blessing, Huln Highmountain. Your people shall forever have my favor.",
+						}, -- [88]
+						{
+							["arg2"] = "Spiritwalker Ebonhorn",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494075196,
+							["arg1"] = "Even the Lord of the Forest, Cenarius, recognized Huln's greatness. He bestowed him with a blessing that we carry with us to this day: the Horns of Eche'ro.",
+						}, -- [89]
+						{
+							["arg2"] = "Spiritwalker Ebonhorn",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494075249,
+							["arg1"] = "Jarod Shadowsong awaited Huln's arrival in the battlefield below. He had a special task for Highmountain while organizing and commanding his troops.",
+						}, -- [90]
+						{
+							["arg2"] = "Jarod Shadowsong",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494075264,
+							["arg1"] = "Huln! It is good to see you on this field of battle. You look... taller?",
+						}, -- [91]
+						{
+							["arg2"] = "Huln Highmountain",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494075278,
+							["arg1"] = "This demon will fall to the Eagle Spear, Shadowsong. Play with your imps while I do the real work. Next one is on you.",
+						}, -- [92]
+						{
+							["arg2"] = "Spiritwalker Ebonhorn",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494075285,
+							["arg1"] = "Shadowsong had one last favor to ask of Huln: Defeat the lord of the Nathrezim, Tichondrius. With his defeat, the attack on Azshara would fail and balance could be restored.",
+						}, -- [93]
+						{
+							["arg2"] = "Spiritwalker Ebonhorn",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494075301,
+							["arg1"] = "Huln cast Tichondrius out of this world with the Eagle Spear.",
+						}, -- [94]
+						{
+							["arg2"] = "Spiritwalker Ebonhorn",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494075324,
+							["arg1"] = "I will await you in a lodge on the southwestern bluff. I advise against delay.",
+						}, -- [95]
+						{
+							["arg2"] = "Marcus",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494075443,
+							["arg1"] = "Well, that was certainly unexpected.",
+						}, -- [96]
+						{
+							["arg2"] = "Mayla Highmountain",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494075588,
+							["arg1"] = "We need to be out there searching for the Hammer. Tradition can wait.",
+						}, -- [97]
+						{
+							["arg2"] = "Spiritwalker Ebonhorn",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494075600,
+							["arg1"] = "We should really keep moving.",
+						}, -- [98]
+						{
+							["arg2"] = "Spiritwalker Ebonhorn",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494075615,
+							["arg1"] = "Is it wise to wait in a field of ettins?",
+						}, -- [99]
+						{
+							["arg2"] = "Hill Ettin",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494075618,
+							["arg1"] = "Hard on outside! <Chewy inside!>",
+						}, -- [100]
+						{
+							["arg2"] = "Spiritwalker Ebonhorn",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494075661,
+							["arg1"] = "For Huln, the War of the Ancients did not end at the Well of Eternity. With the Legion defeated, he focused on the monster that got away.",
+						}, -- [101]
+						{
+							["arg2"] = "Spiritwalker Ebonhorn",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494075674,
+							["arg1"] = "Welcome, my friends, to the Vault of Neltharion. Or as the world came to know him: Deathwing.",
+						}, -- [102]
+						{
+							["arg2"] = "Igrul the Scalebane",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494075860,
+							["arg1"] = "Bah. My people did not make this goblin trash. We only strapped it to that wyrm's hide. No weapon of mortal make can penetrate these metal plates.",
+						}, -- [103]
+						{
+							["arg2"] = "Huln Highmountain",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494075876,
+							["arg1"] = "This is a titan waygate. What lies beyond?",
+						}, -- [104]
+						{
+							["arg2"] = "Igrul the Scalebane",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494075880,
+							["arg1"] = "A hammer. Deathwing eats any of my people who get near it.",
+						}, -- [105]
+						{
+							["arg2"] = "Igrul the Scalebane",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494075960,
+							["arg1"] = "Enough stalling. We must slay the beast and set my people free.",
+						}, -- [106]
+						{
+							["arg2"] = "Vision of Deathwing",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494075974,
+							["arg1"] = "I will not be undone by some mortal filth! I am the Earth Warder!",
+						}, -- [107]
+						{
+							["arg2"] = "Huln Highmountain",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494076032,
+							["arg1"] = "By the power of the titans, I banish you from this land Earth Warder!",
+						}, -- [108]
+						{
+							["arg2"] = "Mayla Highmountain",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494076055,
+							["arg1"] = "So Huln never backed down, no matter the enemy?",
+						}, -- [109]
+						{
+							["arg2"] = "Spiritwalker Ebonhorn",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494076060,
+							["arg1"] = "History is forged by the hearts of heroes, child. This is the truth your father wanted you to see.",
+						}, -- [110]
+						{
+							["arg2"] = "Spiritwalker Ebonhorn",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494076067,
+							["arg1"] = "Our people need a leader like Huln. One with the strength and courage to face any obstacle. Qualities you have proven to possess.",
+						}, -- [111]
+						{
+							["arg2"] = "Spiritwalker Ebonhorn",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494076078,
+							["arg1"] = "And so there is one final vision you must witness. This is a secret passed from High Chieftain to High Chieftain since the day Huln banished Deathwing.",
+						}, -- [112]
+						{
+							["arg2"] = "Igrul the Scalebane",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494076097,
+							["arg1"] = "These eggs are corrupted. We should destroy them now.",
+						}, -- [113]
+						{
+							["arg2"] = "Huln Highmountain",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494076106,
+							["arg1"] = "There is more than one way to deal with a corruption.",
+						}, -- [114]
+						{
+							["arg2"] = "Igrul the Scalebane",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494076110,
+							["arg1"] = "The guardians, they are awaking!",
+						}, -- [115]
+						{
+							["arg2"] = "Huln Highmountain",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494076127,
+							["arg1"] = "Not all of these eggs shall survive. But those that do should be free of Deathwing's corruption.",
+						}, -- [116]
+						{
+							["arg2"] = "Huln Highmountain",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494076149,
+							["arg1"] = "Keep them off me just a little longer. One of the eggs is starting to hatch.",
+						}, -- [117]
+						{
+							["arg2"] = "Huln Highmountain",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494076181,
+							["arg1"] = "Look! One survived. Such a small thing, and with little black horns.",
+						}, -- [118]
+						{
+							["arg2"] = "Huln Highmountain",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494076188,
+							["arg1"] = "I shall call you Ebonhorn.",
+						}, -- [119]
+						{
+							["arg2"] = "Spiritwalker Ebonhorn",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494076194,
+							["arg1"] = "So it was that Huln's mercy gained the allegiance of his family's oldest ally: me.",
+						}, -- [120]
+						{
+							["arg2"] = "Mayla Highmountain",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494076205,
+							["arg1"] = "What? How? The whole time?!",
+						}, -- [121]
+						{
+							["arg2"] = "Ebyssian",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494076208,
+							["arg1"] = "Mayla, I am still the same spiritwalker you have known your entire life. Know that regardless of what happens, I serve the High Chieftain.",
+						}, -- [122]
+						{
+							["arg2"] = "Crawliac Skywitch",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494077107,
+							["arg1"] = "Scraaawk! Make it bleed!",
+						}, -- [123]
+						{
+							["arg2"] = "Crawliac Skywitch",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494077181,
+							["arg1"] = "I'll enjoy killing you!",
+						}, -- [124]
+						{
+							["arg2"] = "Crawliac Skywitch",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494077198,
+							["arg1"] = "Squaaak! You'll regret this!",
+						}, -- [125]
+						{
+							["arg2"] = "Crawliac Skywitch",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494077278,
+							["arg1"] = "Squaaak! You'll regret this!",
+						}, -- [126]
+						{
+							["arg2"] = "Crawliac Doomwailer",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494077308,
+							["arg1"] = "Shred its flesh! Scraaawk!",
+						}, -- [127]
+						{
+							["arg2"] = "Crawliac Hagfeather",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494077349,
+							["arg1"] = "Shred its flesh! Scraaawk!",
+						}, -- [128]
+						{
+							["arg2"] = "Crawliac Hagfeather",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494077440,
+							["arg1"] = "Rip the flesh from its bones!",
+						}, -- [129]
+						{
+							["arg2"] = "Skywhisker Loyalist",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494077459,
+							["arg1"] = "Iiiiii take candle!",
+						}, -- [130]
+						{
+							["arg2"] = "Skywhisker Loyalist",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494077459,
+							["arg1"] = "You no take candle!",
+						}, -- [131]
+						{
+							["arg2"] = "Skywhisker Loyalist",
+							["type"] = "MONSTER_EMOTE",
+							["time"] = 1494077462,
+							["arg1"] = "%s attempts to run away in fear!",
+						}, -- [132]
+						{
+							["arg2"] = "Skywhisker Loyalist",
+							["type"] = "MONSTER_EMOTE",
+							["time"] = 1494077462,
+							["arg1"] = "%s attempts to run away in fear!",
+						}, -- [133]
+						{
+							["arg2"] = "Crawliac Deathscreamer",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494077481,
+							["arg1"] = "Shred its flesh! Scraaawk!",
+						}, -- [134]
+						{
+							["arg2"] = "Skywhisker Loyalist",
+							["type"] = "MONSTER_EMOTE",
+							["time"] = 1494077483,
+							["arg1"] = "%s attempts to run away in fear!",
+						}, -- [135]
+						{
+							["arg2"] = "Skywhisker Loyalist",
+							["type"] = "MONSTER_EMOTE",
+							["time"] = 1494077495,
+							["arg1"] = "%s attempts to run away in fear!",
+						}, -- [136]
+						{
+							["arg2"] = "Crawliac Deathscreamer",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494077582,
+							["arg1"] = "I'll enjoy killing you!",
+						}, -- [137]
+						{
+							["arg2"] = "Lasan Skyhorn",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494077604,
+							["arg1"] = "Come, champion. Let us pluck this Witchqueen from her throne.",
+						}, -- [138]
+						{
+							["arg2"] = "Lasan Skyhorn",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494077648,
+							["arg1"] = "Ha! Now that was a battle.",
+						}, -- [139]
+						{
+							["arg2"] = "Lasan Skyhorn",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494077665,
+							["arg1"] = "If you are ready to depart, Aviash can fly you to Thunder Totem.",
+						}, -- [140]
+						{
+							["arg2"] = "Jale Rivermane",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494077697,
+							["arg1"] = "Harpies from the Haglands are unleashing their perverse magic upon wildlife in the Screeching Crag. We don't know how to counter their curses. Please, stop this madness!",
+						}, -- [141]
+						{
+							["arg2"] = "Jale Rivermane",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1494077870,
+							["arg1"] = "Long ago the harpies of these mountains lost any respect they had for life. Now they practice their dark rituals no matter who it hurts.",
+						}, -- [142]
+					},
+				}, -- [4]
+				{
+					["enabled"] = true,
+					["hasMessage"] = true,
+					["name"] = "Yell",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 05/06/2017 at 13:11:36.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+						{
+							["arg2"] = "Dargrul",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494070745,
+							["arg1"] = "Are these ronir giving you too much trouble, Gelmogg?",
+						}, -- [2]
+						{
+							["arg2"] = "Dargrul",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494070749,
+							["arg1"] = "Perhaps I misjudged your worth...",
+						}, -- [3]
+						{
+							["arg2"] = "Dargrul",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494070755,
+							["arg1"] = "When you're done with this distraction, meet us in Riverbend.",
+						}, -- [4]
+						{
+							["arg2"] = "Dargrul",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494070981,
+							["arg1"] = "By this hammer, I claim this mountain!",
+						}, -- [5]
+						{
+							["arg2"] = "Warbrave Oro",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494071305,
+							["arg1"] = "Aaaaah!",
+						}, -- [6]
+						{
+							["arg2"] = "Sella Waterwise",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494071521,
+							["arg1"] = "If you deep-dwellers touched a hair on Moozy's head you'll never leave that cave alive!",
+						}, -- [7]
+						{
+							["arg2"] = "Sella Waterwise",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494071522,
+							["arg1"] = "Give Moozy back! Where is he?!",
+						}, -- [8]
+						{
+							["arg2"] = "Archdruid Glaidalis",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072233,
+							["arg1"] = "Defilers... I can smell the Nightmare in your blood. Be gone from these woods or suffer nature's wrath!",
+						}, -- [9]
+						{
+							["arg2"] = "Druidic Preserver",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072234,
+							["arg1"] = "Kill him! Protect the grove!",
+						}, -- [10]
+						{
+							["arg2"] = "Archdruid Glaidalis",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072247,
+							["arg1"] = "Defilers... so it is you who have befouled these woods with the Nightmare.",
+						}, -- [11]
+						{
+							["arg2"] = "Archdruid Glaidalis",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072253,
+							["arg1"] = "I sense a powerful druid among you. You dare to challenge my authority?",
+						}, -- [12]
+						{
+							["arg2"] = "Archdruid Glaidalis",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072270,
+							["arg1"] = "What is that you hold, druid?",
+						}, -- [13]
+						{
+							["arg2"] = "Archdruid Glaidalis",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072273,
+							["arg1"] = "Andu-falah-dor!",
+						}, -- [14]
+						{
+							["arg2"] = "Archdruid Glaidalis",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072287,
+							["arg1"] = "What power comes from those fangs, defiler? You fight with the strength of the Ancients themselves.",
+						}, -- [15]
+						{
+							["arg2"] = "Archdruid Glaidalis",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072316,
+							["arg1"] = "The Nightmare... clouds my thoughts no more...",
+						}, -- [16]
+						{
+							["arg2"] = "Oakheart",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072673,
+							["arg1"] = "My bark is worse than my bite.",
+						}, -- [17]
+						{
+							["arg2"] = "Oakheart",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072683,
+							["arg1"] = "I will crush you to splinters.",
+						}, -- [18]
+						{
+							["arg2"] = "Oakheart",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072712,
+							["arg1"] = "Its time we get to the root of the problem.",
+						}, -- [19]
+						{
+							["arg2"] = "Oakheart",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072751,
+							["arg1"] = "I told you to leave me alone...",
+						}, -- [20]
+						{
+							["arg2"] = "Shade of Xavius",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494073141,
+							["arg1"] = "You wish to die? So be it!",
+						}, -- [21]
+						{
+							["arg2"] = "Shade of Xavius",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494073171,
+							["arg1"] = "You will waste away slowly, painfully.",
+						}, -- [22]
+						{
+							["arg2"] = "Shade of Xavius",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494073224,
+							["arg1"] = "This must be some kind of... mistake...",
+						}, -- [23]
+						{
+							["arg2"] = "Gravax the Desecrator",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494073333,
+							["arg1"] = "Rend the flesh from their bones... and drain the life from their mortal bodies!",
+						}, -- [24]
+						{
+							["arg2"] = "Loramus Thalipedes",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494073458,
+							["arg1"] = "And now, to break these fetters and feast upon your souls. Ahahahahahaha!",
+						}, -- [25]
+						{
+							["arg2"] = "Ethel Waterwise",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494074746,
+							["arg1"] = "Get outta here, varmint!",
+						}, -- [26]
+						{
+							["arg2"] = "Sella Waterwise",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494074848,
+							["arg1"] = "Mother!",
+						}, -- [27]
+						{
+							["arg2"] = "Tichondrius",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494075281,
+							["arg1"] = "Kneel before your new masters!",
+						}, -- [28]
+						{
+							["arg2"] = "Tichondrius",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494075283,
+							["arg1"] = "You will never defeat us! We are Legion!",
+						}, -- [29]
+						{
+							["arg2"] = "Tichondrius",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494075287,
+							["arg1"] = "Your world is ours now!",
+						}, -- [30]
+						{
+							["arg2"] = "Tichondrius",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494075289,
+							["arg1"] = "You will not stop me! I will not fail!",
+						}, -- [31]
+						{
+							["arg2"] = "Huln Highmountain",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494075683,
+							["arg1"] = "Stand your ground, warbraves!",
+						}, -- [32]
+						{
+							["arg2"] = "Vision of Deathwing",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494075689,
+							["arg1"] = "You dare challenge me?!",
+						}, -- [33]
+						{
+							["arg2"] = "Lasan Skyhorn",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494076976,
+							["arg1"] = "Skyhorn! Take to the air and show these harpies and their rocs the meaning of battle!",
+						}, -- [34]
+						{
+							["arg2"] = "Lasan Skyhorn",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494077309,
+							["arg1"] = "Skyhorn, to me!",
+						}, -- [35]
+						{
+							["arg2"] = "High Crawliac",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494077624,
+							["arg1"] = "You will fall like all the others!",
+						}, -- [36]
+						{
+							["arg2"] = "High Crawliac",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494077632,
+							["arg1"] = "Your blood will rain from the sky!",
+						}, -- [37]
+						{
+							["arg2"] = "High Crawliac",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494077638,
+							["arg1"] = "Feast on their eyes my beauties!",
+						}, -- [38]
+					},
+				}, -- [5]
+				{
+					["enabled"] = true,
+					["name"] = "Officer",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 05/06/2017 at 13:11:36.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+					},
+				}, -- [6]
+				{
+					["enabled"] = true,
+					["name"] = "Guild",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 05/06/2017 at 13:11:36.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+					},
+				}, -- [7]
+				{
+					["enabled"] = true,
+					["hasMessage"] = true,
+					["name"] = "Item Loot",
+					["logs"] = {
+						{
+							["type"] = "LOOT",
+							["time"] = 1494070489,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132233::::::::105:577::::::|h[Lingering Essence]|h|r.",
+						}, -- [1]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494070535,
+							["arg1"] = "You loot 25 Silver, 83 Copper",
+						}, -- [2]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494070571,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132233::::::::105:577::::::|h[Lingering Essence]|h|r.",
+						}, -- [3]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494070578,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132233::::::::105:577::::::|h[Lingering Essence]|h|r.",
+						}, -- [4]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494070622,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132233::::::::105:577::::::|h[Lingering Essence]|h|rx2.",
+						}, -- [5]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494070623,
+							["arg1"] = "You loot 37 Silver, 73 Copper",
+						}, -- [6]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494070649,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132233::::::::105:577::::::|h[Lingering Essence]|h|rx3.",
+						}, -- [7]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494070649,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132217::::::::105:577::::::|h[Elemental Pebbles]|h|r.",
+						}, -- [8]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494070669,
+							["arg1"] = "You loot 75 Silver, 95 Copper",
+						}, -- [9]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494070701,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:121344::::::::105:577::::::|h[Sunbleached Cord]|h|r.",
+						}, -- [10]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494070702,
+							["arg1"] = "You loot 1 Gold, 78 Silver, 67 Copper",
+						}, -- [11]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494070802,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132233::::::::105:577::::::|h[Lingering Essence]|h|r.",
+						}, -- [12]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494070803,
+							["arg1"] = "You loot 2 Gold, 47 Silver, 68 Copper",
+						}, -- [13]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494070824,
+							["arg1"] = "You receive item: |cff1eff00|Hitem:133077::::::::105:577:512:11:1:767:105:::|h[Vestiges of Gelmogg]|h|r.",
+						}, -- [14]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494070911,
+							["arg1"] = "You receive item: |cff0070dd|Hitem:141396::::::::105:577:8388608:11::1:::|h[The River's Blessing]|h|r.",
+						}, -- [15]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494071018,
+							["arg1"] = "You loot 78 Silver, 37 Copper",
+						}, -- [16]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494071049,
+							["arg1"] = "You loot 24 Silver, 73 Copper",
+						}, -- [17]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494071090,
+							["arg1"] = "You loot 2 Gold, 5 Silver, 88 Copper",
+						}, -- [18]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494071126,
+							["arg1"] = "You loot 1 Gold, 4 Silver, 70 Copper",
+						}, -- [19]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494071180,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132184::::::::105:577::::::|h[Intact Shimmering Scale]|h|r.",
+						}, -- [20]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494071181,
+							["arg1"] = "You loot 47 Silver, 92 Copper",
+						}, -- [21]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494071202,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132184::::::::105:577::::::|h[Intact Shimmering Scale]|h|r.",
+						}, -- [22]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494071216,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132184::::::::105:577::::::|h[Intact Shimmering Scale]|h|r.",
+						}, -- [23]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494071249,
+							["arg1"] = "You loot 90 Silver, 16 Copper",
+						}, -- [24]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494071268,
+							["arg1"] = "You loot 88 Silver, 29 Copper",
+						}, -- [25]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494071441,
+							["arg1"] = "You loot 42 Silver, 44 Copper",
+						}, -- [26]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494071481,
+							["arg1"] = "You receive item: |cff1eff00|Hitem:130288::::::::105:577:512:11:1:767:105:::|h[Drogstitch Wristwraps]|h|r.",
+						}, -- [27]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494071524,
+							["arg1"] = "You receive item: |cff0070dd|Hitem:121724::::::::105:577:512:11:1:1794:105:::|h[Whitewater Safety Blanket]|h|r.",
+						}, -- [28]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494071868,
+							["arg1"] = "Galador-Auchindoun receives loot: |cffffffff|Hitem:124113::::::::105:577::::::|h[Stonehide Leather]|h|rx2.",
+						}, -- [29]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494071870,
+							["arg1"] = "Galador-Auchindoun receives loot: |cff9d9d9d|Hitem:132185::::::::105:577::::::|h[Intact Skull]|h|r.",
+						}, -- [30]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494071872,
+							["arg1"] = "Galador-Auchindoun receives loot: |cffffffff|Hitem:124113::::::::105:577::::::|h[Stonehide Leather]|h|rx2.",
+						}, -- [31]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494071897,
+							["arg1"] = "Galador-Auchindoun receives loot: |cff9d9d9d|Hitem:132193::::::::105:577::::::|h[Tuft of Plumage]|h|r.",
+						}, -- [32]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494071897,
+							["arg1"] = "Galador-Auchindoun receives loot: |cffffffff|Hitem:124121::::::::105:577::::::|h[Wildfowl Egg]|h|rx2.",
+						}, -- [33]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494071900,
+							["arg1"] = "Galador-Auchindoun receives loot: |cffffffff|Hitem:124113::::::::105:577::::::|h[Stonehide Leather]|h|rx2.",
+						}, -- [34]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494071902,
+							["arg1"] = "Galador-Auchindoun receives loot: |cffffffff|Hitem:124113::::::::105:577::::::|h[Stonehide Leather]|h|rx2.",
+						}, -- [35]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494071905,
+							["arg1"] = "Galador-Auchindoun receives loot: |cffffffff|Hitem:124113::::::::105:577::::::|h[Stonehide Leather]|h|rx2.",
+						}, -- [36]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494071908,
+							["arg1"] = "Galador-Auchindoun receives loot: |cffffffff|Hitem:124113::::::::105:577::::::|h[Stonehide Leather]|h|rx2.",
+						}, -- [37]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494071933,
+							["arg1"] = "Chron-Eonar receives loot: |cff9d9d9d|Hitem:132185::::::::105:577::::::|h[Intact Skull]|h|r.",
+						}, -- [38]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494071933,
+							["arg1"] = "Chron-Eonar receives loot: |cffffffff|Hitem:124118::::::::105:577::::::|h[Fatty Bearsteak]|h|r.",
+						}, -- [39]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494071934,
+							["arg1"] = "Galador-Auchindoun receives loot: |cff9d9d9d|Hitem:132185::::::::105:577::::::|h[Intact Skull]|h|r.",
+						}, -- [40]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494071934,
+							["arg1"] = "You loot 2 Gold, 71 Silver, 32 Copper",
+						}, -- [41]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494071936,
+							["arg1"] = "Galador-Auchindoun receives loot: |cffffffff|Hitem:124113::::::::105:577::::::|h[Stonehide Leather]|h|rx2.",
+						}, -- [42]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494071982,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:124120::::::::105:577::::::|h[Leyblood]|h|rx2.",
+						}, -- [43]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494071983,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132183::::::::105:577::::::|h[Razor Tooth]|h|r.",
+						}, -- [44]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494071983,
+							["arg1"] = "Galador-Auchindoun receives loot: |cffffffff|Hitem:124113::::::::105:577::::::|h[Stonehide Leather]|h|rx2.",
+						}, -- [45]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494071987,
+							["arg1"] = "Galador-Auchindoun receives loot: |cffffffff|Hitem:124115::::::::105:577::::::|h[Stormscale]|h|rx2.",
+						}, -- [46]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494071987,
+							["arg1"] = "Galador-Auchindoun receives loot: |cffffffff|Hitem:129862::::::::105:577::::::|h[Stormscale Sample]|h|r.",
+						}, -- [47]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494071999,
+							["arg1"] = "You loot 2 Gold, 83 Silver, 13 Copper",
+						}, -- [48]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072076,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132183::::::::105:577::::::|h[Razor Tooth]|h|r.",
+						}, -- [49]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072076,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:124117::::::::105:577::::::|h[Lean Shank]|h|rx4.",
+						}, -- [50]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072076,
+							["arg1"] = "You receive loot: |cff1eff00|Hitem:141290::::::::105:577:512::1:1812:105:::|h[Dreamgrove Sproutling]|h|r.",
+						}, -- [51]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072076,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132231::::::::105:577::::::|h[Worn Hooked Claw]|h|rx2.",
+						}, -- [52]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072094,
+							["arg1"] = "Chron-Eonar receives loot: |cff9d9d9d|Hitem:132183::::::::105:577::::::|h[Razor Tooth]|h|r.",
+						}, -- [53]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072094,
+							["arg1"] = "Chron-Eonar receives loot: |cffffffff|Hitem:124120::::::::105:577::::::|h[Leyblood]|h|rx3.",
+						}, -- [54]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072094,
+							["arg1"] = "Chron-Eonar receives loot: |cff9d9d9d|Hitem:121367::::::::105:577::17::::|h[Warped-Plate Breastplate]|h|r.",
+						}, -- [55]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072127,
+							["arg1"] = "Galador-Auchindoun receives loot: |cffffffff|Hitem:124115::::::::105:577::::::|h[Stormscale]|h|r.",
+						}, -- [56]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072143,
+							["arg1"] = "Galador-Auchindoun receives loot: |cffffffff|Hitem:124113::::::::105:577::::::|h[Stonehide Leather]|h|r.",
+						}, -- [57]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072146,
+							["arg1"] = "Galador-Auchindoun receives loot: |cffffffff|Hitem:124113::::::::105:577::::::|h[Stonehide Leather]|h|rx2.",
+						}, -- [58]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072149,
+							["arg1"] = "Galador-Auchindoun receives loot: |cffffffff|Hitem:124113::::::::105:577::::::|h[Stonehide Leather]|h|rx2.",
+						}, -- [59]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072151,
+							["arg1"] = "Galador-Auchindoun receives loot: |cffffffff|Hitem:124113::::::::105:577::::::|h[Stonehide Leather]|h|r.",
+						}, -- [60]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072154,
+							["arg1"] = "Galador-Auchindoun receives loot: |cffffffff|Hitem:124113::::::::105:577::::::|h[Stonehide Leather]|h|rx2.",
+						}, -- [61]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072155,
+							["arg1"] = "Fleskfille-GrimBatol receives loot: |cffffffff|Hitem:124115::::::::105:577::::::|h[Stormscale]|h|r.",
+						}, -- [62]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072201,
+							["arg1"] = "Chron-Eonar receives loot: |cff9d9d9d|Hitem:121348::::::::105:577::17::::|h[Sunbleached Wristwraps]|h|r.",
+						}, -- [63]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072230,
+							["arg1"] = "Galador-Auchindoun receives loot: |cff9d9d9d|Hitem:132231::::::::106:577::::::|h[Worn Hooked Claw]|h|r.",
+						}, -- [64]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072230,
+							["arg1"] = "Galador-Auchindoun receives loot: |cffffffff|Hitem:124118::::::::106:577::::::|h[Fatty Bearsteak]|h|rx2.",
+						}, -- [65]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072233,
+							["arg1"] = "Galador-Auchindoun receives loot: |cffffffff|Hitem:124113::::::::106:577::::::|h[Stonehide Leather]|h|rx2.",
+						}, -- [66]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072237,
+							["arg1"] = "Fleskfille-GrimBatol receives loot: |cff9d9d9d|Hitem:132183::::::::106:577::::::|h[Razor Tooth]|h|r.",
+						}, -- [67]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072240,
+							["arg1"] = "Fleskfille-GrimBatol receives loot: |cffffffff|Hitem:124438::::::::106:577::::::|h[Unbroken Claw]|h|rx8.",
+						}, -- [68]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072240,
+							["arg1"] = "Fleskfille-GrimBatol receives loot: |cffffffff|Hitem:124113::::::::106:577::::::|h[Stonehide Leather]|h|rx2.",
+						}, -- [69]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494072319,
+							["arg1"] = "You loot 4 Gold, 99 Silver, 32 Copper",
+						}, -- [70]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072319,
+							["arg1"] = "Galador-Auchindoun receives loot: |cff0070dd|Hitem:134429::::::::106:577:512:17:1:1795:102:::|h[Grove Darkener's Treads]|h|r.",
+						}, -- [71]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494072394,
+							["arg1"] = "You loot 1 Gold, 41 Silver, 9 Copper",
+						}, -- [72]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072394,
+							["arg1"] = "Galador-Auchindoun receives loot: |cff9d9d9d|Hitem:132204::::::::106:577::::::|h[Sticky Volatile Substance]|h|r.",
+						}, -- [73]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072395,
+							["arg1"] = "Galador-Auchindoun receives loot: |cff9d9d9d|Hitem:132219::::::::106:577::::::|h[Opposable Leaf]|h|r.",
+						}, -- [74]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072445,
+							["arg1"] = "Fleskfille-GrimBatol receives loot: |cff9d9d9d|Hitem:132223::::::::106:577::::::|h[Elemental Droplet]|h|rx2.",
+						}, -- [75]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494072449,
+							["arg1"] = "You loot 1 Gold, 91 Silver, 54 Copper",
+						}, -- [76]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494072513,
+							["arg1"] = "You loot 3 Gold, 50 Silver, 49 Copper",
+						}, -- [77]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072604,
+							["arg1"] = "Fleskfille-GrimBatol receives loot: |cff9d9d9d|Hitem:132223::::::::106:577::::::|h[Elemental Droplet]|h|r.",
+						}, -- [78]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072604,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132204::::::::106:577::::::|h[Sticky Volatile Substance]|h|r.",
+						}, -- [79]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072614,
+							["arg1"] = "Galador-Auchindoun receives loot: |cff9d9d9d|Hitem:132223::::::::106:577::::::|h[Elemental Droplet]|h|r.",
+						}, -- [80]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072651,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132223::::::::106:577::::::|h[Elemental Droplet]|h|r.",
+						}, -- [81]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072665,
+							["arg1"] = "Chron-Eonar receives loot: |cff9d9d9d|Hitem:132223::::::::106:577::::::|h[Elemental Droplet]|h|r.",
+						}, -- [82]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072752,
+							["arg1"] = "You receive loot: |cff0070dd|Hitem:134531::::::::106:577:512:17:1:1795:106:::|h[Band of Twisted Bark]|h|r.",
+						}, -- [83]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494072753,
+							["arg1"] = "You loot 5 Gold, 3 Silver, 87 Copper",
+						}, -- [84]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072757,
+							["arg1"] = "Fleskfille-GrimBatol receives loot: |cff0070dd|Hitem:137307::::::::106:577:512:17:1:1795:103:::|h[Corrupted Knot]|h|r.",
+						}, -- [85]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072779,
+							["arg1"] = "Galador-Auchindoun receives loot: |cff9d9d9d|Hitem:132204::::::::106:577::::::|h[Sticky Volatile Substance]|h|rx4.",
+						}, -- [86]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072779,
+							["arg1"] = "Galador-Auchindoun receives loot: |cff9d9d9d|Hitem:132218::::::::106:577::::::|h[Glob of Elemental Goo]|h|r.",
+						}, -- [87]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072779,
+							["arg1"] = "Fleskfille-GrimBatol receives loot: |cff9d9d9d|Hitem:132223::::::::106:577::::::|h[Elemental Droplet]|h|rx3.",
+						}, -- [88]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072780,
+							["arg1"] = "Fleskfille-GrimBatol receives loot: |cff9d9d9d|Hitem:132204::::::::106:577::::::|h[Sticky Volatile Substance]|h|r.",
+						}, -- [89]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072800,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132223::::::::106:577::::::|h[Elemental Droplet]|h|r.",
+						}, -- [90]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072800,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132218::::::::106:577::::::|h[Glob of Elemental Goo]|h|r.",
+						}, -- [91]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072813,
+							["arg1"] = "Galador-Auchindoun receives loot: |cff9d9d9d|Hitem:132212::::::::106:577::::::|h[Frothing Essence]|h|rx2.",
+						}, -- [92]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072830,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132204::::::::106:577::::::|h[Sticky Volatile Substance]|h|r.",
+						}, -- [93]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072832,
+							["arg1"] = "Galador-Auchindoun receives loot: |cff9d9d9d|Hitem:132204::::::::106:577::::::|h[Sticky Volatile Substance]|h|rx2.",
+						}, -- [94]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072832,
+							["arg1"] = "Galador-Auchindoun receives loot: |cff9d9d9d|Hitem:132223::::::::106:577::::::|h[Elemental Droplet]|h|r.",
+						}, -- [95]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072861,
+							["arg1"] = "Galador-Auchindoun receives loot: |cff9d9d9d|Hitem:132204::::::::106:577::::::|h[Sticky Volatile Substance]|h|rx3.",
+						}, -- [96]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072861,
+							["arg1"] = "Galador-Auchindoun receives loot: |cff1eff00|Hitem:121180::::::::106:577:512::2:1812:607:102:::|h[Mark of Lore]|h|r.",
+						}, -- [97]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072886,
+							["arg1"] = "Galador-Auchindoun receives loot: |cff9d9d9d|Hitem:132212::::::::106:577::::::|h[Frothing Essence]|h|rx2.",
+						}, -- [98]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072889,
+							["arg1"] = "Chron-Eonar receives loot: |cff9d9d9d|Hitem:132223::::::::106:577::::::|h[Elemental Droplet]|h|r.",
+						}, -- [99]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494072977,
+							["arg1"] = "Chron-Eonar receives loot: |cff0070dd|Hitem:137310::::::::106:577:512:17:1:1795:108:::|h[Greatbelt of Disruption]|h|r.",
+						}, -- [100]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494072978,
+							["arg1"] = "You loot 5 Gold, 23 Silver, 65 Copper",
+						}, -- [101]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494073016,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:137677::::::::106:577::::::|h[Fel Blood]|h|r.",
+						}, -- [102]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494073016,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132204::::::::106:577::::::|h[Sticky Volatile Substance]|h|r.",
+						}, -- [103]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494073017,
+							["arg1"] = "Ashlari-Magtheridon receives loot: |cffffffff|Hitem:137677::::::::106:577::::::|h[Fel Blood]|h|r.",
+						}, -- [104]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494073043,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:137677::::::::106:577::::::|h[Fel Blood]|h|rx2.",
+						}, -- [105]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494073043,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132199::::::::106:577::::::|h[Congealed Felblood]|h|rx2.",
+						}, -- [106]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494073043,
+							["arg1"] = "Galador-Auchindoun receives loot: |cff1eff00|Hitem:121218::::::::106:577:512::2:1812:1713:102:::|h[Crescent Vale Sandals of the Harmonious]|h|r.",
+						}, -- [107]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494073081,
+							["arg1"] = "Galador-Auchindoun receives loot: |cff9d9d9d|Hitem:132183::::::::106:577::::::|h[Razor Tooth]|h|rx2.",
+						}, -- [108]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494073084,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132183::::::::106:577::::::|h[Razor Tooth]|h|r.",
+						}, -- [109]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494073085,
+							["arg1"] = "Galador-Auchindoun receives loot: |cffffffff|Hitem:124113::::::::106:577::::::|h[Stonehide Leather]|h|rx2.",
+						}, -- [110]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494073089,
+							["arg1"] = "Fleskfille-GrimBatol receives loot: |cffffffff|Hitem:124113::::::::106:577::::::|h[Stonehide Leather]|h|rx2.",
+						}, -- [111]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494073091,
+							["arg1"] = "Fleskfille-GrimBatol receives loot: |cff9d9d9d|Hitem:132183::::::::106:577::::::|h[Razor Tooth]|h|r.",
+						}, -- [112]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494073094,
+							["arg1"] = "Fleskfille-GrimBatol receives loot: |cffffffff|Hitem:124113::::::::106:577::::::|h[Stonehide Leather]|h|rx2.",
+						}, -- [113]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494073123,
+							["arg1"] = "Fleskfille-GrimBatol receives loot: |cff9d9d9d|Hitem:132204::::::::106:577::::::|h[Sticky Volatile Substance]|h|r.",
+						}, -- [114]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494073123,
+							["arg1"] = "Galador-Auchindoun receives loot: |cff9d9d9d|Hitem:132199::::::::106:577::::::|h[Congealed Felblood]|h|r.",
+						}, -- [115]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494073123,
+							["arg1"] = "Galador-Auchindoun receives loot: |cff9d9d9d|Hitem:132204::::::::106:577::::::|h[Sticky Volatile Substance]|h|r.",
+						}, -- [116]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494073123,
+							["arg1"] = "Fleskfille-GrimBatol receives loot: |cff9d9d9d|Hitem:132231::::::::106:577::::::|h[Worn Hooked Claw]|h|r.",
+						}, -- [117]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494073124,
+							["arg1"] = "Chron-Eonar receives loot: |cff9d9d9d|Hitem:132200::::::::106:577::::::|h[Ashen Ring]|h|r.",
+						}, -- [118]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494073125,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:137677::::::::106:577::::::|h[Fel Blood]|h|rx2.",
+						}, -- [119]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494073125,
+							["arg1"] = "Ashlari-Magtheridon receives loot: |cffffffff|Hitem:137677::::::::106:577::::::|h[Fel Blood]|h|rx2.",
+						}, -- [120]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494073125,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132200::::::::106:577::::::|h[Ashen Ring]|h|r.",
+						}, -- [121]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494073125,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132204::::::::106:577::::::|h[Sticky Volatile Substance]|h|r.",
+						}, -- [122]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494073125,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132231::::::::106:577::::::|h[Worn Hooked Claw]|h|r.",
+						}, -- [123]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494073128,
+							["arg1"] = "Fleskfille-GrimBatol receives loot: |cffffffff|Hitem:124113::::::::106:577::::::|h[Stonehide Leather]|h|rx2.",
+						}, -- [124]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494073129,
+							["arg1"] = "Fleskfille-GrimBatol receives loot: |cffffffff|Hitem:124439::::::::106:577::::::|h[Unbroken Tooth]|h|rx6.",
+						}, -- [125]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494073129,
+							["arg1"] = "Fleskfille-GrimBatol receives loot: |cffffffff|Hitem:129888::::::::106:577::::::|h[Undivided Hide]|h|r.",
+						}, -- [126]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494073226,
+							["arg1"] = "You receive loot: |cff0070dd|Hitem:137317::::::::106:577:512:17:1:1795:106:::|h[Xavius' Mad Whispers]|h|r.",
+						}, -- [127]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494073227,
+							["arg1"] = "You loot 22 Gold, 10 Silver, 49 Copper",
+						}, -- [128]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494073227,
+							["arg1"] = "Galador-Auchindoun receives loot: |cff0070dd|Hitem:134405::::::::106:577:512:17:1:1795:102:::|h[Cloak of Fading Echoes]|h|r.",
+						}, -- [129]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494073234,
+							["arg1"] = "Ashlari-Magtheridon receives loot: |cff0070dd|Hitem:134448::::::::106:577::1:3:1826:1477:3527:::|h[Ashen Satyr Leggings]|h|r.",
+						}, -- [130]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494073326,
+							["arg1"] = "You receive item: |cff0070dd|Hitem:141549::::::::106:577:512:11:1:1793:106:::|h[Treads of the Receding Nightmare]|h|r.",
+						}, -- [131]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494073405,
+							["arg1"] = "You receive item: |cff1eff00|Hitem:139611::::::::106:577:8388608:31::1:::|h[Primitive Roggtotem]|h|r.",
+						}, -- [132]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494074886,
+							["arg1"] = "You receive item: |cffffffff|Hitem:132247::::::::106:577::::::|h[Bottle of Airspark]|h|r.",
+						}, -- [133]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494074921,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:132246::::::::106:577::::::|h[Darkshard Crystal]|h|r.",
+						}, -- [134]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494074971,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132212::::::::106:577::::::|h[Frothing Essence]|h|r.",
+						}, -- [135]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494074971,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132223::::::::106:577::::::|h[Elemental Droplet]|h|r.",
+						}, -- [136]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494074976,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:132248::::::::106:577::::::|h[Mu'sha's Tears]|h|r.",
+						}, -- [137]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494075321,
+							["arg1"] = "You receive item: |cff0070dd|Hitem:130282::::::::106:577:512:11:2:664:1736:106:::|h[Highmountain Trueshot Cape]|h|r.",
+						}, -- [138]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494075377,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:138197::::::::106:577::::::|h[Small Ceremonial Drum]|h|r.",
+						}, -- [139]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494075389,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:138197::::::::106:577::::::|h[Small Ceremonial Drum]|h|r.",
+						}, -- [140]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494075407,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:138197::::::::106:577::::::|h[Small Ceremonial Drum]|h|r.",
+						}, -- [141]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494075421,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:138198::::::::106:577::::::|h[Medium Ceremonial Drum]|h|r.",
+						}, -- [142]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494075438,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:138197::::::::106:577::::::|h[Small Ceremonial Drum]|h|r.",
+						}, -- [143]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494075442,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:138199::::::::106:577::::::|h[Large Ceremonial Drum]|h|r.",
+						}, -- [144]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494075445,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:138198::::::::106:577::::::|h[Medium Ceremonial Drum]|h|r.",
+						}, -- [145]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494075456,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:138199::::::::106:577::::::|h[Large Ceremonial Drum]|h|r.",
+						}, -- [146]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494075459,
+							["arg1"] = "You receive loot: |cff1eff00|Hitem:138783::::::::106:577:8388608:::1:::|h[Glittering Memento]|h|r.",
+						}, -- [147]
+						{
+							["type"] = "CURRENCY",
+							["time"] = 1494075460,
+							["arg1"] = "You receive currency: |cffffffff|Hcurrency:1220|h[Order Resources]|h|r x41.",
+						}, -- [148]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494075504,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:138198::::::::106:577::::::|h[Medium Ceremonial Drum]|h|r.",
+						}, -- [149]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494075508,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:138199::::::::106:577::::::|h[Large Ceremonial Drum]|h|r.",
+						}, -- [150]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494075512,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:138198::::::::106:577::::::|h[Medium Ceremonial Drum]|h|r.",
+						}, -- [151]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494075514,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:138199::::::::106:577::::::|h[Large Ceremonial Drum]|h|r.",
+						}, -- [152]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494075756,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132190::::::::106:577::::::|h[Pointed Tail Tip]|h|r.",
+						}, -- [153]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494075772,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132184::::::::106:577::::::|h[Intact Shimmering Scale]|h|rx3.",
+						}, -- [154]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494075772,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132183::::::::106:577::::::|h[Razor Tooth]|h|r.",
+						}, -- [155]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494075781,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132184::::::::106:577::::::|h[Intact Shimmering Scale]|h|r.",
+						}, -- [156]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494075791,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132184::::::::106:577::::::|h[Intact Shimmering Scale]|h|r.",
+						}, -- [157]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494075809,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132184::::::::106:577::::::|h[Intact Shimmering Scale]|h|r.",
+						}, -- [158]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494075830,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132183::::::::106:577::::::|h[Razor Tooth]|h|r.",
+						}, -- [159]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494075830,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132184::::::::106:577::::::|h[Intact Shimmering Scale]|h|r.",
+						}, -- [160]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494075849,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132231::::::::106:577::::::|h[Worn Hooked Claw]|h|r.",
+						}, -- [161]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494075923,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132184::::::::106:577::::::|h[Intact Shimmering Scale]|h|r.",
+						}, -- [162]
+						{
+							["type"] = "CURRENCY",
+							["time"] = 1494075940,
+							["arg1"] = "You receive currency: |cffffffff|Hcurrency:1220|h[Order Resources]|h|r x200.",
+						}, -- [163]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494075940,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132184::::::::106:577::::::|h[Intact Shimmering Scale]|h|r.",
+						}, -- [164]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494075952,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132184::::::::106:577::::::|h[Intact Shimmering Scale]|h|r.",
+						}, -- [165]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494076052,
+							["arg1"] = "You receive item: |cff0070dd|Hitem:121660::::::::106:577:512:11:2:768:1739:106:::|h[Drogstitch Gloves]|h|r.",
+						}, -- [166]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494076274,
+							["arg1"] = "You receive item: |cff0070dd|Hitem:133139::::::::106:577:512:11:1:1793:106:::|h[Feltotem Sigil]|h|r.",
+						}, -- [167]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494076401,
+							["arg1"] = "You receive item: |cff0070dd|Hitem:141397::::::::106:577:8388608:11::1:::|h[The Spiritwalker's Wisdom]|h|r.",
+						}, -- [168]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494076498,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132233::::::::106:577::::::|h[Lingering Essence]|h|rx3.",
+						}, -- [169]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494076498,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:121340::::::::106:577::::::|h[Lightning-Struck Hammer]|h|r.",
+						}, -- [170]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494076499,
+							["arg1"] = "You loot 38 Silver, 10 Copper",
+						}, -- [171]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494076539,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132233::::::::106:577::::::|h[Lingering Essence]|h|r.",
+						}, -- [172]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494076540,
+							["arg1"] = "You loot 82 Silver, 62 Copper",
+						}, -- [173]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494076559,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132233::::::::106:577::::::|h[Lingering Essence]|h|r.",
+						}, -- [174]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494076582,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132233::::::::106:577::::::|h[Lingering Essence]|h|r.",
+						}, -- [175]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494076607,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132233::::::::106:577::::::|h[Lingering Essence]|h|r.",
+						}, -- [176]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494076631,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132233::::::::106:577::::::|h[Lingering Essence]|h|r.",
+						}, -- [177]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494076679,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132233::::::::106:577::::::|h[Lingering Essence]|h|r.",
+						}, -- [178]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494076726,
+							["arg1"] = "You receive item: |cff1eff00|Hitem:130300::::::::106:577:512:11:1:767:106:::|h[Drogstitch Breeches]|h|r.",
+						}, -- [179]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494076746,
+							["arg1"] = "You receive loot: |cff1eff00|Hitem:138783::::::::106:577:8388608:::1:::|h[Glittering Memento]|h|r.",
+						}, -- [180]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494076746,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:138250::::::::106:577::::::|h[Statue of Queen Azshara]|h|rx3.",
+						}, -- [181]
+						{
+							["type"] = "CURRENCY",
+							["time"] = 1494076747,
+							["arg1"] = "You receive currency: |cffffffff|Hcurrency:1220|h[Order Resources]|h|r x202.",
+						}, -- [182]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494076815,
+							["arg1"] = "You receive loot: |cff0070dd|Hitem:131802::::::::106:577:8388608:::1:::|h[Offering to Ram'Pag]|h|r.",
+						}, -- [183]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494076815,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:121408::::::::106:577::::::|h[Puka's Missing Ball]|h|r.",
+						}, -- [184]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494076815,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:138247::::::::106:577::::::|h[Damaged Harp]|h|r.",
+						}, -- [185]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494076815,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:138307::::::::106:577::::::|h[Expired Stinky Cheese]|h|rx5.",
+						}, -- [186]
+						{
+							["type"] = "CURRENCY",
+							["time"] = 1494076816,
+							["arg1"] = "You receive currency: |cffffffff|Hcurrency:1220|h[Order Resources]|h|r x201.",
+						}, -- [187]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494076904,
+							["arg1"] = "You loot 29 Silver, 75 Copper",
+						}, -- [188]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494076931,
+							["arg1"] = "You loot 73 Silver, 17 Copper",
+						}, -- [189]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494077012,
+							["arg1"] = "You loot 38 Silver, 65 Copper",
+						}, -- [190]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494077034,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132193::::::::106:577::::::|h[Tuft of Plumage]|h|r.",
+						}, -- [191]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494077034,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:124121::::::::106:577::::::|h[Wildfowl Egg]|h|rx2.",
+						}, -- [192]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494077048,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132192::::::::106:577::::::|h[Pitted Bone]|h|r.",
+						}, -- [193]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494077066,
+							["arg1"] = "You loot 1 Gold, 7 Silver, 41 Copper",
+						}, -- [194]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494077091,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:124121::::::::106:577::::::|h[Wildfowl Egg]|h|r.",
+						}, -- [195]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494077092,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:124438::::::::106:577::::::|h[Unbroken Claw]|h|rx4.",
+						}, -- [196]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494077092,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132192::::::::106:577::::::|h[Pitted Bone]|h|r.",
+						}, -- [197]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494077117,
+							["arg1"] = "You loot 26 Silver, 67 Copper",
+						}, -- [198]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494077134,
+							["arg1"] = "You loot 40 Silver, 6 Copper",
+						}, -- [199]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494077158,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:124121::::::::106:577::::::|h[Wildfowl Egg]|h|r.",
+						}, -- [200]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494077158,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132193::::::::106:577::::::|h[Tuft of Plumage]|h|r.",
+						}, -- [201]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494077174,
+							["arg1"] = "You loot 45 Silver, 94 Copper",
+						}, -- [202]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494077191,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:124437::::::::106:577::::::|h[Shal'dorei Silk]|h|rx3.",
+						}, -- [203]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494077191,
+							["arg1"] = "You loot 41 Silver, 21 Copper",
+						}, -- [204]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494077212,
+							["arg1"] = "You loot 96 Silver, 99 Copper",
+						}, -- [205]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494077238,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:124121::::::::106:577::::::|h[Wildfowl Egg]|h|rx2.",
+						}, -- [206]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494077238,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132193::::::::106:577::::::|h[Tuft of Plumage]|h|r.",
+						}, -- [207]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494077238,
+							["arg1"] = "You receive loot: |cff1eff00|Hitem:121061::::::::106:577:512::2:1812:1683:106:::|h[Ettinbone Pauldrons of the Peerless]|h|r.",
+						}, -- [208]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494077256,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:124121::::::::106:577::::::|h[Wildfowl Egg]|h|rx2.",
+						}, -- [209]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494077256,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132193::::::::106:577::::::|h[Tuft of Plumage]|h|r.",
+						}, -- [210]
+						{
+							["type"] = "CURRENCY",
+							["time"] = 1494077287,
+							["arg1"] = "You receive currency: |cffffffff|Hcurrency:1220|h[Order Resources]|h|r x200.",
+						}, -- [211]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494077288,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:121356::::::::106:577::::::|h[Sunbleached Armice]|h|r.",
+						}, -- [212]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494077289,
+							["arg1"] = "You loot 41 Silver, 87 Copper",
+						}, -- [213]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494077323,
+							["arg1"] = "You loot 24 Silver, 2 Copper",
+						}, -- [214]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494077364,
+							["arg1"] = "You receive loot: |cff1eff00|Hitem:121331::::::::106:577::::::|h[Leystone Lockbox]|h|r.",
+						}, -- [215]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494077365,
+							["arg1"] = "You loot 2 Gold, 11 Silver, 38 Copper",
+						}, -- [216]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494077395,
+							["arg1"] = "You loot 1 Gold, 70 Silver, 48 Copper",
+						}, -- [217]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494077413,
+							["arg1"] = "You loot 58 Silver, 96 Copper",
+						}, -- [218]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494077435,
+							["arg1"] = "You loot 52 Silver, 72 Copper",
+						}, -- [219]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494077452,
+							["arg1"] = "You loot 1 Gold, 7 Silver, 36 Copper",
+						}, -- [220]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494077465,
+							["arg1"] = "You loot 1 Gold, 55 Silver, 33 Copper",
+						}, -- [221]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494077477,
+							["arg1"] = "You loot 21 Silver, 20 Copper",
+						}, -- [222]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494077500,
+							["arg1"] = "You loot 2 Gold, 32 Silver, 9 Copper",
+						}, -- [223]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494077505,
+							["arg1"] = "You loot 31 Silver, 90 Copper",
+						}, -- [224]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494077536,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:121362::::::::106:577::::::|h[Weatherworn Hood]|h|r.",
+						}, -- [225]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494077537,
+							["arg1"] = "You loot 43 Silver, 68 Copper",
+						}, -- [226]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494077564,
+							["arg1"] = "You loot 95 Silver, 13 Copper",
+						}, -- [227]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494077579,
+							["arg1"] = "You loot 25 Silver, 77 Copper",
+						}, -- [228]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494077601,
+							["arg1"] = "You receive item: |cff0070dd|Hitem:121667::::::::106:577:512:11:1:1792:106:::|h[Drogstitch Hood]|h|r.",
+						}, -- [229]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494077649,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:124437::::::::107:577::::::|h[Shal'dorei Silk]|h|r.",
+						}, -- [230]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494077650,
+							["arg1"] = "You loot 35 Silver, 58 Copper",
+						}, -- [231]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494077664,
+							["arg1"] = "You receive item: |cff0070dd|Hitem:133095::::::::107:577:512:11:2:664:1736:107:::|h[Crawliac Death Scream]|h|r.",
+						}, -- [232]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494077736,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132231::::::::107:577::::::|h[Worn Hooked Claw]|h|r.",
+						}, -- [233]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494077736,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:124119::::::::107:577::::::|h[Big Gamy Ribs]|h|r.",
+						}, -- [234]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494077736,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132237::::::::107:577::::::|h[Large Leg Bone]|h|rx2.",
+						}, -- [235]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494077737,
+							["arg1"] = "You loot 67 Silver, 58 Copper",
+						}, -- [236]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494077747,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132231::::::::107:577::::::|h[Worn Hooked Claw]|h|r.",
+						}, -- [237]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494077747,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:124117::::::::107:577::::::|h[Lean Shank]|h|r.",
+						}, -- [238]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494077774,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:121351::::::::107:577::::::|h[Sunbleached Pants]|h|r.",
+						}, -- [239]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494077775,
+							["arg1"] = "You loot 49 Silver, 65 Copper",
+						}, -- [240]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494077803,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132231::::::::107:577::::::|h[Worn Hooked Claw]|h|r.",
+						}, -- [241]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494077803,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:124117::::::::107:577::::::|h[Lean Shank]|h|rx2.",
+						}, -- [242]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494077804,
+							["arg1"] = "You loot 55 Silver, 1 Copper",
+						}, -- [243]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494077822,
+							["arg1"] = "You loot 55 Silver, 72 Copper",
+						}, -- [244]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494077833,
+							["arg1"] = "You loot 25 Silver, 14 Copper",
+						}, -- [245]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494077848,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:124119::::::::107:577::::::|h[Big Gamy Ribs]|h|rx2.",
+						}, -- [246]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494077849,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:132237::::::::107:577::::::|h[Large Leg Bone]|h|r.",
+						}, -- [247]
+						{
+							["type"] = "LOOT",
+							["time"] = 1494077867,
+							["arg1"] = "You receive loot: |cff1eff00|Hitem:121061::::::::107:577:512::2:1812:1720:107:::|h[Ettinbone Pauldrons of the Impatient]|h|r.",
+						}, -- [248]
+						{
+							["type"] = "MONEY",
+							["time"] = 1494077868,
+							["arg1"] = "You loot 35 Silver, 1 Copper",
+						}, -- [249]
+						{
+							["type"] = "CURRENCY",
+							["time"] = 1494077870,
+							["arg1"] = "You receive currency: |cffffffff|Hcurrency:1220|h[Order Resources]|h|r x200.",
+						}, -- [250]
+					},
+				}, -- [8]
+				{
+					["enabled"] = true,
+					["hasMessage"] = true,
+					["name"] = "System Messages",
+					["logs"] = {
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494069588,
+							["arg1"] = "Received 17 Gold, 40 Silver.",
+						}, -- [1]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494069589,
+							["arg1"] = "Infestation completed.",
+						}, -- [2]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494069589,
+							["arg1"] = "Experience gained: 15750.",
+						}, -- [3]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494069589,
+							["arg1"] = "Received 17 Gold, 40 Silver.",
+						}, -- [4]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494069595,
+							["arg1"] = "Quest accepted: The Flow of the River",
+						}, -- [5]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494069607,
+							["arg1"] = "|cffe6cc80|Hitem:127829::132337:132312:::::105:577:256:9::27:3:1793:1575:1809:3:664:1551:1809:|h[Twinblades of the Deceiver]|h|r gains 50 Artifact Power.",
+						}, -- [6]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494069629,
+							["arg1"] = "Discovered Whitewater Wash: 1580 experience gained",
+						}, -- [7]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494069633,
+							["arg1"] = "The Flow of the River completed.",
+						}, -- [8]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494069633,
+							["arg1"] = "Experience gained: 1600.",
+						}, -- [9]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494069633,
+							["arg1"] = "Received 1 Gold, 74 Silver.",
+						}, -- [10]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494069634,
+							["arg1"] = "Quest accepted: Trapped Tauren",
+						}, -- [11]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494069635,
+							["arg1"] = "Quest accepted: Fish Out of Water",
+						}, -- [12]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494069638,
+							["arg1"] = "Quest accepted: Spray and Prey",
+						}, -- [13]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494069646,
+							["arg1"] = "Quest accepted: Moozy's Sojourn",
+						}, -- [14]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494069928,
+							["arg1"] = "Experience gained: 47300.",
+						}, -- [15]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494069993,
+							["arg1"] = "Spray and Prey completed.",
+						}, -- [16]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494069993,
+							["arg1"] = "Experience gained: 15750.",
+						}, -- [17]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494069993,
+							["arg1"] = "Received 17 Gold, 40 Silver.",
+						}, -- [18]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494069996,
+							["arg1"] = "Trapped Tauren completed.",
+						}, -- [19]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494069996,
+							["arg1"] = "Experience gained: 15750.",
+						}, -- [20]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494069996,
+							["arg1"] = "Received 17 Gold, 40 Silver.",
+						}, -- [21]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494069997,
+							["arg1"] = "Fish Out of Water completed.",
+						}, -- [22]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494069997,
+							["arg1"] = "Experience gained: 15750.",
+						}, -- [23]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494069997,
+							["arg1"] = "Received 17 Gold, 40 Silver.",
+						}, -- [24]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494069999,
+							["arg1"] = "Quest accepted: Lifespring Cavern",
+						}, -- [25]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070010,
+							["arg1"] = "Discovered Lifespring Cavern: 1580 experience gained",
+						}, -- [26]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070011,
+							["arg1"] = "Lifespring Cavern completed.",
+						}, -- [27]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070011,
+							["arg1"] = "Experience gained: 1600.",
+						}, -- [28]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070011,
+							["arg1"] = "Received 1 Gold, 74 Silver.",
+						}, -- [29]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070012,
+							["arg1"] = "Quest accepted: Balance of Elements",
+						}, -- [30]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070017,
+							["arg1"] = "Quest accepted: Invading Spelunkers",
+						}, -- [31]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070137,
+							["arg1"] = "Invading Spelunkers completed.",
+						}, -- [32]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070137,
+							["arg1"] = "Experience gained: 15750.",
+						}, -- [33]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070137,
+							["arg1"] = "Received 17 Gold, 40 Silver.",
+						}, -- [34]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070162,
+							["arg1"] = "Balance of Elements completed.",
+						}, -- [35]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070162,
+							["arg1"] = "Experience gained: 15750.",
+						}, -- [36]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070162,
+							["arg1"] = "Received 17 Gold, 40 Silver.",
+						}, -- [37]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070163,
+							["arg1"] = "Quest accepted: Crystal Fury",
+						}, -- [38]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070416,
+							["arg1"] = "Discovered Highmountain: 1580 experience gained",
+						}, -- [39]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070426,
+							["arg1"] = "Discovered Trueshot Lodge: 1580 experience gained",
+						}, -- [40]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070462,
+							["arg1"] = "Discovered Sanderhoof's Ledge: 1580 experience gained",
+						}, -- [41]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070496,
+							["arg1"] = "Dungeon Difficulty set to Normal.",
+						}, -- [42]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070496,
+							["arg1"] = "Looting set to Personal.",
+						}, -- [43]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070496,
+							["arg1"] = "Loot threshold set to Uncommon.",
+						}, -- [44]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070824,
+							["arg1"] = "Crystal Fury completed.",
+						}, -- [45]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070824,
+							["arg1"] = "Experience gained: 15750.",
+						}, -- [46]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070824,
+							["arg1"] = "Received 17 Gold, 40 Silver.",
+						}, -- [47]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070826,
+							["arg1"] = "Quest accepted: High Water",
+						}, -- [48]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070847,
+							["arg1"] = "You leave the group.",
+						}, -- [49]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070886,
+							["arg1"] = "Moozy's Sojourn completed.",
+						}, -- [50]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070886,
+							["arg1"] = "Experience gained: 7900.",
+						}, -- [51]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070886,
+							["arg1"] = "Received 8 Gold, 70 Silver.",
+						}, -- [52]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070887,
+							["arg1"] = "Quest accepted: Moozy's Adventure",
+						}, -- [53]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070895,
+							["arg1"] = "Discovered Riverbend: 1580 experience gained",
+						}, -- [54]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070911,
+							["arg1"] = "High Water completed.",
+						}, -- [55]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070911,
+							["arg1"] = "Experience gained: 15750.",
+						}, -- [56]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070911,
+							["arg1"] = "Received 17 Gold, 40 Silver.",
+						}, -- [57]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070912,
+							["arg1"] = "Quest accepted: The Underking Comes",
+						}, -- [58]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070916,
+							["arg1"] = "|cffe6cc80|Hitem:127829::132337:132312:::::105:577:256:9::27:3:1793:1575:1809:3:664:1551:1809:|h[Twinblades of the Deceiver]|h|r gains 100 Artifact Power.",
+						}, -- [59]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070973,
+							["arg1"] = "The Underking Comes completed.",
+						}, -- [60]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070973,
+							["arg1"] = "Experience gained: 15750.",
+						}, -- [61]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070973,
+							["arg1"] = "Received 17 Gold, 40 Silver.",
+						}, -- [62]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070997,
+							["arg1"] = "Quest accepted: Grasp of the Underking",
+						}, -- [63]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494070997,
+							["arg1"] = "Quest accepted: The Drogbar",
+						}, -- [64]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071139,
+							["arg1"] = "Grasp of the Underking completed.",
+						}, -- [65]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071139,
+							["arg1"] = "Experience gained: 15750.",
+						}, -- [66]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071139,
+							["arg1"] = "Received 17 Gold, 40 Silver.",
+						}, -- [67]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071141,
+							["arg1"] = "The Drogbar completed.",
+						}, -- [68]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071141,
+							["arg1"] = "Experience gained: 15750.",
+						}, -- [69]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071141,
+							["arg1"] = "Received 17 Gold, 40 Silver.",
+						}, -- [70]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071141,
+							["arg1"] = "Quest accepted: Bitestone Enclave",
+						}, -- [71]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071144,
+							["arg1"] = "Discovered Bitestone Enclave: 1580 experience gained",
+						}, -- [72]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071291,
+							["arg1"] = "Bitestone Enclave completed.",
+						}, -- [73]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071291,
+							["arg1"] = "Experience gained: 15750.",
+						}, -- [74]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071291,
+							["arg1"] = "Received 17 Gold, 40 Silver.",
+						}, -- [75]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071291,
+							["arg1"] = "Quest accepted: Dargrul and the Hammer",
+						}, -- [76]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071387,
+							["arg1"] = "|cff71d5ff|Hdeath:1|h[You died.]|h",
+						}, -- [77]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071481,
+							["arg1"] = "Dargrul and the Hammer completed.",
+						}, -- [78]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071481,
+							["arg1"] = "Experience gained: 15750.",
+						}, -- [79]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071481,
+							["arg1"] = "Received 17 Gold, 40 Silver.",
+						}, -- [80]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071483,
+							["arg1"] = "Quest accepted: Get to High Ground",
+						}, -- [81]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071524,
+							["arg1"] = "Moozy's Adventure completed.",
+						}, -- [82]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071524,
+							["arg1"] = "Experience gained: 7900.",
+						}, -- [83]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071524,
+							["arg1"] = "Received 8 Gold, 70 Silver.",
+						}, -- [84]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071547,
+							["arg1"] = "You are now queued in the Dungeon Finder.",
+						}, -- [85]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071597,
+							["arg1"] = "Get to High Ground completed.",
+						}, -- [86]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071597,
+							["arg1"] = "Experience gained: 15750.",
+						}, -- [87]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071597,
+							["arg1"] = "Received 17 Gold, 40 Silver.",
+						}, -- [88]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071597,
+							["arg1"] = "Quest accepted: The Bloodtotem Tribe",
+						}, -- [89]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071599,
+							["arg1"] = "Quest accepted: The Skyhorn Tribe",
+						}, -- [90]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071599,
+							["arg1"] = "Quest accepted: A Walk With the Spirits",
+						}, -- [91]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071610,
+							["arg1"] = "A Walk With the Spirits completed.",
+						}, -- [92]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071610,
+							["arg1"] = "Experience gained: 1600.",
+						}, -- [93]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071610,
+							["arg1"] = "Received 1 Gold, 74 Silver.",
+						}, -- [94]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071611,
+							["arg1"] = "Quest accepted: The Story of Huln",
+						}, -- [95]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071618,
+							["arg1"] = "The Story of Huln completed.",
+						}, -- [96]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071618,
+							["arg1"] = "Experience gained: 7900.",
+						}, -- [97]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071618,
+							["arg1"] = "Received 8 Gold, 70 Silver.",
+						}, -- [98]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071619,
+							["arg1"] = "Quest accepted: To See the Past",
+						}, -- [99]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071775,
+							["arg1"] = "Quest accepted: Moozy's Reunion",
+						}, -- [100]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071787,
+							["arg1"] = "Quest accepted: Mountainstrider Round-Up",
+						}, -- [101]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071824,
+							["arg1"] = "Dungeon Difficulty set to Normal.",
+						}, -- [102]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071824,
+							["arg1"] = "Looting set to Personal.",
+						}, -- [103]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071824,
+							["arg1"] = "Loot threshold set to Uncommon.",
+						}, -- [104]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071839,
+							["arg1"] = "You aren't in a party.",
+						}, -- [105]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494071988,
+							["arg1"] = "Chron has died.",
+						}, -- [106]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494072062,
+							["arg1"] = "Ashlari has died.",
+						}, -- [107]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494072073,
+							["arg1"] = "Chron has died.",
+						}, -- [108]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494072096,
+							["arg1"] = "|cff71d5ff|Hdeath:2|h[You died.]|h",
+						}, -- [109]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494072097,
+							["arg1"] = "Asfarius has died.",
+						}, -- [110]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494072103,
+							["arg1"] = "Asfarius-Pozzodell'Eternità has left the instance group.",
+						}, -- [111]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494072107,
+							["arg1"] = "Galador has died.",
+						}, -- [112]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494072131,
+							["arg1"] = "You are now queued in the Dungeon Finder.",
+						}, -- [113]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494072135,
+							["arg1"] = "Fleskfille-GrimBatol has joined the instance group.",
+						}, -- [114]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494072242,
+							["arg1"] = "You have learned a new spell: |cff71d5ff|Hspell:206491:0|h[Nemesis]|h|r.",
+						}, -- [115]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494073224,
+							["arg1"] = "Experience gained: 19900.",
+						}, -- [116]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494073224,
+							["arg1"] = "Received 35 Gold, 60 Silver.",
+						}, -- [117]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494073258,
+							["arg1"] = "Chron-Eonar has left the instance group.",
+						}, -- [118]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494073258,
+							["arg1"] = "Fleskfille-GrimBatol has left the instance group.",
+						}, -- [119]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494073258,
+							["arg1"] = "You aren't in a party.",
+						}, -- [120]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494073260,
+							["arg1"] = "You aren't in a party.",
+						}, -- [121]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494073261,
+							["arg1"] = "Galador-Auchindoun has left the instance group.",
+						}, -- [122]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494073263,
+							["arg1"] = "You leave the group.",
+						}, -- [123]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494073326,
+							["arg1"] = "Darkheart Thicket: Enter the Nightmare completed.",
+						}, -- [124]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494073326,
+							["arg1"] = "Experience gained: 127200.",
+						}, -- [125]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494073326,
+							["arg1"] = "Received 71 Gold, 20 Silver.",
+						}, -- [126]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494073448,
+							["arg1"] = "You have unlearned |cff71d5ff|Hspell:206491:0|h[Nemesis]|h|r.",
+						}, -- [127]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494073448,
+							["arg1"] = "You have learned a new ability: |cff71d5ff|Hspell:211881:0|h[Fel Eruption]|h|r.",
+						}, -- [128]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494073838,
+							["arg1"] = "You are now Away: AFK",
+						}, -- [129]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494074638,
+							["arg1"] = "You are no longer Away.",
+						}, -- [130]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494074665,
+							["arg1"] = "You are now Friendly with Highmountain Tribe.",
+						}, -- [131]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494074665,
+							["arg1"] = "Mountainstrider Round-Up completed.",
+						}, -- [132]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494074665,
+							["arg1"] = "Experience gained: 15900.",
+						}, -- [133]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494074665,
+							["arg1"] = "Received 17 Gold, 80 Silver.",
+						}, -- [134]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494074852,
+							["arg1"] = "Moozy's Reunion completed.",
+						}, -- [135]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494074852,
+							["arg1"] = "Experience gained: 15900.",
+						}, -- [136]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494074852,
+							["arg1"] = "Received 17 Gold, 80 Silver.",
+						}, -- [137]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075017,
+							["arg1"] = "To See the Past completed.",
+						}, -- [138]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075017,
+							["arg1"] = "Experience gained: 15900.",
+						}, -- [139]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075017,
+							["arg1"] = "Received 17 Gold, 80 Silver.",
+						}, -- [140]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075018,
+							["arg1"] = "Quest accepted: Huln's War - The Arrival",
+						}, -- [141]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075129,
+							["arg1"] = "Huln's War - The Arrival completed.",
+						}, -- [142]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075129,
+							["arg1"] = "Experience gained: 7950.",
+						}, -- [143]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075129,
+							["arg1"] = "Received 8 Gold, 90 Silver.",
+						}, -- [144]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075130,
+							["arg1"] = "Quest accepted: Huln's War - Malorne's Favored",
+						}, -- [145]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075168,
+							["arg1"] = "Huln's War - Malorne's Favored completed.",
+						}, -- [146]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075168,
+							["arg1"] = "Experience gained: 1600.",
+						}, -- [147]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075168,
+							["arg1"] = "Received 1 Gold, 78 Silver.",
+						}, -- [148]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075169,
+							["arg1"] = "Quest accepted: Huln's War - Stormrage",
+						}, -- [149]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075199,
+							["arg1"] = "Huln's War - Stormrage completed.",
+						}, -- [150]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075199,
+							["arg1"] = "Experience gained: 1600.",
+						}, -- [151]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075199,
+							["arg1"] = "Received 1 Gold, 78 Silver.",
+						}, -- [152]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075199,
+							["arg1"] = "Quest accepted: Huln's War - Reinforcements",
+						}, -- [153]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075248,
+							["arg1"] = "Huln's War - Reinforcements completed.",
+						}, -- [154]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075248,
+							["arg1"] = "Experience gained: 7950.",
+						}, -- [155]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075248,
+							["arg1"] = "Received 8 Gold, 90 Silver.",
+						}, -- [156]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075249,
+							["arg1"] = "Quest accepted: Huln's War - Shadowsong",
+						}, -- [157]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075277,
+							["arg1"] = "Huln's War - Shadowsong completed.",
+						}, -- [158]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075277,
+							["arg1"] = "Experience gained: 1600.",
+						}, -- [159]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075277,
+							["arg1"] = "Received 1 Gold, 78 Silver.",
+						}, -- [160]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075278,
+							["arg1"] = "Quest accepted: Huln's War - The Nathrezim",
+						}, -- [161]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075321,
+							["arg1"] = "Huln's War - The Nathrezim completed.",
+						}, -- [162]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075321,
+							["arg1"] = "Experience gained: 15900.",
+						}, -- [163]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075321,
+							["arg1"] = "Received 17 Gold, 80 Silver.",
+						}, -- [164]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075322,
+							["arg1"] = "Quest accepted: Secrets of Highmountain",
+						}, -- [165]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075341,
+							["arg1"] = "Quest accepted: Ceremonial Drums",
+						}, -- [166]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075461,
+							["arg1"] = "|cffe6cc80|Hitem:127829::132337:137317:::::106:577:256:9::27:3:1793:1575:1809:3:1795:1412:1809:|h[Twinblades of the Deceiver]|h|r gains 50 Artifact Power.",
+						}, -- [167]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075466,
+							["arg1"] = "|cffe6cc80|Hitem:127829::132337:137317:::::106:577:256:9::27:3:1793:1575:1809:3:1795:1412:1809:|h[Twinblades of the Deceiver]|h|r gains 165 Artifact Power.",
+						}, -- [168]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075551,
+							["arg1"] = "Ceremonial Drums completed.",
+						}, -- [169]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075551,
+							["arg1"] = "Experience gained: 15900.",
+						}, -- [170]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075551,
+							["arg1"] = "Received 17 Gold, 80 Silver.",
+						}, -- [171]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075587,
+							["arg1"] = "Discovered Path of Huln: 1580 experience gained",
+						}, -- [172]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075589,
+							["arg1"] = "Secrets of Highmountain completed.",
+						}, -- [173]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075589,
+							["arg1"] = "Experience gained: 15900.",
+						}, -- [174]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075589,
+							["arg1"] = "Received 17 Gold, 80 Silver.",
+						}, -- [175]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075589,
+							["arg1"] = "Quest accepted: The Path of Huln",
+						}, -- [176]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075672,
+							["arg1"] = "Discovered Neltharion's Vault: 1580 experience gained",
+						}, -- [177]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075717,
+							["arg1"] = "The Path of Huln completed.",
+						}, -- [178]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075717,
+							["arg1"] = "Experience gained: 15900.",
+						}, -- [179]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075717,
+							["arg1"] = "Received 17 Gold, 80 Silver.",
+						}, -- [180]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075718,
+							["arg1"] = "Quest accepted: In Defiance of Deathwing",
+						}, -- [181]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075939,
+							["arg1"] = "Experience gained: 47700.",
+						}, -- [182]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075962,
+							["arg1"] = "In Defiance of Deathwing completed.",
+						}, -- [183]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075962,
+							["arg1"] = "Experience gained: 15900.",
+						}, -- [184]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075962,
+							["arg1"] = "Received 17 Gold, 80 Silver.",
+						}, -- [185]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494075963,
+							["arg1"] = "Quest accepted: Titanic Showdown",
+						}, -- [186]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076052,
+							["arg1"] = "Titanic Showdown completed.",
+						}, -- [187]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076052,
+							["arg1"] = "Experience gained: 15900.",
+						}, -- [188]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076052,
+							["arg1"] = "Received 17 Gold, 80 Silver.",
+						}, -- [189]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076053,
+							["arg1"] = "Quest accepted: An Ancient Secret",
+						}, -- [190]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076205,
+							["arg1"] = "An Ancient Secret completed.",
+						}, -- [191]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076205,
+							["arg1"] = "Experience gained: 15900.",
+						}, -- [192]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076205,
+							["arg1"] = "Received 17 Gold, 80 Silver.",
+						}, -- [193]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076207,
+							["arg1"] = "Quest accepted: The Backdoor",
+						}, -- [194]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076247,
+							["arg1"] = "Discovered The Slave Enclave: 1580 experience gained",
+						}, -- [195]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076264,
+							["arg1"] = "Discovered Obsidian Overlook: 1580 experience gained",
+						}, -- [196]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076274,
+							["arg1"] = "The Backdoor completed.",
+						}, -- [197]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076274,
+							["arg1"] = "Experience gained: 15900.",
+						}, -- [198]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076274,
+							["arg1"] = "Received 17 Gold, 80 Silver.",
+						}, -- [199]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076275,
+							["arg1"] = "Quest accepted: The High Chieftain",
+						}, -- [200]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076331,
+							["arg1"] = "Discovered Greystone: 1580 experience gained",
+						}, -- [201]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076340,
+							["arg1"] = "Discovered Snowblind Mesa: 1580 experience gained",
+						}, -- [202]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076401,
+							["arg1"] = "The High Chieftain completed.",
+						}, -- [203]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076401,
+							["arg1"] = "Experience gained: 1600.",
+						}, -- [204]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076401,
+							["arg1"] = "Received 1 Gold, 78 Silver.",
+						}, -- [205]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076406,
+							["arg1"] = "|cffe6cc80|Hitem:127829::133139:137317:::::106:577:256:9::27:3:1793:1585:1809:3:1795:1412:1809:|h[Twinblades of the Deceiver]|h|r gains 100 Artifact Power.",
+						}, -- [206]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076452,
+							["arg1"] = "Discovered Crystal Fissure: 1580 experience gained",
+						}, -- [207]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076458,
+							["arg1"] = "Quest accepted: Wrathshard",
+						}, -- [208]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076459,
+							["arg1"] = "Quest accepted: No Time to Talk",
+						}, -- [209]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076726,
+							["arg1"] = "Wrathshard completed.",
+						}, -- [210]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076726,
+							["arg1"] = "Experience gained: 15900.",
+						}, -- [211]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076726,
+							["arg1"] = "Received 17 Gold, 80 Silver.",
+						}, -- [212]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076727,
+							["arg1"] = "No Time to Talk completed.",
+						}, -- [213]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076727,
+							["arg1"] = "Experience gained: 15900.",
+						}, -- [214]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076727,
+							["arg1"] = "Received 17 Gold, 80 Silver.",
+						}, -- [215]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076742,
+							["arg1"] = "Discovered Reflection Peak: 1580 experience gained",
+						}, -- [216]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076751,
+							["arg1"] = "|cffe6cc80|Hitem:127829::133139:137317:::::106:577:256:9::27:3:1793:1585:1809:3:1795:1412:1809:|h[Twinblades of the Deceiver]|h|r gains 50 Artifact Power.",
+						}, -- [217]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076820,
+							["arg1"] = "|cffe6cc80|Hitem:127829::133139:137317:::::106:577:256:9::27:3:1793:1585:1809:3:1795:1412:1809:|h[Twinblades of the Deceiver]|h|r gains 45 Artifact Power.",
+						}, -- [218]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076853,
+							["arg1"] = "Discovered Windripper Peak: 1580 experience gained",
+						}, -- [219]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076860,
+							["arg1"] = "Discovered Skyhorn: 1580 experience gained",
+						}, -- [220]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076872,
+							["arg1"] = "The Skyhorn Tribe completed.",
+						}, -- [221]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076872,
+							["arg1"] = "Experience gained: 1600.",
+						}, -- [222]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076872,
+							["arg1"] = "Received 1 Gold, 78 Silver.",
+						}, -- [223]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076872,
+							["arg1"] = "Quest accepted: Nursing the Wounds",
+						}, -- [224]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076975,
+							["arg1"] = "Nursing the Wounds completed.",
+						}, -- [225]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076975,
+							["arg1"] = "Experience gained: 15900.",
+						}, -- [226]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076975,
+							["arg1"] = "Received 17 Gold, 80 Silver.",
+						}, -- [227]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076976,
+							["arg1"] = "Quest accepted: Rocs vs Eagles",
+						}, -- [228]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494076987,
+							["arg1"] = "Discovered Darkfeather Valley: 1580 experience gained",
+						}, -- [229]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494077286,
+							["arg1"] = "Experience gained: 47700.",
+						}, -- [230]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494077339,
+							["arg1"] = "Discovered The Haglands: 1580 experience gained",
+						}, -- [231]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494077342,
+							["arg1"] = "Rocs vs Eagles completed.",
+						}, -- [232]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494077342,
+							["arg1"] = "Experience gained: 15900.",
+						}, -- [233]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494077342,
+							["arg1"] = "Received 17 Gold, 80 Silver.",
+						}, -- [234]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494077343,
+							["arg1"] = "Quest accepted: The Three",
+						}, -- [235]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494077345,
+							["arg1"] = "Quest accepted: Assaulting the Haglands",
+						}, -- [236]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494077601,
+							["arg1"] = "The Three completed.",
+						}, -- [237]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494077601,
+							["arg1"] = "Experience gained: 15900.",
+						}, -- [238]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494077601,
+							["arg1"] = "Received 17 Gold, 80 Silver.",
+						}, -- [239]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494077602,
+							["arg1"] = "Assaulting the Haglands completed.",
+						}, -- [240]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494077602,
+							["arg1"] = "Experience gained: 16050.",
+						}, -- [241]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494077602,
+							["arg1"] = "Received 18 Gold, 20 Silver.",
+						}, -- [242]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494077603,
+							["arg1"] = "Quest accepted: The Witchqueen",
+						}, -- [243]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494077664,
+							["arg1"] = "The Witchqueen completed.",
+						}, -- [244]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494077664,
+							["arg1"] = "Experience gained: 16050.",
+						}, -- [245]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494077664,
+							["arg1"] = "Received 18 Gold, 20 Silver.",
+						}, -- [246]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494077665,
+							["arg1"] = "Quest accepted: The Skies of Highmountain",
+						}, -- [247]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494077696,
+							["arg1"] = "Discovered Screeching Crag: 1580 experience gained",
+						}, -- [248]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494077782,
+							["arg1"] = "Quest accepted: Hex-a-Gone",
+						}, -- [249]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494077870,
+							["arg1"] = "Experience gained: 48100.",
+						}, -- [250]
+					},
+				}, -- [9]
+				{
+					["enabled"] = true,
+					["name"] = "Achievements",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 05/06/2017 at 13:11:36.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+					},
+				}, -- [10]
+				{
+					["enabled"] = true,
+					["hasMessage"] = true,
+					["name"] = "Instance",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 05/06/2017 at 13:11:36.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+						{
+							["arg2"] = "Dargrul",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494070745,
+							["arg1"] = "Are these ronir giving you too much trouble, Gelmogg?",
+						}, -- [2]
+						{
+							["arg2"] = "Dargrul",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494070749,
+							["arg1"] = "Perhaps I misjudged your worth...",
+						}, -- [3]
+						{
+							["arg2"] = "Dargrul",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494070755,
+							["arg1"] = "When you're done with this distraction, meet us in Riverbend.",
+						}, -- [4]
+						{
+							["arg2"] = "Dargrul",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494070981,
+							["arg1"] = "By this hammer, I claim this mountain!",
+						}, -- [5]
+						{
+							["arg2"] = "Warbrave Oro",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494071305,
+							["arg1"] = "Aaaaah!",
+						}, -- [6]
+						{
+							["arg2"] = "Sella Waterwise",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494071521,
+							["arg1"] = "If you deep-dwellers touched a hair on Moozy's head you'll never leave that cave alive!",
+						}, -- [7]
+						{
+							["arg2"] = "Sella Waterwise",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494071522,
+							["arg1"] = "Give Moozy back! Where is he?!",
+						}, -- [8]
+						{
+							["arg2"] = "Archdruid Glaidalis",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072233,
+							["arg1"] = "Defilers... I can smell the Nightmare in your blood. Be gone from these woods or suffer nature's wrath!",
+						}, -- [9]
+						{
+							["arg2"] = "Druidic Preserver",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072234,
+							["arg1"] = "Kill him! Protect the grove!",
+						}, -- [10]
+						{
+							["arg2"] = "Archdruid Glaidalis",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072247,
+							["arg1"] = "Defilers... so it is you who have befouled these woods with the Nightmare.",
+						}, -- [11]
+						{
+							["arg2"] = "Archdruid Glaidalis",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072253,
+							["arg1"] = "I sense a powerful druid among you. You dare to challenge my authority?",
+						}, -- [12]
+						{
+							["arg2"] = "Archdruid Glaidalis",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072270,
+							["arg1"] = "What is that you hold, druid?",
+						}, -- [13]
+						{
+							["arg2"] = "Archdruid Glaidalis",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072273,
+							["arg1"] = "Andu-falah-dor!",
+						}, -- [14]
+						{
+							["arg2"] = "Archdruid Glaidalis",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072287,
+							["arg1"] = "What power comes from those fangs, defiler? You fight with the strength of the Ancients themselves.",
+						}, -- [15]
+						{
+							["arg2"] = "Archdruid Glaidalis",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072316,
+							["arg1"] = "The Nightmare... clouds my thoughts no more...",
+						}, -- [16]
+						{
+							["arg2"] = "Oakheart",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072673,
+							["arg1"] = "My bark is worse than my bite.",
+						}, -- [17]
+						{
+							["arg2"] = "Oakheart",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072683,
+							["arg1"] = "I will crush you to splinters.",
+						}, -- [18]
+						{
+							["arg2"] = "Oakheart",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072712,
+							["arg1"] = "Its time we get to the root of the problem.",
+						}, -- [19]
+						{
+							["arg2"] = "Oakheart",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494072751,
+							["arg1"] = "I told you to leave me alone...",
+						}, -- [20]
+						{
+							["arg2"] = "Shade of Xavius",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494073141,
+							["arg1"] = "You wish to die? So be it!",
+						}, -- [21]
+						{
+							["arg2"] = "Shade of Xavius",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494073171,
+							["arg1"] = "You will waste away slowly, painfully.",
+						}, -- [22]
+						{
+							["arg2"] = "Shade of Xavius",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494073224,
+							["arg1"] = "This must be some kind of... mistake...",
+						}, -- [23]
+						{
+							["arg2"] = "Gravax the Desecrator",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494073333,
+							["arg1"] = "Rend the flesh from their bones... and drain the life from their mortal bodies!",
+						}, -- [24]
+						{
+							["arg2"] = "Loramus Thalipedes",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494073458,
+							["arg1"] = "And now, to break these fetters and feast upon your souls. Ahahahahahaha!",
+						}, -- [25]
+						{
+							["arg2"] = "Ethel Waterwise",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494074746,
+							["arg1"] = "Get outta here, varmint!",
+						}, -- [26]
+						{
+							["arg2"] = "Sella Waterwise",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494074848,
+							["arg1"] = "Mother!",
+						}, -- [27]
+						{
+							["arg2"] = "Tichondrius",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494075281,
+							["arg1"] = "Kneel before your new masters!",
+						}, -- [28]
+						{
+							["arg2"] = "Tichondrius",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494075283,
+							["arg1"] = "You will never defeat us! We are Legion!",
+						}, -- [29]
+						{
+							["arg2"] = "Tichondrius",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494075287,
+							["arg1"] = "Your world is ours now!",
+						}, -- [30]
+						{
+							["arg2"] = "Tichondrius",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494075289,
+							["arg1"] = "You will not stop me! I will not fail!",
+						}, -- [31]
+						{
+							["arg2"] = "Huln Highmountain",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494075683,
+							["arg1"] = "Stand your ground, warbraves!",
+						}, -- [32]
+						{
+							["arg2"] = "Vision of Deathwing",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494075689,
+							["arg1"] = "You dare challenge me?!",
+						}, -- [33]
+						{
+							["arg2"] = "Lasan Skyhorn",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494076976,
+							["arg1"] = "Skyhorn! Take to the air and show these harpies and their rocs the meaning of battle!",
+						}, -- [34]
+						{
+							["arg2"] = "Lasan Skyhorn",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494077309,
+							["arg1"] = "Skyhorn, to me!",
+						}, -- [35]
+						{
+							["arg2"] = "High Crawliac",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494077624,
+							["arg1"] = "You will fall like all the others!",
+						}, -- [36]
+						{
+							["arg2"] = "High Crawliac",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494077632,
+							["arg1"] = "Your blood will rain from the sky!",
+						}, -- [37]
+						{
+							["arg2"] = "High Crawliac",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1494077638,
+							["arg1"] = "Feast on their eyes my beauties!",
+						}, -- [38]
+					},
+				}, -- [11]
+				["worlddefense"] = {
+					["enabled"] = true,
+					["name"] = "World defense",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 05/06/2017 at 13:11:36.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+					},
+				},
+				["guildrecruitment"] = {
+					["enabled"] = true,
+					["name"] = "Guild recruitment",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 05/06/2017 at 13:11:36.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+					},
+				},
+				["general"] = {
+					["enabled"] = true,
+					["hasMessage"] = true,
+					["name"] = "General",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 05/06/2017 at 13:11:36.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [2]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [3]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [4]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [5]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [6]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [7]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [8]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [9]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [10]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [11]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [12]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [13]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [14]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [15]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [16]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [17]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [18]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [19]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [20]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [21]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [22]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [23]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [24]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [25]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [26]
+					},
+				},
+				["trade"] = {
+					["enabled"] = true,
+					["hasMessage"] = true,
+					["name"] = "Trade",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 05/06/2017 at 13:11:36.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [2]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [3]
+						{
+							["clColor"] = "ffc69b6d",
+							["time"] = 1494073482,
+							["arg1"] = " <Dungeons and Dragons>  We are 10/10 hc NH.  We are recruiting 890+ raiders with trait lvl 40+. If you are looking for a casual raiding guild that raids 2-3 times a week just msg me :)",
+							["arg2"] = "Chucknoris-Auchindoun",
+							["arg9"] = "Trade - City",
+						}, -- [4]
+					},
+				},
+				["localdefense"] = {
+					["enabled"] = true,
+					["hasMessage"] = true,
+					["name"] = "Local defense",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 05/06/2017 at 13:11:36.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [2]
+						{
+							["time"] = 1494069452,
+							["arg1"] = "|cffffff00Nightwatcher's Perch is under attack!|r",
+							["arg9"] = "LocalDefense - Highmountain",
+						}, -- [3]
+						{
+							["time"] = 1494069512,
+							["arg1"] = "|cffffff00Nightwatcher's Perch is under attack!|r",
+							["arg9"] = "LocalDefense - Highmountain",
+						}, -- [4]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [5]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [6]
+						{
+							["time"] = 1494069824,
+							["arg1"] = "|cffffff00Nightwatcher's Perch is under attack!|r",
+							["arg9"] = "LocalDefense - Highmountain",
+						}, -- [7]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [8]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [9]
+						{
+							["time"] = 1494070238,
+							["arg1"] = "|cffffff00Nightwatcher's Perch is under attack!|r",
+							["arg9"] = "LocalDefense - Highmountain",
+						}, -- [10]
+						{
+							["time"] = 1494070304,
+							["arg1"] = "|cffffff00Nightwatcher's Perch is under attack!|r",
+							["arg9"] = "LocalDefense - Highmountain",
+						}, -- [11]
+						{
+							["time"] = 1494070376,
+							["arg1"] = "|cffffff00Nightwatcher's Perch is under attack!|r",
+							["arg9"] = "LocalDefense - Highmountain",
+						}, -- [12]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [13]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [14]
+						{
+							["time"] = 1494070641,
+							["arg1"] = "|cffffff00Nightwatcher's Perch is under attack!|r",
+							["arg9"] = "LocalDefense - Highmountain",
+						}, -- [15]
+						{
+							["time"] = 1494070704,
+							["arg1"] = "|cffffff00Nightwatcher's Perch is under attack!|r",
+							["arg9"] = "LocalDefense - Highmountain",
+						}, -- [16]
+						{
+							["time"] = 1494070765,
+							["arg1"] = "|cffffff00Nightwatcher's Perch is under attack!|r",
+							["arg9"] = "LocalDefense - Highmountain",
+						}, -- [17]
+						{
+							["time"] = 1494070877,
+							["arg1"] = "|cffffff00Nightwatcher's Perch is under attack!|r",
+							["arg9"] = "LocalDefense - Highmountain",
+						}, -- [18]
+						{
+							["time"] = 1494070968,
+							["arg1"] = "|cffffff00Nightwatcher's Perch is under attack!|r",
+							["arg9"] = "LocalDefense - Highmountain",
+						}, -- [19]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [20]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [21]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [22]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [23]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [24]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [25]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [26]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [27]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [28]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [29]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [30]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [31]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [32]
+						{
+							["time"] = 1494075607,
+							["arg1"] = "|cffffff00Nightwatcher's Perch is under attack!|r",
+							["arg9"] = "LocalDefense - Highmountain",
+						}, -- [33]
+						{
+							["time"] = 1494075669,
+							["arg1"] = "|cffffff00Nightwatcher's Perch is under attack!|r",
+							["arg9"] = "LocalDefense - Highmountain",
+						}, -- [34]
+						{
+							["time"] = 1494075747,
+							["arg1"] = "|cffffff00Nightwatcher's Perch is under attack!|r",
+							["arg9"] = "LocalDefense - Highmountain",
+						}, -- [35]
+						{
+							["time"] = 1494076266,
+							["arg1"] = "|cffffff00Nightwatcher's Perch is under attack!|r",
+							["arg9"] = "LocalDefense - Highmountain",
+						}, -- [36]
+						{
+							["time"] = 1494076333,
+							["arg1"] = "|cffffff00Nightwatcher's Perch is under attack!|r",
+							["arg9"] = "LocalDefense - Highmountain",
+						}, -- [37]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [38]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [39]
+						{
+							["time"] = 1494076836,
+							["arg1"] = "|cffffff00Nightwatcher's Perch is under attack!|r",
+							["arg9"] = "LocalDefense - Highmountain",
+						}, -- [40]
+						{
+							["time"] = 1494076899,
+							["arg1"] = "|cffffff00Nightwatcher's Perch is under attack!|r",
+							["arg9"] = "LocalDefense - Highmountain",
+						}, -- [41]
+						{
+							["time"] = 1494076970,
+							["arg1"] = "|cffffff00Nightwatcher's Perch is under attack!|r",
+							["arg9"] = "LocalDefense - Highmountain",
+						}, -- [42]
+						{
+							["time"] = 1494077036,
+							["arg1"] = "|cffffff00Nightwatcher's Perch is under attack!|r",
+							["arg9"] = "LocalDefense - Highmountain",
+						}, -- [43]
+						{
+							["time"] = 1494077095,
+							["arg1"] = "|cffffff00Nightwatcher's Perch is under attack!|r",
+							["arg9"] = "LocalDefense - Highmountain",
+						}, -- [44]
+						{
+							["time"] = 1494077159,
+							["arg1"] = "|cffffff00Nightwatcher's Perch is under attack!|r",
+							["arg9"] = "LocalDefense - Highmountain",
+						}, -- [45]
+						{
+							["time"] = 1494077230,
+							["arg1"] = "|cffffff00Nightwatcher's Perch is under attack!|r",
+							["arg9"] = "LocalDefense - Highmountain",
+						}, -- [46]
+						{
+							["time"] = 1494077293,
+							["arg1"] = "|cffffff00Nightwatcher's Perch is under attack!|r",
+							["arg9"] = "LocalDefense - Highmountain",
+						}, -- [47]
+						{
+							["time"] = 1494077355,
+							["arg1"] = "|cffffff00Nightwatcher's Perch is under attack!|r",
+							["arg9"] = "LocalDefense - Highmountain",
+						}, -- [48]
+						{
+							["time"] = 1494077417,
+							["arg1"] = "|cffffff00Nightwatcher's Perch is under attack!|r",
+							["arg9"] = "LocalDefense - Highmountain",
+						}, -- [49]
+						{
+							["time"] = 1494077496,
+							["arg1"] = "|cffffff00Nightwatcher's Perch is under attack!|r",
+							["arg9"] = "LocalDefense - Highmountain",
+						}, -- [50]
+						{
+							["time"] = 1494077561,
+							["arg1"] = "|cffffff00Nightwatcher's Perch is under attack!|r",
+							["arg9"] = "LocalDefense - Highmountain",
+						}, -- [51]
+						{
+							["time"] = 1494077683,
+							["arg1"] = "|cffffff00Highmountain is under attack!|r",
+							["arg9"] = "LocalDefense - Highmountain",
+						}, -- [52]
+						{
+							["time"] = 1494077693,
+							["arg1"] = "|cffffff00Nightwatcher's Perch is under attack!|r",
+							["arg9"] = "LocalDefense - Highmountain",
+						}, -- [53]
+						{
+							["time"] = 1494077774,
+							["arg1"] = "|cffffff00Nightwatcher's Perch is under attack!|r",
+							["arg9"] = "LocalDefense - Highmountain",
+						}, -- [54]
+						{
+							["time"] = 1494077853,
+							["arg1"] = "|cffffff00Nightwatcher's Perch is under attack!|r",
+							["arg9"] = "LocalDefense - Highmountain",
+						}, -- [55]
+					},
+				},
+				["armory"] = {
+					["enabled"] = true,
+					["hasMessage"] = true,
+					["name"] = "Armory",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 05/06/2017 at 13:12:00.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494069120,
+							["arg1"] = " [Armory] |cffff2020WARNING:|r Barrymore (Sporeggar) hasn't visited the mailbox for 143 |4Day:Days;. Please log in to check your inbox.",
+						}, -- [2]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494069120,
+							["arg1"] = " [Armory] |cffff2020WARNING:|r Remraf (Sporeggar) hasn't visited the mailbox for 142 |4Day:Days;. Please log in to check your inbox.",
+						}, -- [3]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494069120,
+							["arg1"] = " [Armory] |cffff2020WARNING:|r Sarkodie (Sporeggar) hasn't visited the mailbox for 56 |4Day:Days;. Please log in to check your inbox.",
+						}, -- [4]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494069120,
+							["arg1"] = " [Armory] |cffff2020WARNING:|r Xelle (Sporeggar) hasn't visited the mailbox for 54 |4Day:Days;. Please log in to check your inbox.",
+						}, -- [5]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1494069120,
+							["arg1"] = " [Armory] |cffff2020WARNING:|r Youmie (Sporeggar) hasn't visited the mailbox for 259 |4Day:Days;. Please log in to check your inbox.",
+						}, -- [6]
+					},
+				},
+				["lookingforgroup"] = {
+					["enabled"] = true,
+					["name"] = "Looking for group",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 05/06/2017 at 13:11:36.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+					},
+				},
+			},
+		},
+	},
+}

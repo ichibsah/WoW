@@ -1,0 +1,1125 @@
+
+ReforgenatorDB = {
+	["char"] = {
+		["Yesu - Sporeggar"] = {
+			["targetLevelSelection"] = {
+			},
+			["useSandbox"] = {
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Yesu - Sporeggar"] = "Default",
+	},
+	["global"] = {
+		["models"] = {
+			["Paladin, protection"] = {
+				["notes"] = "http://elitistjerks.com/f76/t126438-prot_4_3_send_me_my_way/",
+				["ak"] = "PALADIN/2",
+				["PerCharacterOptions"] = {
+				},
+				["reforgeOrder"] = {
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 26,
+					}, -- [1]
+				},
+				["statWeights"] = {
+					["ITEM_MOD_PARRY_RATING_SHORT"] = 1,
+					["ITEM_MOD_DODGE_RATING_SHORT"] = 1,
+					["ITEM_MOD_HIT_RATING_SHORT"] = 0.02,
+					["ITEM_MOD_MASTERY_RATING_SHORT"] = 1,
+					["ITEM_MOD_EXPERTISE_RATING_SHORT"] = 0.04,
+				},
+				["readOnly"] = true,
+				["class"] = "PALADIN",
+			},
+			["Rogue, subtlety"] = {
+				["notes"] = "http://elitistjerks.com/f78/t119013-cataclysm_subtlety_compendium/",
+				["ak"] = "ROGUE/3",
+				["PerCharacterOptions"] = {
+				},
+				["reforgeOrder"] = {
+					{
+						["cap"] = "MeleeHitCap",
+						["rating"] = 6,
+					}, -- [1]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 18,
+					}, -- [2]
+					{
+						["cap"] = "ExpertiseSoftCap",
+						["rating"] = 24,
+					}, -- [3]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 9,
+					}, -- [4]
+					{
+						["cap"] = "SpellHitCap",
+						["rating"] = 8,
+					}, -- [5]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 26,
+					}, -- [6]
+					{
+						["cap"] = "DWHitCap",
+						["rating"] = 6,
+					}, -- [7]
+				},
+				["statWeights"] = {
+					["ITEM_MOD_HASTE_RATING_SHORT"] = 1.35,
+					["ITEM_MOD_HIT_RATING_SHORT"] = 1.4,
+					["ITEM_MOD_MASTERY_RATING_SHORT"] = 0.9,
+					["ITEM_MOD_CRIT_RATING_SHORT"] = 1.1,
+					["ITEM_MOD_EXPERTISE_RATING_SHORT"] = 1.15,
+				},
+				["readOnly"] = true,
+				["class"] = "ROGUE",
+			},
+			["DK, 2H frost"] = {
+				["notes"] = "http://www.noxxic.com/wow/pve/death-knight/frost/dps-gear-reforging",
+				["ak"] = "2HFrost",
+				["PerCharacterOptions"] = {
+				},
+				["reforgeOrder"] = {
+					{
+						["cap"] = "MeleeHitCap",
+						["rating"] = 6,
+					}, -- [1]
+					{
+						["cap"] = "ExpertiseHardCap",
+						["rating"] = 24,
+					}, -- [2]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 18,
+					}, -- [3]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 9,
+					}, -- [4]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 26,
+					}, -- [5]
+				},
+				["statWeights"] = {
+					["ITEM_MOD_HASTE_RATING_SHORT"] = 1.4,
+					["ITEM_MOD_HIT_RATING_SHORT"] = 2.26,
+					["ITEM_MOD_CRIT_RATING_SHORT"] = 1.34,
+					["ITEM_MOD_MASTERY_RATING_SHORT"] = 1.37,
+					["ITEM_MOD_EXPERTISE_RATING_SHORT"] = 1.75,
+				},
+				["readOnly"] = true,
+				["class"] = "DEATHKNIGHT",
+			},
+			["Paladin, holy"] = {
+				["notes"] = "http://elitistjerks.com/f76/t110847-%5Bholy%5Dcataclysm_holy_compendium/ http://www.bandagespec.com/2011/02/on-haste-crit-and-other-secondary-stats.html",
+				["ak"] = "PALADIN/1",
+				["PerCharacterOptions"] = {
+				},
+				["reforgeOrder"] = {
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 99,
+					}, -- [1]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 20,
+					}, -- [2]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 26,
+					}, -- [3]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 11,
+					}, -- [4]
+				},
+				["statWeights"] = {
+					["ITEM_MOD_MASTERY_RATING_SHORT"] = 0.3,
+					["ITEM_MOD_HASTE_RATING_SHORT"] = 0.4,
+					["ITEM_MOD_CRIT_RATING_SHORT"] = 0.35,
+					["ITEM_MOD_SPIRIT_SHORT"] = 0.75,
+				},
+				["readOnly"] = true,
+				["class"] = "PALADIN",
+			},
+			["DK, unholy"] = {
+				["notes"] = "http://elitistjerks.com/f72/t125292-unholy_dps_my_friend_misery_4_3_0_a/",
+				["ak"] = "DEATHKNIGHT/3",
+				["PerCharacterOptions"] = {
+				},
+				["reforgeOrder"] = {
+					{
+						["cap"] = "MeleeHitCap",
+						["rating"] = 6,
+					}, -- [1]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 18,
+					}, -- [2]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 9,
+					}, -- [3]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 26,
+					}, -- [4]
+					{
+						["cap"] = "ExpertiseSoftCap",
+						["rating"] = 24,
+					}, -- [5]
+				},
+				["statWeights"] = {
+					["ITEM_MOD_HASTE_RATING_SHORT"] = 1.89,
+					["ITEM_MOD_HIT_RATING_SHORT"] = 3,
+					["ITEM_MOD_CRIT_RATING_SHORT"] = 1.85,
+					["ITEM_MOD_MASTERY_RATING_SHORT"] = 1.55,
+					["ITEM_MOD_EXPERTISE_RATING_SHORT"] = 0.99,
+				},
+				["readOnly"] = true,
+				["class"] = "DEATHKNIGHT",
+			},
+			["Warrior, arms"] = {
+				["notes"] = "http://www.noxxic.com/pve/warrior/arms/stat-priority-and-reforging-strats",
+				["ak"] = "WARRIOR/1",
+				["PerCharacterOptions"] = {
+				},
+				["reforgeOrder"] = {
+					{
+						["cap"] = "MeleeHitCap",
+						["rating"] = 6,
+					}, -- [1]
+					{
+						["cap"] = "ExpertiseSoftCap",
+						["rating"] = 24,
+					}, -- [2]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 9,
+					}, -- [3]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 26,
+					}, -- [4]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 18,
+					}, -- [5]
+				},
+				["statWeights"] = {
+					["ITEM_MOD_HASTE_RATING_SHORT"] = 0.8,
+					["ITEM_MOD_HIT_RATING_SHORT"] = 2,
+					["ITEM_MOD_MASTERY_RATING_SHORT"] = 0.9,
+					["ITEM_MOD_CRIT_RATING_SHORT"] = 1.34,
+					["ITEM_MOD_EXPERTISE_RATING_SHORT"] = 1.46,
+				},
+				["readOnly"] = true,
+				["class"] = "WARRIOR",
+			},
+			["Paladin, retribution"] = {
+				["notes"] = "http://www.noxxic.com/pve/paladin/retribution/stat-priority-and-reforging-strats",
+				["ak"] = "PALADIN/3",
+				["PerCharacterOptions"] = {
+				},
+				["reforgeOrder"] = {
+					{
+						["cap"] = "MeleeHitCap",
+						["rating"] = 6,
+					}, -- [1]
+					{
+						["cap"] = "ExpertiseSoftCap",
+						["rating"] = 24,
+					}, -- [2]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 26,
+					}, -- [3]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 9,
+					}, -- [4]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 18,
+					}, -- [5]
+				},
+				["statWeights"] = {
+					["ITEM_MOD_HASTE_RATING_SHORT"] = 0.79,
+					["ITEM_MOD_HIT_RATING_SHORT"] = 1.77,
+					["ITEM_MOD_CRIT_RATING_SHORT"] = 0.98,
+					["ITEM_MOD_MASTERY_RATING_SHORT"] = 1.13,
+					["ITEM_MOD_EXPERTISE_RATING_SHORT"] = 1.3,
+				},
+				["readOnly"] = true,
+				["class"] = "PALADIN",
+			},
+			["Priest, discipline"] = {
+				["notes"] = "http://www.noxxic.com/wow/pve/priest/discipline/heal-gear-reforging",
+				["ak"] = "PRIEST/1",
+				["PerCharacterOptions"] = {
+				},
+				["reforgeOrder"] = {
+					{
+						["cap"] = "MaimumPossible",
+						["rating"] = 99,
+					}, -- [1]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 26,
+					}, -- [2]
+				},
+				["statWeights"] = {
+					["ITEM_MOD_CRIT_RATING_SHORT"] = 0.4,
+					["ITEM_MOD_HASTE_RATING_SHORT"] = 0.5,
+					["ITEM_MOD_MASTERY_RATING_SHORT"] = 0.6,
+					["ITEM_MOD_SPIRIT_SHORT"] = 0.8,
+				},
+				["readOnly"] = true,
+				["class"] = "PRIEST",
+			},
+			["Druid, Restoration"] = {
+				["notes"] = "http://elitistjerks.com/f73/t110354-resto_cataclysm_4_3_dragon_soul/",
+				["ak"] = "DRUID/4",
+				["PerCharacterOptions"] = {
+				},
+				["reforgeOrder"] = {
+					{
+						["cap"] = "Maintain",
+						["rating"] = 26,
+					}, -- [1]
+					{
+						["rating"] = 20,
+						["cap"] = "Fixed",
+						["userdata"] = {
+							916, -- [1]
+							2005, -- [2]
+						},
+					}, -- [2]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 99,
+					}, -- [3]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 26,
+					}, -- [4]
+				},
+				["statWeights"] = {
+					["ITEM_MOD_CRIT_RATING_SHORT"] = 0.5,
+					["ITEM_MOD_HASTE_RATING_SHORT"] = 0.65,
+					["ITEM_MOD_MASTERY_RATING_SHORT"] = 0.6,
+					["ITEM_MOD_SPIRIT_SHORT"] = 0.75,
+				},
+				["readOnly"] = true,
+				["class"] = "DRUID",
+			},
+			["Priest, shadow"] = {
+				["notes"] = "http://www.noxxic.com/wow/pve/priest/shadow/dps-gear-reforging",
+				["ak"] = "PRIEST/3",
+				["PerCharacterOptions"] = {
+				},
+				["reforgeOrder"] = {
+					{
+						["cap"] = "SpellHitCap",
+						["rating"] = 8,
+					}, -- [1]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 20,
+					}, -- [2]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 11,
+					}, -- [3]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 26,
+					}, -- [4]
+				},
+				["statWeights"] = {
+					["ITEM_MOD_HASTE_RATING_SHORT"] = 1.95,
+					["ITEM_MOD_HIT_RATING_SHORT"] = 2,
+					["ITEM_MOD_SPIRIT_SHORT"] = 1.95,
+					["ITEM_MOD_MASTERY_RATING_SHORT"] = 1.6,
+					["ITEM_MOD_CRIT_RATING_SHORT"] = 1.7,
+				},
+				["readOnly"] = true,
+				["class"] = "PRIEST",
+			},
+			["Mage, frost"] = {
+				["notes"] = "http://www.noxxic.com/wow/pve/mage/frost/dps-gear-reforging",
+				["ak"] = "MAGE/3",
+				["PerCharacterOptions"] = {
+				},
+				["reforgeOrder"] = {
+					{
+						["cap"] = "SpellHitCap",
+						["rating"] = 8,
+					}, -- [1]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 20,
+					}, -- [2]
+					{
+						["cap"] = "23.34% Crit",
+						["rating"] = 11,
+					}, -- [3]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 26,
+					}, -- [4]
+				},
+				["statWeights"] = {
+					["ITEM_MOD_MASTERY_RATING_SHORT"] = 1.43,
+					["ITEM_MOD_HASTE_RATING_SHORT"] = 2.05,
+					["ITEM_MOD_HIT_RATING_SHORT"] = 3.08,
+					["ITEM_MOD_CRIT_RATING_SHORT"] = 1.97,
+				},
+				["readOnly"] = true,
+				["class"] = "MAGE",
+			},
+			["Rogue, combat"] = {
+				["notes"] = "http://www.noxxic.com/wow/pve/rogue/combat/dps-gear-reforging",
+				["ak"] = "ROGUE/2",
+				["PerCharacterOptions"] = {
+				},
+				["reforgeOrder"] = {
+					{
+						["cap"] = "MeleeHitCap",
+						["rating"] = 6,
+					}, -- [1]
+					{
+						["cap"] = "ExpertiseSoftCap",
+						["rating"] = 24,
+					}, -- [2]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 18,
+					}, -- [3]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 26,
+					}, -- [4]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 9,
+					}, -- [5]
+				},
+				["statWeights"] = {
+					["ITEM_MOD_HASTE_RATING_SHORT"] = 1.87,
+					["ITEM_MOD_HIT_RATING_SHORT"] = 2.46,
+					["ITEM_MOD_CRIT_RATING_SHORT"] = 1.18,
+					["ITEM_MOD_MASTERY_RATING_SHORT"] = 1.51,
+					["ITEM_MOD_EXPERTISE_RATING_SHORT"] = 2.13,
+				},
+				["readOnly"] = true,
+				["class"] = "ROGUE",
+			},
+			["Warrior, protection"] = {
+				["notes"] = "http://elitistjerks.com/f81/t110350-cataclysm_warrior_faq_4_2_read_while_patching_before_posting/",
+				["ak"] = "WARRIOR/3",
+				["PerCharacterOptions"] = {
+				},
+				["reforgeOrder"] = {
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 26,
+					}, -- [1]
+				},
+				["statWeights"] = {
+					["ITEM_MOD_PARRY_RATING_SHORT"] = 1.03,
+					["ITEM_MOD_DODGE_RATING_SHORT"] = 1,
+					["ITEM_MOD_HIT_RATING_SHORT"] = 0.02,
+					["ITEM_MOD_MASTERY_RATING_SHORT"] = 1,
+					["ITEM_MOD_EXPERTISE_RATING_SHORT"] = 0.04,
+				},
+				["readOnly"] = true,
+				["class"] = "WARRIOR",
+			},
+			["Hunter, MM"] = {
+				["notes"] = "http://www.noxxic.com/wow/pve/hunter/marksmanship/dps-gear-reforging",
+				["ak"] = "HUNTER/2",
+				["PerCharacterOptions"] = {
+				},
+				["reforgeOrder"] = {
+					{
+						["cap"] = "ExpertiseSoftCap",
+						["rating"] = 24,
+					}, -- [1]
+					{
+						["cap"] = "RangedHitCap",
+						["rating"] = 7,
+					}, -- [2]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 10,
+					}, -- [3]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 19,
+					}, -- [4]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 26,
+					}, -- [5]
+				},
+				["statWeights"] = {
+					["ITEM_MOD_HASTE_RATING_SHORT"] = 1.61,
+					["ITEM_MOD_HIT_RATING_SHORT"] = 3.49,
+					["ITEM_MOD_MASTERY_RATING_SHORT"] = 1.38,
+					["ITEM_MOD_CRIT_RATING_SHORT"] = 2.65,
+					["ITEM_MOD_EXPERTISE_RATING_SHORT"] = 3.49,
+				},
+				["readOnly"] = true,
+				["class"] = "HUNTER",
+			},
+			["Rogue, assassination"] = {
+				["notes"] = "http://elitistjerks.com/f78/t110134-assassination_guide_cata_12_01_2011_a/",
+				["ak"] = "ROGUE/1",
+				["PerCharacterOptions"] = {
+				},
+				["reforgeOrder"] = {
+					{
+						["cap"] = "SpellHitCap",
+						["rating"] = 8,
+					}, -- [1]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 26,
+					}, -- [2]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 18,
+					}, -- [3]
+					{
+						["cap"] = "ExpertiseSoftCap",
+						["rating"] = 24,
+					}, -- [4]
+					{
+						["cap"] = "DWHitCap",
+						["rating"] = 6,
+					}, -- [5]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 9,
+					}, -- [6]
+				},
+				["statWeights"] = {
+					["ITEM_MOD_HASTE_RATING_SHORT"] = 1.2,
+					["ITEM_MOD_HIT_RATING_SHORT"] = 1.75,
+					["ITEM_MOD_CRIT_RATING_SHORT"] = 0.9,
+					["ITEM_MOD_MASTERY_RATING_SHORT"] = 1.3,
+					["ITEM_MOD_EXPERTISE_RATING_SHORT"] = 1.1,
+				},
+				["readOnly"] = true,
+				["class"] = "ROGUE",
+			},
+			["Mage, arcane"] = {
+				["notes"] = "http://www.noxxic.com/wow/pve/mage/arcane/dps-gear-reforging",
+				["ak"] = "MAGE/1",
+				["PerCharacterOptions"] = {
+				},
+				["reforgeOrder"] = {
+					{
+						["cap"] = "SpellHitCap",
+						["rating"] = 8,
+					}, -- [1]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 20,
+					}, -- [2]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 26,
+					}, -- [3]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 11,
+					}, -- [4]
+				},
+				["statWeights"] = {
+					["ITEM_MOD_CRIT_RATING_SHORT"] = 1.34,
+					["ITEM_MOD_HASTE_RATING_SHORT"] = 1.4,
+					["ITEM_MOD_HIT_RATING_SHORT"] = 3.21,
+					["ITEM_MOD_MASTERY_RATING_SHORT"] = 1.4,
+				},
+				["readOnly"] = true,
+				["class"] = "MAGE",
+			},
+			["Priest, holy"] = {
+				["notes"] = "http://www.noxxic.com/wow/pve/priest/holy/heal-gear-reforging",
+				["ak"] = "PRIEST/2",
+				["PerCharacterOptions"] = {
+				},
+				["reforgeOrder"] = {
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 99,
+					}, -- [1]
+					{
+						["cap"] = "12.5% Haste",
+						["rating"] = 20,
+					}, -- [2]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 26,
+					}, -- [3]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 20,
+					}, -- [4]
+				},
+				["statWeights"] = {
+					["ITEM_MOD_CRIT_RATING_SHORT"] = 0.5,
+					["ITEM_MOD_HASTE_RATING_SHORT"] = 0.75,
+					["ITEM_MOD_MASTERY_RATING_SHORT"] = 0.7,
+					["ITEM_MOD_SPIRIT_SHORT"] = 0.8,
+				},
+				["readOnly"] = true,
+				["class"] = "PRIEST",
+			},
+			["Hunter, SV"] = {
+				["notes"] = "http://www.noxxic.com/wow/pve/hunter/survival/dps-gear-reforging",
+				["ak"] = "HUNTER/3",
+				["PerCharacterOptions"] = {
+				},
+				["reforgeOrder"] = {
+					{
+						["cap"] = "RangedHitCap",
+						["rating"] = 7,
+					}, -- [1]
+					{
+						["cap"] = "ExpertiseSoftCap",
+						["rating"] = 24,
+					}, -- [2]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 10,
+					}, -- [3]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 19,
+					}, -- [4]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 26,
+					}, -- [5]
+				},
+				["statWeights"] = {
+					["ITEM_MOD_HASTE_RATING_SHORT"] = 1.33,
+					["ITEM_MOD_HIT_RATING_SHORT"] = 3.19,
+					["ITEM_MOD_MASTERY_RATING_SHORT"] = 1.27,
+					["ITEM_MOD_CRIT_RATING_SHORT"] = 1.37,
+					["ITEM_MOD_EXPERTISE_RATING_SHORT"] = 3.19,
+				},
+				["readOnly"] = true,
+				["class"] = "HUNTER",
+			},
+			["Warlock, demonology"] = {
+				["notes"] = "http://www.noxxic.com/wow/pve/warlock/demonology",
+				["ak"] = "WARLOCK/2",
+				["PerCharacterOptions"] = {
+				},
+				["reforgeOrder"] = {
+					{
+						["cap"] = "SpellHitCap",
+						["rating"] = 8,
+					}, -- [1]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 26,
+					}, -- [2]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 11,
+					}, -- [3]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 20,
+					}, -- [4]
+				},
+				["statWeights"] = {
+					["ITEM_MOD_CRIT_RATING_SHORT"] = 2.37,
+					["ITEM_MOD_HASTE_RATING_SHORT"] = 2.05,
+					["ITEM_MOD_HIT_RATING_SHORT"] = 3.74,
+					["ITEM_MOD_MASTERY_RATING_SHORT"] = 2.97,
+				},
+				["readOnly"] = true,
+				["class"] = "WARLOCK",
+			},
+			["Druid, Feral"] = {
+				["notes"] = "http://elitistjerks.com/f73/t127445-feral_cat_cataclysm_4_3_dragon_soul/",
+				["ak"] = "DRUID/2",
+				["PerCharacterOptions"] = {
+				},
+				["reforgeOrder"] = {
+					{
+						["cap"] = "MeleeHitCap",
+						["rating"] = 6,
+					}, -- [1]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 18,
+					}, -- [2]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 9,
+					}, -- [3]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 26,
+					}, -- [4]
+					{
+						["cap"] = "ExpertiseSoftCap",
+						["rating"] = 24,
+					}, -- [5]
+				},
+				["statWeights"] = {
+					["ITEM_MOD_HASTE_RATING_SHORT"] = 1.291,
+					["ITEM_MOD_MASTERY_RATING_SHORT"] = 1.291,
+					["ITEM_MOD_HIT_RATING_SHORT"] = 1.24,
+					["ITEM_MOD_CRIT_RATING_SHORT"] = 1.291,
+					["ITEM_MOD_EXPERTISE_RATING_SHORT"] = 1.24,
+				},
+				["readOnly"] = true,
+				["class"] = "DRUID",
+			},
+			["Hunter, BM"] = {
+				["notes"] = "http://www.noxxic.com/wow/pve/hunter/beast-mastery/dps-gear-reforging",
+				["ak"] = "HUNTER/1",
+				["PerCharacterOptions"] = {
+				},
+				["reforgeOrder"] = {
+					{
+						["cap"] = "RangedHitCap",
+						["rating"] = 7,
+					}, -- [1]
+					{
+						["cap"] = "ExpertiseHardCap",
+						["rating"] = 24,
+					}, -- [2]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 10,
+					}, -- [3]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 19,
+					}, -- [4]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 26,
+					}, -- [5]
+				},
+				["statWeights"] = {
+					["ITEM_MOD_HASTE_RATING_SHORT"] = 0.79,
+					["ITEM_MOD_HIT_RATING_SHORT"] = 1.77,
+					["ITEM_MOD_MASTERY_RATING_SHORT"] = 0.55,
+					["ITEM_MOD_CRIT_RATING_SHORT"] = 0.99,
+					["ITEM_MOD_EXPERTISE_RATING_SHORT"] = 1.3,
+				},
+				["readOnly"] = true,
+				["class"] = "HUNTER",
+			},
+			["Warrior, fury"] = {
+				["notes"] = "http://www.noxxic.com/wow/pve/warrior/fury/dps-gear-reforging",
+				["ak"] = "WARRIOR/2",
+				["PerCharacterOptions"] = {
+				},
+				["reforgeOrder"] = {
+					{
+						["cap"] = "ExpertiseSoftCap",
+						["rating"] = 24,
+					}, -- [1]
+					{
+						["cap"] = "MeleeHitCap",
+						["rating"] = 6,
+					}, -- [2]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 9,
+					}, -- [3]
+					{
+						["cap"] = "DWHitCap",
+						["rating"] = 6,
+					}, -- [4]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 26,
+					}, -- [5]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 18,
+					}, -- [6]
+				},
+				["statWeights"] = {
+					["ITEM_MOD_HASTE_RATING_SHORT"] = 1.37,
+					["ITEM_MOD_HIT_RATING_SHORT"] = 2.47,
+					["ITEM_MOD_MASTERY_RATING_SHORT"] = 1.57,
+					["ITEM_MOD_CRIT_RATING_SHORT"] = 1.98,
+					["ITEM_MOD_EXPERTISE_RATING_SHORT"] = 2.47,
+				},
+				["readOnly"] = true,
+				["class"] = "WARRIOR",
+			},
+			["Shaman, enhancement"] = {
+				["notes"] = "http://elitistjerks.com/f79/t127416-enhancement_4_3_least_your_old_axe_good_transmog/",
+				["ak"] = "SHAMAN/2",
+				["PerCharacterOptions"] = {
+				},
+				["reforgeOrder"] = {
+					{
+						["cap"] = "MeleeHitCap",
+						["rating"] = 6,
+					}, -- [1]
+					{
+						["cap"] = "ExpertiseSoftCap",
+						["rating"] = 24,
+					}, -- [2]
+					{
+						["cap"] = "SpellHitCap",
+						["rating"] = 8,
+					}, -- [3]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 26,
+					}, -- [4]
+				},
+				["statWeights"] = {
+					["ITEM_MOD_HASTE_RATING_SHORT"] = 1.37,
+					["ITEM_MOD_HIT_RATING_SHORT"] = 4,
+					["ITEM_MOD_CRIT_RATING_SHORT"] = 1.54,
+					["ITEM_MOD_MASTERY_RATING_SHORT"] = 2.35,
+					["ITEM_MOD_EXPERTISE_RATING_SHORT"] = 2.8,
+				},
+				["readOnly"] = true,
+				["class"] = "SHAMAN",
+			},
+			["Druid, Balance"] = {
+				["notes"] = "http://elitistjerks.com/f73/t110353-balance_cataclysm_4_3_dragon_soul/",
+				["ak"] = "DRUID/1",
+				["PerCharacterOptions"] = {
+				},
+				["reforgeOrder"] = {
+					{
+						["cap"] = "SpellHitCap",
+						["rating"] = 8,
+					}, -- [1]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 20,
+					}, -- [2]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 26,
+					}, -- [3]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 11,
+					}, -- [4]
+				},
+				["statWeights"] = {
+					["ITEM_MOD_HASTE_RATING_SHORT"] = 2.15,
+					["ITEM_MOD_HIT_RATING_SHORT"] = 2.4,
+					["ITEM_MOD_SPIRIT_SHORT"] = 2.4,
+					["ITEM_MOD_CRIT_RATING_SHORT"] = 0.87,
+					["ITEM_MOD_MASTERY_RATING_SHORT"] = 1.45,
+				},
+				["readOnly"] = true,
+				["class"] = "DRUID",
+			},
+			["Warrior, single-minded fury"] = {
+				["notes"] = "http://elitistjerks.com/f81/t110350-cataclysm_warrior_faq_4_2_read_while_patching_before_posting/",
+				["ak"] = "",
+				["PerCharacterOptions"] = {
+				},
+				["reforgeOrder"] = {
+					{
+						["cap"] = "MeleeHitCap",
+						["rating"] = 6,
+					}, -- [1]
+					{
+						["cap"] = "ExpertiseSoftCap",
+						["rating"] = 24,
+					}, -- [2]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 9,
+					}, -- [3]
+					{
+						["cap"] = "DWHitCap",
+						["rating"] = 6,
+					}, -- [4]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 18,
+					}, -- [5]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 26,
+					}, -- [6]
+				},
+				["statWeights"] = {
+					["ITEM_MOD_HASTE_RATING_SHORT"] = 1.33,
+					["ITEM_MOD_HIT_RATING_SHORT"] = 3.2,
+					["ITEM_MOD_MASTERY_RATING_SHORT"] = 1.24,
+					["ITEM_MOD_CRIT_RATING_SHORT"] = 2.02,
+					["ITEM_MOD_EXPERTISE_RATING_SHORT"] = 2.29,
+				},
+				["readOnly"] = true,
+				["class"] = "WARRIOR",
+			},
+			["Warlock, affliction"] = {
+				["notes"] = "http://www.noxxic.com/wow/pve/warlock/affliction/dps-gear-reforging",
+				["ak"] = "WARLOCK/1",
+				["PerCharacterOptions"] = {
+				},
+				["reforgeOrder"] = {
+					{
+						["cap"] = "SpellHitCap",
+						["rating"] = 8,
+					}, -- [1]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 26,
+					}, -- [2]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 20,
+					}, -- [3]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 11,
+					}, -- [4]
+				},
+				["statWeights"] = {
+					["ITEM_MOD_CRIT_RATING_SHORT"] = 1.24,
+					["ITEM_MOD_HASTE_RATING_SHORT"] = 1.79,
+					["ITEM_MOD_HIT_RATING_SHORT"] = 2.78,
+					["ITEM_MOD_MASTERY_RATING_SHORT"] = 2.32,
+				},
+				["readOnly"] = true,
+				["class"] = "WARLOCK",
+			},
+			["Druid, Guardian"] = {
+				["notes"] = "http://elitistjerks.com/f73/t127444-feral_bear_cataclysm_4_3_dragon_soul/",
+				["ak"] = "DRUID/3",
+				["PerCharacterOptions"] = {
+				},
+				["reforgeOrder"] = {
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 3,
+					}, -- [1]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 26,
+					}, -- [2]
+				},
+				["statWeights"] = {
+					["ITEM_MOD_HASTE_RATING_SHORT"] = 0.02,
+					["ITEM_MOD_DODGE_RATING_SHORT"] = 0.98,
+					["ITEM_MOD_HIT_RATING_SHORT"] = 0.13,
+					["ITEM_MOD_CRIT_RATING_SHORT"] = 0.22,
+					["ITEM_MOD_MASTERY_RATING_SHORT"] = 0.42,
+					["ITEM_MOD_EXPERTISE_RATING_SHORT"] = 0.25,
+				},
+				["readOnly"] = true,
+				["class"] = "DRUID",
+			},
+			["Warlock, destruction"] = {
+				["notes"] = "http://www.noxxic.com/wow/pve/warlock/destruction/dps-stat-priority-and-details",
+				["ak"] = "WARLOCK/3",
+				["PerCharacterOptions"] = {
+				},
+				["reforgeOrder"] = {
+					{
+						["cap"] = "SpellHitCap",
+						["rating"] = 8,
+					}, -- [1]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 26,
+					}, -- [2]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 11,
+					}, -- [3]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 20,
+					}, -- [4]
+				},
+				["statWeights"] = {
+					["ITEM_MOD_CRIT_RATING_SHORT"] = 1.4,
+					["ITEM_MOD_HASTE_RATING_SHORT"] = 1.4,
+					["ITEM_MOD_HIT_RATING_SHORT"] = 2.83,
+					["ITEM_MOD_MASTERY_RATING_SHORT"] = 2.08,
+				},
+				["readOnly"] = true,
+				["class"] = "WARLOCK",
+			},
+			["Mage, fire"] = {
+				["notes"] = "http://www.noxxic.com/wow/pve/mage/fire/dps-gear-reforging",
+				["ak"] = "MAGE/2",
+				["PerCharacterOptions"] = {
+				},
+				["reforgeOrder"] = {
+					{
+						["cap"] = "SpellHitCap",
+						["rating"] = 8,
+					}, -- [1]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 11,
+					}, -- [2]
+					{
+						["cap"] = "15% Haste",
+						["rating"] = 20,
+					}, -- [3]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 26,
+					}, -- [4]
+				},
+				["statWeights"] = {
+					["ITEM_MOD_MASTERY_RATING_SHORT"] = 1.42,
+					["ITEM_MOD_HASTE_RATING_SHORT"] = 2.21,
+					["ITEM_MOD_HIT_RATING_SHORT"] = 3.44,
+					["ITEM_MOD_CRIT_RATING_SHORT"] = 2.01,
+				},
+				["readOnly"] = true,
+				["class"] = "MAGE",
+			},
+			["Shaman, restoration"] = {
+				["notes"] = "http://elitistjerks.com/f79/t121202-resto_raiding_4_1_updating_4_3_a/",
+				["ak"] = "SHAMAN/3",
+				["PerCharacterOptions"] = {
+				},
+				["reforgeOrder"] = {
+					{
+						["cap"] = "MaimumPossible",
+						["rating"] = 99,
+					}, -- [1]
+					{
+						["cap"] = "12.5% Haste",
+						["rating"] = 20,
+					}, -- [2]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 26,
+					}, -- [3]
+				},
+				["statWeights"] = {
+					["ITEM_MOD_CRIT_RATING_SHORT"] = 0.4,
+					["ITEM_MOD_HASTE_RATING_SHORT"] = 0.6,
+					["ITEM_MOD_MASTERY_RATING_SHORT"] = 0.55,
+					["ITEM_MOD_SPIRIT_SHORT"] = 0.65,
+				},
+				["readOnly"] = true,
+				["class"] = "SHAMAN",
+			},
+			["DK, blood"] = {
+				["notes"] = "http://www.noxxic.com/wow/pve/death-knight/blood",
+				["ak"] = "DEATHKNIGHT/1",
+				["PerCharacterOptions"] = {
+				},
+				["reforgeOrder"] = {
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 26,
+					}, -- [1]
+				},
+				["statWeights"] = {
+					["ITEM_MOD_PARRY_RATING_SHORT"] = 1,
+					["ITEM_MOD_MASTERY_RATING_SHORT"] = 1.2,
+					["ITEM_MOD_HIT_RATING_SHORT"] = 0.2,
+					["ITEM_MOD_DODGE_RATING_SHORT"] = 1,
+					["ITEM_MOD_EXPERTISE_RATING_SHORT"] = 0.4,
+				},
+				["readOnly"] = true,
+				["class"] = "DEATHKNIGHT",
+			},
+			["Shaman, elemental"] = {
+				["notes"] = "http://www.noxxic.com/pve/shaman/elemental/stat-priority-and-reforging-strats",
+				["ak"] = "SHAMAN/1",
+				["PerCharacterOptions"] = {
+				},
+				["reforgeOrder"] = {
+					{
+						["cap"] = "SpellHitCap",
+						["rating"] = 8,
+					}, -- [1]
+					{
+						["cap"] = "SpellHitCap",
+						["rating"] = 99,
+					}, -- [2]
+					{
+						["cap"] = "1SecGCD",
+						["rating"] = 20,
+					}, -- [3]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 26,
+					}, -- [4]
+				},
+				["statWeights"] = {
+					["ITEM_MOD_HASTE_RATING_SHORT"] = 1.73,
+					["ITEM_MOD_HIT_RATING_SHORT"] = 2.7,
+					["ITEM_MOD_SPIRIT_SHORT"] = 2.7,
+					["ITEM_MOD_CRIT_RATING_SHORT"] = 1.11,
+					["ITEM_MOD_MASTERY_RATING_SHORT"] = 1.62,
+				},
+				["readOnly"] = true,
+				["class"] = "SHAMAN",
+			},
+			["DK, DW frost"] = {
+				["notes"] = "http://www.noxxic.com/wow/pve/death-knight/frost/dps-gear-reforging",
+				["ak"] = "DWFrost",
+				["PerCharacterOptions"] = {
+				},
+				["reforgeOrder"] = {
+					{
+						["cap"] = "MeleeHitCap",
+						["rating"] = 6,
+					}, -- [1]
+					{
+						["cap"] = "ExpertiseHardCap",
+						["rating"] = 24,
+					}, -- [2]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 26,
+					}, -- [3]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 18,
+					}, -- [4]
+					{
+						["cap"] = "MaximumPossible",
+						["rating"] = 9,
+					}, -- [5]
+				},
+				["statWeights"] = {
+					["ITEM_MOD_HASTE_RATING_SHORT"] = 1.33,
+					["ITEM_MOD_HIT_RATING_SHORT"] = 2.14,
+					["ITEM_MOD_CRIT_RATING_SHORT"] = 0.5,
+					["ITEM_MOD_MASTERY_RATING_SHORT"] = 1.51,
+					["ITEM_MOD_EXPERTISE_RATING_SHORT"] = 2.1,
+				},
+				["readOnly"] = true,
+				["class"] = "DEATHKNIGHT",
+			},
+		},
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

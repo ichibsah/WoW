@@ -1,0 +1,9 @@
+
+GoldArray = {
+	["DISPLAYGPH"] = true,
+	["VERSION2"] = true,
+	["SORTBYNAME"] = true,
+	["Youmie_Sporeggar::Alliance"] = 128014060,
+	["VIEWALL"] = true,
+	["INITIALIZED"] = true,
+}

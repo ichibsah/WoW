@@ -1,0 +1,206 @@
+
+QuestAnnounceDB = {
+	["profileKeys"] = {
+		["Remraf - Sporeggar"] = "Remraf - Sporeggar",
+		["Xelle - Sporeggar"] = "Xelle - Sporeggar",
+		["Youmie - Sporeggar"] = "Youmie - Sporeggar",
+		["Leleti - Sporeggar"] = "Default",
+		["Tosel - Jaedenar"] = "Default",
+		["Mengsk - Sporeggar"] = "Mengsk - Sporeggar",
+		["Serenina - Jaedenar"] = "Default",
+		["Tarala - Jaedenar"] = "Default",
+		["Aminana - Jaedenar"] = "Default",
+		["Bubbled - Gul'dan"] = "Default",
+		["Kikipop - Jaedenar"] = "Default",
+		["Latunter - Jaedenar"] = "Default",
+		["Yesu - Sporeggar"] = "Yesu - Sporeggar",
+		["Leanan - Jaedenar"] = "Default",
+		["Stringer - Sporeggar"] = "Stringer - Sporeggar",
+		["Oenomaus - Sporeggar"] = "Default",
+		["Ghrimme - Lightbringer"] = "Default",
+		["Qssen - Lightbringer"] = "Default",
+		["Sarkodie - Sporeggar"] = "Default",
+		["Kethrry - Jaedenar"] = "Default",
+		["Krolraw - Sporeggar"] = "Default",
+		["Fonira - Jaedenar"] = "Default",
+		["Fonida - Jaedenar"] = "Default",
+		["Kalapitu - Jaedenar"] = "Default",
+		["Manrida - Jaedenar"] = "Default",
+		["Osofu - Stormscale"] = "Default",
+		["Piesie - Argent Dawn"] = "Default",
+		["Krixus - Sporeggar"] = "Default",
+		["Motsi - Sporeggar"] = "Default",
+		["Leula - Gul'dan"] = "Default",
+		["Mona - Jaedenar"] = "Default",
+		["Bleck - Sporeggar"] = "Default",
+		["Jamilah - Jaedenar"] = "Default",
+		["Snakefina - Jaedenar"] = "Default",
+		["Fairy - Jaedenar"] = "Default",
+		["Omarh - Sporeggar"] = "Default",
+		["Overkill - Sporeggar"] = "Default",
+		["Kibsaa - Jaedenar"] = "Default",
+		["Exaudi - Stormscale"] = "Default",
+		["Barrymore - Sporeggar"] = "Barrymore - Sporeggar",
+	},
+	["profiles"] = {
+		["Yesu - Sporeggar"] = {
+		},
+		["Youmie - Sporeggar"] = {
+			["profile"] = {
+				["announceTo"] = {
+					["raidWarningFrame"] = false,
+					["chatFrame"] = true,
+					["uiErrorsFrame"] = false,
+				},
+				["settings"] = {
+					["enable"] = true,
+					["every"] = 1,
+					["sound"] = true,
+					["debug"] = false,
+				},
+				["announceIn"] = {
+					["party"] = true,
+					["guild"] = false,
+					["say"] = false,
+					["whisper"] = false,
+					["officer"] = false,
+				},
+			},
+		},
+		["Default"] = {
+			["profile"] = {
+				["announceTo"] = {
+					["raidWarningFrame"] = false,
+					["chatFrame"] = true,
+					["uiErrorsFrame"] = false,
+				},
+				["settings"] = {
+					["enable"] = true,
+					["every"] = 1,
+					["sound"] = true,
+					["debug"] = false,
+				},
+				["announceIn"] = {
+					["party"] = true,
+					["guild"] = false,
+					["say"] = false,
+					["whisper"] = false,
+					["officer"] = false,
+				},
+			},
+		},
+		["Remraf - Sporeggar"] = {
+			["announceIn"] = {
+				["instance"] = true,
+			},
+			["profile"] = {
+				["announceTo"] = {
+					["raidWarningFrame"] = false,
+					["chatFrame"] = true,
+					["uiErrorsFrame"] = false,
+				},
+				["settings"] = {
+					["enable"] = true,
+					["sound"] = true,
+					["debug"] = false,
+					["every"] = 1,
+				},
+				["announceIn"] = {
+					["party"] = true,
+					["guild"] = false,
+					["say"] = false,
+					["whisper"] = false,
+					["officer"] = false,
+				},
+			},
+		},
+		["Mengsk - Sporeggar"] = {
+			["profile"] = {
+				["announceTo"] = {
+					["raidWarningFrame"] = false,
+					["chatFrame"] = true,
+					["uiErrorsFrame"] = false,
+				},
+				["settings"] = {
+					["enable"] = true,
+					["sound"] = true,
+					["debug"] = false,
+					["every"] = 1,
+				},
+				["announceIn"] = {
+					["party"] = true,
+					["guild"] = false,
+					["say"] = false,
+					["whisper"] = false,
+					["officer"] = false,
+				},
+			},
+		},
+		["Xelle - Sporeggar"] = {
+			["profile"] = {
+				["announceTo"] = {
+					["raidWarningFrame"] = false,
+					["chatFrame"] = true,
+					["uiErrorsFrame"] = false,
+				},
+				["settings"] = {
+					["enable"] = true,
+					["debug"] = false,
+					["sound"] = true,
+					["every"] = 1,
+				},
+				["announceIn"] = {
+					["party"] = true,
+					["guild"] = false,
+					["say"] = false,
+					["whisper"] = false,
+					["officer"] = false,
+				},
+			},
+		},
+		["Stringer - Sporeggar"] = {
+			["profile"] = {
+				["announceTo"] = {
+					["raidWarningFrame"] = false,
+					["chatFrame"] = true,
+					["uiErrorsFrame"] = false,
+				},
+				["settings"] = {
+					["enable"] = true,
+					["every"] = 1,
+					["sound"] = true,
+					["debug"] = false,
+				},
+				["announceIn"] = {
+					["party"] = true,
+					["guild"] = false,
+					["say"] = false,
+					["whisper"] = false,
+					["officer"] = false,
+				},
+			},
+		},
+		["Barrymore - Sporeggar"] = {
+			["profile"] = {
+				["announceTo"] = {
+					["raidWarningFrame"] = false,
+					["chatFrame"] = true,
+					["uiErrorsFrame"] = false,
+				},
+				["settings"] = {
+					["enable"] = true,
+					["every"] = 1,
+					["sound"] = true,
+					["debug"] = false,
+				},
+				["announceIn"] = {
+					["party"] = true,
+					["guild"] = false,
+					["say"] = false,
+					["whisper"] = false,
+					["officer"] = false,
+				},
+			},
+		},
+	},
+}

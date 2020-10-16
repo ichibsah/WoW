@@ -1,0 +1,546 @@
+
+myAddOnsAddOns = {
+	["TNE_LowHealthWarningUI"] = {
+		["loadOptions"] = {
+			["classes"] = {
+			},
+			["realms"] = {
+			},
+			["loadMethod"] = 1,
+		},
+		["version"] = "3.0.0",
+		["category"] = "Unknown",
+		["author"] = "Silent",
+		["website"] = "http://wow.curse.com/downloads/details/4347/",
+		["email"] = "silentaddons@gmail.com",
+	},
+	["Cartographer_ZoneInfo"] = {
+		["loadOptions"] = {
+			["classes"] = {
+			},
+			["realms"] = {
+			},
+			["loadMethod"] = 1,
+		},
+		["version"] = "2.0",
+		["category"] = "Unknown",
+		["author"] = "ckknight",
+		["website"] = "http://ckknight.wowinterface.com/",
+		["email"] = "ckknight@gmail.com",
+	},
+	["Cartographer_POI"] = {
+		["loadOptions"] = {
+			["classes"] = {
+			},
+			["realms"] = {
+			},
+			["loadMethod"] = 1,
+		},
+		["version"] = "2.0",
+		["category"] = "Unknown",
+		["author"] = "Chris \"kergoth\" Larson",
+		["email"] = "clarson@kergoth.com",
+	},
+	["Cartographer_Battlegrounds"] = {
+		["loadOptions"] = {
+			["classes"] = {
+			},
+			["realms"] = {
+			},
+			["loadMethod"] = 1,
+		},
+		["version"] = "2.0",
+		["category"] = "Unknown",
+		["author"] = "ckknight",
+		["website"] = "http://ckknight.wowinterface.com/",
+		["email"] = "ckknight@gmail.com",
+	},
+	["Auc-Stat-Histogram"] = {
+		["version"] = "5.1.3655 (SnaggleTooth)",
+		["category"] = "Unknown",
+	},
+	["XLootMonitor"] = {
+		["version"] = "0.7",
+		["category"] = "Unknown",
+		["author"] = "Xuerian",
+		["website"] = "http://wowace.com/index.php/XLoot",
+		["email"] = "sky.shell@gmail.com",
+	},
+	["TitanBag"] = {
+		["author"] = "Titan Development Team (http://www.titanpanel.org)",
+		["version"] = "4.0.1.30000",
+		["category"] = "Unknown",
+	},
+	["QuestHelper"] = {
+		["version"] = "0.63",
+		["category"] = "Unknown",
+		["author"] = "zorbathut, smariot, vipersniper, nesher",
+		["website"] = "http://wow.curse.com/downloads/details/9924/",
+	},
+	["Bagnon_Options"] = {
+		["loadOptions"] = {
+			["classes"] = {
+			},
+			["realms"] = {
+			},
+			["loadMethod"] = 1,
+		},
+		["author"] = "Tuller",
+		["category"] = "Unknown",
+	},
+	["Enchantrix-Barker"] = {
+		["version"] = "5.1.3655 (SnaggleTooth)",
+		["category"] = "Unknown",
+	},
+	["Cartographer_InstanceLoot"] = {
+		["loadOptions"] = {
+			["classes"] = {
+			},
+			["realms"] = {
+			},
+			["loadMethod"] = 1,
+		},
+		["version"] = "2.0",
+		["category"] = "Unknown",
+		["author"] = "nymbia",
+		["website"] = "http://ckknight.wowinterface.com/",
+		["email"] = "nymbia@gmail.com",
+	},
+	["AspectedAgain"] = {
+		["author"] = "Mookhow",
+		["version"] = "3.0.2.0",
+		["category"] = "Unknown",
+	},
+	["KHunterTimers"] = {
+		["category"] = "Unknown",
+	},
+	["TitanRegen"] = {
+		["author"] = "Titan Development Team (http://www.titanpanel.org)",
+		["version"] = "4.0.1.30000",
+		["category"] = "Unknown",
+	},
+	["XLootMaster"] = {
+		["version"] = "0.7",
+		["category"] = "Unknown",
+		["author"] = "Xuerian",
+		["website"] = "http://wowace.com/index.php/XLoot",
+		["email"] = "sky.shell@gmail.com",
+	},
+	["sctd_options"] = {
+		["loadOptions"] = {
+			["classes"] = {
+			},
+			["realms"] = {
+			},
+			["loadMethod"] = 1,
+		},
+		["author"] = "Grayhoof",
+		["category"] = "Unknown",
+	},
+	["TitanRepair"] = {
+		["author"] = "Titan Development Team (http://www.titanpanel.org)",
+		["version"] = "4.0.1.30000",
+		["category"] = "Unknown",
+	},
+	["Cartographer_InstanceMaps"] = {
+		["loadOptions"] = {
+			["classes"] = {
+			},
+			["realms"] = {
+			},
+			["loadMethod"] = 1,
+		},
+		["version"] = "2.0",
+		["category"] = "Unknown",
+		["author"] = "ckknight",
+		["website"] = "http://ckknight.wowinterface.com/",
+		["email"] = "ckknight@gmail.com",
+	},
+	["Auc-Stat-Classic"] = {
+		["version"] = "5.1.3655 (SnaggleTooth)",
+		["category"] = "Unknown",
+	},
+	["FloAspectBar"] = {
+		["author"] = "Floraline",
+		["category"] = "Unknown",
+	},
+	["Cartographer_Waypoints"] = {
+		["loadOptions"] = {
+			["classes"] = {
+			},
+			["realms"] = {
+			},
+			["loadMethod"] = 1,
+		},
+		["version"] = "2.0",
+		["category"] = "Unknown",
+		["author"] = "Wobin",
+		["website"] = "http://wobin.wowinterface.com/",
+		["email"] = "wobster@gmail.com",
+	},
+	["FreierGeist_InstanceTime"] = {
+		["author"] = "Dhana @ Alleria",
+		["category"] = "Unknown",
+	},
+	["sctd"] = {
+		["version"] = "3.1",
+		["category"] = "Unknown",
+		["author"] = "Grayhoof",
+		["website"] = "http://grayhoof.wowinterface.com/",
+	},
+	["Auc-Stat-StdDev"] = {
+		["version"] = "5.1.3655 (SnaggleTooth)",
+		["category"] = "Unknown",
+	},
+	["Auc-Filter-Basic"] = {
+		["version"] = "5.1.3655 (SnaggleTooth)",
+		["category"] = "Unknown",
+	},
+	["NotesUNeed"] = {
+		["version"] = "6.51.30000",
+		["category"] = "Unknown",
+	},
+	["TitanXP"] = {
+		["author"] = "Titan Development Team (http://www.titanpanel.org)",
+		["version"] = "4.0.1.30000",
+		["category"] = "Unknown",
+	},
+	["Cartographer_GroupColors"] = {
+		["loadOptions"] = {
+			["classes"] = {
+			},
+			["realms"] = {
+			},
+			["loadMethod"] = 1,
+		},
+		["version"] = "2.0",
+		["category"] = "Unknown",
+		["author"] = "ckknight",
+		["website"] = "http://ckknight.wowinterface.com/",
+		["email"] = "ckknight@gmail.com",
+	},
+	["Bagnon"] = {
+		["author"] = "Tuller",
+		["version"] = "1.6.6",
+		["category"] = "Unknown",
+	},
+	["sct_options"] = {
+		["loadOptions"] = {
+			["classes"] = {
+			},
+			["realms"] = {
+			},
+			["loadMethod"] = 1,
+		},
+		["author"] = "Grayhoof",
+		["category"] = "Unknown",
+	},
+	["EnhTooltip"] = {
+		["version"] = "5.1.3655 (SnaggleTooth)",
+		["category"] = "Unknown",
+	},
+	["TitanGoldTracker"] = {
+		["author"] = "Poena @ Area 52, Titan Development Team (http://www.titanpanel.org)",
+		["version"] = "4.0.1.30000",
+		["category"] = "Unknown",
+	},
+	["BonusScanner"] = {
+		["author"] = "Tristanian (bandit@planetcnc.com)",
+		["version"] = "4.1",
+		["category"] = "Unknown",
+	},
+	["Auc-ScanData"] = {
+		["loadOptions"] = {
+			["classes"] = {
+			},
+			["realms"] = {
+			},
+			["loadMethod"] = 1,
+		},
+		["version"] = "5.1.3655 (SnaggleTooth)",
+		["category"] = "Unknown",
+	},
+	["BeanCounter"] = {
+		["version"] = "5.1.3655 (SnaggleTooth)",
+		["category"] = "Unknown",
+	},
+	["Enchantrix"] = {
+		["loadOptions"] = {
+			["classes"] = {
+			},
+			["realms"] = {
+			},
+			["loadMethod"] = 1,
+		},
+		["version"] = "5.1.3655 (SnaggleTooth)",
+		["category"] = "Unknown",
+	},
+	["Informant"] = {
+		["loadOptions"] = {
+			["classes"] = {
+			},
+			["realms"] = {
+			},
+			["loadMethod"] = 1,
+		},
+		["version"] = "5.1.3655 (SnaggleTooth)",
+		["category"] = "Unknown",
+	},
+	["Titan"] = {
+		["version"] = "4.0.1.30000 (Revision 16)",
+		["category"] = "Unknown",
+		["author"] = "Titan Development Team ",
+		["website"] = "http://www.titanpanel.org",
+		["email"] = "contact@titanpanel.org",
+	},
+	["myAddOns"] = {
+		["optionsframe"] = "",
+		["author"] = "Scheid",
+		["email"] = "scheid@yumejima.com",
+		["version"] = "2.8",
+		["category"] = "Others",
+		["help"] = {
+			"FAQ\n===\n\nQ: My AddOn XYZ is not listed! Why??\n\nA: Check if you enabled it at the character selection screen. Check if it has a required dependency that is missing.\n\nQ: I get the following error in my chat: \"Error during the registration of <addon> in myAddOns.\". What does it mean?\n\nA: This error message means that the AddOn named \"<addon>\" is trying to register with an unknown name/title. Check with the author if he can update his AddOn to make it compatible with the new registration method. Anyway this has no impact on the gameplay or on myAddOns so everything should be working okay.", -- [1]
+			["currentPage"] = 1,
+		},
+		["releaseDate"] = "October 18, 2008",
+		["website"] = "http://wow.yumejima.com",
+	},
+	["Auc-Advanced"] = {
+		["version"] = "5.1.3655 (SnaggleTooth)",
+		["category"] = "Unknown",
+	},
+	["Auc-Stat-Simple"] = {
+		["version"] = "5.1.3655 (SnaggleTooth)",
+		["category"] = "Unknown",
+	},
+	["XLoot"] = {
+		["version"] = "0.9",
+		["category"] = "Unknown",
+		["author"] = "Xuerian",
+		["website"] = "http://wowace.com/index.php/XLoot",
+		["email"] = "sky.shell@gmail.com",
+	},
+	["Cartographer_InstanceNotes"] = {
+		["loadOptions"] = {
+			["classes"] = {
+			},
+			["realms"] = {
+			},
+			["loadMethod"] = 1,
+		},
+		["version"] = "2.0",
+		["category"] = "Unknown",
+		["author"] = "ckknight",
+		["website"] = "http://ckknight.wowinterface.com/",
+		["email"] = "ckknight@gmail.com",
+	},
+	["Cartographer_Notes"] = {
+		["loadOptions"] = {
+			["classes"] = {
+			},
+			["realms"] = {
+			},
+			["loadMethod"] = 1,
+		},
+		["version"] = "2.0",
+		["category"] = "Unknown",
+		["author"] = "ckknight",
+		["website"] = "http://ckknight.wowinterface.com/",
+		["email"] = "ckknight@gmail.com",
+	},
+	["TitanVolume"] = {
+		["author"] = "Titan Development Team (http://www.titanpanel.org)",
+		["version"] = "4.0.1.30000",
+		["category"] = "Unknown",
+	},
+	["!Swatter"] = {
+		["version"] = "5.1.3655 (SnaggleTooth)",
+		["category"] = "Unknown",
+	},
+	["TitanPerformance"] = {
+		["author"] = "Titan Development Team (http://www.titanpanel.org)",
+		["version"] = "4.0.1.30000",
+		["category"] = "Unknown",
+	},
+	["TitanCoords"] = {
+		["author"] = "Titan Development Team (http://www.titanpanel.org)",
+		["version"] = "4.0.1.30000",
+		["category"] = "Unknown",
+	},
+	["Bagnon_Forever"] = {
+		["loadOptions"] = {
+			["classes"] = {
+			},
+			["realms"] = {
+			},
+			["loadMethod"] = 1,
+		},
+		["version"] = "1.1.1",
+		["category"] = "Unknown",
+		["author"] = "Tuller",
+	},
+	["TitanLootType"] = {
+		["author"] = "Titan Development Team (http://www.titanpanel.org)",
+		["version"] = "4.0.1.30000",
+		["category"] = "Unknown",
+	},
+	["TitanItemBonuses"] = {
+		["author"] = "Tristanian",
+		["version"] = "4.0.1.30000",
+		["category"] = "Unknown",
+	},
+	["Cartographer_Professions"] = {
+		["loadOptions"] = {
+			["classes"] = {
+			},
+			["realms"] = {
+			},
+			["loadMethod"] = 1,
+		},
+		["version"] = "2.0",
+		["category"] = "Unknown",
+		["author"] = "Chris \"kergoth\" Larson",
+		["email"] = "clarson@kergoth.com",
+	},
+	["sct"] = {
+		["version"] = "6.2",
+		["category"] = "Unknown",
+		["author"] = "Grayhoof",
+		["website"] = "http://grayhoof.wowinterface.com/",
+	},
+	["TNE_LowHealthWarning"] = {
+		["version"] = "3.0.1",
+		["category"] = "Unknown",
+		["author"] = "Silent",
+		["website"] = "http://wow.curse.com/downloads/details/4347/",
+		["email"] = "silentaddons@gmail.com",
+	},
+	["TitanClock"] = {
+		["author"] = "Titan Development Team (http://www.titanpanel.org)",
+		["version"] = "4.0.1.30000",
+		["category"] = "Unknown",
+	},
+	["Cartographer_Coordinates"] = {
+		["loadOptions"] = {
+			["classes"] = {
+			},
+			["realms"] = {
+			},
+			["loadMethod"] = 1,
+		},
+		["version"] = "2.0",
+		["category"] = "Unknown",
+		["author"] = "ckknight",
+		["website"] = "http://ckknight.wowinterface.com/",
+		["email"] = "ckknight@gmail.com",
+	},
+	["Auc-Stat-Purchased"] = {
+		["version"] = "5.1.3655 (SnaggleTooth)",
+		["category"] = "Unknown",
+	},
+	["Cartographer_GuildPositions"] = {
+		["loadOptions"] = {
+			["classes"] = {
+			},
+			["realms"] = {
+			},
+			["loadMethod"] = 1,
+		},
+		["version"] = "2.0",
+		["category"] = "Unknown",
+		["author"] = "ckknight",
+		["website"] = "http://ckknight.wowinterface.com/",
+		["email"] = "ckknight@gmail.com",
+	},
+	["NotesUNeed_Backup"] = {
+		["loadOptions"] = {
+			["classes"] = {
+			},
+			["realms"] = {
+			},
+			["loadMethod"] = 1,
+		},
+		["category"] = "Unknown",
+	},
+	["Bagnon_Tooltips"] = {
+		["author"] = "Tuller",
+		["category"] = "Unknown",
+	},
+	["SimpleMD"] = {
+		["version"] = "3.0",
+		["category"] = "Unknown",
+		["author"] = "Starinnia",
+		["email"] = "codemaster2010 AT gmail DOT com",
+	},
+	["QuestAnnouncer"] = {
+		["author"] = "Christian Prehl",
+		["version"] = "0.5",
+		["category"] = "Unknown",
+	},
+	["NotesUNeed_Export"] = {
+		["loadOptions"] = {
+			["classes"] = {
+			},
+			["realms"] = {
+			},
+			["loadMethod"] = 1,
+		},
+		["category"] = "Unknown",
+	},
+	["Stubby"] = {
+		["version"] = "5.1.3655 (SnaggleTooth)",
+		["category"] = "Unknown",
+	},
+	["Cartographer_Foglight"] = {
+		["loadOptions"] = {
+			["classes"] = {
+			},
+			["realms"] = {
+			},
+			["loadMethod"] = 1,
+		},
+		["version"] = "2.0",
+		["category"] = "Unknown",
+		["author"] = "ckknight",
+		["website"] = "http://ckknight.wowinterface.com/",
+		["email"] = "ckknight@gmail.com",
+	},
+	["FuBar"] = {
+		["category"] = "Unknown",
+		["author"] = "ckknight",
+		["website"] = "http://www.wowace.com/",
+		["email"] = "ckknight AT gmail DOT com",
+	},
+	["Cartographer"] = {
+		["version"] = "2.0",
+		["category"] = "Unknown",
+		["author"] = "ckknight",
+		["website"] = "http://www.wowace.com/",
+		["email"] = "ckknight AT gmail DOT com",
+	},
+	["TitanAmmo"] = {
+		["author"] = "Titan Development Team (http://www.titanpanel.org)",
+		["version"] = "4.0.1.30000",
+		["category"] = "Unknown",
+	},
+	["Cartographer_LookNFeel"] = {
+		["loadOptions"] = {
+			["classes"] = {
+			},
+			["realms"] = {
+			},
+			["loadMethod"] = 1,
+		},
+		["version"] = "2.0",
+		["category"] = "Unknown",
+		["author"] = "ckknight",
+		["website"] = "http://ckknight.wowinterface.com/",
+		["email"] = "ckknight@gmail.com",
+	},
+	["LookFor"] = {
+		["author"] = "Soul",
+		["version"] = "4.0",
+		["category"] = "Unknown",
+	},
+}

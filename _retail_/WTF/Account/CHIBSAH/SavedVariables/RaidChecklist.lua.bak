@@ -1,0 +1,14 @@
+
+RaidChecklistDB = nil
+RaidChecklistDB2 = {
+	["profileKeys"] = {
+		["Leleti - Sporeggar"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["x"] = -0.999985575675964,
+			["stdlist"] = "default",
+			["y"] = 2.735489579208660e-005,
+		},
+	},
+}

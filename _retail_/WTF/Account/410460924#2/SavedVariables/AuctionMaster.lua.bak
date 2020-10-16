@@ -1,0 +1,162 @@
+
+VendorDb = {
+	["profileKeys"] = {
+		["Daliya - Sporeggar"] = "Default",
+	},
+	["currentProfile"] = {
+		["Daliya - Sporeggar"] = "Default",
+	},
+	["namespaces"] = {
+		["Disenchant"] = {
+		},
+		["Scanner2"] = {
+			["profiles"] = {
+				["Default"] = {
+					["version"] = 8,
+				},
+			},
+			["realm"] = {
+				["Sporeggar"] = {
+					["version"] = 8,
+				},
+			},
+			["factionrealm"] = {
+				["Alliance - Sporeggar"] = {
+					["oldSnipesMigrated"] = true,
+					["version"] = 8,
+				},
+			},
+		},
+		["Statistic"] = {
+		},
+		["SearchTab"] = {
+		},
+		["TooltipHook"] = {
+		},
+		["Seller"] = {
+			["profiles"] = {
+				["Default"] = {
+					["buyoutMod"] = {
+						nil, -- [1]
+						{
+							["percent"] = 150,
+							["modType"] = 1,
+						}, -- [2]
+						{
+							["percent"] = 100,
+							["modType"] = 1,
+						}, -- [3]
+						{
+							["percent"] = 99,
+							["modType"] = 1,
+						}, -- [4]
+						{
+							["percent"] = 250,
+							["modType"] = 1,
+						}, -- [5]
+						{
+							["percent"] = 99,
+							["modType"] = 1,
+						}, -- [6]
+					},
+					["version"] = 5,
+				},
+			},
+		},
+		["OwnAuctions"] = {
+			["profiles"] = {
+				["Default"] = {
+					["itemTableCfg"] = {
+						["selected"] = {
+							1, -- [1]
+							2, -- [2]
+							10, -- [3]
+							4, -- [4]
+							5, -- [5]
+							6, -- [6]
+							7, -- [7]
+							8, -- [8]
+						},
+					},
+				},
+			},
+		},
+		["Gatherer"] = {
+			["global"] = {
+				["statisticDb"] = {
+					["realms"] = {
+						["Sporeggar"] = {
+							["Alliance"] = {
+							},
+						},
+					},
+				},
+			},
+		},
+		["Sniper"] = {
+			["profiles"] = {
+				["Default"] = {
+					["version"] = 3,
+				},
+			},
+			["realms"] = {
+				["Sporeggar - Alliance"] = {
+				},
+			},
+			["factionrealm"] = {
+				["Alliance - Sporeggar"] = {
+					["version"] = 3,
+				},
+			},
+		},
+		["ItemSettings"] = {
+			["realm"] = {
+				["Sporeggar"] = {
+					["version"] = 1,
+				},
+			},
+			["factionrealm"] = {
+				["Alliance - Sporeggar"] = {
+					["version"] = 1,
+				},
+			},
+		},
+		["Items"] = {
+			["servers"] = {
+				["Sporeggar"] = {
+				},
+			},
+			["realm"] = {
+				["Sporeggar"] = {
+					["version"] = 6,
+				},
+			},
+			["realms"] = {
+				["Sporeggar - Alliance"] = {
+				},
+			},
+			["factionrealm"] = {
+				["Alliance - Sporeggar"] = {
+					["version"] = 6,
+				},
+			},
+		},
+		["AuctionHouse"] = {
+			["profiles"] = {
+				["Default"] = {
+					["startTab"] = 1,
+					["version"] = 2,
+				},
+			},
+		},
+	},
+	["global"] = {
+		["locale"] = "enUS",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+AuctionMasterMiscDb = {
+}

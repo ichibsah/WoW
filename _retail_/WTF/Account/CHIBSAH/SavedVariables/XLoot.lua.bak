@@ -1,0 +1,43 @@
+
+XLootDB = {
+	["namespaces"] = {
+		["XLootMonitorDB"] = {
+			["profiles"] = {
+				["Default"] = {
+					["AnchorsAway"] = {
+						["loot"] = {
+							["threshold"] = 6,
+							["timeout"] = 15,
+							["lock"] = false,
+							["anchor"] = true,
+							["attach"] = {
+								["self"] = "TOPLEFT",
+								["x"] = 0,
+								["y"] = 0,
+								["target"] = "BOTTOMLEFT",
+							},
+							["scale"] = 1,
+							["pos"] = {
+								["y"] = 420.9778579215436,
+								["x"] = 6.637028640097175,
+							},
+						},
+					},
+				},
+			},
+		},
+	},
+	["profiles"] = {
+		["Default"] = {
+			["linkallchannels"] = {
+				["YELL"] = false,
+				["RAID"] = false,
+				["GUILD"] = false,
+				["RAID_WARNING"] = false,
+				["SAY"] = false,
+				["OFFICER"] = false,
+				["PARTY"] = false,
+			},
+		},
+	},
+}

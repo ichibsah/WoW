@@ -1,0 +1,1194 @@
+
+RecountDB = {
+	["profileKeys"] = {
+		["Remraf - Sporeggar"] = "Remraf - Sporeggar",
+		["Xelle - Sporeggar"] = "Xelle - Sporeggar",
+		["Youmie - Sporeggar"] = "Youmie - Sporeggar",
+		["Leleti - Sporeggar"] = "Leleti - Sporeggar",
+		["Jamilah - Jaedenar"] = "Jamilah - Jaedenar",
+		["Mengsk - Sporeggar"] = "Mengsk - Sporeggar",
+		["Serenina - Jaedenar"] = "Serenina - Jaedenar",
+		["Tarala - Jaedenar"] = "Tarala - Jaedenar",
+		["Aminana - Jaedenar"] = "Aminana - Jaedenar",
+		["Rachel - Sporeggar"] = "Rachel - Sporeggar",
+		["Bubbled - Gul'dan"] = "Bubbled - Gul'dan",
+		["Kikipop - Jaedenar"] = "Kikipop - Jaedenar",
+		["Latunter - Jaedenar"] = "Latunter - Jaedenar",
+		["Yesu - Sporeggar"] = "Yesu - Sporeggar",
+		["Ghrimme - Lightbringer"] = "Ghrimme - Lightbringer",
+		["Leanan - Jaedenar"] = "Leanan - Jaedenar",
+		["Bubbled - Terrordar"] = "Bubbled - Terrordar",
+		["Oenomaus - Sporeggar"] = "Oenomaus - Sporeggar",
+		["Teldrasil - Sporeggar"] = "Teldrasil - Sporeggar",
+		["Corlin - Sporeggar"] = "Corlin - Sporeggar",
+		["Stringer - Sporeggar"] = "Stringer - Sporeggar",
+		["Qssen - Lightbringer"] = "Qssen - Lightbringer",
+		["Exaudi - Stormscale"] = "Exaudi - Stormscale",
+		["Sarkodie - Sporeggar"] = "Sarkodie - Sporeggar",
+		["Kethrry - Jaedenar"] = "Kethrry - Jaedenar",
+		["Tosel - Jaedenar"] = "Tosel - Jaedenar",
+		["Fonira - Jaedenar"] = "Fonira - Jaedenar",
+		["Fonida - Jaedenar"] = "Fonida - Jaedenar",
+		["Kalapitu - Jaedenar"] = "Kalapitu - Jaedenar",
+		["Manrida - Jaedenar"] = "Manrida - Jaedenar",
+		["Osofu - Stormscale"] = "Osofu - Stormscale",
+		["Piesie - Argent Dawn"] = "Piesie - Argent Dawn",
+		["Krixus - Sporeggar"] = "Krixus - Sporeggar",
+		["Motsi - Sporeggar"] = "Motsi - Sporeggar",
+		["Krolraw - Sporeggar"] = "Krolraw - Sporeggar",
+		["Mona - Jaedenar"] = "Mona - Jaedenar",
+		["Bleck - Sporeggar"] = "Bleck - Sporeggar",
+		["Fairy - Jaedenar"] = "Fairy - Jaedenar",
+		["Snakefina - Jaedenar"] = "Snakefina - Jaedenar",
+		["Bulblin - Gul'dan"] = "Bulblin - Gul'dan",
+		["Omarh - Sporeggar"] = "Omarh - Sporeggar",
+		["Overkill - Sporeggar"] = "Overkill - Sporeggar",
+		["Leula - Gul'dan"] = "Leula - Gul'dan",
+		["Kibsaa - Jaedenar"] = "Kibsaa - Jaedenar",
+		["Barrymore - Sporeggar"] = "Barrymore - Sporeggar",
+	},
+	["profiles"] = {
+		["Remraf - Sporeggar"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -233.999114990234,
+					["x"] = 546,
+					["w"] = 140.000259399414,
+					["h"] = 199.999984741211,
+				},
+			},
+			["DetailWindowX"] = 1117.00036621094,
+			["LastInstanceName"] = "Highmaul",
+			["CurDataSet"] = "OverallData",
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = -345.999908447266,
+			["GraphWindowX"] = 0,
+			["MainWindowVis"] = false,
+		},
+		["Xelle - Sporeggar"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -112.999847412109,
+					["x"] = 837.999877929688,
+					["h"] = 199.999984741211,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["LastInstanceName"] = "Temple of the Jade Serpent",
+			["GraphWindowX"] = 0,
+			["CurDataSet"] = "OverallData",
+			["DetailWindowX"] = 0,
+		},
+		["Youmie - Sporeggar"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -226.666381835938,
+					["x"] = 523.666625976563,
+					["h"] = 199.999984741211,
+				},
+			},
+			["MainWindowMode"] = 2,
+			["LastInstanceName"] = "Stormwind Stockade",
+			["CurDataSet"] = "OverallData",
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = -283.999938964844,
+			["Locked"] = true,
+			["GraphWindowX"] = 0,
+			["DetailWindowX"] = 1163.00024414063,
+		},
+		["Leleti - Sporeggar"] = {
+			["GraphWindowY"] = -50,
+			["MainWindow"] = {
+				["HideTotalBar"] = false,
+				["Position"] = {
+					["y"] = -420.999786376953,
+					["x"] = 772,
+				},
+			},
+			["DetailWindowX"] = 938.999877929688,
+			["LastInstanceName"] = "Niskara",
+			["RealtimeWindows"] = {
+				["Realtime_!RAID_DAMAGE"] = {
+					"!RAID", -- [1]
+					"DAMAGE", -- [2]
+					"Raid DPS", -- [3]
+					0, -- [4]
+					0, -- [5]
+					200.000043297799, -- [6]
+					232.000000562309, -- [7]
+					false, -- [8]
+				},
+				["Realtime_Downstream Traffic_DOWN_TRAFFIC"] = {
+					"Downstream Traffic", -- [1]
+					"DOWN_TRAFFIC", -- [2]
+					"", -- [3]
+					0, -- [4]
+					0, -- [5]
+					200.000043297799, -- [6]
+					232.000000562309, -- [7]
+					false, -- [8]
+				},
+				["Realtime_Leleti_DAMAGE"] = {
+					"Leleti", -- [1]
+					"DAMAGE", -- [2]
+					"'s DPS", -- [3]
+					0, -- [4]
+					0, -- [5]
+					199.999989316127, -- [6]
+					232.000000562309, -- [7]
+					false, -- [8]
+				},
+				["Realtime_Latency_LAG"] = {
+					"Latency", -- [1]
+					"LAG", -- [2]
+					"", -- [3]
+					0, -- [4]
+					0, -- [5]
+					200.000043297799, -- [6]
+					232.000000562309, -- [7]
+					false, -- [8]
+				},
+				["Realtime_Bandwidth Available_AVAILABLE_BANDWIDTH"] = {
+					"Bandwidth Available", -- [1]
+					"AVAILABLE_BANDWIDTH", -- [2]
+					"", -- [3]
+					0, -- [4]
+					0, -- [5]
+					200.000043297799, -- [6]
+					232.000000562309, -- [7]
+					false, -- [8]
+				},
+			},
+			["SegmentBosses"] = true,
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = -335,
+			["HideCollect"] = true,
+			["CurDataSet"] = "LastFightData",
+			["GraphWindowX"] = 3,
+		},
+		["Jamilah - Jaedenar"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -223.491973876953,
+					["x"] = 524.190673828125,
+					["h"] = 199.999984741211,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["DetailWindowX"] = 0,
+			["CurDataSet"] = "OverallData",
+			["GraphWindowX"] = 0,
+		},
+		["Mengsk - Sporeggar"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["h"] = 199.999984741211,
+				},
+			},
+			["DetailWindowX"] = 0,
+			["LastInstanceName"] = "Warfronts Arathi - Alliance",
+			["CurDataSet"] = "OverallData",
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["MainWindowVis"] = false,
+			["GraphWindowX"] = 0,
+		},
+		["Serenina - Jaedenar"] = {
+			["MainWindowVis"] = false,
+			["MainWindow"] = {
+				["Position"] = {
+					["w"] = 140.000015258789,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["CurDataSet"] = "OverallData",
+		},
+		["Tarala - Jaedenar"] = {
+			["MainWindowVis"] = false,
+			["MainWindow"] = {
+				["Position"] = {
+					["w"] = 140.000015258789,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["CurDataSet"] = "OverallData",
+		},
+		["Aminana - Jaedenar"] = {
+			["MainWindow"] = {
+				["Position"] = {
+					["w"] = 140.000015258789,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["CurDataSet"] = "OverallData",
+		},
+		["Rachel - Sporeggar"] = {
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -318.000213623047,
+					["x"] = 885.999755859375,
+					["h"] = 199.999984741211,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["CurDataSet"] = "OverallData",
+		},
+		["Bubbled - Gul'dan"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -240.829635620117,
+					["x"] = 623.881408691406,
+					["w"] = 140.000122070313,
+					["h"] = 199.999984741211,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["GraphWindowX"] = 0,
+			["CurDataSet"] = "OverallData",
+			["DetailWindowX"] = 0,
+		},
+		["Kikipop - Jaedenar"] = {
+			["LastInstanceName"] = "Boost Experience - Alliance",
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -485.999435424805,
+					["x"] = -840.999794006348,
+					["h"] = 199.999984741211,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["CurDataSet"] = "OverallData",
+		},
+		["Latunter - Jaedenar"] = {
+			["MainWindowVis"] = false,
+			["MainWindow"] = {
+				["Position"] = {
+					["w"] = 140.000015258789,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["MainWindowMode"] = 2,
+			["CurDataSet"] = "OverallData",
+		},
+		["Yesu - Sporeggar"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -324.998474121094,
+					["x"] = 759.501220703125,
+					["w"] = 199.000183105469,
+					["h"] = 198,
+				},
+			},
+			["DetailWindowX"] = 876.000061035156,
+			["MainWindowHeight"] = 198,
+			["RealtimeWindows"] = {
+				["Realtime_Downstream Traffic_DOWN_TRAFFIC"] = {
+					"Downstream Traffic", -- [1]
+					"DOWN_TRAFFIC", -- [2]
+					"", -- [3]
+					0, -- [4]
+					0, -- [5]
+					200.000043297799, -- [6]
+					232.000000562309, -- [7]
+					false, -- [8]
+				},
+				["Realtime_!RAID_HEALINGTAKEN"] = {
+					"!RAID", -- [1]
+					"HEALINGTAKEN", -- [2]
+					"Raid HTPS", -- [3]
+					0, -- [4]
+					0, -- [5]
+					200.000043297799, -- [6]
+					232.000000562309, -- [7]
+					false, -- [8]
+				},
+				["Realtime_!RAID_DAMAGE"] = {
+					"!RAID", -- [1]
+					"DAMAGE", -- [2]
+					"Raid DPS", -- [3]
+					0, -- [4]
+					0, -- [5]
+					199.999989316127, -- [6]
+					232.000000562309, -- [7]
+					false, -- [8]
+				},
+				["Realtime_Upstream Traffic_UP_TRAFFIC"] = {
+					"Upstream Traffic", -- [1]
+					"UP_TRAFFIC", -- [2]
+					"", -- [3]
+					0, -- [4]
+					0, -- [5]
+					200.000043297799, -- [6]
+					232.000000562309, -- [7]
+					false, -- [8]
+				},
+				["Realtime_!RAID_HEALING"] = {
+					"!RAID", -- [1]
+					"HEALING", -- [2]
+					"Raid HPS", -- [3]
+					0, -- [4]
+					0, -- [5]
+					200.000043297799, -- [6]
+					232.000000562309, -- [7]
+					false, -- [8]
+				},
+				["Realtime_Yesu_DAMAGE"] = {
+					"Yesu", -- [1]
+					"DAMAGE", -- [2]
+					"'s DPS", -- [3]
+					0, -- [4]
+					0, -- [5]
+					199.999989316127, -- [6]
+					232.000000562309, -- [7]
+					false, -- [8]
+				},
+				["Realtime_Latency_LAG"] = {
+					"Latency", -- [1]
+					"LAG", -- [2]
+					"", -- [3]
+					0, -- [4]
+					0, -- [5]
+					200.000043297799, -- [6]
+					232.000000562309, -- [7]
+					false, -- [8]
+				},
+				["Realtime_Bandwidth Available_AVAILABLE_BANDWIDTH"] = {
+					"Bandwidth Available", -- [1]
+					"AVAILABLE_BANDWIDTH", -- [2]
+					"", -- [3]
+					0, -- [4]
+					0, -- [5]
+					200.000043297799, -- [6]
+					232.000000562309, -- [7]
+					false, -- [8]
+				},
+			},
+			["MainWindowVis"] = false,
+			["DetailWindowY"] = -404.999938964844,
+			["SegmentBosses"] = true,
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["GraphWindowX"] = 0,
+			["CurDataSet"] = "OverallData",
+			["LastInstanceName"] = "Arathi Basin",
+			["MainWindowWidth"] = 199.000289916992,
+			["BarTextColorSwap"] = true,
+		},
+		["Ghrimme - Lightbringer"] = {
+			["MainWindowVis"] = false,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -345.00016784668,
+					["x"] = 821.000122070313,
+					["h"] = 199.999984741211,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["CurDataSet"] = "OverallData",
+		},
+		["Leanan - Jaedenar"] = {
+			["MainWindowVis"] = false,
+			["MainWindow"] = {
+				["Position"] = {
+					["w"] = 140.000015258789,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["CurDataSet"] = "OverallData",
+		},
+		["Bubbled - Terrordar"] = {
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -239.881497497266,
+					["x"] = 610.607212624339,
+					["w"] = 140.000010668409,
+					["h"] = 200.00000273549,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["CurDataSet"] = "OverallData",
+		},
+		["Oenomaus - Sporeggar"] = {
+			["MainWindowVis"] = false,
+			["MainWindow"] = {
+				["Position"] = {
+					["h"] = 199.999984741211,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["LastInstanceName"] = "Halls of Stone",
+			["CurDataSet"] = "OverallData",
+		},
+		["Teldrasil - Sporeggar"] = {
+			["MainWindowVis"] = false,
+			["MainWindow"] = {
+				["Position"] = {
+					["h"] = 199.999984741211,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["LastInstanceName"] = "The MOTHERLODE!!",
+			["CurDataSet"] = "OverallData",
+		},
+		["Corlin - Sporeggar"] = {
+			["MainWindowVis"] = false,
+			["MainWindow"] = {
+				["Position"] = {
+					["h"] = 199.999984741211,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["LastInstanceName"] = "Wailing Caverns",
+			["CurDataSet"] = "OverallData",
+		},
+		["Stringer - Sporeggar"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -230.000152587891,
+					["x"] = 828.000061035156,
+					["w"] = 140.000015258789,
+					["h"] = 199.999984741211,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["CurDataSet"] = "OverallData",
+			["MainWindowVis"] = false,
+			["GraphWindowX"] = 0,
+			["DetailWindowX"] = 0,
+		},
+		["Qssen - Lightbringer"] = {
+			["MainWindowVis"] = false,
+			["MainWindow"] = {
+				["Position"] = {
+					["h"] = 199.999984741211,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["CurDataSet"] = "OverallData",
+		},
+		["Exaudi - Stormscale"] = {
+			["MainWindowVis"] = false,
+			["MainWindow"] = {
+				["Position"] = {
+					["h"] = 199.999984741211,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["CurDataSet"] = "OverallData",
+		},
+		["Sarkodie - Sporeggar"] = {
+			["MainWindowVis"] = false,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -442.999908447266,
+					["x"] = 891.999755859375,
+					["h"] = 199.999984741211,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["LastInstanceName"] = "Great Dark Beyond",
+			["CurDataSet"] = "OverallData",
+		},
+		["Kethrry - Jaedenar"] = {
+			["LastInstanceName"] = "Darkheart Thicket",
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -461.99951171875,
+					["x"] = -861,
+					["w"] = 140.000015258789,
+					["h"] = 199.999984741211,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["CurDataSet"] = "OverallData",
+		},
+		["Tosel - Jaedenar"] = {
+			["MainWindowVis"] = false,
+			["MainWindow"] = {
+				["Position"] = {
+					["w"] = 140.000015258789,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["CurDataSet"] = "OverallData",
+		},
+		["Fonira - Jaedenar"] = {
+			["MainWindowVis"] = false,
+			["MainWindow"] = {
+				["Position"] = {
+					["w"] = 140.000015258789,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["CurDataSet"] = "OverallData",
+		},
+		["Fonida - Jaedenar"] = {
+			["MainWindowVis"] = false,
+			["MainWindow"] = {
+				["Position"] = {
+					["w"] = 140.000015258789,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["CurDataSet"] = "OverallData",
+		},
+		["Kalapitu - Jaedenar"] = {
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -452.000366210938,
+					["x"] = -854.99984741211,
+					["h"] = 199.999984741211,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["CurDataSet"] = "OverallData",
+		},
+		["Manrida - Jaedenar"] = {
+			["MainWindowVis"] = false,
+			["MainWindow"] = {
+				["Position"] = {
+					["w"] = 140.000015258789,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["CurDataSet"] = "OverallData",
+		},
+		["Osofu - Stormscale"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -201.142822265625,
+					["x"] = 458.60595703125,
+					["h"] = 199.999984741211,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["DetailWindowX"] = 0,
+			["CurDataSet"] = "OverallData",
+			["GraphWindowX"] = 0,
+		},
+		["Piesie - Argent Dawn"] = {
+			["LastInstanceName"] = "Dire Maul",
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -327.999969482422,
+					["x"] = 704.000610351563,
+					["h"] = 199.999984741211,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["CurDataSet"] = "OverallData",
+		},
+		["Krixus - Sporeggar"] = {
+			["MainWindowVis"] = false,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -381.999877929688,
+					["x"] = -415,
+					["h"] = 199.999984741211,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["LastInstanceName"] = "Freehold",
+			["CurDataSet"] = "OverallData",
+		},
+		["Motsi - Sporeggar"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["h"] = 199.999984741211,
+				},
+			},
+			["DetailWindowX"] = 0,
+			["LastInstanceName"] = "Azjol-Nerub",
+			["CurDataSet"] = "OverallData",
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["GraphWindowX"] = 0,
+			["MainWindowVis"] = false,
+		},
+		["Krolraw - Sporeggar"] = {
+			["LastInstanceName"] = "Hellfire Citadel: Ramparts",
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -310.999847412109,
+					["x"] = 761,
+					["w"] = 140.000259399414,
+					["h"] = 199.999984741211,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["CurDataSet"] = "OverallData",
+		},
+		["Mona - Jaedenar"] = {
+			["MainWindowVis"] = false,
+			["MainWindow"] = {
+				["Position"] = {
+					["w"] = 140.000015258789,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["CurDataSet"] = "OverallData",
+		},
+		["Bleck - Sporeggar"] = {
+			["LastInstanceName"] = "Maraudon",
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -315.000030517578,
+					["x"] = 642.000732421875,
+					["h"] = 199.999984741211,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["CurDataSet"] = "OverallData",
+		},
+		["Fairy - Jaedenar"] = {
+			["MainWindowVis"] = false,
+			["MainWindow"] = {
+				["Position"] = {
+					["w"] = 140.000015258789,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["CurDataSet"] = "OverallData",
+		},
+		["Snakefina - Jaedenar"] = {
+			["MainWindowVis"] = false,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -456.000144958496,
+					["x"] = 745.000061035156,
+					["w"] = 140.000122070313,
+					["h"] = 199.999984741211,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["CurDataSet"] = "OverallData",
+		},
+		["Bulblin - Gul'dan"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -245.43494108512,
+					["x"] = 435.606685320802,
+					["w"] = 140.000053700517,
+					["h"] = 199.999989316127,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["DetailWindowX"] = 0,
+			["GraphWindowX"] = 0,
+			["CurDataSet"] = "OverallData",
+		},
+		["Omarh - Sporeggar"] = {
+			["MainWindowVis"] = false,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -435.997100830078,
+					["x"] = 791.0009765625,
+					["w"] = 140.000259399414,
+					["h"] = 199.999984741211,
+				},
+			},
+			["MainWindowMode"] = 9,
+			["LastInstanceName"] = "Netherlight Temple",
+			["CurDataSet"] = "OverallData",
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = -367,
+			["Locked"] = true,
+			["DetailWindowX"] = 680,
+		},
+		["Overkill - Sporeggar"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -202.000152587891,
+					["x"] = 468.000610351563,
+					["w"] = 139.999954223633,
+					["h"] = 200.000015258789,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["DetailWindowX"] = 0,
+			["GraphWindowX"] = 0,
+			["CurDataSet"] = "OverallData",
+		},
+		["Leula - Gul'dan"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -252.000198364258,
+					["x"] = 662.000244140625,
+					["w"] = 139.999954223633,
+					["h"] = 200.000015258789,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["DetailWindowX"] = 0,
+			["GraphWindowX"] = 0,
+			["CurDataSet"] = "OverallData",
+		},
+		["Kibsaa - Jaedenar"] = {
+			["LastInstanceName"] = "The Escape from Durnholde",
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -456.000198364258,
+					["x"] = -844.000061035156,
+					["w"] = 140.000015258789,
+					["h"] = 199.999984741211,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["CurDataSet"] = "OverallData",
+		},
+		["Barrymore - Sporeggar"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Buttons"] = {
+					["FileButton"] = false,
+					["LeftButton"] = false,
+					["RightButton"] = false,
+					["ReportButton"] = false,
+				},
+				["Position"] = {
+					["y"] = -385.99934387207,
+					["x"] = 731,
+					["w"] = 140.000259399414,
+					["h"] = 199.999984741211,
+				},
+			},
+			["DetailWindowX"] = 1066.00036621094,
+			["LastInstanceName"] = "The Maelstrom",
+			["RealtimeWindows"] = {
+				["Realtime_!RAID_DAMAGE"] = {
+					"!RAID", -- [1]
+					"DAMAGE", -- [2]
+					"Raid DPS", -- [3]
+					0, -- [4]
+					0, -- [5]
+					199.999908447266, -- [6]
+					232.000030517578, -- [7]
+					false, -- [8]
+				},
+			},
+			["CurDataSet"] = "OverallData",
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = -480,
+			["GraphWindowX"] = 0,
+		},
+	},
+}
