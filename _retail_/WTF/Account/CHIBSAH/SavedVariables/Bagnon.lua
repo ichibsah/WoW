@@ -12,12 +12,11 @@ Bagnon_Sets = {
 	},
 	["soulColor"] = {
 	},
-	["fridgeColor"] = {
-	},
+	["locked"] = true,
 	["displayBlizzard"] = true,
-	["closeVendor"] = true,
 	["quiverColor"] = {
 	},
+	["closeVendor"] = true,
 	["closeCombat"] = true,
 	["reagentColor"] = {
 	},
@@ -42,6 +41,23 @@ Bagnon_Sets = {
 			},
 			["reverseBags"] = false,
 			["columns"] = 8,
+			["brokerObject"] = "SilverDragon",
+			["spacing"] = 0,
+			["alpha"] = 1,
+			["itemScale"] = 1.15,
+			["bagBreak"] = false,
+			["x"] = -91.95926962944986,
+			["search"] = true,
+			["y"] = -39.28503900644728,
+			["reverseSlots"] = false,
+			["hiddenRules"] = {
+				["contain"] = false,
+			},
+			["color"] = {
+				0.09803921568627451, -- [1]
+				0.1215686274509804, -- [2]
+				0.1647058823529412, -- [3]
+			},
 			["rules"] = {
 				"all", -- [1]
 				"all/all", -- [2]
@@ -71,23 +87,6 @@ Bagnon_Sets = {
 				"scrap", -- [26]
 				"contain", -- [27]
 			},
-			["color"] = {
-				0.09803921568627451, -- [1]
-				0.1215686274509804, -- [2]
-				0.1647058823529412, -- [3]
-			},
-			["alpha"] = 1,
-			["hiddenRules"] = {
-				["contain"] = false,
-			},
-			["bagBreak"] = false,
-			["x"] = -91.9592999265501,
-			["search"] = true,
-			["y"] = -39.28496912653964,
-			["reverseSlots"] = false,
-			["itemScale"] = 1.15,
-			["spacing"] = 0,
-			["brokerObject"] = "SilverDragon",
 		},
 		["vault"] = {
 			["y"] = 0,
@@ -96,10 +95,6 @@ Bagnon_Sets = {
 			["hiddenBags"] = {
 			},
 			["color"] = {
-			},
-			["borderColor"] = {
-			},
-			["hiddenRules"] = {
 			},
 			["rules"] = {
 				"all", -- [1]
@@ -128,6 +123,10 @@ Bagnon_Sets = {
 				"contain/all", -- [24]
 				"scrap", -- [25]
 				"misc/all", -- [26]
+			},
+			["hiddenRules"] = {
+			},
+			["borderColor"] = {
 			},
 		},
 		["guild"] = {
@@ -166,14 +165,14 @@ Bagnon_Sets = {
 			},
 			["hiddenRules"] = {
 			},
-			["y"] = -292.4996948242188,
+			["y"] = -292.4995727539063,
 			["x"] = 239.6229858398438,
 			["borderColor"] = {
 			},
-			["brokerObject"] = "Auc-Util-AutoMagic",
-			["alpha"] = 1,
-			["scale"] = 1,
 			["itemScale"] = 1,
+			["scale"] = 1,
+			["alpha"] = 1,
+			["brokerObject"] = "Auc-Util-AutoMagic",
 		},
 		["bank"] = {
 			["exclusiveReagent"] = false,
@@ -219,15 +218,14 @@ Bagnon_Sets = {
 			["x"] = 139.9999237060547,
 			["borderColor"] = {
 			},
-			["showBags"] = true,
-			["color"] = {
-			},
 			["hiddenRules"] = {
+			},
+			["color"] = {
 			},
 		},
 	},
 	["glowAlpha"] = 0.5,
-	["mineColor"] = {
+	["enchantColor"] = {
 	},
 	["keyColor"] = {
 	},
@@ -235,14 +233,15 @@ Bagnon_Sets = {
 	},
 	["profiles"] = {
 	},
-	["displayGuildbank"] = true,
-	["countGuild"] = true,
-	["version"] = "9.0.1",
-	["displayGems"] = true,
+	["mineColor"] = {
+	},
 	["herbColor"] = {
 	},
-	["enchantColor"] = {
-	},
+	["version"] = "9.0.3",
+	["displayGems"] = true,
+	["countGuild"] = true,
+	["displayGuildbank"] = true,
 	["closeVehicle"] = true,
-	["locked"] = true,
+	["fridgeColor"] = {
+	},
 }

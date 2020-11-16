@@ -2,65 +2,65 @@
 ThreatPlatesDB = {
 	["char"] = {
 		["Yesu - Sporeggar"] = {
-			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
+			["welcome"] = true,
 		},
 		["Remraf - Sporeggar"] = {
-			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
+			["welcome"] = true,
 		},
 		["Oenomaus - Sporeggar"] = {
-			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				true, -- [2]
 				false, -- [3]
 			},
+			["welcome"] = true,
 		},
 		["Teldrasil - Sporeggar"] = {
+			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				nil, -- [2]
 				true, -- [3]
 				false, -- [4]
 			},
-			["welcome"] = true,
 		},
 		["Nikilahi - Sporeggar"] = {
+			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
-			["welcome"] = true,
 		},
 		["Xelle - Sporeggar"] = {
-			["welcome"] = true,
 			["spec"] = {
 				[3] = true,
 			},
+			["welcome"] = true,
 		},
 		["Youmie - Sporeggar"] = {
+			["welcome"] = true,
 			["spec"] = {
 				true, -- [1]
 				[3] = false,
 			},
-			["welcome"] = true,
 		},
 		["Sarkodie - Sporeggar"] = {
-			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				true, -- [2]
 			},
+			["welcome"] = true,
 		},
 		["Leleti - Sporeggar"] = {
-			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
+			["welcome"] = true,
 		},
 		["Mengsk - Sporeggar"] = {
 			["welcome"] = true,
@@ -72,89 +72,93 @@ ThreatPlatesDB = {
 			},
 		},
 		["Shenglin - Sporeggar"] = {
-			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
+			["welcome"] = true,
 		},
 		["Krixus - Sporeggar"] = {
+			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
-			["welcome"] = true,
 		},
 		["Motsi - Sporeggar"] = {
-			["welcome"] = true,
 			["spec"] = {
 				true, -- [1]
 				[3] = false,
 			},
+			["welcome"] = true,
 		},
 		["Rachel - Sporeggar"] = {
+			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				nil, -- [2]
 				true, -- [3]
 				false, -- [4]
 			},
-			["welcome"] = true,
 		},
 		["Bleck - Sporeggar"] = {
-			["welcome"] = true,
-			["spec"] = {
-				[3] = false,
-			},
-		},
-		["Barrymore - Sporeggar"] = {
 			["spec"] = {
 				[3] = false,
 			},
 			["welcome"] = true,
 		},
-		["Jeyliah - Sporeggar"] = {
-			["welcome"] = true,
-			["spec"] = {
-				nil, -- [1]
-				nil, -- [2]
-				true, -- [3]
-				false, -- [4]
-			},
-		},
-		["Omarh - Sporeggar"] = {
-			["spec"] = {
-				nil, -- [1]
-				true, -- [2]
-				false, -- [3]
-			},
-			["welcome"] = true,
-		},
-		["Classtrialol - Sporeggar"] = {
-			["spec"] = {
-				[3] = false,
-			},
-			["welcome"] = true,
-		},
-		["Corlin - Sporeggar"] = {
+		["Krolraw - Sporeggar"] = {
 			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
 		},
 		["Krivette - Sporeggar"] = {
-			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				nil, -- [2]
 				true, -- [3]
 				false, -- [4]
 			},
+			["welcome"] = true,
 		},
-		["Krolraw - Sporeggar"] = {
+		["Omarh - Sporeggar"] = {
+			["welcome"] = true,
+			["spec"] = {
+				nil, -- [1]
+				true, -- [2]
+				false, -- [3]
+			},
+		},
+		["Corlin - Sporeggar"] = {
 			["spec"] = {
 				[3] = false,
 			},
 			["welcome"] = true,
 		},
+		["Classtrialol - Sporeggar"] = {
+			["welcome"] = true,
+			["spec"] = {
+				[3] = false,
+			},
+		},
+		["Jeyliah - Sporeggar"] = {
+			["spec"] = {
+				nil, -- [1]
+				nil, -- [2]
+				true, -- [3]
+				false, -- [4]
+			},
+			["welcome"] = true,
+		},
+		["Barrymore - Sporeggar"] = {
+			["welcome"] = true,
+			["spec"] = {
+				[3] = false,
+			},
+		},
+	},
+	["global"] = {
+		["version"] = "10.0.3",
+		["CheckNewLookAndFeel"] = true,
 	},
 	["profileKeys"] = {
 		["Yesu - Sporeggar"] = "Default",
@@ -172,22 +176,19 @@ ThreatPlatesDB = {
 		["Motsi - Sporeggar"] = "Default",
 		["Rachel - Sporeggar"] = "Default",
 		["Bleck - Sporeggar"] = "Default",
-		["Barrymore - Sporeggar"] = "Default",
-		["Jeyliah - Sporeggar"] = "Default",
-		["Omarh - Sporeggar"] = "Default",
-		["Classtrialol - Sporeggar"] = "Default",
-		["Corlin - Sporeggar"] = "Default",
-		["Krivette - Sporeggar"] = "Default",
 		["Krolraw - Sporeggar"] = "Default",
-	},
-	["global"] = {
-		["CheckNewLookAndFeel"] = true,
-		["version"] = "10.0.0",
+		["Krivette - Sporeggar"] = "Default",
+		["Omarh - Sporeggar"] = "Default",
+		["Corlin - Sporeggar"] = "Default",
+		["Classtrialol - Sporeggar"] = "Default",
+		["Jeyliah - Sporeggar"] = "Default",
+		["Barrymore - Sporeggar"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["uniqueSettings"] = {
-				nil, -- [1]
+				{
+				}, -- [1]
 				{
 				}, -- [2]
 				{
@@ -214,32 +215,40 @@ ThreatPlatesDB = {
 				}, -- [13]
 				{
 				}, -- [14]
-				nil, -- [15]
+				{
+				}, -- [15]
 				{
 				}, -- [16]
 				{
 				}, -- [17]
-				nil, -- [18]
-				nil, -- [19]
+				{
+				}, -- [18]
+				{
+				}, -- [19]
 				{
 				}, -- [20]
 				{
 				}, -- [21]
-				nil, -- [22]
-				nil, -- [23]
+				{
+				}, -- [22]
+				{
+				}, -- [23]
 				{
 				}, -- [24]
 				{
 				}, -- [25]
-				nil, -- [26]
+				{
+				}, -- [26]
 				{
 				}, -- [27]
 				{
 				}, -- [28]
 				{
 				}, -- [29]
-				nil, -- [30]
-				nil, -- [31]
+				{
+				}, -- [30]
+				{
+				}, -- [31]
 				{
 				}, -- [32]
 			},

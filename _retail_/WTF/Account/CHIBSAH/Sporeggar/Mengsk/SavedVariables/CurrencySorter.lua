@@ -35,8 +35,8 @@ Cs_order = {
 		["name"] = "Cataclysm",
 		["stop"] = 36,
 	}, -- [7]
-	["NumCat"] = 7,
 	["Nummax"] = 36,
+	["NumCat"] = 7,
 	["Firsttime"] = 1,
 	["sixone"] = true,
 }

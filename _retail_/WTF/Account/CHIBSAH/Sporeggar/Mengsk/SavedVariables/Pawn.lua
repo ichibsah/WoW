@@ -1,6 +1,9 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0401,
+	["LastVersion"] = 2.0402,
+	["LastPlayerFullName"] = "Mengsk-Sporeggar",
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 167408,
@@ -83,9 +86,6 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:171155::::::::50:102::25:4:6348:1488:4786:5843::::|h[Notorious Gladiator's Staff]|h|r",
 		}, -- [16]
 	},
-	["AutoSelectScales"] = true,
-	["UpgradeTracking"] = false,
-	["LastPlayerFullName"] = "Mengsk-Sporeggar",
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {

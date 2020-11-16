@@ -27,15 +27,14 @@ RematchSettings = {
 	["QueueSortOrder"] = 1,
 	["XPos"] = 675,
 	["PromptWithMinimized"] = false,
-	["FavoriteFilters"] = {
-	},
+	["AllowHiddenPetsDefaulted"] = true,
 	["LevelingQueue"] = {
 	},
 	["Sort"] = {
 		["Order"] = 1,
 		["FavoritesFirst"] = true,
 	},
-	["AllowHiddenPetsDefaulted"] = true,
+	["JournalPanel"] = 1,
 	["BackupCount"] = 0,
 	["TeamGroups"] = {
 		{
@@ -43,7 +42,7 @@ RematchSettings = {
 			"Interface\\Icons\\PetJournalPortrait", -- [2]
 		}, -- [1]
 	},
-	["SpecialSlots"] = {
+	["QueueSanctuary"] = {
 	},
 	["Filters"] = {
 		["Other"] = {
@@ -52,33 +51,33 @@ RematchSettings = {
 		},
 		["Script"] = {
 		},
-		["Moveset"] = {
+		["Types"] = {
 		},
-		["Tough"] = {
+		["Favorite"] = {
 		},
-		["Level"] = {
+		["Collected"] = {
+		},
+		["Strong"] = {
 		},
 		["Similar"] = {
-		},
-		["Sources"] = {
 		},
 		["Breed"] = {
 		},
 		["Rarity"] = {
 		},
-		["Strong"] = {
+		["Sources"] = {
 		},
-		["Collected"] = {
+		["Level"] = {
 		},
-		["Favorite"] = {
+		["Tough"] = {
 		},
-		["Types"] = {
+		["Moveset"] = {
 		},
 	},
 	["ExpandedOptHeaders"] = {
 	},
-	["SelectedTab"] = 1,
-	["QueueSanctuary"] = {
+	["CustomScaleValue"] = 100,
+	["SpecialSlots"] = {
 	},
 	["CollapsedOptHeaders"] = {
 	},
@@ -91,9 +90,10 @@ RematchSettings = {
 	["NotifiedExperimental"] = true,
 	["CornerPos"] = "BOTTOMLEFT",
 	["JournalUsed"] = true,
-	["JournalPanel"] = 1,
+	["FavoriteFilters"] = {
+	},
 	["YPos"] = 237.999938964844,
-	["CustomScaleValue"] = 100,
+	["SelectedTab"] = 1,
 	["PetNotes"] = {
 	},
 }

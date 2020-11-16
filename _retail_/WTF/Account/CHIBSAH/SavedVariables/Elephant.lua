@@ -11,22 +11,22 @@ ElephantDB = {
 		["Sarkodie - Sporeggar"] = "Sarkodie - Sporeggar",
 		["Kethrry - Jaedenar"] = "Kethrry - Jaedenar",
 		["Mengsk - Sporeggar"] = "Mengsk - Sporeggar",
-		["Barrymore - Sporeggar"] = "Barrymore - Sporeggar",
+		["Krolraw - Sporeggar"] = "Krolraw - Sporeggar",
+		["Krivette - Sporeggar"] = "Krivette - Sporeggar",
 		["Shenglin - Sporeggar"] = "Shenglin - Sporeggar",
-		["Jeyliah - Sporeggar"] = "Jeyliah - Sporeggar",
 		["Krixus - Sporeggar"] = "Krixus - Sporeggar",
 		["Motsi - Sporeggar"] = "Motsi - Sporeggar",
 		["Rachel - Sporeggar"] = "Rachel - Sporeggar",
-		["Classtrialol - Sporeggar"] = "Classtrialol - Sporeggar",
-		["Bleck - Sporeggar"] = "Bleck - Sporeggar",
-		["Leleti - Sporeggar"] = "Leleti - Sporeggar",
-		["Omarh - Sporeggar"] = "Omarh - Sporeggar",
-		["Kibsaa - Jaedenar"] = "Kibsaa - Jaedenar",
-		["Kikipop - Jaedenar"] = "Kikipop - Jaedenar",
-		["Kalapitu - Jaedenar"] = "Kalapitu - Jaedenar",
 		["Corlin - Sporeggar"] = "Corlin - Sporeggar",
-		["Krivette - Sporeggar"] = "Krivette - Sporeggar",
-		["Krolraw - Sporeggar"] = "Krolraw - Sporeggar",
+		["Bleck - Sporeggar"] = "Bleck - Sporeggar",
+		["Kalapitu - Jaedenar"] = "Kalapitu - Jaedenar",
+		["Kikipop - Jaedenar"] = "Kikipop - Jaedenar",
+		["Kibsaa - Jaedenar"] = "Kibsaa - Jaedenar",
+		["Omarh - Sporeggar"] = "Omarh - Sporeggar",
+		["Leleti - Sporeggar"] = "Leleti - Sporeggar",
+		["Classtrialol - Sporeggar"] = "Classtrialol - Sporeggar",
+		["Jeyliah - Sporeggar"] = "Jeyliah - Sporeggar",
+		["Barrymore - Sporeggar"] = "Barrymore - Sporeggar",
 	},
 	["profiles"] = {
 		["Yesu - Sporeggar"] = {
@@ -49,11 +49,11 @@ ElephantDB = {
 		},
 		["Mengsk - Sporeggar"] = {
 		},
-		["Barrymore - Sporeggar"] = {
+		["Krolraw - Sporeggar"] = {
+		},
+		["Krivette - Sporeggar"] = {
 		},
 		["Shenglin - Sporeggar"] = {
-		},
-		["Jeyliah - Sporeggar"] = {
 		},
 		["Krixus - Sporeggar"] = {
 		},
@@ -61,25 +61,25 @@ ElephantDB = {
 		},
 		["Rachel - Sporeggar"] = {
 		},
-		["Classtrialol - Sporeggar"] = {
+		["Corlin - Sporeggar"] = {
 		},
 		["Bleck - Sporeggar"] = {
 		},
-		["Leleti - Sporeggar"] = {
-		},
-		["Omarh - Sporeggar"] = {
-		},
-		["Kibsaa - Jaedenar"] = {
+		["Kalapitu - Jaedenar"] = {
 		},
 		["Kikipop - Jaedenar"] = {
 		},
-		["Kalapitu - Jaedenar"] = {
+		["Kibsaa - Jaedenar"] = {
 		},
-		["Corlin - Sporeggar"] = {
+		["Omarh - Sporeggar"] = {
 		},
-		["Krivette - Sporeggar"] = {
+		["Leleti - Sporeggar"] = {
 		},
-		["Krolraw - Sporeggar"] = {
+		["Classtrialol - Sporeggar"] = {
+		},
+		["Jeyliah - Sporeggar"] = {
+		},
+		["Barrymore - Sporeggar"] = {
 		},
 	},
 }

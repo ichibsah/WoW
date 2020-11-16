@@ -16,37 +16,37 @@ TomTomDB = {
 		["Kikipop - Jaedenar"] = "Default",
 		["Latunter - Jaedenar"] = "Default",
 		["Mona - Jaedenar"] = "Default",
-		["Krolraw - Sporeggar"] = "Default",
+		["Ghrimme - Lightbringer"] = "Default",
 		["Leanan - Jaedenar"] = "Default",
 		["Fairy - Jaedenar"] = "Default",
 		["Oenomaus - Sporeggar"] = "Default",
 		["Teldrasil - Sporeggar"] = "Default",
-		["Krivette - Sporeggar"] = "Default",
+		["Shenglin - Sporeggar"] = "Default",
 		["Nikilahi - Sporeggar"] = "Default",
-		["Corlin - Sporeggar"] = "Default",
-		["Barrymore - Sporeggar"] = "Default",
+		["Tosel - Jaedenar"] = "Default",
+		["Exaudi - Stormscale"] = "Default",
 		["Sarkodie - Sporeggar"] = "Default",
 		["Kethrry - Jaedenar"] = "Default",
 		["Qssen - Lightbringer"] = "Default",
-		["Krixus - Sporeggar"] = "Default",
+		["Jeyliah - Sporeggar"] = "Default",
 		["Fonida - Jaedenar"] = "Default",
 		["Kalapitu - Jaedenar"] = "Default",
 		["Manrida - Jaedenar"] = "Default",
 		["Osofu - Stormscale"] = "Default",
 		["Piesie - Argent Dawn"] = "Default",
-		["Fonira - Jaedenar"] = "Default",
+		["Krixus - Sporeggar"] = "Default",
 		["Motsi - Sporeggar"] = "Default",
 		["Yesu - Sporeggar"] = "Default",
-		["Kibsaa - Jaedenar"] = "Default",
-		["Bleck - Sporeggar"] = "Default",
 		["Stringer - Sporeggar"] = "Default",
+		["Bleck - Sporeggar"] = "Default",
+		["Kibsaa - Jaedenar"] = "Default",
 		["Snakefina - Jaedenar"] = "Default",
-		["Jeyliah - Sporeggar"] = "Default",
+		["Fonira - Jaedenar"] = "Default",
 		["Omarh - Sporeggar"] = "Default",
-		["Exaudi - Stormscale"] = "Default",
-		["Tosel - Jaedenar"] = "Default",
-		["Shenglin - Sporeggar"] = "Default",
-		["Ghrimme - Lightbringer"] = "Default",
+		["Barrymore - Sporeggar"] = "Default",
+		["Corlin - Sporeggar"] = "Default",
+		["Krivette - Sporeggar"] = "Default",
+		["Krolraw - Sporeggar"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -98,13 +98,13 @@ TomTomWaypointsM = {
 		["Motsi - Sporeggar"] = "Motsi - Sporeggar",
 		["Rachel - Sporeggar"] = "Rachel - Sporeggar",
 		["Bleck - Sporeggar"] = "Bleck - Sporeggar",
-		["Barrymore - Sporeggar"] = "Barrymore - Sporeggar",
-		["Jeyliah - Sporeggar"] = "Jeyliah - Sporeggar",
-		["Omarh - Sporeggar"] = "Omarh - Sporeggar",
-		["Krivette - Sporeggar"] = "Krivette - Sporeggar",
-		["Classtrialol - Sporeggar"] = "Classtrialol - Sporeggar",
-		["Youmie - Sporeggar"] = "Youmie - Sporeggar",
 		["Krolraw - Sporeggar"] = "Krolraw - Sporeggar",
+		["Youmie - Sporeggar"] = "Youmie - Sporeggar",
+		["Omarh - Sporeggar"] = "Omarh - Sporeggar",
+		["Classtrialol - Sporeggar"] = "Classtrialol - Sporeggar",
+		["Krivette - Sporeggar"] = "Krivette - Sporeggar",
+		["Jeyliah - Sporeggar"] = "Jeyliah - Sporeggar",
+		["Barrymore - Sporeggar"] = "Barrymore - Sporeggar",
 	},
 	["profiles"] = {
 		["Yesu - Sporeggar"] = {
@@ -130,9 +130,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["world"] = {
-						},
 						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["minimap"] = true,
@@ -155,9 +155,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["world"] = {
-						},
 						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["minimap"] = true,
@@ -394,17 +394,17 @@ TomTomWaypointsM = {
 					["minimap"] = true,
 					["world"] = true,
 				},
-				["863:727869868.2785:484021365.64255:Marshdwellers"] = {
+				["863:346687793.73169:843807220.45898:Unaccounted For"] = {
 					863, -- [1]
-					0.7278698682785034, -- [2]
-					0.4840213656425476, -- [3]
+					0.3466877937316895, -- [2]
+					0.8438072204589844, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
-					["desc"] = "Marshdwellers",
+					["desc"] = "Unaccounted For",
 					["silent"] = true,
 					["cleardistance"] = 10,
-					["title"] = "Marshdwellers",
+					["title"] = "Unaccounted For",
 					["from"] = "Anon",
 					["callbacks"] = {
 						["distance"] = {
@@ -487,17 +487,17 @@ TomTomWaypointsM = {
 					["minimap"] = true,
 					["world"] = true,
 				},
-				["863:346687793.73169:843807220.45898:Unaccounted For"] = {
+				["863:727869868.2785:484021365.64255:Marshdwellers"] = {
 					863, -- [1]
-					0.3466877937316895, -- [2]
-					0.8438072204589844, -- [3]
+					0.7278698682785034, -- [2]
+					0.4840213656425476, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
-					["desc"] = "Unaccounted For",
+					["desc"] = "Marshdwellers",
 					["silent"] = true,
 					["cleardistance"] = 10,
-					["title"] = "Unaccounted For",
+					["title"] = "Marshdwellers",
 					["from"] = "Anon",
 					["callbacks"] = {
 						["distance"] = {
@@ -551,17 +551,17 @@ TomTomWaypointsM = {
 					["minimap"] = true,
 					["world"] = true,
 				},
-				["895:845282435.41718:788887023.92578:Freehold: Dread Captain Vandegrim"] = {
+				["895:802124261.85608:477453649.04404:Smaller Haulers"] = {
 					895, -- [1]
-					0.8452824354171753, -- [2]
-					0.7888870239257812, -- [3]
+					0.8021242618560791, -- [2]
+					0.4774536490440369, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
-					["desc"] = "Freehold: Dread Captain Vandegrim",
+					["desc"] = "Smaller Haulers",
 					["silent"] = true,
 					["cleardistance"] = 10,
-					["title"] = "Freehold: Dread Captain Vandegrim",
+					["title"] = "Smaller Haulers",
 					["from"] = "Anon",
 					["callbacks"] = {
 						["distance"] = {
@@ -644,6 +644,29 @@ TomTomWaypointsM = {
 					["minimap"] = true,
 					["world"] = true,
 				},
+				["895:626524329.18549:231787562.3703:The Winged Typhoon"] = {
+					895, -- [1]
+					0.6265243291854858, -- [2]
+					0.2317875623703003, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "The Winged Typhoon",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "The Winged Typhoon",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
 				["895:577296972.27478:467740356.92215:Azerite Mining"] = {
 					895, -- [1]
 					0.5772969722747803, -- [2]
@@ -670,29 +693,6 @@ TomTomWaypointsM = {
 							["onclick"] = nil --[[ skipped inline function ]],
 							["tooltip_update"] = nil --[[ skipped inline function ]],
 							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["895:626524329.18549:231787562.3703:The Winged Typhoon"] = {
-					895, -- [1]
-					0.6265243291854858, -- [2]
-					0.2317875623703003, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "The Winged Typhoon",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "The Winged Typhoon",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["world"] = {
-						},
-						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -729,17 +729,17 @@ TomTomWaypointsM = {
 					["minimap"] = true,
 					["world"] = true,
 				},
-				["895:802124261.85608:477453649.04404:Smaller Haulers"] = {
+				["895:845282435.41718:788887023.92578:Freehold: Dread Captain Vandegrim"] = {
 					895, -- [1]
-					0.8021242618560791, -- [2]
-					0.4774536490440369, -- [3]
+					0.8452824354171753, -- [2]
+					0.7888870239257812, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
-					["desc"] = "Smaller Haulers",
+					["desc"] = "Freehold: Dread Captain Vandegrim",
 					["silent"] = true,
 					["cleardistance"] = 10,
-					["title"] = "Smaller Haulers",
+					["title"] = "Freehold: Dread Captain Vandegrim",
 					["from"] = "Anon",
 					["callbacks"] = {
 						["distance"] = {
@@ -919,17 +919,17 @@ TomTomWaypointsM = {
 					["minimap"] = true,
 					["world"] = true,
 				},
-				["862:769963145.25604:278847873.21091:Twisted Child of Rezan"] = {
+				["862:666709363.46054:322097539.90173:Bramblewing"] = {
 					862, -- [1]
-					0.7699631452560425, -- [2]
-					0.278847873210907, -- [3]
+					0.6667093634605408, -- [2]
+					0.3220975399017334, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
-					["desc"] = "Twisted Child of Rezan",
+					["desc"] = "Bramblewing",
 					["silent"] = true,
 					["cleardistance"] = 10,
-					["title"] = "Twisted Child of Rezan",
+					["title"] = "Bramblewing",
 					["from"] = "Anon",
 					["callbacks"] = {
 						["distance"] = {
@@ -1012,17 +1012,17 @@ TomTomWaypointsM = {
 					["minimap"] = true,
 					["world"] = true,
 				},
-				["862:666709363.46054:322097539.90173:Bramblewing"] = {
+				["862:769963145.25604:278847873.21091:Twisted Child of Rezan"] = {
 					862, -- [1]
-					0.6667093634605408, -- [2]
-					0.3220975399017334, -- [3]
+					0.7699631452560425, -- [2]
+					0.278847873210907, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
-					["desc"] = "Bramblewing",
+					["desc"] = "Twisted Child of Rezan",
 					["silent"] = true,
 					["cleardistance"] = 10,
-					["title"] = "Bramblewing",
+					["title"] = "Twisted Child of Rezan",
 					["from"] = "Anon",
 					["callbacks"] = {
 						["distance"] = {
@@ -1140,17 +1140,17 @@ TomTomWaypointsM = {
 				},
 			},
 			[896] = {
-				["896:361336112.0224:108910620.21255:Blighted Monstrosity"] = {
+				["896:607784926.89133:473355174.06464:A Final Rest"] = {
 					896, -- [1]
-					0.3613361120223999, -- [2]
-					0.1089106202125549, -- [3]
+					0.6077849268913269, -- [2]
+					0.4733551740646362, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
-					["desc"] = "Blighted Monstrosity",
+					["desc"] = "A Final Rest",
 					["silent"] = true,
 					["cleardistance"] = 10,
-					["title"] = "Blighted Monstrosity",
+					["title"] = "A Final Rest",
 					["from"] = "Anon",
 					["callbacks"] = {
 						["distance"] = {
@@ -1202,17 +1202,17 @@ TomTomWaypointsM = {
 					["minimap"] = true,
 					["world"] = true,
 				},
-				["896:607784926.89133:473355174.06464:A Final Rest"] = {
+				["896:361336112.0224:108910620.21255:Blighted Monstrosity"] = {
 					896, -- [1]
-					0.6077849268913269, -- [2]
-					0.4733551740646362, -- [3]
+					0.3613361120223999, -- [2]
+					0.1089106202125549, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
-					["desc"] = "A Final Rest",
+					["desc"] = "Blighted Monstrosity",
 					["silent"] = true,
 					["cleardistance"] = 10,
-					["title"] = "A Final Rest",
+					["title"] = "Blighted Monstrosity",
 					["from"] = "Anon",
 					["callbacks"] = {
 						["distance"] = {
@@ -1231,287 +1231,6 @@ TomTomWaypointsM = {
 						},
 					},
 					["minimap"] = true,
-					["world"] = true,
-				},
-			},
-			[1355] = {
-				["1355:416433930.39703:236835181.7131:Champion Kyx'zhul the Deepspeaker"] = {
-					1355, -- [1]
-					0.4164339303970337, -- [2]
-					0.2368351817131043, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Champion Kyx'zhul the Deepspeaker",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Champion Kyx'zhul the Deepspeaker",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["1355:774499416.35132:356395602.22626:The Drowned Oracles"] = {
-					1355, -- [1]
-					0.7744994163513184, -- [2]
-					0.3563956022262573, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "The Drowned Oracles",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "The Drowned Oracles",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["1355:839218497.27631:359560430.0499:The Soulbinder"] = {
-					1355, -- [1]
-					0.8392184972763062, -- [2]
-					0.3595604300498962, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "The Soulbinder",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "The Soulbinder",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["1355:659599542.6178:236835181.7131:Deepcoil Experiments"] = {
-					1355, -- [1]
-					0.6595995426177979, -- [2]
-					0.2368351817131043, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Deepcoil Experiments",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Deepcoil Experiments",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["1355:426047980.78537:415120899.67728:Starseeker of the Shirakess"] = {
-					1355, -- [1]
-					0.4260479807853699, -- [2]
-					0.4151208996772766, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Starseeker of the Shirakess",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Starseeker of the Shirakess",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["1355:648813009.26208:366593420.50552:Infestation of Madness"] = {
-					1355, -- [1]
-					0.648813009262085, -- [2]
-					0.3665934205055237, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Infestation of Madness",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Infestation of Madness",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["1355:418309807.7774:413362622.26105:Depopulation Effort"] = {
-					1355, -- [1]
-					0.4183098077774048, -- [2]
-					0.4133626222610474, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Depopulation Effort",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Depopulation Effort",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["1355:678593158.72192:211164832.11517:Deepcoil Cleansing"] = {
-					1355, -- [1]
-					0.6785931587219238, -- [2]
-					0.2111648321151733, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Deepcoil Cleansing",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Deepcoil Cleansing",
-					["from"] = "Anon",
-					["callbacks"] = {
-						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
-			[84] = {
-				["84:20000000:30000000:2 3 weeks maybe"] = {
-					84, -- [1]
-					0.02, -- [2]
-					0.03, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["minimap"] = true,
-					["cleardistance"] = 10,
-					["title"] = "2 3 weeks maybe",
-					["from"] = "TomTom/AWTCZ",
-					["callbacks"] = {
-						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-					},
 					["world"] = true,
 				},
 			},
@@ -1686,9 +1405,323 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
+						["minimap"] = {
+						},
 						["world"] = {
 						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
+			[84] = {
+				["84:20000000:30000000:2 3 weeks maybe"] = {
+					84, -- [1]
+					0.02, -- [2]
+					0.03, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "2 3 weeks maybe",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "2 3 weeks maybe",
+					["from"] = "TomTom/AWTCZ",
+					["callbacks"] = {
+						["distance"] = {
+							[10] = nil --[[ skipped inline function ]],
+							[15] = nil --[[ skipped inline function ]],
+						},
+						["world"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
 						["minimap"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["84:5000000000:0:500,000 euros a week if they dont remove them."] = {
+					84, -- [1]
+					5, -- [2]
+					0, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "500,000 euros a week if they dont remove them.",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "500,000 euros a week if they dont remove them.",
+					["from"] = "TomTom/AWTCZ",
+					["callbacks"] = {
+						["distance"] = {
+							[10] = nil --[[ skipped inline function ]],
+							[15] = nil --[[ skipped inline function ]],
+						},
+						["world"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+						["minimap"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
+			[1355] = {
+				["1355:416433930.39703:236835181.7131:Champion Kyx'zhul the Deepspeaker"] = {
+					1355, -- [1]
+					0.4164339303970337, -- [2]
+					0.2368351817131043, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Champion Kyx'zhul the Deepspeaker",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Champion Kyx'zhul the Deepspeaker",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+							[10] = nil --[[ skipped inline function ]],
+							[15] = nil --[[ skipped inline function ]],
+						},
+						["world"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+						["minimap"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["1355:678593158.72192:211164832.11517:Deepcoil Cleansing"] = {
+					1355, -- [1]
+					0.6785931587219238, -- [2]
+					0.2111648321151733, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Deepcoil Cleansing",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Deepcoil Cleansing",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+							[10] = nil --[[ skipped inline function ]],
+							[15] = nil --[[ skipped inline function ]],
+						},
+						["world"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+						["minimap"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["1355:418309807.7774:413362622.26105:Depopulation Effort"] = {
+					1355, -- [1]
+					0.4183098077774048, -- [2]
+					0.4133626222610474, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Depopulation Effort",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Depopulation Effort",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+							[10] = nil --[[ skipped inline function ]],
+							[15] = nil --[[ skipped inline function ]],
+						},
+						["world"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+						["minimap"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["1355:659599542.6178:236835181.7131:Deepcoil Experiments"] = {
+					1355, -- [1]
+					0.6595995426177979, -- [2]
+					0.2368351817131043, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Deepcoil Experiments",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Deepcoil Experiments",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+							[10] = nil --[[ skipped inline function ]],
+							[15] = nil --[[ skipped inline function ]],
+						},
+						["world"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+						["minimap"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["1355:426047980.78537:415120899.67728:Starseeker of the Shirakess"] = {
+					1355, -- [1]
+					0.4260479807853699, -- [2]
+					0.4151208996772766, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Starseeker of the Shirakess",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Starseeker of the Shirakess",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+							[10] = nil --[[ skipped inline function ]],
+							[15] = nil --[[ skipped inline function ]],
+						},
+						["world"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+						["minimap"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["1355:648813009.26208:366593420.50552:Infestation of Madness"] = {
+					1355, -- [1]
+					0.648813009262085, -- [2]
+					0.3665934205055237, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Infestation of Madness",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Infestation of Madness",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+							[10] = nil --[[ skipped inline function ]],
+							[15] = nil --[[ skipped inline function ]],
+						},
+						["world"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+						["minimap"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["1355:839218497.27631:359560430.0499:The Soulbinder"] = {
+					1355, -- [1]
+					0.8392184972763062, -- [2]
+					0.3595604300498962, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "The Soulbinder",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "The Soulbinder",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+							[10] = nil --[[ skipped inline function ]],
+							[15] = nil --[[ skipped inline function ]],
+						},
+						["world"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+						["minimap"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["1355:774499416.35132:356395602.22626:The Drowned Oracles"] = {
+					1355, -- [1]
+					0.7744994163513184, -- [2]
+					0.3563956022262573, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "The Drowned Oracles",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "The Drowned Oracles",
+					["from"] = "Anon",
+					["callbacks"] = {
+						["distance"] = {
+							[10] = nil --[[ skipped inline function ]],
+							[15] = nil --[[ skipped inline function ]],
+						},
+						["world"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+						["minimap"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 					},
 					["minimap"] = true,
@@ -1715,9 +1748,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1740,9 +1773,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -1756,19 +1789,19 @@ TomTomWaypointsM = {
 		},
 		["Bleck - Sporeggar"] = {
 		},
-		["Barrymore - Sporeggar"] = {
-		},
-		["Jeyliah - Sporeggar"] = {
-		},
-		["Omarh - Sporeggar"] = {
-		},
-		["Krivette - Sporeggar"] = {
-		},
-		["Classtrialol - Sporeggar"] = {
+		["Krolraw - Sporeggar"] = {
 		},
 		["Youmie - Sporeggar"] = {
 		},
-		["Krolraw - Sporeggar"] = {
+		["Omarh - Sporeggar"] = {
+		},
+		["Classtrialol - Sporeggar"] = {
+		},
+		["Krivette - Sporeggar"] = {
+		},
+		["Jeyliah - Sporeggar"] = {
+		},
+		["Barrymore - Sporeggar"] = {
 		},
 	},
 }

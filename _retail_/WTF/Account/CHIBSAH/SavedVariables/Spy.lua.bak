@@ -5,18 +5,18 @@ SpyDB = {
 			["Horde"] = {
 				["Corlin"] = {
 				},
-				["Nikilahi"] = {
-				},
 				["Jeyliah"] = {
 				},
 				["Teldrasil"] = {
+				},
+				["Nikilahi"] = {
 				},
 			},
 			["Alliance"] = {
 				["Krivette"] = {
 					["Ohoh-DefiasBrotherhood"] = {
-						["time"] = 1533647698,
 						["name"] = "Ohoh-DefiasBrotherhood",
+						["time"] = 1533647698,
 						["zone"] = "Kul Tiras",
 						["kos"] = 1,
 						["subZone"] = "",
@@ -51,10 +51,10 @@ SpyDB = {
 						["isEnemy"] = true,
 						["mapX"] = 0.5,
 						["isGuess"] = true,
-						["subZone"] = "Lor'danel",
+						["name"] = "Ohoh-DefiasBrotherhood",
 						["level"] = 18,
 						["time"] = 1533647698,
-						["name"] = "Ohoh-DefiasBrotherhood",
+						["subZone"] = "Lor'danel",
 					},
 				},
 				["Mengsk"] = {
@@ -67,44 +67,7 @@ SpyDB = {
 						["added"] = 1533647698,
 					},
 				},
-				["Oenomaus"] = {
-					["Ohoh-DefiasBrotherhood"] = {
-						["zone"] = "Darkshore",
-						["mapY"] = 0.2,
-						["class"] = "DRUID",
-						["added"] = 1533647698,
-						["isEnemy"] = true,
-						["mapX"] = 0.5,
-						["isGuess"] = true,
-						["subZone"] = "Lor'danel",
-						["level"] = 18,
-						["time"] = 1533647698,
-						["name"] = "Ohoh-DefiasBrotherhood",
-					},
-				},
-				["Xelle"] = {
-				},
-				["Barrymore"] = {
-					["Ohoh-DefiasBrotherhood"] = {
-						["added"] = 1533647698,
-					},
-				},
-				["Rachel"] = {
-					["Ohoh-DefiasBrotherhood"] = {
-						["zone"] = "Darkshore",
-						["mapY"] = 0.2,
-						["class"] = "DRUID",
-						["added"] = 1533647698,
-						["isEnemy"] = true,
-						["mapX"] = 0.5,
-						["isGuess"] = true,
-						["name"] = "Ohoh-DefiasBrotherhood",
-						["level"] = 18,
-						["time"] = 1533647698,
-						["subZone"] = "Lor'danel",
-					},
-				},
-				["Motsi"] = {
+				["Bleck"] = {
 				},
 				["Sarkodie"] = {
 					["Ohoh-DefiasBrotherhood"] = {
@@ -115,14 +78,51 @@ SpyDB = {
 						["isEnemy"] = true,
 						["mapX"] = 0.5,
 						["isGuess"] = true,
-						["time"] = 1533647698,
-						["name"] = "Ohoh-DefiasBrotherhood",
-						["level"] = 18,
-						["subZone"] = "Lor'danel",
 						["kos"] = 1,
+						["subZone"] = "Lor'danel",
+						["level"] = 18,
+						["name"] = "Ohoh-DefiasBrotherhood",
+						["time"] = 1533647698,
 					},
 				},
-				["Bleck"] = {
+				["Motsi"] = {
+				},
+				["Rachel"] = {
+					["Ohoh-DefiasBrotherhood"] = {
+						["zone"] = "Darkshore",
+						["mapY"] = 0.2,
+						["class"] = "DRUID",
+						["added"] = 1533647698,
+						["isEnemy"] = true,
+						["mapX"] = 0.5,
+						["isGuess"] = true,
+						["subZone"] = "Lor'danel",
+						["level"] = 18,
+						["time"] = 1533647698,
+						["name"] = "Ohoh-DefiasBrotherhood",
+					},
+				},
+				["Barrymore"] = {
+					["Ohoh-DefiasBrotherhood"] = {
+						["added"] = 1533647698,
+					},
+				},
+				["Xelle"] = {
+				},
+				["Oenomaus"] = {
+					["Ohoh-DefiasBrotherhood"] = {
+						["zone"] = "Darkshore",
+						["mapY"] = 0.2,
+						["class"] = "DRUID",
+						["added"] = 1533647698,
+						["isEnemy"] = true,
+						["mapX"] = 0.5,
+						["isGuess"] = true,
+						["name"] = "Ohoh-DefiasBrotherhood",
+						["level"] = 18,
+						["time"] = 1533647698,
+						["subZone"] = "Lor'danel",
+					},
 				},
 			},
 			["Neutral"] = {
@@ -157,13 +157,13 @@ SpyDB = {
 		["Motsi - Sporeggar"] = "Motsi - Sporeggar",
 		["Rachel - Sporeggar"] = "Rachel - Sporeggar",
 		["Bleck - Sporeggar"] = "Bleck - Sporeggar",
-		["Krolraw - Sporeggar"] = "Krolraw - Sporeggar",
-		["Krivette - Sporeggar"] = "Krivette - Sporeggar",
-		["Omarh - Sporeggar"] = "Omarh - Sporeggar",
-		["Corlin - Sporeggar"] = "Corlin - Sporeggar",
-		["Classtrialol - Sporeggar"] = "Classtrialol - Sporeggar",
-		["Jeyliah - Sporeggar"] = "Jeyliah - Sporeggar",
 		["Barrymore - Sporeggar"] = "Barrymore - Sporeggar",
+		["Jeyliah - Sporeggar"] = "Jeyliah - Sporeggar",
+		["Omarh - Sporeggar"] = "Omarh - Sporeggar",
+		["Classtrialol - Sporeggar"] = "Classtrialol - Sporeggar",
+		["Corlin - Sporeggar"] = "Corlin - Sporeggar",
+		["Krivette - Sporeggar"] = "Krivette - Sporeggar",
+		["Krolraw - Sporeggar"] = "Krolraw - Sporeggar",
 	},
 	["profiles"] = {
 		["Yesu - Sporeggar"] = {
@@ -468,8 +468,8 @@ SpyDB = {
 			},
 			["AppendUnitKoSCheck"] = true,
 		},
-		["Krolraw - Sporeggar"] = {
-			["AppendUnitNameCheck"] = true,
+		["Barrymore - Sporeggar"] = {
+			["MainWindowVis"] = false,
 			["MainWindow"] = {
 				["Position"] = {
 					["h"] = 35,
@@ -483,8 +483,9 @@ SpyDB = {
 				},
 			},
 			["AppendUnitKoSCheck"] = true,
+			["AppendUnitNameCheck"] = true,
 		},
-		["Krivette - Sporeggar"] = {
+		["Jeyliah - Sporeggar"] = {
 			["AppendUnitNameCheck"] = true,
 			["MainWindow"] = {
 				["Position"] = {
@@ -524,22 +525,6 @@ SpyDB = {
 			},
 			["AppendUnitKoSCheck"] = true,
 		},
-		["Corlin - Sporeggar"] = {
-			["AppendUnitNameCheck"] = true,
-			["MainWindow"] = {
-				["Position"] = {
-					["h"] = 35,
-				},
-			},
-			["Colors"] = {
-				["Bar"] = {
-					["Bar Text"] = {
-						["a"] = 1,
-					},
-				},
-			},
-			["AppendUnitKoSCheck"] = true,
-		},
 		["Classtrialol - Sporeggar"] = {
 			["AppendUnitNameCheck"] = true,
 			["MainWindow"] = {
@@ -557,7 +542,7 @@ SpyDB = {
 			["AppendUnitKoSCheck"] = true,
 			["MainWindowVis"] = false,
 		},
-		["Jeyliah - Sporeggar"] = {
+		["Corlin - Sporeggar"] = {
 			["AppendUnitNameCheck"] = true,
 			["MainWindow"] = {
 				["Position"] = {
@@ -573,8 +558,8 @@ SpyDB = {
 			},
 			["AppendUnitKoSCheck"] = true,
 		},
-		["Barrymore - Sporeggar"] = {
-			["MainWindowVis"] = false,
+		["Krivette - Sporeggar"] = {
+			["AppendUnitNameCheck"] = true,
 			["MainWindow"] = {
 				["Position"] = {
 					["h"] = 35,
@@ -588,7 +573,22 @@ SpyDB = {
 				},
 			},
 			["AppendUnitKoSCheck"] = true,
+		},
+		["Krolraw - Sporeggar"] = {
 			["AppendUnitNameCheck"] = true,
+			["MainWindow"] = {
+				["Position"] = {
+					["h"] = 35,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["AppendUnitKoSCheck"] = true,
 		},
 	},
 }

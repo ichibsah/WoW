@@ -1,11 +1,8 @@
 
 DecursiveDB = {
-	["profileKeys"] = {
-		["Krixus - Sporeggar"] = "Default",
-		["Krivette - Sporeggar"] = "Default",
-		["Teldrasil - Sporeggar"] = "Default",
-		["Leleti - Sporeggar"] = "Default",
-		["Mengsk - Sporeggar"] = "Default",
+	["global"] = {
+		["LastExpirationAlert"] = 1584020983,
+		["LastVersionAnnounce"] = 1604151149,
 	},
 	["class"] = {
 		["HUNTER"] = {
@@ -31,10 +28,12 @@ DecursiveDB = {
 			},
 		},
 	},
-	["global"] = {
-		["LastExpirationAlert"] = 1584020983,
-		["LastVersionAnnounce"] = 1602844600,
-		["TocExpiredDetection"] = 1602674781,
+	["profileKeys"] = {
+		["Krixus - Sporeggar"] = "Default",
+		["Mengsk - Sporeggar"] = "Default",
+		["Teldrasil - Sporeggar"] = "Default",
+		["Leleti - Sporeggar"] = "Default",
+		["Krivette - Sporeggar"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

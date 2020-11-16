@@ -6,18 +6,18 @@ BWQDB = {
 		},
 	},
 	["global"] = {
-		["versionCheck"] = "9.0.01",
+		["versionCheck"] = "9.0.02",
 		["profiles"] = {
 			[0] = {
 				["name"] = "Default",
 				["list"] = {
 				},
+				["pin"] = {
+					["centerType"] = 1,
+				},
 				["external"] = {
 					["TomTom"] = {
 					},
-				},
-				["pin"] = {
-					["centerType"] = 1,
 				},
 				["general"] = {
 					["fullScreenButtonPos"] = {
@@ -47,12 +47,12 @@ BWQDB = {
 		["Motsi - Sporeggar"] = "Default",
 		["Rachel - Sporeggar"] = "Default",
 		["Bleck - Sporeggar"] = "Default",
-		["Barrymore - Sporeggar"] = "Default",
-		["Jeyliah - Sporeggar"] = "Default",
-		["Omarh - Sporeggar"] = "Default",
-		["Classtrialol - Sporeggar"] = "Default",
-		["Corlin - Sporeggar"] = "Default",
-		["Krivette - Sporeggar"] = "Default",
 		["Krolraw - Sporeggar"] = "Default",
+		["Krivette - Sporeggar"] = "Default",
+		["Omarh - Sporeggar"] = "Default",
+		["Corlin - Sporeggar"] = "Default",
+		["Classtrialol - Sporeggar"] = "Default",
+		["Jeyliah - Sporeggar"] = "Default",
+		["Barrymore - Sporeggar"] = "Default",
 	},
 }
