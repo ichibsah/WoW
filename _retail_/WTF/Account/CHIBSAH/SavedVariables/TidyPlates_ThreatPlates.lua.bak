@@ -22,13 +22,13 @@ ThreatPlatesDB = {
 			},
 		},
 		["Teldrasil - Sporeggar"] = {
+			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				nil, -- [2]
 				true, -- [3]
 				false, -- [4]
 			},
-			["welcome"] = true,
 		},
 		["Nikilahi - Sporeggar"] = {
 			["spec"] = {
@@ -78,10 +78,10 @@ ThreatPlatesDB = {
 			},
 		},
 		["Krixus - Sporeggar"] = {
+			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
-			["welcome"] = true,
 		},
 		["Motsi - Sporeggar"] = {
 			["welcome"] = true,
@@ -182,7 +182,7 @@ ThreatPlatesDB = {
 	},
 	["global"] = {
 		["CheckNewLookAndFeel"] = true,
-		["version"] = "10.0.1",
+		["version"] = "10.0.5",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -244,9 +244,6 @@ ThreatPlatesDB = {
 				}, -- [32]
 			},
 			["NamePlateFriendlyClickThrough"] = true,
-			["CVarsBackup"] = {
-				["showQuestTrackingTooltips"] = "0",
-			},
 			["settings"] = {
 				["frame"] = {
 					["height"] = 52.875,

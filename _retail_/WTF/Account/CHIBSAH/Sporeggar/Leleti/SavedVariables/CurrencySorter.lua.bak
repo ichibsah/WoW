@@ -40,6 +40,7 @@ Cs_order = {
 		["name"] = "Battle for Azeroth",
 		["stop"] = 2,
 	}, -- [8]
+	["NumCat"] = 8,
 	["Nummax"] = 26,
 	["Firsttime"] = 1,
 	["sixone"] = true,

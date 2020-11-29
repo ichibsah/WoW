@@ -15,12 +15,6 @@ SGI_DATA = {
 			["dropDown"] = {
 			},
 			["frames"] = {
-				["SGI_ChangeLog"] = {
-					["yOfs"] = 0,
-					["xOfs"] = 0,
-					["point"] = "CENTER",
-					["relativePoint"] = "CENTER",
-				},
 				["SGI_MiniMapButton"] = {
 					["yOfs"] = -31,
 					["xOfs"] = -71,
@@ -28,6 +22,12 @@ SGI_DATA = {
 					["relativePoint"] = "CENTER",
 				},
 				["SuperScanFrame"] = {
+					["yOfs"] = 0,
+					["xOfs"] = 0,
+					["point"] = "CENTER",
+					["relativePoint"] = "CENTER",
+				},
+				["SGI_ChangeLog"] = {
 					["yOfs"] = 0,
 					["xOfs"] = 0,
 					["point"] = "CENTER",
@@ -64,15 +64,15 @@ SGI_DATA = {
 					["point"] = "TOP",
 					["relativePoint"] = "TOP",
 				},
-				["SGI_MiniMapButton"] = {
-					["yOfs"] = -31.0000019073486,
-					["xOfs"] = -71,
-					["point"] = "CENTER",
-					["relativePoint"] = "CENTER",
-				},
 				["SuperScanFrame"] = {
 					["yOfs"] = 0,
 					["xOfs"] = 0,
+					["point"] = "CENTER",
+					["relativePoint"] = "CENTER",
+				},
+				["SGI_MiniMapButton"] = {
+					["yOfs"] = -31.0000019073486,
+					["xOfs"] = -71,
 					["point"] = "CENTER",
 					["relativePoint"] = "CENTER",
 				},
@@ -159,6 +159,9 @@ SGI_DATA = {
 				"Nelvet", -- [1]
 				"Russell", -- [2]
 			},
+			["Magister"] = {
+				"Zerios", -- [1]
+			},
 			["Lazy Lifeguards"] = {
 				"Donoghue", -- [1]
 				"Getorez", -- [2]
@@ -174,6 +177,7 @@ SGI_DATA = {
 				"Eatos", -- [7]
 				"Alumos", -- [8]
 				"Ninory", -- [9]
+				"Xlamidoula", -- [10]
 			},
 			["Get To Da Choppa"] = {
 				"Pyrolicious", -- [1]
@@ -1130,6 +1134,7 @@ SGI_DATA = {
 				"Sheeshs", -- [28]
 				"Camei", -- [29]
 				"Spaff", -- [30]
+				"Esdani", -- [31]
 			},
 			["Crisis"] = {
 				"Giowaal", -- [1]
@@ -1270,6 +1275,9 @@ SGI_DATA = {
 			["RiffRaff Cult"] = {
 				"Würger", -- [1]
 				"Lucel", -- [2]
+			},
+			["Kindred"] = {
+				"Wolkvar", -- [1]
 			},
 			["Lead Fortress"] = {
 				"Hunnid", -- [1]
@@ -1486,6 +1494,9 @@ SGI_DATA = {
 				"Legensia", -- [4]
 				"Sefyr", -- [5]
 			},
+			["Friendship"] = {
+				"Ishakyl", -- [1]
+			},
 			["Sap It and Tap It"] = {
 				"Darknightdk", -- [1]
 			},
@@ -1582,8 +1593,17 @@ SGI_DATA = {
 				"Callaghan", -- [1]
 				"Mendai", -- [2]
 			},
+			["The SeaWolf Crew"] = {
+				"Alinera", -- [1]
+			},
 			["Nightfall Mercenaries"] = {
 				"Arriette", -- [1]
+			},
+			["Skylimits"] = {
+				"Fluffypawsy", -- [1]
+			},
+			["Swiftmend"] = {
+				"Chronixlo", -- [1]
 			},
 			["Hand Of Fear"] = {
 				"Sensus", -- [1]
@@ -1591,10 +1611,28 @@ SGI_DATA = {
 			["Chronicle Isanity"] = {
 				"Snorhalt", -- [1]
 			},
+			["New Hope"] = {
+				"Notdaddy", -- [1]
+			},
+			["Pararaiding Activity"] = {
+				"Madpeach", -- [1]
+			},
+			["The Adventurers Guild"] = {
+				"Bradford", -- [1]
+			},
 			["BottleoOfPorter"] = {
 				"Royd", -- [1]
 				"Tzos", -- [2]
 				"Zukushmahn", -- [3]
+			},
+			["Absolutely Fabulous"] = {
+				"Nórwyn", -- [1]
+			},
+			["Insidious"] = {
+				"Raguboy", -- [1]
+			},
+			["Peach Hat"] = {
+				"Kithikat", -- [1]
 			},
 			["Cookies and Milk"] = {
 				"Dropstone", -- [1]
@@ -1605,6 +1643,22 @@ SGI_DATA = {
 			},
 			["LeGion of Azeroth"] = {
 				"Tsukuyomí", -- [1]
+			},
+			["The Sanctuary of Light"] = {
+				"Ravensclaw", -- [1]
+			},
+			["The Wild"] = {
+				"Axebearer", -- [1]
+			},
+			["Got That Drip"] = {
+				"Dotsonyou", -- [1]
+			},
+			["Azeroth Aeronautics"] = {
+				"Gommie", -- [1]
+			},
+			["Aurora"] = {
+				"Headriel", -- [1]
+				"Pralsmag", -- [2]
 			},
 			["Noob Gladiators"] = {
 				"Morningglory", -- [1]
@@ -1740,9 +1794,8 @@ SGI_DATA = {
 			["ARSHAN PPV HERROS XD"] = {
 				"Bankaltfour", -- [1]
 			},
-			["Goon Squad"] = {
-				"Jamq", -- [1]
-				"Zandwitch", -- [2]
+			["Lunatic Asylum"] = {
+				"Toxis", -- [1]
 			},
 			["Uranio Impoverito"] = {
 				"Demetrian", -- [1]
@@ -2097,8 +2150,8 @@ SGI_DATA = {
 			["Srebrna Krucjata"] = {
 				"Gandzia", -- [1]
 			},
-			["Skylimits"] = {
-				"Fluffypawsy", -- [1]
+			["Grey Ascendant"] = {
+				"Adoen", -- [1]
 			},
 			["From Exodar With Love"] = {
 				"Eilithia", -- [1]
@@ -2131,11 +2184,11 @@ SGI_DATA = {
 			["Craze"] = {
 				"Obrad", -- [1]
 			},
-			["Axebitaz"] = {
-				"Raruuku", -- [1]
-			},
 			["Holorim"] = {
 				"Elrahnar", -- [1]
+			},
+			["Axebitaz"] = {
+				"Raruuku", -- [1]
 			},
 			["Beeroholics"] = {
 				"Windkey", -- [1]
@@ -2170,8 +2223,9 @@ SGI_DATA = {
 			["Get Your Coat You Pulled"] = {
 				"Oni", -- [1]
 			},
-			["Tornado Jericho"] = {
-				"Vaizlers", -- [1]
+			["Lads on Tour"] = {
+				"Esruk", -- [1]
+				"Luthius", -- [2]
 			},
 			["Other Side of Darkness"] = {
 				"Garbåge", -- [1]
@@ -2212,8 +2266,8 @@ SGI_DATA = {
 			["Team Mehukas"] = {
 				"Deadhiiri", -- [1]
 			},
-			["Tirisfal Disciples"] = {
-				"Meinolf", -- [1]
+			["The Tempered Sun"] = {
+				"Cync", -- [1]
 			},
 			["Maniac"] = {
 				"Atratús", -- [1]
@@ -2227,12 +2281,11 @@ SGI_DATA = {
 			["Thanks Holinka"] = {
 				"Lastator", -- [1]
 			},
-			["The Tempered Sun"] = {
-				"Cync", -- [1]
+			["Tirisfal Disciples"] = {
+				"Meinolf", -- [1]
 			},
-			["Exotic"] = {
-				"Monkz", -- [1]
-				"Xúr", -- [2]
+			["Templars of Light"] = {
+				"Trendagor", -- [1]
 			},
 			["Tranquility"] = {
 				"Renowa", -- [1]
@@ -2240,8 +2293,9 @@ SGI_DATA = {
 			["Lacoste"] = {
 				"Jorell", -- [1]
 			},
-			["Templars of Light"] = {
-				"Trendagor", -- [1]
+			["Exotic"] = {
+				"Monkz", -- [1]
+				"Xúr", -- [2]
 			},
 			["Haisulin Höynäyttäjät"] = {
 				"Tuhkaaja", -- [1]
@@ -2250,16 +2304,11 @@ SGI_DATA = {
 			["Infernal"] = {
 				"Mattiosius", -- [1]
 			},
-			["Aesir"] = {
-				"Asteanad", -- [1]
-				"Svetlorez", -- [2]
-				"Arýá", -- [3]
-				"Primevision", -- [4]
-				"Myxx", -- [5]
-				"Wilon", -- [6]
+			["stormwind defenders"] = {
+				"Gnomerk", -- [1]
 			},
-			["The Wild"] = {
-				"Axebearer", -- [1]
+			["The Trade Association"] = {
+				"Katerijne", -- [1]
 			},
 			["Ancients of Azeroth"] = {
 				"Yáhra", -- [1]
@@ -2290,11 +2339,11 @@ SGI_DATA = {
 			["KeKThisOut"] = {
 				"Asunasthorn", -- [1]
 			},
-			["Ascending Crusaders"] = {
-				"Xóchiquetzal", -- [1]
-			},
 			["Valkyrìe"] = {
 				"Tinsmith", -- [1]
+			},
+			["Ascending Crusaders"] = {
+				"Xóchiquetzal", -- [1]
 			},
 			["House Endorill"] = {
 				"Ellerah", -- [1]
@@ -2387,9 +2436,8 @@ SGI_DATA = {
 			["Danish Frontliners"] = {
 				"Stàlker", -- [1]
 			},
-			["Moonlight Raiders"] = {
-				"Nargon", -- [1]
-				"Koranis", -- [2]
+			["Young Money"] = {
+				"Sekkusu", -- [1]
 			},
 			["Mayhap"] = {
 				"Gwenore", -- [1]
@@ -2494,8 +2542,8 @@ SGI_DATA = {
 			["ßubble Trouble"] = {
 				"ßubbleßutt", -- [1]
 			},
-			["Celestial Divinity"] = {
-				"Slain", -- [1]
+			["Transcendence"] = {
+				"Aagard", -- [1]
 			},
 			["Mortal"] = {
 				"Cudiebee", -- [1]
@@ -2529,10 +2577,8 @@ SGI_DATA = {
 			["Spookeh Scary Skeletons"] = {
 				"Colard", -- [1]
 			},
-			["Djungelpatrullen"] = {
-				"Felweave", -- [1]
-				"Tïnk", -- [2]
-				"Teiria", -- [3]
+			["Warlord Of Legend"] = {
+				"Trilgot", -- [1]
 			},
 			["Project K"] = {
 				"Hieix", -- [1]
@@ -2557,8 +2603,8 @@ SGI_DATA = {
 				"Smooty", -- [4]
 				"Hehejoni", -- [5]
 			},
-			["Direct Defiance"] = {
-				"Raggnarr", -- [1]
+			["The Cerulean Seal"] = {
+				"Wingot", -- [1]
 			},
 			["Lights Tilt"] = {
 				"Kérian", -- [1]
@@ -2566,14 +2612,14 @@ SGI_DATA = {
 			["Melankolia"] = {
 				"Loiste", -- [1]
 			},
-			["PvP Dojo"] = {
-				"Lihizz", -- [1]
+			["All Perks"] = {
+				"Bravespoon", -- [1]
 			},
 			["Deathpool"] = {
 				"Snowpaws", -- [1]
 			},
-			["The Cerulean Seal"] = {
-				"Wingot", -- [1]
+			["Direct Defiance"] = {
+				"Raggnarr", -- [1]
 			},
 			["The Elite Angels"] = {
 				"Tolendel", -- [1]
@@ -2760,21 +2806,21 @@ SGI_DATA = {
 				"Eurodanzer", -- [2]
 				"Erlaaenel", -- [3]
 			},
-			["The lnferno"] = {
-				"Frostdrachen", -- [1]
+			["Guild of Aspiroth"] = {
+				"Wielkimiecz", -- [1]
 			},
-			["Shinra"] = {
-				"Báx", -- [1]
+			["The Gnoman Legion"] = {
+				"Hwanpunch", -- [1]
 			},
 			["Maritime Sophisticates"] = {
 				"Deathywoo", -- [1]
 				"Roseica", -- [2]
 			},
-			["Guild of Aspiroth"] = {
-				"Wielkimiecz", -- [1]
+			["The lnferno"] = {
+				"Frostdrachen", -- [1]
 			},
-			["Remnants of Chaos"] = {
-				"Gira", -- [1]
+			["The Chaotic Order"] = {
+				"Jineer", -- [1]
 			},
 			["Team LAJELA"] = {
 				"Rhyfelwrtanc", -- [1]
@@ -2782,22 +2828,27 @@ SGI_DATA = {
 			["The Vengeful Legion"] = {
 				"Razkaré", -- [1]
 			},
-			["The Gnoman Legion"] = {
-				"Hwanpunch", -- [1]
+			["Shinra"] = {
+				"Báx", -- [1]
 			},
 			["Savage Deluxe"] = {
 				"Funniest", -- [1]
 				"Hejli", -- [2]
 				"Kyrkoherde", -- [3]
 			},
-			["The Chaotic Order"] = {
-				"Jineer", -- [1]
+			["Remnants of Chaos"] = {
+				"Gira", -- [1]
 			},
 			["Nordic pirates"] = {
 				"Gartha", -- [1]
 			},
 			["BobbenSvines"] = {
 				"Loyso", -- [1]
+			},
+			["Not Friendly"] = {
+				"Alitya", -- [1]
+				"Smirkly", -- [2]
+				"Rex", -- [3]
 			},
 			["Enraged"] = {
 				"Melix", -- [1]
@@ -2875,11 +2926,7 @@ SGI_DATA = {
 				"Fanatix", -- [73]
 				"Daliya", -- [74]
 				"Demala", -- [75]
-			},
-			["Not Friendly"] = {
-				"Alitya", -- [1]
-				"Smirkly", -- [2]
-				"Rex", -- [3]
+				"Bazza", -- [76]
 			},
 			["Emporium"] = {
 				"Globalboost", -- [1]
@@ -2942,8 +2989,8 @@ SGI_DATA = {
 			["Teachers of Elune"] = {
 				"Anoty", -- [1]
 			},
-			["Wolf Pack Samurai"] = {
-				"Stellos", -- [1]
+			["Diffraction"] = {
+				"Rashagal", -- [1]
 			},
 			["The Warriors"] = {
 				"Sabêr", -- [1]
@@ -2960,8 +3007,8 @@ SGI_DATA = {
 			["Intruders"] = {
 				"Zombeast", -- [1]
 			},
-			["Stormwind Chess Team"] = {
-				"Värdinna", -- [1]
+			["Wolf Pack Samurai"] = {
+				"Stellos", -- [1]
 			},
 			["The Banished"] = {
 				"Ânachnikov", -- [1]
@@ -2971,8 +3018,8 @@ SGI_DATA = {
 				"Feels", -- [5]
 				"Lilíana", -- [6]
 			},
-			["Diffraction"] = {
-				"Rashagal", -- [1]
+			["NordicServers"] = {
+				"Bloodyrage", -- [1]
 			},
 			["The Northshire Abbey"] = {
 				"Fellman", -- [1]
@@ -2989,8 +3036,8 @@ SGI_DATA = {
 				"Rikali", -- [1]
 				"Delirio", -- [2]
 			},
-			["NordicServers"] = {
-				"Bloodyrage", -- [1]
+			["Stormwind Chess Team"] = {
+				"Värdinna", -- [1]
 			},
 			["Nostalgia"] = {
 				"Goozik", -- [1]
@@ -3148,8 +3195,8 @@ SGI_DATA = {
 			["You cant sit with us"] = {
 				"Gèmmá", -- [1]
 			},
-			["All Perks"] = {
-				"Bravespoon", -- [1]
+			["PvP Dojo"] = {
+				"Lihizz", -- [1]
 			},
 			["Renegades of Draenor"] = {
 				"Wint", -- [1]
@@ -3160,11 +3207,13 @@ SGI_DATA = {
 				"Chilout", -- [2]
 				"Oldgoth", -- [3]
 			},
+			["Djungelpatrullen"] = {
+				"Felweave", -- [1]
+				"Tïnk", -- [2]
+				"Teiria", -- [3]
+			},
 			["Dal Rend Sacred"] = {
 				"Vallarion", -- [1]
-			},
-			["Warlord Of Legend"] = {
-				"Trilgot", -- [1]
 			},
 			["MasterAppleGaming"] = {
 				"Hotworgeny", -- [1]
@@ -3179,8 +3228,8 @@ SGI_DATA = {
 				"Dregdo", -- [4]
 				"Beladon", -- [5]
 			},
-			["Transcendence"] = {
-				"Aagard", -- [1]
+			["Celestial Divinity"] = {
+				"Slain", -- [1]
 			},
 			["VaeVictisVae"] = {
 				"Avvp", -- [1]
@@ -3194,8 +3243,9 @@ SGI_DATA = {
 			["The Garment Henparty"] = {
 				"Clothyman", -- [1]
 			},
-			["Young Money"] = {
-				"Sekkusu", -- [1]
+			["Moonlight Raiders"] = {
+				"Nargon", -- [1]
+				"Koranis", -- [2]
 			},
 			["Deus Vox"] = {
 				"Pinkavenger", -- [1]
@@ -3280,8 +3330,13 @@ SGI_DATA = {
 			["The Northern Vikings"] = {
 				"Dvärgoff", -- [1]
 			},
-			["stormwind defenders"] = {
-				"Gnomerk", -- [1]
+			["Aesir"] = {
+				"Asteanad", -- [1]
+				"Svetlorez", -- [2]
+				"Arýá", -- [3]
+				"Primevision", -- [4]
+				"Myxx", -- [5]
+				"Wilon", -- [6]
 			},
 			["Contingency"] = {
 				"Ubberleet", -- [1]
@@ -3305,15 +3360,14 @@ SGI_DATA = {
 			["S T Y L E"] = {
 				"Romsdin", -- [1]
 			},
-			["Insidious"] = {
-				"Raguboy", -- [1]
+			["The Pathfinders"] = {
+				"Gabriel", -- [1]
 			},
 			["Hollands Glorie"] = {
 				"Grimmrioar", -- [1]
 			},
-			["Lads on Tour"] = {
-				"Esruk", -- [1]
-				"Luthius", -- [2]
+			["Tornado Jericho"] = {
+				"Vaizlers", -- [1]
 			},
 			["Sons of Odin"] = {
 				"Agmikelsen", -- [1]
@@ -3575,8 +3629,9 @@ SGI_DATA = {
 			["Heroic Knights"] = {
 				"Astreol", -- [1]
 			},
-			["Lunatic Asylum"] = {
-				"Toxis", -- [1]
+			["Goon Squad"] = {
+				"Jamq", -- [1]
+				"Zandwitch", -- [2]
 			},
 			["Lemmings of the Light"] = {
 				"Stabhodel", -- [1]
@@ -3661,15 +3716,15 @@ SGI_DATA = {
 					["point"] = "BOTTOM",
 					["relativePoint"] = "BOTTOM",
 				},
-				["SGI_MiniMapButton"] = {
-					["yOfs"] = -31.0000019073486,
-					["xOfs"] = -71,
-					["point"] = "CENTER",
-					["relativePoint"] = "CENTER",
-				},
 				["SuperScanFrame"] = {
 					["yOfs"] = 0,
 					["xOfs"] = 0,
+					["point"] = "CENTER",
+					["relativePoint"] = "CENTER",
+				},
+				["SGI_MiniMapButton"] = {
+					["yOfs"] = -31.0000019073486,
+					["xOfs"] = -71,
 					["point"] = "CENTER",
 					["relativePoint"] = "CENTER",
 				},
@@ -3742,15 +3797,15 @@ SGI_DATA = {
 					["point"] = "TOP",
 					["relativePoint"] = "TOP",
 				},
-				["SGI_MiniMapButton"] = {
-					["yOfs"] = -31.0000019073486,
-					["xOfs"] = -71,
-					["point"] = "CENTER",
-					["relativePoint"] = "CENTER",
-				},
 				["SuperScanFrame"] = {
 					["yOfs"] = 0,
 					["xOfs"] = 0,
+					["point"] = "CENTER",
+					["relativePoint"] = "CENTER",
+				},
+				["SGI_MiniMapButton"] = {
+					["yOfs"] = -31.0000019073486,
+					["xOfs"] = -71,
 					["point"] = "CENTER",
 					["relativePoint"] = "CENTER",
 				},
@@ -3788,49 +3843,12 @@ SGI_DATA = {
 					["point"] = "TOP",
 					["relativePoint"] = "TOP",
 				},
-				["SuperScanFrame"] = {
-					["yOfs"] = 0,
-					["xOfs"] = 0,
-					["point"] = "CENTER",
-					["relativePoint"] = "CENTER",
-				},
 				["SGI_MiniMapButton"] = {
 					["yOfs"] = -31.0000019073486,
 					["xOfs"] = -71,
 					["point"] = "CENTER",
 					["relativePoint"] = "CENTER",
 				},
-			},
-			["dropDown"] = {
-				["DROPDOWN_INVITE_MODE"] = 1,
-			},
-			["filters"] = {
-			},
-		},
-	},
-	["lock"] = {
-		["Oenomaus-Sporeggar"] = 5,
-		["SGI_MASS"] = 5,
-	},
-	["Bazza - Sporeggar"] = {
-		["settings"] = {
-			["whispers"] = {
-			},
-			["inviteMode"] = 1,
-			["highLimit"] = 110,
-			["checkBox"] = {
-			},
-			["classStart"] = 110,
-			["lowLimit"] = 20,
-			["raceStart"] = 110,
-			["interval"] = 5,
-			["frames"] = {
-				["SGI_MiniMapButton"] = {
-					["yOfs"] = -31,
-					["xOfs"] = -71,
-					["point"] = "CENTER",
-					["relativePoint"] = "CENTER",
-				},
 				["SuperScanFrame"] = {
 					["yOfs"] = 0,
 					["xOfs"] = 0,
@@ -3839,6 +3857,7 @@ SGI_DATA = {
 				},
 			},
 			["dropDown"] = {
+				["DROPDOWN_INVITE_MODE"] = 1,
 			},
 			["filters"] = {
 			},
@@ -3875,6 +3894,42 @@ SGI_DATA = {
 			["filters"] = {
 			},
 		},
+	},
+	["Bazza - Sporeggar"] = {
+		["settings"] = {
+			["whispers"] = {
+			},
+			["inviteMode"] = 1,
+			["highLimit"] = 110,
+			["checkBox"] = {
+			},
+			["classStart"] = 110,
+			["lowLimit"] = 20,
+			["raceStart"] = 110,
+			["interval"] = 5,
+			["frames"] = {
+				["SGI_MiniMapButton"] = {
+					["yOfs"] = -31,
+					["xOfs"] = -71,
+					["point"] = "CENTER",
+					["relativePoint"] = "CENTER",
+				},
+				["SuperScanFrame"] = {
+					["yOfs"] = 0,
+					["xOfs"] = 0,
+					["point"] = "CENTER",
+					["relativePoint"] = "CENTER",
+				},
+			},
+			["dropDown"] = {
+			},
+			["filters"] = {
+			},
+		},
+	},
+	["lock"] = {
+		["Oenomaus-Sporeggar"] = 5,
+		["SGI_MASS"] = 5,
 	},
 	["Melix - Sporeggar"] = {
 		["settings"] = {

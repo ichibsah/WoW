@@ -514,3 +514,4 @@ DBM-ZuldazarRaid: enabled
 DBM-CrucibleofStorms: enabled
 DBM-EternalPalace: enabled
 WeakAurasCompanion: enabled
+WeakAurasArchive: enabled

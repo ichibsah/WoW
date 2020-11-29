@@ -1,6 +1,9 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0246,
+	["LastVersion"] = 2.0311,
+	["LastPlayerFullName"] = "Krixus-Sporeggar",
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 170524,
@@ -83,9 +86,7 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:163881::::::::120:253::30:2:1562:4786:::|h[7th Legionnaire's Longbow]|h|r",
 		}, -- [16]
 	},
-	["AutoSelectScales"] = true,
-	["UpgradeTracking"] = false,
-	["LastPlayerFullName"] = "Krixus-Sporeggar",
+	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[128861] = {
 			["Relics"] = {
@@ -105,7 +106,6 @@ PawnOptions = {
 			["Name"] = "Titanstrike",
 		},
 	},
-	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "HUNTER",

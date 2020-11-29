@@ -115,16 +115,16 @@ PawnCommon = {
 		["\"MrRobot\":DRUID1"] = {
 			["IconTexturePath"] = 136096,
 			["PerCharacterOptions"] = {
-				["Mengsk-Sporeggar"] = {
+				["Jeyliah-Sporeggar"] = {
+					["Visible"] = true,
+				},
+				["Teldrasil-Sporeggar"] = {
 					["Visible"] = true,
 				},
 				["Krivette-Sporeggar"] = {
 					["Visible"] = true,
 				},
-				["Jeyliah-Sporeggar"] = {
-					["Visible"] = true,
-				},
-				["Teldrasil-Sporeggar"] = {
+				["Mengsk-Sporeggar"] = {
 					["Visible"] = true,
 				},
 			},
@@ -406,10 +406,10 @@ PawnCommon = {
 				["Krixus-Sporeggar"] = {
 					["Visible"] = true,
 				},
-				["Shenglin-Sporeggar"] = {
+				["Nikilahi-Sporeggar"] = {
 					["Visible"] = true,
 				},
-				["Nikilahi-Sporeggar"] = {
+				["Shenglin-Sporeggar"] = {
 					["Visible"] = true,
 				},
 			},
@@ -505,7 +505,7 @@ PawnCommon = {
 			["ClassID"] = 6,
 			["DoNotShow1HUpgrades"] = false,
 			["Role"] = "DAMAGER",
-			["DoNotShow2HUpgrades"] = true,
+			["DoNotShow2HUpgrades"] = false,
 			["UpgradesFollowSpecialization"] = true,
 			["Provider"] = "MrRobot",
 			["UnenchantedColor"] = "bf3950",
@@ -634,7 +634,7 @@ PawnCommon = {
 	},
 	["ShowSocketingAdvisor"] = true,
 	["ShowSpecIcons"] = true,
-	["LastVersion"] = 2.0401,
+	["LastVersion"] = 2.0406,
 	["ButtonPosition"] = 2,
 	["Debug"] = false,
 	["ShowQuestUpgradeAdvisor"] = true,

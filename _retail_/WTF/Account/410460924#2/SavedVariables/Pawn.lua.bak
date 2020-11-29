@@ -3,20 +3,15 @@ PawnCommon = {
 	["ShowUpgradesOnTooltips"] = true,
 	["AlignNumbersRight"] = false,
 	["ShowBagUpgradeAdvisor"] = true,
-	["LastVersion"] = 2.0231,
+	["LastVersion"] = 2.0406,
 	["ShowRelicUpgrades"] = false,
 	["ShowValuesForUpgradesOnly"] = true,
+	["ShowItemLevelUpgrades"] = true,
 	["Debug"] = false,
 	["ColorTooltipBorder"] = true,
 	["ShowTooltipIcons"] = true,
 	["Digits"] = 1,
 	["ShowSocketingAdvisor"] = true,
-	["ShowSpecIcons"] = true,
-	["ShowLootUpgradeAdvisor"] = true,
-	["ButtonPosition"] = 2,
-	["IgnoreGemsWhileLeveling"] = true,
-	["ShowQuestUpgradeAdvisor"] = true,
-	["ShowItemID"] = false,
 	["Scales"] = {
 		["\"MrRobot\":HUNTER3"] = {
 			["IconTexturePath"] = 461113,
@@ -111,6 +106,9 @@ PawnCommon = {
 		["\"MrRobot\":DRUID1"] = {
 			["IconTexturePath"] = 136096,
 			["PerCharacterOptions"] = {
+				["Daliya-Sporeggar"] = {
+					["Visible"] = true,
+				},
 				["Bazza-Sporeggar"] = {
 					["Visible"] = true,
 				},
@@ -237,9 +235,6 @@ PawnCommon = {
 		["\"MrRobot\":DRUID4"] = {
 			["IconTexturePath"] = 136041,
 			["PerCharacterOptions"] = {
-				["Daliya-Sporeggar"] = {
-					["Visible"] = true,
-				},
 			},
 			["Color"] = "ff7d0a",
 			["LocalizedName"] = "Druid: Restoration",
@@ -456,7 +451,7 @@ PawnCommon = {
 			["ClassID"] = 6,
 			["DoNotShow1HUpgrades"] = false,
 			["Role"] = "DAMAGER",
-			["DoNotShow2HUpgrades"] = true,
+			["DoNotShow2HUpgrades"] = false,
 			["UpgradesFollowSpecialization"] = true,
 			["Provider"] = "MrRobot",
 			["UnenchantedColor"] = "bf3950",
@@ -574,4 +569,10 @@ PawnCommon = {
 			["SpecID"] = 3,
 		},
 	},
+	["ShowLootUpgradeAdvisor"] = true,
+	["ButtonPosition"] = 2,
+	["IgnoreGemsWhileLeveling"] = true,
+	["ShowQuestUpgradeAdvisor"] = true,
+	["ShowItemID"] = false,
+	["ShowSpecIcons"] = true,
 }

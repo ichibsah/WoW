@@ -17,7 +17,7 @@ Overachiever_Tabs_Settings = {
 		[4603] = true,
 		[5037] = true,
 	},
-	["Version"] = "1.0.7",
+	["Version"] = "1.1.3",
 	["WatchedList"] = 0,
 	["AchFilters"] = {
 	},

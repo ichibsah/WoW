@@ -7,20 +7,23 @@ _detalhes_database = {
 		["tabelas"] = {
 		},
 	},
-	["last_version"] = "v8.2.5.7227",
+	["last_version"] = "v9.0.1.8000",
 	["character_data"] = {
-		["logons"] = 18,
+		["logons"] = 20,
 	},
 	["tabela_instancias"] = {
 	},
+	["coach"] = {
+		["enabled"] = false,
+	},
 	["local_instances_config"] = {
 		{
-			["segment"] = 0,
+			["modo"] = 2,
 			["sub_attribute"] = 1,
 			["horizontalSnap"] = false,
 			["verticalSnap"] = false,
-			["is_open"] = false,
 			["isLocked"] = false,
+			["is_open"] = false,
 			["sub_atributo_last"] = {
 				1, -- [1]
 				1, -- [2]
@@ -30,6 +33,7 @@ _detalhes_database = {
 			},
 			["snap"] = {
 			},
+			["segment"] = 0,
 			["mode"] = 2,
 			["attribute"] = 1,
 			["pos"] = {
@@ -60,13 +64,13 @@ _detalhes_database = {
 	},
 	["last_instance_time"] = 1538913282,
 	["active_profile"] = "Leleti-Sporeggar",
-	["last_realversion"] = 140,
+	["last_realversion"] = 144,
 	["ignore_nicktag"] = false,
 	["plugin_database"] = {
 		["DETAILS_PLUGIN_TINY_THREAT"] = {
 			["updatespeed"] = 1,
 			["enabled"] = true,
-			["animate"] = false,
+			["showamount"] = false,
 			["useplayercolor"] = false,
 			["author"] = "Details! Team",
 			["useclasscolors"] = false,
@@ -75,7 +79,7 @@ _detalhes_database = {
 				1, -- [2]
 				1, -- [3]
 			},
-			["showamount"] = false,
+			["animate"] = false,
 		},
 		["DETAILS_PLUGIN_DAMAGE_RANK"] = {
 			["lasttry"] = {
@@ -84,9 +88,9 @@ _detalhes_database = {
 			["dpshistory"] = {
 			},
 			["enabled"] = true,
-			["dps"] = 0,
-			["level"] = 1,
 			["author"] = "Details! Team",
+			["level"] = 1,
+			["dps"] = 0,
 		},
 		["DETAILS_PLUGIN_TIME_ATTACK"] = {
 			["enabled"] = true,
@@ -112,17 +116,20 @@ _detalhes_database = {
 				0, -- [3]
 				0.8, -- [4]
 			},
-			["tank_block_texture"] = "Details Serenity",
 			["show_inc_bars"] = false,
 			["author"] = "Details! Team",
 			["first_run"] = false,
 			["tank_block_size"] = 150,
+			["bar_height"] = 24,
+			["tank_block_texture"] = "Details Serenity",
+			["tank_block_height"] = 40,
 		},
 		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
 			["enabled"] = true,
 			["encounter_timers_bw"] = {
 			},
 			["max_emote_segments"] = 3,
+			["last_section_selected"] = "main",
 			["author"] = "Details! Team",
 			["window_scale"] = 1,
 			["encounter_timers_dbm"] = {
@@ -174,10 +181,10 @@ _detalhes_database = {
 			["row_texture"] = "Details Serenity",
 			["arrow_anchor_y"] = 0,
 			["main_frame_locked"] = false,
-			["main_frame_strata"] = "LOW",
+			["author"] = "Details! Team",
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["font_size"] = 10,
+			["use_spark"] = true,
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -185,12 +192,14 @@ _detalhes_database = {
 				0, -- [3]
 				0.2, -- [4]
 			},
-			["author"] = "Details! Team",
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["use_spark"] = true,
 			["y"] = 4.57763671875e-05,
-			["x"] = 0,
-			["font_face"] = "Friz Quadrata TT",
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -202,38 +211,57 @@ _detalhes_database = {
 				["update_speed"] = 0.05,
 				["size"] = 32,
 			},
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
+			["font_size"] = 10,
+			["main_frame_strata"] = "LOW",
 			["point"] = "CENTER",
 			["row_height"] = 20,
 			["scale"] = 1,
+		},
+	},
+	["nick_tag_cache"] = {
+		["nextreset"] = 1607780566,
+		["last_version"] = 12,
+	},
+	["on_death_menu"] = true,
+	["cd_tracker"] = {
+		["enabled"] = false,
+		["cds_enabled"] = {
+		},
+		["show_conditions"] = {
+			["only_inside_instance"] = true,
+			["only_in_group"] = true,
+		},
+		["pos"] = {
 		},
 	},
 	["benchmark_db"] = {
 		["frame"] = {
 		},
 	},
-	["nick_tag_cache"] = {
-		["nextreset"] = 1575535651,
-		["last_version"] = 11,
-	},
-	["on_death_menu"] = true,
-	["last_day"] = "20",
 	["announce_firsthit"] = {
 		["enabled"] = true,
 		["channel"] = "SELF",
 	},
-	["combat_id"] = 552,
-	["savedStyles"] = {
-	},
 	["SoloTablesSaved"] = {
 		["Mode"] = 1,
 	},
+	["combat_id"] = 552,
+	["savedStyles"] = {
+	},
 	["force_font_outline"] = "",
+	["mythic_dungeon_currentsaved"] = {
+		["dungeon_name"] = "",
+		["started"] = false,
+		["segment_id"] = 0,
+		["ej_id"] = 0,
+		["started_at"] = 0,
+		["run_id"] = 0,
+		["level"] = 0,
+		["dungeon_zone_id"] = 0,
+		["previous_boss_killed_at"] = 0,
+	},
 	["announce_deaths"] = {
 		["enabled"] = false,
 		["last_hits"] = 1,
@@ -268,12 +296,12 @@ _detalhes_database = {
 		}, -- [5]
 		["raid_roster"] = {
 		},
-		["tempo_start"] = 530396.1630000001,
+		["tempo_start"] = 704474.34,
 		["last_events_tables"] = {
 		},
 		["alternate_power"] = {
 		},
-		["combat_counter"] = 591,
+		["combat_counter"] = 597,
 		["totals"] = {
 			0, -- [1]
 			0, -- [2]
@@ -307,7 +335,7 @@ _detalhes_database = {
 		["__call"] = {
 		},
 		["data_inicio"] = 0,
-		["end_time"] = 530396.1630000001,
+		["end_time"] = 704474.34,
 		["PhaseData"] = {
 			{
 				1, -- [1]
@@ -334,7 +362,7 @@ _detalhes_database = {
 		},
 		["cleu_timeline"] = {
 		},
-		["start_time"] = 530396.1630000001,
+		["start_time"] = 704474.34,
 		["TimeData"] = {
 		},
 		["totals_grupo"] = {
@@ -359,23 +387,13 @@ _detalhes_database = {
 			}, -- [4]
 		},
 	},
-	["mythic_dungeon_currentsaved"] = {
-		["dungeon_name"] = "",
-		["started"] = false,
-		["segment_id"] = 0,
-		["ej_id"] = 0,
-		["started_at"] = 0,
-		["run_id"] = 0,
-		["level"] = 0,
-		["dungeon_zone_id"] = 0,
-		["previous_boss_killed_at"] = 0,
-	},
 	["announce_prepots"] = {
 		["enabled"] = true,
 		["channel"] = "SELF",
 		["reverse"] = false,
 	},
-	["combat_counter"] = 595,
+	["combat_counter"] = 601,
+	["last_day"] = "29",
 	["announce_cooldowns"] = {
 		["ignored_cooldowns"] = {
 		},

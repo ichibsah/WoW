@@ -56,7 +56,7 @@ VER 3 0100000000000016 "HB-R-Alt" "INV_MISC_QUESTIONMARK"
 /cast Holy Word: Serenity
 END
 VER 3 0100000000000011 "hbCrashProt_0" "Spell_Holy_SealOfSacrifice"
-1:H:
+1:H:1:1:Self:
 END
 VER 3 0100000000000012 "hbCrashProt_1" "Spell_Holy_SealOfSacrifice"
 Yesu:p:ayer-1096-0480D988:1:

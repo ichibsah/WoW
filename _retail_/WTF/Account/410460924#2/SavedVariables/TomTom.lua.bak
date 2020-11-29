@@ -15,16 +15,68 @@ TomTomDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
+			["arrow"] = {
+				["position"] = {
+					"CENTER", -- [1]
+					nil, -- [2]
+					"CENTER", -- [3]
+					0, -- [4]
+					0, -- [5]
+				},
+			},
+			["block"] = {
+				["position"] = {
+					"CENTER", -- [1]
+					nil, -- [2]
+					"CENTER", -- [3]
+					0, -- [4]
+					-100, -- [5]
+				},
+			},
 		},
 	},
 }
 TomTomWaypoints = nil
 TomTomWaypointsM = {
 	["profileKeys"] = {
+		["Bazza - Sporeggar"] = "Bazza - Sporeggar",
 		["Daliya - Sporeggar"] = "Daliya - Sporeggar",
 	},
 	["profiles"] = {
+		["Bazza - Sporeggar"] = {
+		},
 		["Daliya - Sporeggar"] = {
+			[84] = {
+				["84:659117315.86257:771856757.93251:Stormwind City: 65.91, 77.19"] = {
+					84, -- [1]
+					0.6591173158625697, -- [2]
+					0.7718567579325066, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["minimap"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Stormwind City: 65.91, 77.19",
+					["from"] = "TomTom/Block",
+					["callbacks"] = {
+						["distance"] = {
+							[10] = nil --[[ skipped inline function ]],
+							[15] = nil --[[ skipped inline function ]],
+						},
+						["world"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+						["minimap"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+					},
+					["world"] = true,
+				},
+			},
 		},
 	},
 }

@@ -3,6 +3,11 @@ VER 3 0100000000000003 "01 - legion" "INV_MISC_QUESTIONMARK"
 /targetenemy [noexists][dead][noharm]
 /castsequence reset=target/combat Sunfire(Solar),Moonfire(Lunar),Solar Wrath(Solar)
 END
+VER 3 0100000000000006 "01-Attack" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/targetenemy [noexists][dead][noharm]
+/castsequence reset=target/combat Sunfire,Moonfire
+END
 VER 3 0100000000000004 "HB-M-Alt" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast Renewal

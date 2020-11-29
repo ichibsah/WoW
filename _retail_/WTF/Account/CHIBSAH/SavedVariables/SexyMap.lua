@@ -1099,9 +1099,9 @@ SexyMap2DB = {
 				["MinimapZoomIn"] = "never",
 				["MiniMapMailFrame"] = "always",
 				["TimeManagerClockButton"] = "always",
-				["MinimapZoomOut"] = "never",
 				["QueueStatusMinimapButton"] = "always",
 				["GarrisonLandingPageMinimapButton"] = "always",
+				["MinimapZoomOut"] = "never",
 				["SexyMapZoneTextButton"] = "always",
 				["MiniMapWorldMapButton"] = "never",
 			},
@@ -1109,10 +1109,12 @@ SexyMap2DB = {
 				["BankItems_MinimapButton"] = 132.510391505964,
 				["LibDBIcon10_FollowerLocationInfo"] = -73.010512969373,
 				["LibDBIcon10_Skada"] = 170.180460238656,
-				["LibDBIcon10_SilverDragon"] = 252.518961563355,
+				["LibDBIcon10_SilverDragon"] = 120.3792318003325,
 				["LibDBIcon10_HealBot"] = -17.2983639428094,
 				["LibDBIcon10_Simple iLevel"] = 253.630645018153,
+				["LibDBIcon10_TradeSkillMaster"] = 244.0933615323636,
 				["DBMMinimapButton"] = -52.6548583593236,
+				["LibDBIcon10_WeakAuras"] = 191.9759923458248,
 				["LibDBIcon10_DailyGlobalCheck_broker"] = -85.1183314341459,
 				["AtlasLoot_MiniMapButton"] = -37.6181436385874,
 				["Gatherer_MinimapOptionsButton"] = 110.99545032864,
@@ -1221,10 +1223,14 @@ SexyMap2DB = {
 			["hideBlizzard"] = true,
 		},
 		["movers"] = {
-			["enabled"] = false,
-			["framePositions"] = {
+			["lockDurability"] = false,
+			["lockObjectives"] = false,
+			["moveDurability"] = false,
+			["moveVehicle"] = false,
+			["lockVehicle"] = false,
+			["moverPositions"] = {
 			},
-			["lock"] = false,
+			["moveObjectives"] = false,
 		},
 		["core"] = {
 			["clamp"] = true,
@@ -3057,17 +3063,18 @@ SexyMap2DB = {
 			["northTag"] = true,
 		},
 		["coordinates"] = {
-			["enabled"] = false,
-			["font"] = "Friz Quadrata TT",
+			["enabled"] = true,
 			["fontColor"] = {
-			},
-			["borderColor"] = {
 			},
 			["xOffset"] = 0,
 			["updateRate"] = 1,
+			["yOffset"] = 10,
+			["font"] = "Friz Quadrata TT",
+			["borderColor"] = {
+			},
+			["coordPrecision"] = "%d,%d",
 			["backgroundColor"] = {
 			},
-			["yOffset"] = 10,
 		},
 		["ping"] = {
 			["showPing"] = true,
@@ -3079,13 +3086,13 @@ SexyMap2DB = {
 			["allowDragging"] = true,
 			["visibilitySettings"] = {
 				["MinimapZoomIn"] = "never",
-				["MinimapZoneTextButton"] = "always",
-				["MiniMapWorldMapButton"] = "never",
+				["MiniMapMailFrame"] = "always",
+				["TimeManagerClockButton"] = "always",
 				["QueueStatusMinimapButton"] = "always",
 				["GarrisonLandingPageMinimapButton"] = "always",
 				["MinimapZoomOut"] = "never",
-				["MiniMapMailFrame"] = "always",
-				["TimeManagerClockButton"] = "always",
+				["SexyMapZoneTextButton"] = "always",
+				["MiniMapWorldMapButton"] = "never",
 			},
 			["dragPositions"] = {
 			},
@@ -3181,10 +3188,14 @@ SexyMap2DB = {
 			["yOffset"] = 0,
 		},
 		["movers"] = {
-			["enabled"] = false,
-			["framePositions"] = {
+			["lockDurability"] = false,
+			["lockObjectives"] = false,
+			["moveDurability"] = false,
+			["moveVehicle"] = false,
+			["lockVehicle"] = false,
+			["moverPositions"] = {
 			},
-			["lock"] = false,
+			["moveObjectives"] = false,
 		},
 	},
 	["Overkill-Sporeggar"] = {
@@ -3498,17 +3509,18 @@ SexyMap2DB = {
 			["rightClickToConfig"] = true,
 		},
 		["coordinates"] = {
-			["enabled"] = false,
-			["font"] = "Friz Quadrata TT",
+			["enabled"] = true,
 			["fontColor"] = {
 			},
-			["borderColor"] = {
-			},
 			["xOffset"] = 0,
-			["backgroundColor"] = {
-			},
 			["updateRate"] = 1,
 			["yOffset"] = 10,
+			["font"] = "Friz Quadrata TT",
+			["borderColor"] = {
+			},
+			["coordPrecision"] = "%d,%d",
+			["backgroundColor"] = {
+			},
 		},
 		["buttons"] = {
 			["radius"] = 10,
@@ -3516,23 +3528,27 @@ SexyMap2DB = {
 			["allowDragging"] = true,
 			["visibilitySettings"] = {
 				["MinimapZoomIn"] = "never",
-				["MinimapZoneTextButton"] = "always",
-				["TimeManagerClockButton"] = "always",
+				["MiniMapMailFrame"] = "always",
+				["MiniMapWorldMapButton"] = "never",
 				["QueueStatusMinimapButton"] = "always",
 				["GarrisonLandingPageMinimapButton"] = "always",
-				["MiniMapMailFrame"] = "always",
+				["SexyMapZoneTextButton"] = "always",
 				["MinimapZoomOut"] = "never",
-				["MiniMapWorldMapButton"] = "never",
+				["TimeManagerClockButton"] = "always",
 			},
 			["dragPositions"] = {
 			},
 			["controlVisibility"] = true,
 		},
 		["movers"] = {
-			["enabled"] = false,
-			["framePositions"] = {
+			["lockDurability"] = false,
+			["lockObjectives"] = false,
+			["moveDurability"] = false,
+			["moveVehicle"] = false,
+			["lockVehicle"] = false,
+			["moveObjectives"] = false,
+			["moverPositions"] = {
 			},
-			["lock"] = false,
 		},
 		["clock"] = {
 			["bgColor"] = {
@@ -4248,17 +4264,18 @@ SexyMap2DB = {
 			["showAt"] = "map",
 		},
 		["coordinates"] = {
-			["enabled"] = false,
-			["font"] = "Friz Quadrata TT",
+			["enabled"] = true,
 			["fontColor"] = {
-			},
-			["borderColor"] = {
 			},
 			["xOffset"] = 0,
 			["updateRate"] = 1,
+			["yOffset"] = 10,
+			["font"] = "Friz Quadrata TT",
+			["borderColor"] = {
+			},
+			["coordPrecision"] = "%d,%d",
 			["backgroundColor"] = {
 			},
-			["yOffset"] = 10,
 		},
 		["buttons"] = {
 			["radius"] = 10,
@@ -4266,13 +4283,13 @@ SexyMap2DB = {
 			["allowDragging"] = true,
 			["visibilitySettings"] = {
 				["MinimapZoomIn"] = "never",
-				["MinimapZoneTextButton"] = "always",
-				["MiniMapWorldMapButton"] = "never",
+				["MiniMapMailFrame"] = "always",
+				["TimeManagerClockButton"] = "always",
 				["QueueStatusMinimapButton"] = "always",
 				["GarrisonLandingPageMinimapButton"] = "always",
 				["MinimapZoomOut"] = "never",
-				["MiniMapMailFrame"] = "always",
-				["TimeManagerClockButton"] = "always",
+				["SexyMapZoneTextButton"] = "always",
+				["MiniMapWorldMapButton"] = "never",
 			},
 			["dragPositions"] = {
 				["LibDBIcon10_Omen"] = -63.7256833913366,
@@ -4397,22 +4414,14 @@ SexyMap2DB = {
 			["hideBlizzard"] = true,
 		},
 		["movers"] = {
-			["enabled"] = true,
-			["framePositions"] = {
-				["ObjectiveTrackerFrame"] = {
-					["y"] = 762.000061035156,
-					["x"] = 1559.20227050781,
-				},
-				["DurabilityFrame"] = {
-					["y"] = 846,
-					["x"] = 1792.99743652344,
-				},
-				["VehicleSeatIndicator"] = {
-					["y"] = 994.000061035156,
-					["x"] = 1557.48669433594,
-				},
+			["lockDurability"] = false,
+			["lockObjectives"] = false,
+			["moveDurability"] = false,
+			["moveVehicle"] = false,
+			["lockVehicle"] = false,
+			["moverPositions"] = {
 			},
-			["lock"] = true,
+			["moveObjectives"] = false,
 		},
 		["core"] = {
 			["clamp"] = true,
@@ -4433,17 +4442,18 @@ SexyMap2DB = {
 			["showAt"] = "map",
 		},
 		["coordinates"] = {
-			["enabled"] = false,
-			["font"] = "Friz Quadrata TT",
+			["enabled"] = true,
 			["fontColor"] = {
 			},
-			["borderColor"] = {
-			},
 			["xOffset"] = 0,
-			["backgroundColor"] = {
-			},
 			["updateRate"] = 1,
 			["yOffset"] = 10,
+			["font"] = "Friz Quadrata TT",
+			["borderColor"] = {
+			},
+			["coordPrecision"] = "%d,%d",
+			["backgroundColor"] = {
+			},
 		},
 		["buttons"] = {
 			["radius"] = 15,
@@ -4451,13 +4461,13 @@ SexyMap2DB = {
 			["allowDragging"] = true,
 			["visibilitySettings"] = {
 				["MinimapZoomIn"] = "never",
-				["MinimapZoneTextButton"] = "always",
-				["TimeManagerClockButton"] = "always",
+				["MiniMapMailFrame"] = "always",
+				["MiniMapWorldMapButton"] = "never",
 				["QueueStatusMinimapButton"] = "always",
 				["GarrisonLandingPageMinimapButton"] = "always",
-				["MiniMapMailFrame"] = "always",
 				["MinimapZoomOut"] = "never",
-				["MiniMapWorldMapButton"] = "never",
+				["SexyMapZoneTextButton"] = "always",
+				["TimeManagerClockButton"] = "always",
 			},
 			["dragPositions"] = {
 				["BankItems_MinimapButton"] = 146.850460606101,
@@ -4582,10 +4592,14 @@ SexyMap2DB = {
 			["hideBlizzard"] = true,
 		},
 		["movers"] = {
-			["enabled"] = false,
-			["framePositions"] = {
+			["lockDurability"] = false,
+			["lockObjectives"] = false,
+			["moveDurability"] = false,
+			["moveVehicle"] = false,
+			["lockVehicle"] = false,
+			["moveObjectives"] = false,
+			["moverPositions"] = {
 			},
-			["lock"] = false,
 		},
 		["core"] = {
 			["clamp"] = true,

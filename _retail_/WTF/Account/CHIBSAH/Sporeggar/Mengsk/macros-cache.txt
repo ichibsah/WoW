@@ -3,6 +3,11 @@ VER 3 0100000000000006 "01 - Faerie" "SPELL_DRUID_SWARM"
 /targetenemy [noexists][dead][noharm]
 /castsequence reset=target/combat Faerie Swarm(Talent), Moonfire(Lunar), Wrath(Solar), Wrath(Solar), Wrath(Solar)
 END
+VER 3 010000000000001A "01-Attack" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/targetenemy [noexists][dead][noharm]
+/castsequence reset=target/combat Sunfire,Moonfire,Stellar Flare
+END
 VER 3 0100000000000014 "01-legion" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /targetenemy [noexists][dead][noharm]
@@ -82,10 +87,4 @@ END
 VER 3 0100000000000003 "Rebirth" "SPELL_NATURE_REINCARNATION"
 #showtooltip
 /cast Rebirth
-END
-VER 3 0100000000000017 "VuhDoDCShieldData" "Ability_Repair"
-P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1DH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
-END
-VER 3 0100000000000018 "VuhDoDCShieldNames" "Ability_Repair"
-N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Men[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END

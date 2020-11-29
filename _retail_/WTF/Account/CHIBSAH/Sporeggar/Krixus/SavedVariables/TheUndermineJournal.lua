@@ -1,2 +1,4 @@
 
 TUJTooltipsHidden = false
+TUJTooltipsSettings = {
+}

@@ -9,22 +9,18 @@ Bagnon_Sets = {
 	},
 	["inscribeColor"] = {
 	},
+	["soulColor"] = {
+	},
+	["mineColor"] = {
+	},
 	["locked"] = true,
+	["enchantColor"] = {
+	},
 	["closeVendor"] = true,
 	["closeCombat"] = true,
 	["reagentColor"] = {
 	},
 	["gemColor"] = {
-	},
-	["enchantColor"] = {
-	},
-	["glowAlpha"] = 0.5,
-	["normalColor"] = {
-	},
-	["profiles"] = {
-	},
-	["displayGuildbank"] = true,
-	["mineColor"] = {
 	},
 	["global"] = {
 		["inventory"] = {
@@ -36,8 +32,8 @@ Bagnon_Sets = {
 			["color"] = {
 			},
 			["alpha"] = 1,
-			["y"] = -103.999633789063,
-			["x"] = -142.010986328125,
+			["y"] = -103.9996337890625,
+			["x"] = -142.0113525390625,
 			["borderColor"] = {
 			},
 			["hiddenRules"] = {
@@ -148,8 +144,8 @@ Bagnon_Sets = {
 			},
 		},
 		["bank"] = {
-			["y"] = 217,
-			["x"] = 106.000022888184,
+			["y"] = 216.9999847412109,
+			["x"] = 106.0000152587891,
 			["point"] = "BOTTOMLEFT",
 			["hiddenBags"] = {
 				[5] = false,
@@ -181,6 +177,7 @@ Bagnon_Sets = {
 				"trade/recipe", -- [20]
 				"quest", -- [21]
 				"misc", -- [22]
+				"scrap", -- [23]
 			},
 			["hiddenRules"] = {
 			},
@@ -188,11 +185,24 @@ Bagnon_Sets = {
 			},
 		},
 	},
-	["displayGems"] = true,
+	["glowAlpha"] = 0.5,
 	["refrigeColor"] = {
 	},
+	["keyColor"] = {
+	},
+	["normalColor"] = {
+	},
+	["profiles"] = {
+	},
+	["displayGuildbank"] = true,
 	["tackleColor"] = {
 	},
-	["closeVehicle"] = true,
+	["version"] = "9.0.4",
+	["displayGems"] = true,
 	["displayBlizzard"] = true,
+	["quiverColor"] = {
+	},
+	["closeVehicle"] = true,
+	["fridgeColor"] = {
+	},
 }

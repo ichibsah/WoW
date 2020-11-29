@@ -1,0 +1,21 @@
+
+LFGShout_Global = {
+	["FilterLevel"] = 45,
+	["Coordinates"] = true,
+	["Debug"] = 0,
+	["CoordinatesTomTom"] = true,
+	["WhisperMessage"] = "",
+	["ForwardMessages"] = true,
+	["ChatShout"] = true,
+	["ShowGuild"] = true,
+	["ShowAlert"] = true,
+	["Version"] = 0.1,
+	["ShowLFG"] = true,
+	["MyAdverts"] = {
+	},
+	["CustomAchs"] = {
+	},
+	["CustomBlackList"] = "",
+	["ShowTrade"] = true,
+	["CustomWhiteList"] = "",
+}

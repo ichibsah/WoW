@@ -1,0 +1,10 @@
+VER 3 0100000000000001 "01" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/targetenemy [noexists][dead][noharm]
+/castsequence reset=target/combat Moonfire(Lunar),Sunfire(Solar)
+END
+VER 3 0100000000000002 "04" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/targetenemy [noexists][dead][noharm]
+/castsequence reset=target/combat Starsurge,Solar Wrath(Solar),Lunar Strike(Lunar)
+END

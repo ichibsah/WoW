@@ -1,125 +1,105 @@
 
 ThreatPlatesDB = {
 	["char"] = {
-		["Daliya - Sporeggar"] = {
-			["welcome"] = true,
+		["Bazza - Sporeggar"] = {
 			["spec"] = {
 				nil, -- [1]
 				nil, -- [2]
 				true, -- [3]
 				false, -- [4]
 			},
+			["welcome"] = true,
+		},
+		["Daliya - Sporeggar"] = {
+			["spec"] = {
+				nil, -- [1]
+				nil, -- [2]
+				true, -- [3]
+				false, -- [4]
+			},
+			["welcome"] = true,
 		},
 	},
 	["global"] = {
-		["version"] = "9.0.18",
+		["version"] = "10.0.5",
 	},
 	["profileKeys"] = {
+		["Bazza - Sporeggar"] = "Default",
 		["Daliya - Sporeggar"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["uniqueSettings"] = {
-				[33] = {
-				},
-				[34] = {
-				},
-				[35] = {
-				},
-				[36] = {
-				},
-				[38] = {
-				},
-				[39] = {
-				},
-				[40] = {
-				},
-				[41] = {
-				},
-				[42] = {
-				},
-				[43] = {
-				},
-				[44] = {
-				},
-				[45] = {
-				},
-				[46] = {
-				},
-				[48] = {
-				},
-				[49] = {
-				},
-				[50] = {
-				},
-				["map"] = {
-					["Fanged Pit Viper"] = {
-					},
-					["Empowered Adherent"] = {
-					},
-					["Kinetic Bomb"] = {
-					},
-					["Marked Immortal Guardian"] = {
-					},
-					["Shadow Fiend"] = {
-					},
-					["Viper"] = {
-					},
-					["Web Wrap"] = {
-					},
-					["Muddy Crawfish"] = {
-					},
-					["Reanimated Fanatic"] = {
-					},
-					["Water Elemental"] = {
-					},
-					["Spirit Wolf"] = {
-					},
-					["Darnavan"] = {
-					},
-					["Treant"] = {
-					},
-					["Volatile Ooze"] = {
-					},
-					["Living Ember"] = {
-					},
-					["Gas Cloud"] = {
-					},
-					["Ebon Gargoyle"] = {
-					},
-					["Shadowy Apparition"] = {
-					},
-					["Drudge Ghoul"] = {
-					},
-					["Raging Spirit"] = {
-					},
-					["Bone Spike"] = {
-					},
-					["Deformed Fanatic"] = {
-					},
-					["Val'kyr Shadowguard"] = {
-					},
-					["Lich King"] = {
-					},
-					["Army of the Dead Ghoul"] = {
-					},
-					["Shambling Horror"] = {
-					},
-					["Living Inferno"] = {
-					},
-					["Onyxian Whelp"] = {
-					},
-					["Venomous Snake"] = {
-					},
-					["Reanimated Adherent"] = {
-					},
-					["Canal Crab"] = {
-					},
-					["Immortal Guardian"] = {
-					},
-				},
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+				{
+				}, -- [3]
+				{
+				}, -- [4]
+				{
+				}, -- [5]
+				{
+				}, -- [6]
+				{
+				}, -- [7]
+				{
+				}, -- [8]
+				{
+				}, -- [9]
+				{
+				}, -- [10]
+				{
+				}, -- [11]
+				{
+				}, -- [12]
+				{
+				}, -- [13]
+				{
+				}, -- [14]
+				{
+				}, -- [15]
+				{
+				}, -- [16]
+				{
+				}, -- [17]
+				{
+				}, -- [18]
+				{
+				}, -- [19]
+				{
+				}, -- [20]
+				{
+				}, -- [21]
+				{
+				}, -- [22]
+				{
+				}, -- [23]
+				{
+				}, -- [24]
+				{
+				}, -- [25]
+				{
+				}, -- [26]
+				{
+				}, -- [27]
+				{
+				}, -- [28]
+				{
+				}, -- [29]
+				{
+				}, -- [30]
+				{
+				}, -- [31]
+				{
+				}, -- [32]
 			},
-			["cache"] = {
+			["settings"] = {
+				["frame"] = {
+					["height"] = 52.875,
+					["width"] = 154,
+				},
 			},
 		},
 	},

@@ -1,6 +1,9 @@
 
 dbGACB = {
 	["char"] = {
+		["Bazza - Sporeggar"] = {
+			["firstun"] = false,
+		},
 		["Daliya - Sporeggar"] = {
 			["firstun"] = false,
 		},
@@ -11,6 +14,7 @@ dbGACB = {
 	["realm"] = {
 		["Sporeggar"] = {
 			["cachesize"] = {
+				["Bazza"] = 500,
 				["Daliya"] = 500,
 			},
 			["farms"] = {
@@ -21,16 +25,17 @@ dbGACB = {
 			},
 			["orders"] = {
 				["Daliya"] = {
-					["Tailoring Emporium"] = 0,
-					["Trading Post"] = 0,
 					["The Forge"] = 0,
-					["Lunarfall Excavation"] = 0,
+					["Trading Post"] = 0,
+					["Tailoring Emporium"] = 0,
 					["Herb Garden"] = 0,
+					["Lunarfall Excavation"] = 0,
 				},
 			},
 		},
 	},
 	["profileKeys"] = {
+		["Bazza - Sporeggar"] = "Default",
 		["Daliya - Sporeggar"] = "Default",
 	},
 	["profiles"] = {

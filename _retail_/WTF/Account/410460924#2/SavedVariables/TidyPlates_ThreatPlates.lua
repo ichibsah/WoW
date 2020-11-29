@@ -25,143 +25,72 @@ ThreatPlatesDB = {
 		["Daliya - Sporeggar"] = "Default",
 	},
 	["global"] = {
-		["version"] = "9.1.12",
+		["version"] = "10.0.5",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["uniqueSettings"] = {
-				[33] = {
-				},
-				[35] = {
-				},
-				[37] = {
-				},
-				[39] = {
-				},
-				[41] = {
-				},
-				[43] = {
-				},
-				[45] = {
-				},
-				[47] = {
-				},
-				[49] = {
-				},
-				[51] = {
-				},
-				[53] = {
-				},
-				[55] = {
-				},
-				[57] = {
-				},
-				[59] = {
-				},
-				[61] = {
-				},
-				[63] = {
-				},
-				[66] = {
-				},
-				[70] = {
-				},
-				[74] = {
-				},
-				[78] = {
-				},
-				[82] = {
-				},
-				[86] = {
-				},
-				[90] = {
-				},
-				[94] = {
-				},
-				[98] = {
-				},
-				[102] = {
-				},
-				[106] = {
-				},
-				[110] = {
-				},
-				[114] = {
-				},
-				[118] = {
-				},
-				[122] = {
-				},
-				[126] = {
-				},
-				["map"] = {
-					["Fanged Pit Viper"] = {
-					},
-					["Empowered Adherent"] = {
-					},
-					["Kinetic Bomb"] = {
-					},
-					["Marked Immortal Guardian"] = {
-					},
-					["Shadow Fiend"] = {
-					},
-					["Viper"] = {
-					},
-					["Web Wrap"] = {
-					},
-					["Muddy Crawfish"] = {
-					},
-					["Reanimated Fanatic"] = {
-					},
-					["Water Elemental"] = {
-					},
-					["Spirit Wolf"] = {
-					},
-					["Darnavan"] = {
-					},
-					["Treant"] = {
-					},
-					["Volatile Ooze"] = {
-					},
-					["Living Ember"] = {
-					},
-					["Gas Cloud"] = {
-					},
-					["Ebon Gargoyle"] = {
-					},
-					["Shadowy Apparition"] = {
-					},
-					["Drudge Ghoul"] = {
-					},
-					["Raging Spirit"] = {
-					},
-					["Bone Spike"] = {
-					},
-					["Deformed Fanatic"] = {
-					},
-					["Val'kyr Shadowguard"] = {
-					},
-					["Lich King"] = {
-					},
-					["Army of the Dead Ghoul"] = {
-					},
-					["Shambling Horror"] = {
-					},
-					["Living Inferno"] = {
-					},
-					["Onyxian Whelp"] = {
-					},
-					["Venomous Snake"] = {
-					},
-					["Reanimated Adherent"] = {
-					},
-					["Canal Crab"] = {
-					},
-					["Immortal Guardian"] = {
-					},
-				},
+				nil, -- [1]
+				{
+				}, -- [2]
+				{
+				}, -- [3]
+				{
+				}, -- [4]
+				{
+				}, -- [5]
+				{
+				}, -- [6]
+				{
+				}, -- [7]
+				{
+				}, -- [8]
+				{
+				}, -- [9]
+				{
+				}, -- [10]
+				{
+				}, -- [11]
+				{
+				}, -- [12]
+				{
+				}, -- [13]
+				{
+				}, -- [14]
+				nil, -- [15]
+				{
+				}, -- [16]
+				{
+				}, -- [17]
+				nil, -- [18]
+				nil, -- [19]
+				{
+				}, -- [20]
+				{
+				}, -- [21]
+				nil, -- [22]
+				nil, -- [23]
+				{
+				}, -- [24]
+				{
+				}, -- [25]
+				nil, -- [26]
+				{
+				}, -- [27]
+				{
+				}, -- [28]
+				{
+				}, -- [29]
+				nil, -- [30]
+				nil, -- [31]
+				{
+				}, -- [32]
 			},
-			["cache"] = {
+			["settings"] = {
+				["frame"] = {
+					["height"] = 52.875,
+					["width"] = 154,
+				},
 			},
 		},
 	},

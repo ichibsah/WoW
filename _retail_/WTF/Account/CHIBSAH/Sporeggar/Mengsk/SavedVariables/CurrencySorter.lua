@@ -1,42 +1,52 @@
 
 Cs_order = {
 	{
-		["start"] = 1,
+		["start"] = 12,
 		["name"] = "Battle for Azeroth",
-		["stop"] = 7,
+		["stop"] = 18,
 	}, -- [1]
 	{
-		["start"] = 8,
+		["start"] = 4,
 		["name"] = "Dungeon and Raid",
-		["stop"] = 9,
+		["stop"] = 5,
 	}, -- [2]
 	{
-		["start"] = 10,
+		["start"] = 6,
 		["name"] = "Miscellaneous",
-		["stop"] = 12,
+		["stop"] = 8,
 	}, -- [3]
 	{
-		["start"] = 13,
+		["start"] = 19,
 		["name"] = "Legion",
-		["stop"] = 24,
+		["stop"] = 30,
 	}, -- [4]
 	{
-		["start"] = 25,
+		["start"] = 31,
 		["name"] = "Warlords of Draenor",
-		["stop"] = 31,
+		["stop"] = 37,
 	}, -- [5]
 	{
-		["start"] = 32,
+		["start"] = 38,
 		["name"] = "Mists of Pandaria",
-		["stop"] = 34,
+		["stop"] = 40,
 	}, -- [6]
 	{
-		["start"] = 35,
+		["start"] = 41,
 		["name"] = "Cataclysm",
-		["stop"] = 36,
+		["stop"] = 42,
 	}, -- [7]
-	["Nummax"] = 36,
-	["NumCat"] = 7,
+	{
+		["start"] = 1,
+		["name"] = "Shadowlands",
+		["stop"] = 3,
+	}, -- [8]
+	{
+		["start"] = 9,
+		["name"] = "Player vs. Player",
+		["stop"] = 11,
+	}, -- [9]
+	["NumCat"] = 9,
 	["Firsttime"] = 1,
+	["Nummax"] = 42,
 	["sixone"] = true,
 }

@@ -416,7 +416,7 @@ ShadowedUFDB = {
 					["b"] = 0,
 				},
 			},
-			["wowBuild"] = 90001,
+			["wowBuild"] = 90002,
 			["loadedLayout"] = true,
 			["backdrop"] = {
 				["inset"] = 3,
@@ -3584,8 +3584,9 @@ ShadowedUFDB = {
 						["order"] = 70,
 						["height"] = 0.4,
 					},
-					["auraIndicators"] = {
+					["incAbsorb"] = {
 						["height"] = 0.5,
+						["cap"] = 1,
 					},
 					["comboPoints"] = {
 						["anchorTo"] = "$parent",
@@ -3729,9 +3730,8 @@ ShadowedUFDB = {
 						["background"] = true,
 						["order"] = 70,
 					},
-					["incAbsorb"] = {
+					["auraIndicators"] = {
 						["height"] = 0.5,
-						["cap"] = 1,
 					},
 					["fader"] = {
 						["inactiveAlpha"] = 0.6,

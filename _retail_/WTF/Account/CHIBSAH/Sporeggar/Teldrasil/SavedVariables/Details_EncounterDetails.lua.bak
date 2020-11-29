@@ -1,5 +1,1336 @@
 
 EncounterDetailsDB = {
+	["emotes"] = {
+		{
+			{
+				0.221000000005006, -- [1]
+				"Oou gul'kafh lal lwhuk!", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [1]
+			{
+				0.221000000005006, -- [1]
+				"The outbreak has begun!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [2]
+			{
+				10.8029999999999, -- [1]
+				"|TINTERFACE\\ICONS\\ABILITY_TITANKEEPER_CLEANSINGORB.BLP:20|t A new |cFFFF0404|Hspell:263420|h[Power Matrix]|h|r is available.", -- [2]
+				"Power Matrix", -- [3]
+				1, -- [4]
+			}, -- [3]
+			{
+				11.3369999999995, -- [1]
+				"A new power matrix can now be collected.", -- [2]
+				"MOTHER", -- [3]
+				7, -- [4]
+			}, -- [4]
+			{
+				30.6460000000006, -- [1]
+				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
+				"G'huun", -- [3]
+				1, -- [4]
+			}, -- [5]
+			{
+				30.6460000000006, -- [1]
+				"W'oq uhn'agth ez qam Shandai!", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [6]
+			{
+				30.6460000000006, -- [1]
+				"Come, servants of rot. Consume!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [7]
+			{
+				58.8630000000048, -- [1]
+				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
+				"G'huun", -- [3]
+				1, -- [4]
+			}, -- [8]
+			{
+				58.8630000000048, -- [1]
+				"Qam oou iilth ez i awtgsshu amun on'ma!", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [9]
+			{
+				58.8630000000048, -- [1]
+				"Let the feast of a thousand maws begin!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [10]
+			{
+				59.6530000000057, -- [1]
+				"|TINTERFACE\\ICONS\\ABILITY_TITANKEEPER_CLEANSINGORB.BLP:20|t A new |cFFFF0404|Hspell:263420|h[Power Matrix]|h|r is available.", -- [2]
+				"Power Matrix", -- [3]
+				1, -- [4]
+			}, -- [11]
+			{
+				59.8199999999997, -- [1]
+				"A new power matrix can now be collected.", -- [2]
+				"MOTHER", -- [3]
+				7, -- [4]
+			}, -- [12]
+			{
+				86.8990000000049, -- [1]
+				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
+				"G'huun", -- [3]
+				1, -- [4]
+			}, -- [13]
+			{
+				86.8990000000049, -- [1]
+				"W'oq uhn'agth ez qam Shandai!", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [14]
+			{
+				86.8990000000049, -- [1]
+				"Come, servants of rot. Consume!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [15]
+			{
+				107.089, -- [1]
+				"|TINTERFACE\\ICONS\\ABILITY_TITANKEEPER_CLEANSINGORB.BLP:20|t A new |cFFFF0404|Hspell:263420|h[Power Matrix]|h|r is available.", -- [2]
+				"Power Matrix", -- [3]
+				1, -- [4]
+			}, -- [16]
+			{
+				107.287000000004, -- [1]
+				"Attention. A new power matrix is available.", -- [2]
+				"MOTHER", -- [3]
+				7, -- [4]
+			}, -- [17]
+			{
+				113.603000000003, -- [1]
+				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
+				"G'huun", -- [3]
+				1, -- [4]
+			}, -- [18]
+			{
+				113.603000000003, -- [1]
+				"W'oq uhn'agth ez qam Shandai!", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [19]
+			{
+				113.603000000003, -- [1]
+				"Come, servants of rot. Consume!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [20]
+			{
+				133.397000000005, -- [1]
+				"Warning. Reorigination blast imminent. Please clear the area.", -- [2]
+				"MOTHER", -- [3]
+				7, -- [4]
+			}, -- [21]
+			{
+				164.267, -- [1]
+				"Zuq ag'xig bormaz ag'thyzak!", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [22]
+			{
+				164.267, -- [1]
+				"You cannot escape infection!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [23]
+			{
+				176.350000000006, -- [1]
+				"|TINTERFACE\\ICONS\\ABILITY_TITANKEEPER_CLEANSINGORB.BLP:20|t A new |cFFFF0404|Hspell:263420|h[Power Matrix]|h|r is available.", -- [2]
+				"Power Matrix", -- [3]
+				1, -- [4]
+			}, -- [24]
+			{
+				176.521000000001, -- [1]
+				"A power matrix is ready for acquisition.", -- [2]
+				"MOTHER", -- [3]
+				7, -- [4]
+			}, -- [25]
+			{
+				218.064000000006, -- [1]
+				"Oou qam puul zyqtahg ywaq vorzz Qam ma shn'ma.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [26]
+			{
+				218.064000000006, -- [1]
+				"The rot runs through your veins. Let it spread.", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [27]
+			{
+				218.659, -- [1]
+				"|TINTERFACE\\ICONS\\ABILITY_TITANKEEPER_CLEANSINGORB.BLP:20|t A new |cFFFF0404|Hspell:263420|h[Power Matrix]|h|r is available.", -- [2]
+				"Power Matrix", -- [3]
+				1, -- [4]
+			}, -- [28]
+			{
+				219.251000000004, -- [1]
+				"A new power matrix can now be collected.", -- [2]
+				"MOTHER", -- [3]
+				7, -- [4]
+			}, -- [29]
+			{
+				225.971000000005, -- [1]
+				"|TINTERFACE\\ICONS\\ABILITY_RACIAL_CANNIBALIZE.BLP:20|t Use |cFFFF0404|Hspell:263235|h[Blood Feast]|h|r to purge your stacks of |cFFFF0404|Hspell:263227|h[Putrid Blood]|h|r.", -- [2]
+				"G'huun", -- [3]
+				2, -- [4]
+			}, -- [30]
+			{
+				261.666000000005, -- [1]
+				"|TINTERFACE\\ICONS\\ABILITY_TITANKEEPER_CLEANSINGORB.BLP:20|t A new |cFFFF0404|Hspell:263420|h[Power Matrix]|h|r is available.", -- [2]
+				"Power Matrix", -- [3]
+				1, -- [4]
+			}, -- [31]
+			{
+				261.834000000003, -- [1]
+				"A power matrix is ready for acquisition.", -- [2]
+				"MOTHER", -- [3]
+				7, -- [4]
+			}, -- [32]
+			{
+				265.711000000003, -- [1]
+				"Ywaq zuq ywag shn'ma Bo'al za qwor.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [33]
+			{
+				265.711000000003, -- [1]
+				"Seek out your allies. Share my gift.", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [34]
+			{
+				273.745999999999, -- [1]
+				"|TINTERFACE\\ICONS\\ABILITY_RACIAL_CANNIBALIZE.BLP:20|t Use |cFFFF0404|Hspell:263235|h[Blood Feast]|h|r to purge your stacks of |cFFFF0404|Hspell:263227|h[Putrid Blood]|h|r.", -- [2]
+				"G'huun", -- [3]
+				2, -- [4]
+			}, -- [35]
+			{
+				289.347000000002, -- [1]
+				"Alert. Reorgination blast sequence initiated. Please vacate the area.", -- [2]
+				"MOTHER", -- [3]
+				7, -- [4]
+			}, -- [36]
+			{
+				318.116000000002, -- [1]
+				"Oou vwahuHn ag'xig shfk zuq!", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [37]
+			{
+				318.116000000002, -- [1]
+				"The titans cannot save you!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [38]
+			{
+				340.164000000004, -- [1]
+				"Awtgssh shn ongg shg'ullwaq!", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [39]
+			{
+				340.164000000004, -- [1]
+				"Nothing can stop my pestilence!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [40]
+			{
+				355.439000000006, -- [1]
+				"Ywaq ongg an'qov i lal halahs nuq.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [41]
+			{
+				355.439000000006, -- [1]
+				"Your husk serves a new master now.", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [42]
+			{
+				370.583000000006, -- [1]
+				"|TINTERFACE\\ICONS\\SPELL_SHADOW_POSSESSION.BLP:20|t G'huun begins to cast |cFFFF0404|Hspell:267700|h[Gaze of G'huun]|h|r.", -- [2]
+				"G'huun", -- [3]
+				1, -- [4]
+			}, -- [43]
+			{
+				370.583000000006, -- [1]
+				"Za awtgsshu wgah uulg'ma ywaq zaix.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [44]
+			{
+				370.583000000006, -- [1]
+				"My whispers will liquefy your mind.", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [45]
+			{
+				382.039000000004, -- [1]
+				"|TINTERFACE\\ICONS\\SPELL_SHADOW_DEATHCOIL.BLP:20|t G'huun casts |cFFFF0404|Hspell:272506|h[Explosive Corruption]|h|r on you!", -- [2]
+				"Teldrasil", -- [3]
+				2, -- [4]
+			}, -- [46]
+			{
+				402.25, -- [1]
+				"|TINTERFACE\\ICONS\\SPELL_SHADOW_POSSESSION.BLP:20|t G'huun begins to cast |cFFFF0404|Hspell:267700|h[Gaze of G'huun]|h|r.", -- [2]
+				"G'huun", -- [3]
+				1, -- [4]
+			}, -- [47]
+			{
+				402.25, -- [1]
+				"Za awtgsshu wgah uulg'ma ywaq zaix.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [48]
+			{
+				402.25, -- [1]
+				"My whispers will liquefy your mind.", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [49]
+			{
+				404.242000000006, -- [1]
+				"|TINTERFACE\\ICONS\\SPELL_SHADOW_POSSESSION.BLP:20|t Remember to look while G'huun casts |cFFFF0404|Hspell:267700|h[Gaze of G'huun]|h|r.", -- [2]
+				"Teldrasil", -- [3]
+				2, -- [4]
+			}, -- [50]
+			{
+				420.423000000003, -- [1]
+				"Ywaq ongg an'qov i lal halahs nuq.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [51]
+			{
+				420.423000000003, -- [1]
+				"Your husk serves a new master now.", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [52]
+			{
+				430.936000000002, -- [1]
+				"Ywaq ongg an'qov i lal halahs nuq.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [53]
+			{
+				430.936000000002, -- [1]
+				"Your husk serves a new master now.", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [54]
+			{
+				435.178, -- [1]
+				"|TINTERFACE\\ICONS\\SPELL_SHADOW_POSSESSION.BLP:20|t G'huun begins to cast |cFFFF0404|Hspell:267700|h[Gaze of G'huun]|h|r.", -- [2]
+				"G'huun", -- [3]
+				1, -- [4]
+			}, -- [55]
+			{
+				435.178, -- [1]
+				"I ongg za ywaq qvsakf.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [56]
+			{
+				435.178, -- [1]
+				"I feed on your terror!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [57]
+			["boss"] = "G'huun",
+		}, -- [1]
+		{
+			{
+				0.283999999999651, -- [1]
+				"Oou gul'kafh lal lwhuk!", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [1]
+			{
+				0.283999999999651, -- [1]
+				"The outbreak has begun!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [2]
+			{
+				17.4190000000017, -- [1]
+				"Attention. A new power matrix is available.", -- [2]
+				"MOTHER", -- [3]
+				7, -- [4]
+			}, -- [3]
+			{
+				17.6130000000048, -- [1]
+				"|TINTERFACE\\ICONS\\ABILITY_TITANKEEPER_CLEANSINGORB.BLP:20|t A new |cFFFF0404|Hspell:263420|h[Power Matrix]|h|r is available.", -- [2]
+				"Power Matrix", -- [3]
+				1, -- [4]
+			}, -- [4]
+			{
+				30.625, -- [1]
+				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
+				"G'huun", -- [3]
+				1, -- [4]
+			}, -- [5]
+			{
+				30.625, -- [1]
+				"Log'loth w'oq Ongg!", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [6]
+			{
+				30.625, -- [1]
+				"Children, come and feed!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [7]
+			{
+				36.3820000000051, -- [1]
+				"|TINTERFACE\\ICONS\\SPELL_SHADOW_DEATHCOIL.BLP:20|t G'huun casts |cFFFF0404|Hspell:272506|h[Explosive Corruption]|h|r on you!", -- [2]
+				"Teldrasil", -- [3]
+				2, -- [4]
+			}, -- [8]
+			{
+				59.4270000000033, -- [1]
+				"|TINTERFACE\\ICONS\\ABILITY_TITANKEEPER_CLEANSINGORB.BLP:20|t A new |cFFFF0404|Hspell:263420|h[Power Matrix]|h|r is available.", -- [2]
+				"Power Matrix", -- [3]
+				1, -- [4]
+			}, -- [9]
+			{
+				59.859000000004, -- [1]
+				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
+				"G'huun", -- [3]
+				1, -- [4]
+			}, -- [10]
+			{
+				59.859000000004, -- [1]
+				"Log'loth w'oq Ongg!", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [11]
+			{
+				59.859000000004, -- [1]
+				"Children, come and feed!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [12]
+			{
+				60.0060000000012, -- [1]
+				"A power matrix is ready for acquisition.", -- [2]
+				"MOTHER", -- [3]
+				7, -- [4]
+			}, -- [13]
+			{
+				87.8780000000043, -- [1]
+				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
+				"G'huun", -- [3]
+				1, -- [4]
+			}, -- [14]
+			{
+				87.8780000000043, -- [1]
+				"Log'loth w'oq Ongg!", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [15]
+			{
+				87.8780000000043, -- [1]
+				"Children, come and feed!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [16]
+			{
+				90.5, -- [1]
+				"Attention. A new power matrix is available.", -- [2]
+				"MOTHER", -- [3]
+				7, -- [4]
+			}, -- [17]
+			{
+				90.726999999999, -- [1]
+				"|TINTERFACE\\ICONS\\ABILITY_TITANKEEPER_CLEANSINGORB.BLP:20|t A new |cFFFF0404|Hspell:263420|h[Power Matrix]|h|r is available.", -- [2]
+				"Power Matrix", -- [3]
+				1, -- [4]
+			}, -- [18]
+			{
+				112.665000000001, -- [1]
+				"Warning. Reorigination blast imminent. Please clear the area.", -- [2]
+				"MOTHER", -- [3]
+				7, -- [4]
+			}, -- [19]
+			{
+				143.124000000003, -- [1]
+				"Zuq ag'xig bormaz ag'thyzak!", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [20]
+			{
+				143.124000000003, -- [1]
+				"You cannot escape infection!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [21]
+			{
+				156.245000000003, -- [1]
+				"A new power matrix can now be collected.", -- [2]
+				"MOTHER", -- [3]
+				7, -- [4]
+			}, -- [22]
+			{
+				156.529999999999, -- [1]
+				"|TINTERFACE\\ICONS\\ABILITY_TITANKEEPER_CLEANSINGORB.BLP:20|t A new |cFFFF0404|Hspell:263420|h[Power Matrix]|h|r is available.", -- [2]
+				"Power Matrix", -- [3]
+				1, -- [4]
+			}, -- [23]
+			{
+				196.221000000005, -- [1]
+				"Qam oou uhnish kyth zuq Ongg za fhssh as'rr.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [24]
+			{
+				196.221000000005, -- [1]
+				"Let the hunger take you. Feed on their blood.", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [25]
+			{
+				204.196000000004, -- [1]
+				"|TINTERFACE\\ICONS\\ABILITY_RACIAL_CANNIBALIZE.BLP:20|t Use |cFFFF0404|Hspell:263235|h[Blood Feast]|h|r to purge your stacks of |cFFFF0404|Hspell:263227|h[Putrid Blood]|h|r.", -- [2]
+				"G'huun", -- [3]
+				2, -- [4]
+			}, -- [26]
+			{
+				232.848000000005, -- [1]
+				"Attention. A new power matrix is available.", -- [2]
+				"MOTHER", -- [3]
+				7, -- [4]
+			}, -- [27]
+			{
+				233.096000000005, -- [1]
+				"|TINTERFACE\\ICONS\\ABILITY_TITANKEEPER_CLEANSINGORB.BLP:20|t A new |cFFFF0404|Hspell:263420|h[Power Matrix]|h|r is available.", -- [2]
+				"Power Matrix", -- [3]
+				1, -- [4]
+			}, -- [28]
+			{
+				243.569000000003, -- [1]
+				"Ywaq zuq ywag shn'ma Bo'al za qwor.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [29]
+			{
+				243.569000000003, -- [1]
+				"Seek out your allies. Share my gift.", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [30]
+			{
+				251.654000000002, -- [1]
+				"|TINTERFACE\\ICONS\\ABILITY_RACIAL_CANNIBALIZE.BLP:20|t Use |cFFFF0404|Hspell:263235|h[Blood Feast]|h|r to purge your stacks of |cFFFF0404|Hspell:263227|h[Putrid Blood]|h|r.", -- [2]
+				"G'huun", -- [3]
+				2, -- [4]
+			}, -- [31]
+			{
+				291.609000000004, -- [1]
+				"Qam oou uhnish kyth zuq Ongg za fhssh as'rr.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [32]
+			{
+				291.609000000004, -- [1]
+				"Let the hunger take you. Feed on their blood.", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [33]
+			{
+				298.608, -- [1]
+				"A new power matrix can now be collected.", -- [2]
+				"MOTHER", -- [3]
+				7, -- [4]
+			}, -- [34]
+			{
+				298.742000000006, -- [1]
+				"|TINTERFACE\\ICONS\\ABILITY_TITANKEEPER_CLEANSINGORB.BLP:20|t A new |cFFFF0404|Hspell:263420|h[Power Matrix]|h|r is available.", -- [2]
+				"Power Matrix", -- [3]
+				1, -- [4]
+			}, -- [35]
+			{
+				299.552000000003, -- [1]
+				"|TINTERFACE\\ICONS\\ABILITY_RACIAL_CANNIBALIZE.BLP:20|t Use |cFFFF0404|Hspell:263235|h[Blood Feast]|h|r to purge your stacks of |cFFFF0404|Hspell:263227|h[Putrid Blood]|h|r.", -- [2]
+				"G'huun", -- [3]
+				2, -- [4]
+			}, -- [36]
+			{
+				334.522000000005, -- [1]
+				"Alert. Reorgination blast sequence initiated. Please vacate the area.", -- [2]
+				"MOTHER", -- [3]
+				7, -- [4]
+			}, -- [37]
+			{
+				338.811000000002, -- [1]
+				"Ywaq ongg an'qov i lal halahs nuq.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [38]
+			{
+				338.811000000002, -- [1]
+				"Your husk serves a new master now.", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [39]
+			{
+				362.840000000004, -- [1]
+				"Oou vwahuHn ag'xig shfk zuq!", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [40]
+			{
+				363.056000000004, -- [1]
+				"The titans cannot save you!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [41]
+			{
+				384.928, -- [1]
+				"Awtgssh shn ongg shg'ullwaq!", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [42]
+			{
+				384.928, -- [1]
+				"Nothing can stop my pestilence!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [43]
+			{
+				386.608, -- [1]
+				"Ywaq ongg an'qov i lal halahs nuq.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [44]
+			{
+				386.608, -- [1]
+				"Your husk serves a new master now.", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [45]
+			{
+				402.165000000001, -- [1]
+				"Ywaq ongg an'qov i lal halahs nuq.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [46]
+			{
+				402.165000000001, -- [1]
+				"Your husk serves a new master now.", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [47]
+			{
+				415.237000000001, -- [1]
+				"|TINTERFACE\\ICONS\\SPELL_SHADOW_POSSESSION.BLP:20|t G'huun begins to cast |cFFFF0404|Hspell:267700|h[Gaze of G'huun]|h|r.", -- [2]
+				"G'huun", -- [3]
+				1, -- [4]
+			}, -- [48]
+			{
+				415.237000000001, -- [1]
+				"Vwah oou kaaxth zz ywaq iiyoq Ag'xlg fhssh I on'ma.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [49]
+			{
+				415.506000000001, -- [1]
+				"Feel the twitch in your spine? That is where I exist.", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [50]
+			{
+				424.428, -- [1]
+				"Ywaq ongg an'qov i lal halahs nuq.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [51]
+			{
+				424.428, -- [1]
+				"Your husk serves a new master now.", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [52]
+			{
+				438.661, -- [1]
+				"Ywaq mh'naus wgah zaix zyqtahg.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [53]
+			{
+				438.661, -- [1]
+				"Your screams will echo forever!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [54]
+			{
+				447.045000000006, -- [1]
+				"|TINTERFACE\\ICONS\\SPELL_SHADOW_POSSESSION.BLP:20|t G'huun begins to cast |cFFFF0404|Hspell:267700|h[Gaze of G'huun]|h|r.", -- [2]
+				"G'huun", -- [3]
+				1, -- [4]
+			}, -- [55]
+			{
+				447.045000000006, -- [1]
+				"Vwah oou kaaxth zz ywaq iiyoq Ag'xlg fhssh I on'ma.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [56]
+			{
+				447.045000000006, -- [1]
+				"Feel the twitch in your spine? That is where I exist.", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [57]
+			{
+				449.103999999999, -- [1]
+				"|TINTERFACE\\ICONS\\SPELL_SHADOW_POSSESSION.BLP:20|t Remember to look while G'huun casts |cFFFF0404|Hspell:267700|h[Gaze of G'huun]|h|r.", -- [2]
+				"Teldrasil", -- [3]
+				2, -- [4]
+			}, -- [58]
+			{
+				465.824000000001, -- [1]
+				"Ywaq mh'naus wgah zaix zyqtahg.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [59]
+			{
+				465.824000000001, -- [1]
+				"Your screams will echo forever!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [60]
+			{
+				479.849999999999, -- [1]
+				"|TINTERFACE\\ICONS\\SPELL_SHADOW_POSSESSION.BLP:20|t G'huun begins to cast |cFFFF0404|Hspell:267700|h[Gaze of G'huun]|h|r.", -- [2]
+				"G'huun", -- [3]
+				1, -- [4]
+			}, -- [61]
+			{
+				479.849999999999, -- [1]
+				"Za awtgsshu wgah uulg'ma ywaq zaix.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [62]
+			{
+				479.849999999999, -- [1]
+				"My whispers will liquefy your mind.", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [63]
+			{
+				481.844000000005, -- [1]
+				"|TINTERFACE\\ICONS\\SPELL_SHADOW_POSSESSION.BLP:20|t Remember to look while G'huun casts |cFFFF0404|Hspell:267700|h[Gaze of G'huun]|h|r.", -- [2]
+				"Teldrasil", -- [3]
+				2, -- [4]
+			}, -- [64]
+			{
+				486.724999999999, -- [1]
+				"Ywaq mh'naus wgah zaix zyqtahg.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [65]
+			{
+				486.872000000003, -- [1]
+				"Your screams will echo forever!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [66]
+			{
+				497.846000000005, -- [1]
+				"Ywaq ongg an'qov i lal halahs nuq.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [67]
+			{
+				497.846000000005, -- [1]
+				"Your husk serves a new master now.", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [68]
+			{
+				511.462, -- [1]
+				"|TINTERFACE\\ICONS\\SPELL_SHADOW_POSSESSION.BLP:20|t G'huun begins to cast |cFFFF0404|Hspell:267700|h[Gaze of G'huun]|h|r.", -- [2]
+				"G'huun", -- [3]
+				1, -- [4]
+			}, -- [69]
+			{
+				511.462, -- [1]
+				"I ongg za ywaq qvsakf.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [70]
+			{
+				511.462, -- [1]
+				"I feed on your terror!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [71]
+			{
+				513.349000000002, -- [1]
+				"|TINTERFACE\\ICONS\\SPELL_SHADOW_POSSESSION.BLP:20|t Remember to look while G'huun casts |cFFFF0404|Hspell:267700|h[Gaze of G'huun]|h|r.", -- [2]
+				"Teldrasil", -- [3]
+				2, -- [4]
+			}, -- [72]
+			{
+				516.838000000003, -- [1]
+				"Ywaq ongg an'qov i lal halahs nuq.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [73]
+			{
+				516.838000000003, -- [1]
+				"Your husk serves a new master now.", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [74]
+			{
+				532.966, -- [1]
+				"Ywaq ongg an'qov i lal halahs nuq.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [75]
+			{
+				532.966, -- [1]
+				"Your husk serves a new master now.", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [76]
+			{
+				537.826000000001, -- [1]
+				"|TINTERFACE\\ICONS\\SPELL_SHADOW_DEATHCOIL.BLP:20|t G'huun casts |cFFFF0404|Hspell:272506|h[Explosive Corruption]|h|r on you!", -- [2]
+				"Teldrasil", -- [3]
+				2, -- [4]
+			}, -- [77]
+			{
+				543.029000000002, -- [1]
+				"|TINTERFACE\\ICONS\\SPELL_SHADOW_POSSESSION.BLP:20|t G'huun begins to cast |cFFFF0404|Hspell:267700|h[Gaze of G'huun]|h|r.", -- [2]
+				"G'huun", -- [3]
+				1, -- [4]
+			}, -- [78]
+			{
+				543.029000000002, -- [1]
+				"I ongg za ywaq qvsakf.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [79]
+			{
+				543.029000000002, -- [1]
+				"I feed on your terror!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [80]
+			{
+				545.057000000001, -- [1]
+				"|TINTERFACE\\ICONS\\SPELL_SHADOW_POSSESSION.BLP:20|t Remember to look while G'huun casts |cFFFF0404|Hspell:267700|h[Gaze of G'huun]|h|r.", -- [2]
+				"Teldrasil", -- [3]
+				2, -- [4]
+			}, -- [81]
+			{
+				557.097000000002, -- [1]
+				"Ywaq mh'naus wgah zaix zyqtahg.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [82]
+			{
+				557.097000000002, -- [1]
+				"Your screams will echo forever!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [83]
+			{
+				568.648000000001, -- [1]
+				"Ywaq mh'naus wgah zaix zyqtahg.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [84]
+			{
+				568.648000000001, -- [1]
+				"Your screams will echo forever!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [85]
+			{
+				575.798999999999, -- [1]
+				"|TINTERFACE\\ICONS\\SPELL_SHADOW_POSSESSION.BLP:20|t G'huun begins to cast |cFFFF0404|Hspell:267700|h[Gaze of G'huun]|h|r.", -- [2]
+				"G'huun", -- [3]
+				1, -- [4]
+			}, -- [86]
+			{
+				575.798999999999, -- [1]
+				"Za awtgsshu wgah uulg'ma ywaq zaix.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [87]
+			{
+				575.798999999999, -- [1]
+				"My whispers will liquefy your mind.", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [88]
+			{
+				580.452000000005, -- [1]
+				"Ywaq mh'naus wgah zaix zyqtahg.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [89]
+			{
+				580.452000000005, -- [1]
+				"Your screams will echo forever!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [90]
+			["boss"] = "G'huun",
+		}, -- [2]
+		{
+			{
+				0.228000000002794, -- [1]
+				"Oou gul'kafh lal lwhuk!", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [1]
+			{
+				0.228000000002794, -- [1]
+				"The outbreak has begun!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [2]
+			{
+				8.83100000000559, -- [1]
+				"|TINTERFACE\\ICONS\\ABILITY_TITANKEEPER_CLEANSINGORB.BLP:20|t A new |cFFFF0404|Hspell:263420|h[Power Matrix]|h|r is available.", -- [2]
+				"Power Matrix", -- [3]
+				1, -- [4]
+			}, -- [3]
+			{
+				9.49799999999959, -- [1]
+				"A power matrix is ready for acquisition.", -- [2]
+				"MOTHER", -- [3]
+				7, -- [4]
+			}, -- [4]
+			{
+				9.96399999999994, -- [1]
+				"|TINTERFACE\\ICONS\\SPELL_SHADOW_DEATHCOIL.BLP:20|t G'huun casts |cFFFF0404|Hspell:272506|h[Explosive Corruption]|h|r on you!", -- [2]
+				"Teldrasil", -- [3]
+				2, -- [4]
+			}, -- [5]
+			{
+				30.3700000000026, -- [1]
+				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
+				"G'huun", -- [3]
+				1, -- [4]
+			}, -- [6]
+			{
+				30.3700000000026, -- [1]
+				"Qam oou iilth ez i awtgsshu amun on'ma!", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [7]
+			{
+				30.3700000000026, -- [1]
+				"Let the feast of a thousand maws begin!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [8]
+			{
+				59.6500000000015, -- [1]
+				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
+				"G'huun", -- [3]
+				1, -- [4]
+			}, -- [9]
+			{
+				59.6500000000015, -- [1]
+				"Log'loth w'oq Ongg!", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [10]
+			{
+				59.6500000000015, -- [1]
+				"Children, come and feed!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [11]
+			{
+				62.6920000000027, -- [1]
+				"|TINTERFACE\\ICONS\\SPELL_SHADOW_DEATHCOIL.BLP:20|t G'huun casts |cFFFF0404|Hspell:272506|h[Explosive Corruption]|h|r on you!", -- [2]
+				"Teldrasil", -- [3]
+				2, -- [4]
+			}, -- [12]
+			{
+				87.5980000000054, -- [1]
+				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
+				"G'huun", -- [3]
+				1, -- [4]
+			}, -- [13]
+			{
+				87.5980000000054, -- [1]
+				"Qam oou iilth ez i awtgsshu amun on'ma!", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [14]
+			{
+				87.5980000000054, -- [1]
+				"Let the feast of a thousand maws begin!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [15]
+			{
+				114.43, -- [1]
+				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
+				"G'huun", -- [3]
+				1, -- [4]
+			}, -- [16]
+			{
+				114.43, -- [1]
+				"W'oq uhn'agth ez qam Shandai!", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [17]
+			{
+				114.43, -- [1]
+				"Come, servants of rot. Consume!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [18]
+			{
+				126.940000000002, -- [1]
+				"|TINTERFACE\\ICONS\\ABILITY_TITANKEEPER_CLEANSINGORB.BLP:20|t A new |cFFFF0404|Hspell:263420|h[Power Matrix]|h|r is available.", -- [2]
+				"Power Matrix", -- [3]
+				1, -- [4]
+			}, -- [19]
+			{
+				127.613000000005, -- [1]
+				"Attention. A new power matrix is available.", -- [2]
+				"MOTHER", -- [3]
+				7, -- [4]
+			}, -- [20]
+			{
+				139.961000000003, -- [1]
+				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
+				"G'huun", -- [3]
+				1, -- [4]
+			}, -- [21]
+			{
+				139.961000000003, -- [1]
+				"Log'loth w'oq Ongg!", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [22]
+			{
+				139.961000000003, -- [1]
+				"Children, come and feed!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [23]
+			{
+				164.328000000001, -- [1]
+				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
+				"G'huun", -- [3]
+				1, -- [4]
+			}, -- [24]
+			{
+				164.328000000001, -- [1]
+				"W'oq uhn'agth ez qam Shandai!", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [25]
+			{
+				164.328000000001, -- [1]
+				"Come, servants of rot. Consume!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [26]
+			{
+				188.676, -- [1]
+				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
+				"G'huun", -- [3]
+				1, -- [4]
+			}, -- [27]
+			{
+				188.676, -- [1]
+				"W'oq uhn'agth ez qam Shandai!", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [28]
+			{
+				188.676, -- [1]
+				"Come, servants of rot. Consume!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [29]
+			{
+				195.941000000006, -- [1]
+				"|TINTERFACE\\ICONS\\SPELL_SHADOW_DEATHCOIL.BLP:20|t G'huun casts |cFFFF0404|Hspell:272506|h[Explosive Corruption]|h|r on you!", -- [2]
+				"Teldrasil", -- [3]
+				2, -- [4]
+			}, -- [30]
+			{
+				211.814000000006, -- [1]
+				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
+				"G'huun", -- [3]
+				1, -- [4]
+			}, -- [31]
+			{
+				211.814000000006, -- [1]
+				"Qam oou iilth ez i awtgsshu amun on'ma!", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [32]
+			{
+				211.814000000006, -- [1]
+				"Let the feast of a thousand maws begin!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [33]
+			{
+				233.745999999999, -- [1]
+				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
+				"G'huun", -- [3]
+				1, -- [4]
+			}, -- [34]
+			{
+				233.745999999999, -- [1]
+				"Qam oou iilth ez i awtgsshu amun on'ma!", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [35]
+			{
+				233.745999999999, -- [1]
+				"Let the feast of a thousand maws begin!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [36]
+			{
+				243.207000000002, -- [1]
+				"A power matrix is ready for acquisition.", -- [2]
+				"MOTHER", -- [3]
+				7, -- [4]
+			}, -- [37]
+			{
+				243.409, -- [1]
+				"|TINTERFACE\\ICONS\\ABILITY_TITANKEEPER_CLEANSINGORB.BLP:20|t A new |cFFFF0404|Hspell:263420|h[Power Matrix]|h|r is available.", -- [2]
+				"Power Matrix", -- [3]
+				1, -- [4]
+			}, -- [38]
+			{
+				254.397000000004, -- [1]
+				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
+				"G'huun", -- [3]
+				1, -- [4]
+			}, -- [39]
+			{
+				254.397000000004, -- [1]
+				"W'oq uhn'agth ez qam Shandai!", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [40]
+			{
+				254.397000000004, -- [1]
+				"Come, servants of rot. Consume!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [41]
+			{
+				273.814000000006, -- [1]
+				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
+				"G'huun", -- [3]
+				1, -- [4]
+			}, -- [42]
+			{
+				273.814000000006, -- [1]
+				"Log'loth w'oq Ongg!", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [43]
+			{
+				273.814000000006, -- [1]
+				"Children, come and feed!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [44]
+			{
+				290.5, -- [1]
+				"Alert. Reorgination blast sequence initiated. Please vacate the area.", -- [2]
+				"MOTHER", -- [3]
+				7, -- [4]
+			}, -- [45]
+			{
+				320.564000000006, -- [1]
+				"Zuq ag'xig bormaz ag'thyzak!", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [46]
+			{
+				320.564000000006, -- [1]
+				"You cannot escape infection!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [47]
+			{
+				363.082000000002, -- [1]
+				"|TINTERFACE\\ICONS\\ABILITY_TITANKEEPER_CLEANSINGORB.BLP:20|t A new |cFFFF0404|Hspell:263420|h[Power Matrix]|h|r is available.", -- [2]
+				"Power Matrix", -- [3]
+				1, -- [4]
+			}, -- [48]
+			{
+				363.808000000005, -- [1]
+				"A new power matrix can now be collected.", -- [2]
+				"MOTHER", -- [3]
+				7, -- [4]
+			}, -- [49]
+			{
+				373.670000000006, -- [1]
+				"Oou qam puul zyqtahg ywaq vorzz Qam ma shn'ma.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [50]
+			{
+				373.670000000006, -- [1]
+				"The rot runs through your veins. Let it spread.", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [51]
+			{
+				381.671000000002, -- [1]
+				"|TINTERFACE\\ICONS\\ABILITY_RACIAL_CANNIBALIZE.BLP:20|t Use |cFFFF0404|Hspell:263235|h[Blood Feast]|h|r to purge your stacks of |cFFFF0404|Hspell:263227|h[Putrid Blood]|h|r.", -- [2]
+				"G'huun", -- [3]
+				2, -- [4]
+			}, -- [52]
+			{
+				421.060000000005, -- [1]
+				"Oou qam puul zyqtahg ywaq vorzz Qam ma shn'ma.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [53]
+			{
+				421.060000000005, -- [1]
+				"The rot runs through your veins. Let it spread.", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [54]
+			{
+				429.037000000004, -- [1]
+				"|TINTERFACE\\ICONS\\ABILITY_RACIAL_CANNIBALIZE.BLP:20|t Use |cFFFF0404|Hspell:263235|h[Blood Feast]|h|r to purge your stacks of |cFFFF0404|Hspell:263227|h[Putrid Blood]|h|r.", -- [2]
+				"G'huun", -- [3]
+				2, -- [4]
+			}, -- [55]
+			{
+				446.219000000005, -- [1]
+				"|TINTERFACE\\ICONS\\ABILITY_TITANKEEPER_CLEANSINGORB.BLP:20|t A new |cFFFF0404|Hspell:263420|h[Power Matrix]|h|r is available.", -- [2]
+				"Power Matrix", -- [3]
+				1, -- [4]
+			}, -- [56]
+			{
+				446.357000000004, -- [1]
+				"A power matrix is ready for acquisition.", -- [2]
+				"MOTHER", -- [3]
+				7, -- [4]
+			}, -- [57]
+			{
+				447.482000000004, -- [1]
+				"|TINTERFACE\\ICONS\\SPELL_SHADOW_DEATHCOIL.BLP:20|t G'huun casts |cFFFF0404|Hspell:272506|h[Explosive Corruption]|h|r on you!", -- [2]
+				"Teldrasil", -- [3]
+				2, -- [4]
+			}, -- [58]
+			{
+				468.521000000001, -- [1]
+				"Ywaq zuq ywag shn'ma Bo'al za qwor.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [59]
+			{
+				468.521000000001, -- [1]
+				"Seek out your allies. Share my gift.", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [60]
+			{
+				476.540000000001, -- [1]
+				"|TINTERFACE\\ICONS\\ABILITY_RACIAL_CANNIBALIZE.BLP:20|t Use |cFFFF0404|Hspell:263235|h[Blood Feast]|h|r to purge your stacks of |cFFFF0404|Hspell:263227|h[Putrid Blood]|h|r.", -- [2]
+				"G'huun", -- [3]
+				2, -- [4]
+			}, -- [61]
+			{
+				487.340000000004, -- [1]
+				"Ywaq ongg an'qov i lal halahs nuq.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [62]
+			{
+				487.340000000004, -- [1]
+				"Your husk serves a new master now.", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [63]
+			{
+				502.769, -- [1]
+				"Ywaq ongg an'qov i lal halahs nuq.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [64]
+			{
+				502.769, -- [1]
+				"Your husk serves a new master now.", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [65]
+			{
+				513.252, -- [1]
+				"Ywaq mh'naus wgah zaix zyqtahg.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [66]
+			{
+				513.252, -- [1]
+				"Your screams will echo forever!", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [67]
+			{
+				514.775000000001, -- [1]
+				"Oou qam puul zyqtahg ywaq vorzz Qam ma shn'ma.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [68]
+			{
+				514.775000000001, -- [1]
+				"The rot runs through your veins. Let it spread.", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [69]
+			{
+				522.763000000006, -- [1]
+				"|TINTERFACE\\ICONS\\ABILITY_RACIAL_CANNIBALIZE.BLP:20|t Use |cFFFF0404|Hspell:263235|h[Blood Feast]|h|r to purge your stacks of |cFFFF0404|Hspell:263227|h[Putrid Blood]|h|r.", -- [2]
+				"G'huun", -- [3]
+				2, -- [4]
+			}, -- [70]
+			{
+				526.174000000006, -- [1]
+				"|TINTERFACE\\ICONS\\SPELL_SHADOW_DEATHCOIL.BLP:20|t G'huun casts |cFFFF0404|Hspell:272506|h[Explosive Corruption]|h|r on you!", -- [2]
+				"Teldrasil", -- [3]
+				2, -- [4]
+			}, -- [71]
+			{
+				528.271000000001, -- [1]
+				"Ywaq ongg an'qov i lal halahs nuq.", -- [2]
+				"G'huun", -- [3]
+				7, -- [4]
+			}, -- [72]
+			{
+				528.271000000001, -- [1]
+				"Your husk serves a new master now.", -- [2]
+				"G'huun", -- [3]
+				5, -- [4]
+			}, -- [73]
+			["boss"] = "G'huun",
+		}, -- [3]
+	},
 	["encounter_spells"] = {
 		[204598] = {
 			["school"] = 4,
@@ -269,8 +1600,8 @@ EncounterDetailsDB = {
 		[205246] = {
 			["school"] = 32,
 			["token"] = {
-				["SPELL_PERIODIC_HEAL"] = true,
 				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_PERIODIC_HEAL"] = true,
 			},
 			["source"] = "Lockipopi-Ragnaros",
 		},
@@ -358,8 +1689,8 @@ EncounterDetailsDB = {
 		[98021] = {
 			["school"] = 8,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
 				["SPELL_HEAL"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Spirit Link Totem",
 		},
@@ -809,8 +2140,8 @@ EncounterDetailsDB = {
 		[277794] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
 				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
 			},
 			["source"] = "Malformed Lion",
 		},
@@ -2150,8 +3481,8 @@ EncounterDetailsDB = {
 		[205179] = {
 			["school"] = 32,
 			["token"] = {
-				["SPELL_HEAL"] = true,
 				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_HEAL"] = true,
 			},
 			["source"] = "Lockipopi-Ragnaros",
 		},
@@ -2543,14 +3874,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Naz'jar Honor Guard",
 		},
-		[272409] = {
-			["school"] = 32,
-			["type"] = "BUFF",
+		[279664] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Unknown",
+			["source"] = "Vanquished Tendril of G'huun",
 		},
 		[772] = {
 			["school"] = 1,
@@ -2566,29 +3895,28 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Priestess Alun'za",
 		},
-		[276020] = {
-			["school"] = 32,
+		[259718] = {
+			["school"] = 1,
 			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Minion of Zul",
+			["source"] = "Sporecaller Zancha",
 		},
-		[281444] = {
-			["school"] = 64,
+		[8936] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_PERIODIC_HEAL"] = true,
+			},
+			["source"] = "Tehjarvman-Stormscale",
+		},
+		[199667] = {
+			["school"] = 1,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Reorigination Drive",
-		},
-		[263307] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Gibbering Horror",
+			["source"] = "Bàbàjaga-Pozzodell'Eternità",
 		},
 		[1680] = {
 			["school"] = 1,
@@ -2605,12 +3933,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Belyap",
 		},
-		[186439] = {
+		[233497] = {
 			["school"] = 32,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Zorayah-Stormscale",
+			["source"] = "Lockipopi-Ragnaros",
 		},
 		[263074] = {
 			["school"] = 8,
@@ -2619,14 +3947,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Grotesque Experiment",
 		},
-		[276204] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[265974] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_HEAL"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Lerayne-ArgentDawn",
+			["source"] = "Galvazzt",
 		},
 		[258773] = {
 			["school"] = 8,
@@ -2659,14 +3985,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Unknown",
 		},
-		[263927] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[204213] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Merektha",
+			["source"] = "ßlackmagic-TwistingNether",
 		},
 		[270373] = {
 			["school"] = 1,
@@ -2704,13 +4028,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Charged Dust Devil",
 		},
-		[263504] = {
-			["school"] = 1,
+		[275270] = {
+			["school"] = 64,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "G'huun",
+			["source"] = "Volatile Droplet",
 		},
 		[259853] = {
 			["school"] = 8,
@@ -2739,11 +4063,10 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ozumat",
 		},
-		[275756] = {
-			["school"] = 1,
+		[270454] = {
+			["school"] = 40,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "G'huun",
 		},
@@ -2794,24 +4117,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Taloc",
 		},
-		[267427] = {
-			["school"] = 32,
+		[263482] = {
+			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Cyclopean Terror",
+			["source"] = "Reorigination Drive",
 		},
-		[256060] = {
-			["school"] = 8,
-			["type"] = "BUFF",
+		[260547] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_PERIODIC_HEAL"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Skycap'n Kragg",
+			["source"] = "Soulbound Goliath",
 		},
 		[104318] = {
 			["school"] = 4,
@@ -2830,14 +4151,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Priestess Alun'za",
 		},
-		[267412] = {
-			["school"] = 1,
+		[83608] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Dark Young",
+			["source"] = "Blight of Ozumat",
 		},
 		[255835] = {
 			["school"] = 32,
@@ -2864,14 +4183,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "N'raqi Destroyer",
 		},
-		[83915] = {
+		[280943] = {
 			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Vicious Mindlasher",
+			["source"] = "Cyclopean Terror",
 		},
 		[186263] = {
 			["school"] = 32,
@@ -2880,12 +4198,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Zorayah-Stormscale",
 		},
-		[260312] = {
-			["school"] = 1,
+		[273945] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Cragmaw the Infested",
+			["source"] = "N'raqi Destroyer",
 		},
 		[267430] = {
 			["school"] = 32,
@@ -2894,14 +4212,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Cyclopean Terror",
 		},
-		[266225] = {
+		[268271] = {
 			["school"] = 32,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Gorak Tul",
+			["source"] = "Lady Waycrest",
 		},
 		[255836] = {
 			["school"] = 32,
@@ -2919,22 +4236,19 @@ EncounterDetailsDB = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
 		},
-		[257407] = {
+		[276199] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Rezan",
-		},
-		[276894] = {
-			["school"] = 32,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "N'raqi Destroyer",
+			["source"] = "Garthyloxx-Ragnaros",
+		},
+		[260312] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Cragmaw the Infested",
 		},
 		[276127] = {
 			["school"] = 1,
@@ -2944,12 +4258,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Halle-Ragnaros",
 		},
-		[77451] = {
-			["school"] = 4,
+		[272115] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Bastion-BurningBlade",
+			["source"] = "Mythrax the Unraveler",
 		},
 		[260696] = {
 			["school"] = 32,
@@ -2967,26 +4282,30 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lady Naz'jar",
 		},
-		[278150] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-		},
-		[197561] = {
-			["school"] = 2,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Boorthos-Daggerspine",
-		},
-		[272146] = {
+		[255558] = {
 			["school"] = 32,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
+		},
+		[265968] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_HEAL"] = true,
+			},
+			["source"] = "Charged Dust Devil",
+		},
+		[224125] = {
+			["school"] = 4,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Spirit Wolf",
 		},
 		[268712] = {
 			["school"] = 1,
@@ -3018,14 +4337,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Earthrager",
 		},
-		[275686] = {
-			["school"] = 1,
+		[277732] = {
+			["school"] = 40,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Unknown",
+			["source"] = "Sporecaller Zancha",
 		},
 		[266923] = {
 			["school"] = 8,
@@ -3044,18 +4363,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Skycap'n Kragg",
 		},
-		[276863] = {
+		[273810] = {
 			["school"] = 32,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
+			["source"] = "Mythrax the Unraveler",
 		},
-		[203794] = {
-			["school"] = 32,
+		[33110] = {
+			["school"] = 2,
 			["token"] = {
 				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Flygspark-Wildhammer",
+			["source"] = "Gremlindoc-TarrenMill",
 		},
 		[264878] = {
 			["school"] = 1,
@@ -3096,12 +4419,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Auphius-ArgentDawn",
 		},
-		[33110] = {
-			["school"] = 2,
+		[203794] = {
+			["school"] = 32,
 			["token"] = {
 				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Gremlindoc-TarrenMill",
+			["source"] = "Flygspark-Wildhammer",
 		},
 		[264368] = {
 			["school"] = 1,
@@ -3142,12 +4465,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sister Solena",
 		},
-		[265370] = {
-			["school"] = 32,
+		[260894] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Vectis",
+			["source"] = "Elder Leaxa",
 		},
 		[224127] = {
 			["school"] = 8,
@@ -3173,14 +4497,16 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Banquet Steward",
 		},
-		[262143] = {
-			["school"] = 1,
+		[265366] = {
+			["school"] = 16,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Coastal Saurid",
+			["source"] = "Aqualing",
 		},
 		[224126] = {
 			["school"] = 16,
@@ -3190,12 +4516,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Spirit Wolf",
 		},
-		[278497] = {
-			["school"] = 1,
+		[250372] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Lokthar-Talnivarr",
+			["source"] = "Vol'kaal",
 		},
 		[260700] = {
 			["school"] = 32,
@@ -3213,20 +4540,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Nazeshi Overseer",
 		},
-		[263235] = {
+		[274230] = {
 			["school"] = 32,
-			["type"] = "DEBUFF",
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Mythrax the Unraveler",
+		},
+		[108446] = {
+			["school"] = 32,
+			["type"] = "BUFF",
+			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "G'huun",
-		},
-		[273480] = {
-			["school"] = 40,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
+			["source"] = "Izikdhun",
 		},
 		[260189] = {
 			["school"] = 1,
@@ -3237,13 +4566,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Mogul Razdunk",
 		},
-		[196289] = {
+		[256008] = {
 			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Squallfin Pearlguard",
+			["source"] = "Lerayne-ArgentDawn",
 		},
 		[157122] = {
 			["school"] = 2,
@@ -3252,14 +4582,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Boorthos-Daggerspine",
 		},
-		[32011] = {
-			["school"] = 16,
+		[273836] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_HEAL"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Squallfin Tideweaver",
+			["source"] = "Mmalexx-Outland",
 		},
 		[260701] = {
 			["school"] = 1,
@@ -3318,12 +4647,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Healing Tide Totem",
 		},
-		[228649] = {
+		[2580] = {
 			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Ribiozia-Stormscale",
+			["source"] = "Lerayne-ArgentDawn",
 		},
 		[260702] = {
 			["school"] = 32,
@@ -3339,14 +4669,11 @@ EncounterDetailsDB = {
 			},
 			["source"] = "G'huun",
 		},
-		[271590] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[265452] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Lady Waycrest",
 		},
 		[265143] = {
 			["school"] = 32,
@@ -3380,14 +4707,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Pazwan-Blade'sEdge",
 		},
-		[260879] = {
+		[267299] = {
 			["school"] = 32,
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Elder Leaxa",
+			["source"] = "Vol'zith the Whisperer",
 		},
 		[260703] = {
 			["school"] = 32,
@@ -3417,14 +4745,16 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Agitated Nimbus",
 		},
-		[83971] = {
+		[270620] = {
 			["school"] = 32,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Blight Beast",
+			["source"] = "Symbols-Zul'jin",
 		},
 		[269493] = {
 			["school"] = 4,
@@ -3451,34 +4781,33 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Symbols-Zul'jin",
 		},
-		[76026] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[258908] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Shrouded Fang",
+		},
+		[257305] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Harlan Sweete",
+		},
+		[259220] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_PERIODIC_DAMAGE"] = true,
-			},
-			["source"] = "Commander Ulthok",
-		},
-		[83914] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Vicious Mindlasher",
-		},
-		[75813] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Naz'jar Tempest Witch",
+			["source"] = "Sli'thrus",
 		},
 		[274098] = {
 			["school"] = 1,
@@ -3511,23 +4840,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Pallid Gorger",
 		},
-		[75683] = {
-			["school"] = 16,
-			["type"] = "BUFF",
+		[257028] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Lady Naz'jar",
+			["source"] = "Knight Captain Valyri",
 		},
-		[267239] = {
+		[233490] = {
 			["school"] = 32,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Warped Projection",
+			["source"] = "Lockipopi-Ragnaros",
 		},
 		[257580] = {
 			["school"] = 8,
@@ -3606,11 +4934,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Zek'voz",
 		},
-		[273554] = {
+		[83985] = {
 			["school"] = 32,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
+			["source"] = "Unyielding Behemoth",
 		},
 		[274358] = {
 			["school"] = 1,
@@ -3622,14 +4953,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Zul",
 		},
-		[273316] = {
+		[264220] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Nazmani Crusher",
+			["source"] = "Aggrot-Lightbringer",
 		},
 		[260323] = {
 			["school"] = 4,
@@ -3638,22 +4967,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Mogul Razdunk",
 		},
-		[250241] = {
-			["school"] = 32,
-			["type"] = "BUFF",
+		[257402] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Vol'kaal",
+			["source"] = "Harlan Sweete",
 		},
-		[265209] = {
-			["school"] = 32,
+		[257315] = {
+			["school"] = 4,
 			["token"] = {
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Vectis",
+			["source"] = "Irontide Grenadier",
 		},
 		[91375] = {
 			["school"] = 32,
@@ -3686,15 +5015,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Zek'voz",
 		},
-		[278961] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[267444] = {
+			["school"] = 32,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Diseased Lasher",
+			["source"] = "Vol'zith the Whisperer",
 		},
 		[265665] = {
 			["school"] = 8,
@@ -3713,26 +5040,30 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Gilded Priestess",
 		},
-		[277777] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Malformed Creation",
-		},
-		[179089] = {
-			["school"] = 1,
+		[271224] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Nazeshi Overseer",
+			["source"] = "Taloc",
 		},
-		[76008] = {
-			["school"] = 8,
+		[259474] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Lady Naz'jar",
+			["source"] = "Rixxa Fluxflame",
+		},
+		[256105] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Overseer Korgus",
 		},
 		[275129] = {
 			["school"] = 40,
@@ -3757,24 +5088,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Adderis",
 		},
-		[274396] = {
+		[980] = {
 			["school"] = 32,
-			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Lockipopi-Ragnaros",
+		},
+		[207386] = {
+			["school"] = 8,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_HEAL"] = true,
 			},
-			["source"] = "Animated Ichor",
-		},
-		[266181] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Gorak Tul",
+			["source"] = "Tehjarvman-Stormscale",
 		},
 		[178741] = {
 			["school"] = 4,
@@ -3817,24 +5145,19 @@ EncounterDetailsDB = {
 		[267459] = {
 			["school"] = 32,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
 				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_HEAL"] = true,
 			},
 			["source"] = "Forgotten Denizen",
 		},
-		[250096] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[76008] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Yazma",
+			["source"] = "Lady Naz'jar",
 		},
 		[266948] = {
 			["school"] = 32,
@@ -3846,14 +5169,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Vectis",
 		},
-		[207386] = {
-			["school"] = 8,
-			["type"] = "BUFF",
+		[266181] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Gorak Tul",
+		},
+		[2649] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_HEAL"] = true,
 			},
-			["source"] = "Tehjarvman-Stormscale",
+			["source"] = "Paskavittu",
 		},
 		[260838] = {
 			["school"] = 4,
@@ -3863,14 +5194,6 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-		},
-		[2649] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Paskavittu",
 		},
 		[264903] = {
 			["school"] = 16,
@@ -3890,13 +5213,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lokthar-Talnivarr",
 		},
-		[250050] = {
-			["school"] = 32,
+		[257316] = {
+			["school"] = 8,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Yazma",
+			["source"] = "Harlan Sweete",
+		},
+		[260455] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Unknown",
 		},
 		[256363] = {
 			["school"] = 1,
@@ -3909,22 +5241,16 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Trothak",
 		},
-		[260455] = {
-			["school"] = 1,
+		[268896] = {
+			["school"] = 32,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_PERIODIC_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Unknown",
-		},
-		[256005] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Sharkbait",
+			["source"] = "Lord Stormsong",
 		},
 		[262347] = {
 			["school"] = 8,
@@ -3938,12 +5264,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Coin-Operated Crowd Pummeler",
 		},
-		[100784] = {
+		[260292] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Ribiozia-Stormscale",
+			["source"] = "Cragmaw the Infested",
 		},
 		[201633] = {
 			["school"] = 2,
@@ -3953,13 +5280,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Earthen Wall Totem",
 		},
-		[271811] = {
-			["school"] = 32,
+		[278972] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Cudgel of Gore",
 		},
 		[263371] = {
 			["school"] = 8,
@@ -3971,19 +5297,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Aspix",
 		},
-		[278972] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[271811] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
+			["source"] = "Cudgel of Gore",
 		},
-		[52042] = {
-			["school"] = 8,
+		[121411] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_PERIODIC_HEAL"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Healing Stream Totem",
+			["source"] = "Aggrot-Lightbringer",
 		},
 		[270277] = {
 			["school"] = 4,
@@ -4016,13 +5345,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Captain Raoul",
 		},
-		[257092] = {
+		[143924] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "The Sand Queen",
+			["source"] = "Deinohunter-DefiasBrotherhood",
 		},
 		[267803] = {
 			["school"] = 4,
@@ -4062,20 +5390,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Azerite Footbomb",
 		},
-		[277973] = {
-			["school"] = 1,
+		[85222] = {
+			["school"] = 2,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "MOTHER",
+			["source"] = "Pazwan-Blade'sEdge",
 		},
-		[250258] = {
-			["school"] = 8,
+		[264734] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Vol'kaal",
+			["source"] = "Raal the Gluttonous",
 		},
 		[256405] = {
 			["school"] = 1,
@@ -4087,15 +5416,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Trothak",
 		},
-		[260669] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[255373] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Rixxa Fluxflame",
+			["source"] = "Rezan",
 		},
 		[260202] = {
 			["school"] = 1,
@@ -4117,15 +5444,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Azerokk",
 		},
-		[257582] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[257617] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Earthrager",
+			["source"] = "The Sand Queen",
 		},
 		[273350] = {
 			["school"] = 32,
@@ -4136,12 +5461,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Nazmani Bloodhexer",
 		},
-		[276132] = {
-			["school"] = 8,
+		[256551] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Halle-Ragnaros",
+			["source"] = "Sawtooth Shark",
 		},
 		[260372] = {
 			["school"] = 1,
@@ -4152,10 +5478,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Venture Co. Skyscorcher",
 		},
-		[258628] = {
-			["school"] = 1,
+		[255582] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
 		},
 		[264144] = {
@@ -4178,13 +5506,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Volatile Droplet",
 		},
-		[271296] = {
-			["school"] = 32,
+		[256106] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Taloc",
+			["source"] = "Skycap'n Kragg",
 		},
 		[227723] = {
 			["school"] = 1,
@@ -4194,23 +5523,16 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Auphius-ArgentDawn",
 		},
-		[31935] = {
-			["school"] = 2,
+		[262370] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Boorthos-Daggerspine",
-		},
-		[273538] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Mythrax the Unraveler",
+			["source"] = "Fetid Devourer",
 		},
-		[277776] = {
+		[256198] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
@@ -4218,22 +5540,30 @@ EncounterDetailsDB = {
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Malformed Creation",
+			["source"] = "Overseer Korgus",
 		},
-		[265374] = {
+		[259145] = {
 			["school"] = 32,
 			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Yazma",
+		},
+		[263345] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
+			["source"] = "Heavy Cannon",
 		},
-		[3716] = {
-			["school"] = 32,
+		[192231] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Jhazvhug",
+			["source"] = "Liquid Magma Totem",
 		},
 		[272586] = {
 			["school"] = 4,
@@ -4244,34 +5574,27 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Volatile Droplet",
 		},
-		[268306] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Lady Waycrest",
-		},
-		[257814] = {
+		[264587] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Jes Howlis",
-		},
-		[267899] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Brother Ironhull",
+			["source"] = "Krolusk Pup",
+		},
+		[262287] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Venture Co. Skyscorcher",
+		},
+		[256594] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Captain Raoul",
 		},
 		[268278] = {
 			["school"] = 32,
@@ -4290,23 +5613,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Unbound Abomination",
 		},
-		[199854] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Lokthar-Talnivarr",
-		},
-		[264526] = {
-			["school"] = 48,
+		[260668] = {
+			["school"] = 32,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Grasping Tentacles",
+			["source"] = "Gilded Priestess",
+		},
+		[255581] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Priestess Alun'za",
 		},
 		[262019] = {
 			["school"] = 1,
@@ -4329,12 +5651,28 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Banquet Steward",
 		},
-		[276234] = {
-			["school"] = 4,
+		[260773] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "B.O.O.M.B.A.",
+			["source"] = "Sister Solena",
+		},
+		[267522] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Captain Jolly",
+		},
+		[267905] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Brother Ironhull",
 		},
 		[271055] = {
 			["school"] = 1,
@@ -4351,29 +5689,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lerayne-ArgentDawn",
 		},
-		[193455] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Hubler-Auchindoun",
-		},
-		[270288] = {
-			["school"] = 1,
+		[273432] = {
+			["school"] = 32,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Blood Storm",
-		},
-		[274119] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Zul",
+			["source"] = "Unknown",
 		},
 		[260334] = {
 			["school"] = 1,
@@ -4382,28 +5705,29 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Cragmaw the Infested",
 		},
-		[264923] = {
+		[55078] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Rune Weapon",
+		},
+		[7384] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Lokthar-Talnivarr",
+		},
+		[256706] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Raal the Gluttonous",
-		},
-		[20473] = {
-			["school"] = 2,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Pazwan-Blade'sEdge",
-		},
-		[258381] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Captain Eudora",
+			["source"] = "Trothak",
 		},
 		[257777] = {
 			["school"] = 8,
@@ -4443,77 +5767,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lokthar-Talnivarr",
 		},
-		[264155] = {
-			["school"] = 16,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Aqualing",
-		},
-		[265757] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Matron Bryndle",
-		},
-		[127802] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-				["SPELL_HEAL"] = true,
-			},
-			["source"] = "Aggrot-Lightbringer",
-		},
-		[269279] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[265178] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Gremlindoc-TarrenMill",
-		},
-		[265217] = {
-			["school"] = 32,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Vectis",
-		},
-		[269051] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-		},
-		[257293] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Swiftwind Saber",
-		},
-		[262364] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Unknown",
-		},
-		[271456] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Mogul Razdunk",
 		},
 		[269131] = {
 			["school"] = 32,
@@ -4526,71 +5788,131 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lord Stormsong",
 		},
-		[265178] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[127802] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_HEAL"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Aggrot-Lightbringer",
+		},
+		[271456] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Mogul Razdunk",
+		},
+		[265217] = {
+			["school"] = 32,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Vectis",
 		},
-		[256706] = {
-			["school"] = 1,
+		[257293] = {
+			["school"] = 8,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Trothak",
+			["source"] = "Swiftwind Saber",
 		},
-		[7384] = {
+		[269051] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Lokthar-Talnivarr",
 		},
-		[55078] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_PERIODIC_DAMAGE"] = true,
-			},
-			["source"] = "Rune Weapon",
-		},
-		[273432] = {
-			["school"] = 32,
+		[262364] = {
+			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Unknown",
 		},
-		[267905] = {
-			["school"] = 8,
+		[269279] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Gremlindoc-TarrenMill",
+		},
+		[265757] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Matron Bryndle",
+		},
+		[264155] = {
+			["school"] = 16,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Aqualing",
+		},
+		[258381] = {
+			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Brother Ironhull",
+			["source"] = "Captain Eudora",
 		},
-		[267522] = {
+		[20473] = {
+			["school"] = 2,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Pazwan-Blade'sEdge",
+		},
+		[264923] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Raal the Gluttonous",
+		},
+		[274119] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Captain Jolly",
+			["source"] = "Zul",
 		},
-		[260773] = {
-			["school"] = 32,
+		[270288] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_START"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Sister Solena",
+			["source"] = "Blood Storm",
+		},
+		[193455] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Hubler-Auchindoun",
+		},
+		[276234] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "B.O.O.M.B.A.",
 		},
 		[108366] = {
 			["school"] = 32,
@@ -4607,22 +5929,23 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Vectis",
 		},
-		[255581] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Priestess Alun'za",
-		},
-		[260668] = {
-			["school"] = 32,
+		[264526] = {
+			["school"] = 48,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
-				["SPELL_HEAL"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Gilded Priestess",
+			["source"] = "Grasping Tentacles",
+		},
+		[199854] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Lokthar-Talnivarr",
 		},
 		[273365] = {
 			["school"] = 32,
@@ -4642,52 +5965,26 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Deathtouched Slaver",
 		},
-		[256594] = {
+		[267899] = {
 			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Captain Raoul",
-		},
-		[262287] = {
-			["school"] = 4,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Venture Co. Skyscorcher",
-		},
-		[264587] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Krolusk Pup",
-		},
-		[192231] = {
-			["school"] = 4,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Liquid Magma Totem",
-		},
-		[263345] = {
-			["school"] = 4,
-			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Heavy Cannon",
+			["source"] = "Brother Ironhull",
 		},
-		[259145] = {
-			["school"] = 32,
+		[257814] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Yazma",
+			["source"] = "Jes Howlis",
 		},
-		[256198] = {
+		[268306] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
@@ -4695,32 +5992,61 @@ EncounterDetailsDB = {
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Overseer Korgus",
+			["source"] = "Lady Waycrest",
 		},
-		[262370] = {
-			["school"] = 1,
+		[3716] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_HEAL"] = true,
-			},
-			["source"] = "Fetid Devourer",
-		},
-		[256106] = {
-			["school"] = 4,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Skycap'n Kragg",
+			["source"] = "Jhazvhug",
 		},
-		[255582] = {
-			["school"] = 4,
-			["type"] = "DEBUFF",
+		[265374] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+		},
+		[277776] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Malformed Creation",
+		},
+		[273538] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Mythrax the Unraveler",
+		},
+		[31935] = {
+			["school"] = 2,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Boorthos-Daggerspine",
+		},
+		[271296] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Taloc",
+		},
+		[258628] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
 			},
 		},
 		[259572] = {
@@ -4732,29 +6058,32 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Vol'kaal",
 		},
-		[256551] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Sawtooth Shark",
-		},
-		[257617] = {
+		[276132] = {
 			["school"] = 8,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "The Sand Queen",
+			["source"] = "Halle-Ragnaros",
 		},
-		[255373] = {
+		[257582] = {
 			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Rezan",
+			["source"] = "Earthrager",
+		},
+		[260669] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Rixxa Fluxflame",
 		},
 		[1943] = {
 			["school"] = 1,
@@ -4763,21 +6092,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Aggrot-Lightbringer",
 		},
-		[264734] = {
-			["school"] = 32,
+		[250258] = {
+			["school"] = 8,
 			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Raal the Gluttonous",
+			["source"] = "Vol'kaal",
 		},
-		[85222] = {
-			["school"] = 2,
+		[277973] = {
+			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Pazwan-Blade'sEdge",
+			["source"] = "MOTHER",
 		},
 		[275160] = {
 			["school"] = 32,
@@ -4795,12 +6123,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Vectis",
 		},
-		[143924] = {
+		[257092] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_HEAL"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Deinohunter-DefiasBrotherhood",
+			["source"] = "The Sand Queen",
 		},
 		[260852] = {
 			["school"] = 1,
@@ -4819,14 +6148,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Raal the Gluttonous",
 		},
-		[121411] = {
-			["school"] = 1,
+		[52042] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_PERIODIC_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_PERIODIC_HEAL"] = true,
 			},
-			["source"] = "Aggrot-Lightbringer",
+			["source"] = "Healing Stream Totem",
 		},
 		[264420] = {
 			["school"] = 1,
@@ -4836,24 +6163,19 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Auphius-ArgentDawn",
 		},
-		[260292] = {
+		[100784] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Ribiozia-Stormscale",
+		},
+		[256005] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Cragmaw the Infested",
-		},
-		[268896] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-			},
-			["source"] = "Lord Stormsong",
+			["source"] = "Sharkbait",
 		},
 		[259574] = {
 			["school"] = 8,
@@ -4862,12 +6184,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Vol'kaal",
 		},
-		[257316] = {
-			["school"] = 8,
+		[250050] = {
+			["school"] = 32,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Harlan Sweete",
+			["source"] = "Yazma",
 		},
 		[259830] = {
 			["school"] = 40,
@@ -4886,37 +6209,41 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Symbols-Zul'jin",
 		},
-		[980] = {
+		[274396] = {
 			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Lockipopi-Ragnaros",
+			["source"] = "Animated Ichor",
 		},
-		[256105] = {
-			["school"] = 1,
+		[250096] = {
+			["school"] = 32,
 			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Overseer Korgus",
-		},
-		[259474] = {
-			["school"] = 4,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Rixxa Fluxflame",
-		},
-		[271224] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
-			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Taloc",
+			["source"] = "Yazma",
+		},
+		[179089] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Nazeshi Overseer",
+		},
+		[277777] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Malformed Creation",
 		},
 		[250368] = {
 			["school"] = 8,
@@ -4925,13 +6252,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Vol'kaal",
 		},
-		[267444] = {
-			["school"] = 32,
-			["type"] = "BUFF",
+		[278961] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Vol'zith the Whisperer",
+			["source"] = "Diseased Lasher",
 		},
 		[257785] = {
 			["school"] = 1,
@@ -4966,38 +6295,37 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Fetid Devourer",
 		},
-		[257315] = {
-			["school"] = 4,
+		[265209] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Vectis",
+		},
+		[250241] = {
+			["school"] = 32,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Vol'kaal",
+		},
+		[273316] = {
+			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Irontide Grenadier",
+			["source"] = "Nazmani Crusher",
 		},
-		[257402] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Harlan Sweete",
-		},
-		[264220] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Aggrot-Lightbringer",
-		},
-		[83985] = {
+		[273554] = {
 			["school"] = 32,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Unyielding Behemoth",
 		},
 		[51723] = {
 			["school"] = 1,
@@ -5016,22 +6344,23 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Merektha",
 		},
-		[233490] = {
+		[267239] = {
 			["school"] = 32,
 			["token"] = {
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Lockipopi-Ragnaros",
+			["source"] = "Warped Projection",
 		},
-		[257028] = {
-			["school"] = 4,
-			["type"] = "DEBUFF",
+		[75683] = {
+			["school"] = 16,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Knight Captain Valyri",
+			["source"] = "Lady Naz'jar",
 		},
 		[273889] = {
 			["school"] = 1,
@@ -5051,33 +6380,34 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Heart Guardian",
 		},
-		[259220] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[75813] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Sli'thrus",
+			["source"] = "Naz'jar Tempest Witch",
 		},
-		[257305] = {
-			["school"] = 4,
-			["type"] = "DEBUFF",
+		[83914] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Harlan Sweete",
+			["source"] = "Vicious Mindlasher",
 		},
-		[258908] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[76026] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Shrouded Fang",
+			["source"] = "Commander Ulthok",
 		},
 		[268008] = {
 			["school"] = 32,
@@ -5087,16 +6417,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Plague Doctor",
 		},
-		[270620] = {
+		[83971] = {
 			["school"] = 32,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Symbols-Zul'jin",
+			["source"] = "Blight Beast",
 		},
 		[265451] = {
 			["school"] = 32,
@@ -5104,15 +6432,14 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 		},
-		[267299] = {
+		[260879] = {
 			["school"] = 32,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Vol'zith the Whisperer",
+			["source"] = "Elder Leaxa",
 		},
 		[205231] = {
 			["school"] = 32,
@@ -5132,19 +6459,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Vectis",
 		},
-		[265452] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-		},
-		[2580] = {
+		[271590] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Lerayne-ArgentDawn",
+			["source"] = "Lady Waycrest",
+		},
+		[228649] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Ribiozia-Stormscale",
 		},
 		[276194] = {
 			["school"] = 1,
@@ -5154,47 +6483,44 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Itsmoneytime-Stormreaver",
 		},
-		[273836] = {
-			["school"] = 32,
+		[32011] = {
+			["school"] = 16,
 			["token"] = {
-				["SPELL_PERIODIC_DAMAGE"] = true,
-				["SPELL_HEAL"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Mmalexx-Outland",
+			["source"] = "Squallfin Tideweaver",
 		},
-		[256008] = {
+		[196289] = {
 			["school"] = 1,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Lerayne-ArgentDawn",
+			["source"] = "Squallfin Pearlguard",
 		},
-		[108446] = {
-			["school"] = 32,
-			["type"] = "BUFF",
+		[273480] = {
+			["school"] = 40,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Izikdhun",
 		},
-		[274230] = {
+		[263235] = {
 			["school"] = 32,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Mythrax the Unraveler",
-		},
-		[250372] = {
-			["school"] = 8,
 			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Vol'kaal",
+			["source"] = "G'huun",
+		},
+		[278497] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Lokthar-Talnivarr",
 		},
 		[265454] = {
 			["school"] = 32,
@@ -5202,16 +6528,14 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 		},
-		[265366] = {
-			["school"] = 16,
+		[262143] = {
+			["school"] = 1,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Aqualing",
+			["source"] = "Coastal Saurid",
 		},
 		[265966] = {
 			["school"] = 1,
@@ -5222,13 +6546,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sandfury Stonefist",
 		},
-		[260894] = {
-			["school"] = 1,
+		[265370] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Elder Leaxa",
+			["source"] = "Vectis",
 		},
 		[77489] = {
 			["school"] = 2,
@@ -5253,48 +6576,40 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Hoodoo Hexer",
 		},
-		[273810] = {
+		[276863] = {
 			["school"] = 32,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Mythrax the Unraveler",
 		},
-		[277732] = {
-			["school"] = 40,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Sporecaller Zancha",
-		},
-		[224125] = {
-			["school"] = 4,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Spirit Wolf",
-		},
-		[265968] = {
+		[275686] = {
 			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_START"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Charged Dust Devil",
+			["source"] = "Unknown",
 		},
-		[255558] = {
+		[272146] = {
 			["school"] = 32,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+		},
+		[197561] = {
+			["school"] = 2,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Boorthos-Daggerspine",
+		},
+		[278150] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
 			},
 		},
 		[256128] = {
@@ -5304,33 +6619,36 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Overseer Korgus",
 		},
-		[272115] = {
-			["school"] = 32,
+		[77451] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Mythrax the Unraveler",
+			["source"] = "Bastion-BurningBlade",
 		},
-		[276199] = {
+		[257407] = {
 			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Garthyloxx-Ragnaros",
+			["source"] = "Rezan",
 		},
-		[268271] = {
+		[266225] = {
 			["school"] = 32,
 			["token"] = {
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Lady Waycrest",
+			["source"] = "Gorak Tul",
 		},
-		[273945] = {
+		[276894] = {
 			["school"] = 32,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "N'raqi Destroyer",
 		},
@@ -5344,13 +6662,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Jes Howlis",
 		},
-		[280943] = {
+		[83915] = {
 			["school"] = 32,
-			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Cyclopean Terror",
+			["source"] = "Vicious Mindlasher",
 		},
 		[225311] = {
 			["school"] = 2,
@@ -5359,12 +6678,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Pazwan-Blade'sEdge",
 		},
-		[83608] = {
-			["school"] = 32,
+		[267412] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Blight of Ozumat",
+			["source"] = "Dark Young",
 		},
 		[279014] = {
 			["school"] = 8,
@@ -5373,22 +6694,24 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Heart of Sethraliss",
 		},
-		[260547] = {
-			["school"] = 4,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Soulbound Goliath",
-		},
-		[263482] = {
-			["school"] = 1,
+		[256060] = {
+			["school"] = 8,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_HEAL"] = true,
+			},
+			["source"] = "Skycap'n Kragg",
+		},
+		[267427] = {
+			["school"] = 32,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Reorigination Drive",
+			["source"] = "Cyclopean Terror",
 		},
 		[75700] = {
 			["school"] = 16,
@@ -5404,10 +6727,11 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Raal the Gluttonous",
 		},
-		[270454] = {
-			["school"] = 40,
+		[275756] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
 			["source"] = "G'huun",
 		},
@@ -5419,13 +6743,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lord Stormsong",
 		},
-		[275270] = {
-			["school"] = 64,
+		[263504] = {
+			["school"] = 1,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Volatile Droplet",
+			["source"] = "G'huun",
 		},
 		[264694] = {
 			["school"] = 32,
@@ -5435,12 +6759,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Raal the Gluttonous",
 		},
-		[204213] = {
-			["school"] = 4,
+		[263927] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "ßlackmagic-TwistingNether",
+			["source"] = "Merektha",
 		},
 		[265206] = {
 			["school"] = 8,
@@ -5470,19 +6796,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Jes Howlis",
 		},
-		[265974] = {
-			["school"] = 8,
+		[276204] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_HEAL"] = true,
+			},
+			["source"] = "Lerayne-ArgentDawn",
+		},
+		[186439] = {
+			["school"] = 32,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Galvazzt",
-		},
-		[233497] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_PERIODIC_DAMAGE"] = true,
-			},
-			["source"] = "Lockipopi-Ragnaros",
+			["source"] = "Zorayah-Stormscale",
 		},
 		[267509] = {
 			["school"] = 1,
@@ -5492,28 +6820,29 @@ EncounterDetailsDB = {
 			},
 			["source"] = "G'huun",
 		},
-		[199667] = {
-			["school"] = 1,
+		[263307] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Gibbering Horror",
+		},
+		[281444] = {
+			["school"] = 64,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Bàbàjaga-Pozzodell'Eternità",
+			["source"] = "Reorigination Drive",
 		},
-		[8936] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_PERIODIC_HEAL"] = true,
-			},
-			["source"] = "Tehjarvman-Stormscale",
-		},
-		[259718] = {
-			["school"] = 1,
+		[276020] = {
+			["school"] = 32,
 			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Sporecaller Zancha",
+			["source"] = "Minion of Zul",
 		},
 		[255620] = {
 			["school"] = 8,
@@ -5525,1343 +6854,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Reanimated Honor Guard",
 		},
-		[279664] = {
-			["school"] = 8,
+		[272409] = {
+			["school"] = 32,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Vanquished Tendril of G'huun",
+			["source"] = "Unknown",
 		},
-	},
-	["emotes"] = {
-		{
-			{
-				0.221000000005006, -- [1]
-				"Oou gul'kafh lal lwhuk!", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [1]
-			{
-				0.221000000005006, -- [1]
-				"The outbreak has begun!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [2]
-			{
-				10.8029999999999, -- [1]
-				"|TINTERFACE\\ICONS\\ABILITY_TITANKEEPER_CLEANSINGORB.BLP:20|t A new |cFFFF0404|Hspell:263420|h[Power Matrix]|h|r is available.", -- [2]
-				"Power Matrix", -- [3]
-				1, -- [4]
-			}, -- [3]
-			{
-				11.3369999999995, -- [1]
-				"A new power matrix can now be collected.", -- [2]
-				"MOTHER", -- [3]
-				7, -- [4]
-			}, -- [4]
-			{
-				30.6460000000006, -- [1]
-				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
-				"G'huun", -- [3]
-				1, -- [4]
-			}, -- [5]
-			{
-				30.6460000000006, -- [1]
-				"W'oq uhn'agth ez qam Shandai!", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [6]
-			{
-				30.6460000000006, -- [1]
-				"Come, servants of rot. Consume!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [7]
-			{
-				58.8630000000048, -- [1]
-				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
-				"G'huun", -- [3]
-				1, -- [4]
-			}, -- [8]
-			{
-				58.8630000000048, -- [1]
-				"Qam oou iilth ez i awtgsshu amun on'ma!", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [9]
-			{
-				58.8630000000048, -- [1]
-				"Let the feast of a thousand maws begin!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [10]
-			{
-				59.6530000000057, -- [1]
-				"|TINTERFACE\\ICONS\\ABILITY_TITANKEEPER_CLEANSINGORB.BLP:20|t A new |cFFFF0404|Hspell:263420|h[Power Matrix]|h|r is available.", -- [2]
-				"Power Matrix", -- [3]
-				1, -- [4]
-			}, -- [11]
-			{
-				59.8199999999997, -- [1]
-				"A new power matrix can now be collected.", -- [2]
-				"MOTHER", -- [3]
-				7, -- [4]
-			}, -- [12]
-			{
-				86.8990000000049, -- [1]
-				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
-				"G'huun", -- [3]
-				1, -- [4]
-			}, -- [13]
-			{
-				86.8990000000049, -- [1]
-				"W'oq uhn'agth ez qam Shandai!", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [14]
-			{
-				86.8990000000049, -- [1]
-				"Come, servants of rot. Consume!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [15]
-			{
-				107.089, -- [1]
-				"|TINTERFACE\\ICONS\\ABILITY_TITANKEEPER_CLEANSINGORB.BLP:20|t A new |cFFFF0404|Hspell:263420|h[Power Matrix]|h|r is available.", -- [2]
-				"Power Matrix", -- [3]
-				1, -- [4]
-			}, -- [16]
-			{
-				107.287000000004, -- [1]
-				"Attention. A new power matrix is available.", -- [2]
-				"MOTHER", -- [3]
-				7, -- [4]
-			}, -- [17]
-			{
-				113.603000000003, -- [1]
-				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
-				"G'huun", -- [3]
-				1, -- [4]
-			}, -- [18]
-			{
-				113.603000000003, -- [1]
-				"W'oq uhn'agth ez qam Shandai!", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [19]
-			{
-				113.603000000003, -- [1]
-				"Come, servants of rot. Consume!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [20]
-			{
-				133.397000000005, -- [1]
-				"Warning. Reorigination blast imminent. Please clear the area.", -- [2]
-				"MOTHER", -- [3]
-				7, -- [4]
-			}, -- [21]
-			{
-				164.267, -- [1]
-				"Zuq ag'xig bormaz ag'thyzak!", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [22]
-			{
-				164.267, -- [1]
-				"You cannot escape infection!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [23]
-			{
-				176.350000000006, -- [1]
-				"|TINTERFACE\\ICONS\\ABILITY_TITANKEEPER_CLEANSINGORB.BLP:20|t A new |cFFFF0404|Hspell:263420|h[Power Matrix]|h|r is available.", -- [2]
-				"Power Matrix", -- [3]
-				1, -- [4]
-			}, -- [24]
-			{
-				176.521000000001, -- [1]
-				"A power matrix is ready for acquisition.", -- [2]
-				"MOTHER", -- [3]
-				7, -- [4]
-			}, -- [25]
-			{
-				218.064000000006, -- [1]
-				"Oou qam puul zyqtahg ywaq vorzz Qam ma shn'ma.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [26]
-			{
-				218.064000000006, -- [1]
-				"The rot runs through your veins. Let it spread.", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [27]
-			{
-				218.659, -- [1]
-				"|TINTERFACE\\ICONS\\ABILITY_TITANKEEPER_CLEANSINGORB.BLP:20|t A new |cFFFF0404|Hspell:263420|h[Power Matrix]|h|r is available.", -- [2]
-				"Power Matrix", -- [3]
-				1, -- [4]
-			}, -- [28]
-			{
-				219.251000000004, -- [1]
-				"A new power matrix can now be collected.", -- [2]
-				"MOTHER", -- [3]
-				7, -- [4]
-			}, -- [29]
-			{
-				225.971000000005, -- [1]
-				"|TINTERFACE\\ICONS\\ABILITY_RACIAL_CANNIBALIZE.BLP:20|t Use |cFFFF0404|Hspell:263235|h[Blood Feast]|h|r to purge your stacks of |cFFFF0404|Hspell:263227|h[Putrid Blood]|h|r.", -- [2]
-				"G'huun", -- [3]
-				2, -- [4]
-			}, -- [30]
-			{
-				261.666000000005, -- [1]
-				"|TINTERFACE\\ICONS\\ABILITY_TITANKEEPER_CLEANSINGORB.BLP:20|t A new |cFFFF0404|Hspell:263420|h[Power Matrix]|h|r is available.", -- [2]
-				"Power Matrix", -- [3]
-				1, -- [4]
-			}, -- [31]
-			{
-				261.834000000003, -- [1]
-				"A power matrix is ready for acquisition.", -- [2]
-				"MOTHER", -- [3]
-				7, -- [4]
-			}, -- [32]
-			{
-				265.711000000003, -- [1]
-				"Ywaq zuq ywag shn'ma Bo'al za qwor.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [33]
-			{
-				265.711000000003, -- [1]
-				"Seek out your allies. Share my gift.", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [34]
-			{
-				273.745999999999, -- [1]
-				"|TINTERFACE\\ICONS\\ABILITY_RACIAL_CANNIBALIZE.BLP:20|t Use |cFFFF0404|Hspell:263235|h[Blood Feast]|h|r to purge your stacks of |cFFFF0404|Hspell:263227|h[Putrid Blood]|h|r.", -- [2]
-				"G'huun", -- [3]
-				2, -- [4]
-			}, -- [35]
-			{
-				289.347000000002, -- [1]
-				"Alert. Reorgination blast sequence initiated. Please vacate the area.", -- [2]
-				"MOTHER", -- [3]
-				7, -- [4]
-			}, -- [36]
-			{
-				318.116000000002, -- [1]
-				"Oou vwahuHn ag'xig shfk zuq!", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [37]
-			{
-				318.116000000002, -- [1]
-				"The titans cannot save you!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [38]
-			{
-				340.164000000004, -- [1]
-				"Awtgssh shn ongg shg'ullwaq!", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [39]
-			{
-				340.164000000004, -- [1]
-				"Nothing can stop my pestilence!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [40]
-			{
-				355.439000000006, -- [1]
-				"Ywaq ongg an'qov i lal halahs nuq.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [41]
-			{
-				355.439000000006, -- [1]
-				"Your husk serves a new master now.", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [42]
-			{
-				370.583000000006, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_SHADOW_POSSESSION.BLP:20|t G'huun begins to cast |cFFFF0404|Hspell:267700|h[Gaze of G'huun]|h|r.", -- [2]
-				"G'huun", -- [3]
-				1, -- [4]
-			}, -- [43]
-			{
-				370.583000000006, -- [1]
-				"Za awtgsshu wgah uulg'ma ywaq zaix.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [44]
-			{
-				370.583000000006, -- [1]
-				"My whispers will liquefy your mind.", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [45]
-			{
-				382.039000000004, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_SHADOW_DEATHCOIL.BLP:20|t G'huun casts |cFFFF0404|Hspell:272506|h[Explosive Corruption]|h|r on you!", -- [2]
-				"Teldrasil", -- [3]
-				2, -- [4]
-			}, -- [46]
-			{
-				402.25, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_SHADOW_POSSESSION.BLP:20|t G'huun begins to cast |cFFFF0404|Hspell:267700|h[Gaze of G'huun]|h|r.", -- [2]
-				"G'huun", -- [3]
-				1, -- [4]
-			}, -- [47]
-			{
-				402.25, -- [1]
-				"Za awtgsshu wgah uulg'ma ywaq zaix.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [48]
-			{
-				402.25, -- [1]
-				"My whispers will liquefy your mind.", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [49]
-			{
-				404.242000000006, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_SHADOW_POSSESSION.BLP:20|t Remember to look while G'huun casts |cFFFF0404|Hspell:267700|h[Gaze of G'huun]|h|r.", -- [2]
-				"Teldrasil", -- [3]
-				2, -- [4]
-			}, -- [50]
-			{
-				420.423000000003, -- [1]
-				"Ywaq ongg an'qov i lal halahs nuq.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [51]
-			{
-				420.423000000003, -- [1]
-				"Your husk serves a new master now.", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [52]
-			{
-				430.936000000002, -- [1]
-				"Ywaq ongg an'qov i lal halahs nuq.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [53]
-			{
-				430.936000000002, -- [1]
-				"Your husk serves a new master now.", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [54]
-			{
-				435.178, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_SHADOW_POSSESSION.BLP:20|t G'huun begins to cast |cFFFF0404|Hspell:267700|h[Gaze of G'huun]|h|r.", -- [2]
-				"G'huun", -- [3]
-				1, -- [4]
-			}, -- [55]
-			{
-				435.178, -- [1]
-				"I ongg za ywaq qvsakf.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [56]
-			{
-				435.178, -- [1]
-				"I feed on your terror!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [57]
-			["boss"] = "G'huun",
-		}, -- [1]
-		{
-			{
-				0.283999999999651, -- [1]
-				"Oou gul'kafh lal lwhuk!", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [1]
-			{
-				0.283999999999651, -- [1]
-				"The outbreak has begun!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [2]
-			{
-				17.4190000000017, -- [1]
-				"Attention. A new power matrix is available.", -- [2]
-				"MOTHER", -- [3]
-				7, -- [4]
-			}, -- [3]
-			{
-				17.6130000000048, -- [1]
-				"|TINTERFACE\\ICONS\\ABILITY_TITANKEEPER_CLEANSINGORB.BLP:20|t A new |cFFFF0404|Hspell:263420|h[Power Matrix]|h|r is available.", -- [2]
-				"Power Matrix", -- [3]
-				1, -- [4]
-			}, -- [4]
-			{
-				30.625, -- [1]
-				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
-				"G'huun", -- [3]
-				1, -- [4]
-			}, -- [5]
-			{
-				30.625, -- [1]
-				"Log'loth w'oq Ongg!", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [6]
-			{
-				30.625, -- [1]
-				"Children, come and feed!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [7]
-			{
-				36.3820000000051, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_SHADOW_DEATHCOIL.BLP:20|t G'huun casts |cFFFF0404|Hspell:272506|h[Explosive Corruption]|h|r on you!", -- [2]
-				"Teldrasil", -- [3]
-				2, -- [4]
-			}, -- [8]
-			{
-				59.4270000000033, -- [1]
-				"|TINTERFACE\\ICONS\\ABILITY_TITANKEEPER_CLEANSINGORB.BLP:20|t A new |cFFFF0404|Hspell:263420|h[Power Matrix]|h|r is available.", -- [2]
-				"Power Matrix", -- [3]
-				1, -- [4]
-			}, -- [9]
-			{
-				59.859000000004, -- [1]
-				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
-				"G'huun", -- [3]
-				1, -- [4]
-			}, -- [10]
-			{
-				59.859000000004, -- [1]
-				"Log'loth w'oq Ongg!", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [11]
-			{
-				59.859000000004, -- [1]
-				"Children, come and feed!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [12]
-			{
-				60.0060000000012, -- [1]
-				"A power matrix is ready for acquisition.", -- [2]
-				"MOTHER", -- [3]
-				7, -- [4]
-			}, -- [13]
-			{
-				87.8780000000043, -- [1]
-				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
-				"G'huun", -- [3]
-				1, -- [4]
-			}, -- [14]
-			{
-				87.8780000000043, -- [1]
-				"Log'loth w'oq Ongg!", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [15]
-			{
-				87.8780000000043, -- [1]
-				"Children, come and feed!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [16]
-			{
-				90.5, -- [1]
-				"Attention. A new power matrix is available.", -- [2]
-				"MOTHER", -- [3]
-				7, -- [4]
-			}, -- [17]
-			{
-				90.726999999999, -- [1]
-				"|TINTERFACE\\ICONS\\ABILITY_TITANKEEPER_CLEANSINGORB.BLP:20|t A new |cFFFF0404|Hspell:263420|h[Power Matrix]|h|r is available.", -- [2]
-				"Power Matrix", -- [3]
-				1, -- [4]
-			}, -- [18]
-			{
-				112.665000000001, -- [1]
-				"Warning. Reorigination blast imminent. Please clear the area.", -- [2]
-				"MOTHER", -- [3]
-				7, -- [4]
-			}, -- [19]
-			{
-				143.124000000003, -- [1]
-				"Zuq ag'xig bormaz ag'thyzak!", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [20]
-			{
-				143.124000000003, -- [1]
-				"You cannot escape infection!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [21]
-			{
-				156.245000000003, -- [1]
-				"A new power matrix can now be collected.", -- [2]
-				"MOTHER", -- [3]
-				7, -- [4]
-			}, -- [22]
-			{
-				156.529999999999, -- [1]
-				"|TINTERFACE\\ICONS\\ABILITY_TITANKEEPER_CLEANSINGORB.BLP:20|t A new |cFFFF0404|Hspell:263420|h[Power Matrix]|h|r is available.", -- [2]
-				"Power Matrix", -- [3]
-				1, -- [4]
-			}, -- [23]
-			{
-				196.221000000005, -- [1]
-				"Qam oou uhnish kyth zuq Ongg za fhssh as'rr.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [24]
-			{
-				196.221000000005, -- [1]
-				"Let the hunger take you. Feed on their blood.", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [25]
-			{
-				204.196000000004, -- [1]
-				"|TINTERFACE\\ICONS\\ABILITY_RACIAL_CANNIBALIZE.BLP:20|t Use |cFFFF0404|Hspell:263235|h[Blood Feast]|h|r to purge your stacks of |cFFFF0404|Hspell:263227|h[Putrid Blood]|h|r.", -- [2]
-				"G'huun", -- [3]
-				2, -- [4]
-			}, -- [26]
-			{
-				232.848000000005, -- [1]
-				"Attention. A new power matrix is available.", -- [2]
-				"MOTHER", -- [3]
-				7, -- [4]
-			}, -- [27]
-			{
-				233.096000000005, -- [1]
-				"|TINTERFACE\\ICONS\\ABILITY_TITANKEEPER_CLEANSINGORB.BLP:20|t A new |cFFFF0404|Hspell:263420|h[Power Matrix]|h|r is available.", -- [2]
-				"Power Matrix", -- [3]
-				1, -- [4]
-			}, -- [28]
-			{
-				243.569000000003, -- [1]
-				"Ywaq zuq ywag shn'ma Bo'al za qwor.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [29]
-			{
-				243.569000000003, -- [1]
-				"Seek out your allies. Share my gift.", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [30]
-			{
-				251.654000000002, -- [1]
-				"|TINTERFACE\\ICONS\\ABILITY_RACIAL_CANNIBALIZE.BLP:20|t Use |cFFFF0404|Hspell:263235|h[Blood Feast]|h|r to purge your stacks of |cFFFF0404|Hspell:263227|h[Putrid Blood]|h|r.", -- [2]
-				"G'huun", -- [3]
-				2, -- [4]
-			}, -- [31]
-			{
-				291.609000000004, -- [1]
-				"Qam oou uhnish kyth zuq Ongg za fhssh as'rr.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [32]
-			{
-				291.609000000004, -- [1]
-				"Let the hunger take you. Feed on their blood.", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [33]
-			{
-				298.608, -- [1]
-				"A new power matrix can now be collected.", -- [2]
-				"MOTHER", -- [3]
-				7, -- [4]
-			}, -- [34]
-			{
-				298.742000000006, -- [1]
-				"|TINTERFACE\\ICONS\\ABILITY_TITANKEEPER_CLEANSINGORB.BLP:20|t A new |cFFFF0404|Hspell:263420|h[Power Matrix]|h|r is available.", -- [2]
-				"Power Matrix", -- [3]
-				1, -- [4]
-			}, -- [35]
-			{
-				299.552000000003, -- [1]
-				"|TINTERFACE\\ICONS\\ABILITY_RACIAL_CANNIBALIZE.BLP:20|t Use |cFFFF0404|Hspell:263235|h[Blood Feast]|h|r to purge your stacks of |cFFFF0404|Hspell:263227|h[Putrid Blood]|h|r.", -- [2]
-				"G'huun", -- [3]
-				2, -- [4]
-			}, -- [36]
-			{
-				334.522000000005, -- [1]
-				"Alert. Reorgination blast sequence initiated. Please vacate the area.", -- [2]
-				"MOTHER", -- [3]
-				7, -- [4]
-			}, -- [37]
-			{
-				338.811000000002, -- [1]
-				"Ywaq ongg an'qov i lal halahs nuq.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [38]
-			{
-				338.811000000002, -- [1]
-				"Your husk serves a new master now.", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [39]
-			{
-				362.840000000004, -- [1]
-				"Oou vwahuHn ag'xig shfk zuq!", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [40]
-			{
-				363.056000000004, -- [1]
-				"The titans cannot save you!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [41]
-			{
-				384.928, -- [1]
-				"Awtgssh shn ongg shg'ullwaq!", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [42]
-			{
-				384.928, -- [1]
-				"Nothing can stop my pestilence!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [43]
-			{
-				386.608, -- [1]
-				"Ywaq ongg an'qov i lal halahs nuq.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [44]
-			{
-				386.608, -- [1]
-				"Your husk serves a new master now.", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [45]
-			{
-				402.165000000001, -- [1]
-				"Ywaq ongg an'qov i lal halahs nuq.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [46]
-			{
-				402.165000000001, -- [1]
-				"Your husk serves a new master now.", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [47]
-			{
-				415.237000000001, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_SHADOW_POSSESSION.BLP:20|t G'huun begins to cast |cFFFF0404|Hspell:267700|h[Gaze of G'huun]|h|r.", -- [2]
-				"G'huun", -- [3]
-				1, -- [4]
-			}, -- [48]
-			{
-				415.237000000001, -- [1]
-				"Vwah oou kaaxth zz ywaq iiyoq Ag'xlg fhssh I on'ma.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [49]
-			{
-				415.506000000001, -- [1]
-				"Feel the twitch in your spine? That is where I exist.", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [50]
-			{
-				424.428, -- [1]
-				"Ywaq ongg an'qov i lal halahs nuq.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [51]
-			{
-				424.428, -- [1]
-				"Your husk serves a new master now.", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [52]
-			{
-				438.661, -- [1]
-				"Ywaq mh'naus wgah zaix zyqtahg.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [53]
-			{
-				438.661, -- [1]
-				"Your screams will echo forever!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [54]
-			{
-				447.045000000006, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_SHADOW_POSSESSION.BLP:20|t G'huun begins to cast |cFFFF0404|Hspell:267700|h[Gaze of G'huun]|h|r.", -- [2]
-				"G'huun", -- [3]
-				1, -- [4]
-			}, -- [55]
-			{
-				447.045000000006, -- [1]
-				"Vwah oou kaaxth zz ywaq iiyoq Ag'xlg fhssh I on'ma.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [56]
-			{
-				447.045000000006, -- [1]
-				"Feel the twitch in your spine? That is where I exist.", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [57]
-			{
-				449.103999999999, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_SHADOW_POSSESSION.BLP:20|t Remember to look while G'huun casts |cFFFF0404|Hspell:267700|h[Gaze of G'huun]|h|r.", -- [2]
-				"Teldrasil", -- [3]
-				2, -- [4]
-			}, -- [58]
-			{
-				465.824000000001, -- [1]
-				"Ywaq mh'naus wgah zaix zyqtahg.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [59]
-			{
-				465.824000000001, -- [1]
-				"Your screams will echo forever!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [60]
-			{
-				479.849999999999, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_SHADOW_POSSESSION.BLP:20|t G'huun begins to cast |cFFFF0404|Hspell:267700|h[Gaze of G'huun]|h|r.", -- [2]
-				"G'huun", -- [3]
-				1, -- [4]
-			}, -- [61]
-			{
-				479.849999999999, -- [1]
-				"Za awtgsshu wgah uulg'ma ywaq zaix.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [62]
-			{
-				479.849999999999, -- [1]
-				"My whispers will liquefy your mind.", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [63]
-			{
-				481.844000000005, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_SHADOW_POSSESSION.BLP:20|t Remember to look while G'huun casts |cFFFF0404|Hspell:267700|h[Gaze of G'huun]|h|r.", -- [2]
-				"Teldrasil", -- [3]
-				2, -- [4]
-			}, -- [64]
-			{
-				486.724999999999, -- [1]
-				"Ywaq mh'naus wgah zaix zyqtahg.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [65]
-			{
-				486.872000000003, -- [1]
-				"Your screams will echo forever!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [66]
-			{
-				497.846000000005, -- [1]
-				"Ywaq ongg an'qov i lal halahs nuq.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [67]
-			{
-				497.846000000005, -- [1]
-				"Your husk serves a new master now.", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [68]
-			{
-				511.462, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_SHADOW_POSSESSION.BLP:20|t G'huun begins to cast |cFFFF0404|Hspell:267700|h[Gaze of G'huun]|h|r.", -- [2]
-				"G'huun", -- [3]
-				1, -- [4]
-			}, -- [69]
-			{
-				511.462, -- [1]
-				"I ongg za ywaq qvsakf.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [70]
-			{
-				511.462, -- [1]
-				"I feed on your terror!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [71]
-			{
-				513.349000000002, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_SHADOW_POSSESSION.BLP:20|t Remember to look while G'huun casts |cFFFF0404|Hspell:267700|h[Gaze of G'huun]|h|r.", -- [2]
-				"Teldrasil", -- [3]
-				2, -- [4]
-			}, -- [72]
-			{
-				516.838000000003, -- [1]
-				"Ywaq ongg an'qov i lal halahs nuq.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [73]
-			{
-				516.838000000003, -- [1]
-				"Your husk serves a new master now.", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [74]
-			{
-				532.966, -- [1]
-				"Ywaq ongg an'qov i lal halahs nuq.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [75]
-			{
-				532.966, -- [1]
-				"Your husk serves a new master now.", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [76]
-			{
-				537.826000000001, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_SHADOW_DEATHCOIL.BLP:20|t G'huun casts |cFFFF0404|Hspell:272506|h[Explosive Corruption]|h|r on you!", -- [2]
-				"Teldrasil", -- [3]
-				2, -- [4]
-			}, -- [77]
-			{
-				543.029000000002, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_SHADOW_POSSESSION.BLP:20|t G'huun begins to cast |cFFFF0404|Hspell:267700|h[Gaze of G'huun]|h|r.", -- [2]
-				"G'huun", -- [3]
-				1, -- [4]
-			}, -- [78]
-			{
-				543.029000000002, -- [1]
-				"I ongg za ywaq qvsakf.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [79]
-			{
-				543.029000000002, -- [1]
-				"I feed on your terror!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [80]
-			{
-				545.057000000001, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_SHADOW_POSSESSION.BLP:20|t Remember to look while G'huun casts |cFFFF0404|Hspell:267700|h[Gaze of G'huun]|h|r.", -- [2]
-				"Teldrasil", -- [3]
-				2, -- [4]
-			}, -- [81]
-			{
-				557.097000000002, -- [1]
-				"Ywaq mh'naus wgah zaix zyqtahg.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [82]
-			{
-				557.097000000002, -- [1]
-				"Your screams will echo forever!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [83]
-			{
-				568.648000000001, -- [1]
-				"Ywaq mh'naus wgah zaix zyqtahg.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [84]
-			{
-				568.648000000001, -- [1]
-				"Your screams will echo forever!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [85]
-			{
-				575.798999999999, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_SHADOW_POSSESSION.BLP:20|t G'huun begins to cast |cFFFF0404|Hspell:267700|h[Gaze of G'huun]|h|r.", -- [2]
-				"G'huun", -- [3]
-				1, -- [4]
-			}, -- [86]
-			{
-				575.798999999999, -- [1]
-				"Za awtgsshu wgah uulg'ma ywaq zaix.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [87]
-			{
-				575.798999999999, -- [1]
-				"My whispers will liquefy your mind.", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [88]
-			{
-				580.452000000005, -- [1]
-				"Ywaq mh'naus wgah zaix zyqtahg.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [89]
-			{
-				580.452000000005, -- [1]
-				"Your screams will echo forever!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [90]
-			["boss"] = "G'huun",
-		}, -- [2]
-		{
-			{
-				0.228000000002794, -- [1]
-				"Oou gul'kafh lal lwhuk!", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [1]
-			{
-				0.228000000002794, -- [1]
-				"The outbreak has begun!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [2]
-			{
-				8.83100000000559, -- [1]
-				"|TINTERFACE\\ICONS\\ABILITY_TITANKEEPER_CLEANSINGORB.BLP:20|t A new |cFFFF0404|Hspell:263420|h[Power Matrix]|h|r is available.", -- [2]
-				"Power Matrix", -- [3]
-				1, -- [4]
-			}, -- [3]
-			{
-				9.49799999999959, -- [1]
-				"A power matrix is ready for acquisition.", -- [2]
-				"MOTHER", -- [3]
-				7, -- [4]
-			}, -- [4]
-			{
-				9.96399999999994, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_SHADOW_DEATHCOIL.BLP:20|t G'huun casts |cFFFF0404|Hspell:272506|h[Explosive Corruption]|h|r on you!", -- [2]
-				"Teldrasil", -- [3]
-				2, -- [4]
-			}, -- [5]
-			{
-				30.3700000000026, -- [1]
-				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
-				"G'huun", -- [3]
-				1, -- [4]
-			}, -- [6]
-			{
-				30.3700000000026, -- [1]
-				"Qam oou iilth ez i awtgsshu amun on'ma!", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [7]
-			{
-				30.3700000000026, -- [1]
-				"Let the feast of a thousand maws begin!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [8]
-			{
-				59.6500000000015, -- [1]
-				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
-				"G'huun", -- [3]
-				1, -- [4]
-			}, -- [9]
-			{
-				59.6500000000015, -- [1]
-				"Log'loth w'oq Ongg!", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [10]
-			{
-				59.6500000000015, -- [1]
-				"Children, come and feed!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [11]
-			{
-				62.6920000000027, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_SHADOW_DEATHCOIL.BLP:20|t G'huun casts |cFFFF0404|Hspell:272506|h[Explosive Corruption]|h|r on you!", -- [2]
-				"Teldrasil", -- [3]
-				2, -- [4]
-			}, -- [12]
-			{
-				87.5980000000054, -- [1]
-				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
-				"G'huun", -- [3]
-				1, -- [4]
-			}, -- [13]
-			{
-				87.5980000000054, -- [1]
-				"Qam oou iilth ez i awtgsshu amun on'ma!", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [14]
-			{
-				87.5980000000054, -- [1]
-				"Let the feast of a thousand maws begin!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [15]
-			{
-				114.43, -- [1]
-				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
-				"G'huun", -- [3]
-				1, -- [4]
-			}, -- [16]
-			{
-				114.43, -- [1]
-				"W'oq uhn'agth ez qam Shandai!", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [17]
-			{
-				114.43, -- [1]
-				"Come, servants of rot. Consume!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [18]
-			{
-				126.940000000002, -- [1]
-				"|TINTERFACE\\ICONS\\ABILITY_TITANKEEPER_CLEANSINGORB.BLP:20|t A new |cFFFF0404|Hspell:263420|h[Power Matrix]|h|r is available.", -- [2]
-				"Power Matrix", -- [3]
-				1, -- [4]
-			}, -- [19]
-			{
-				127.613000000005, -- [1]
-				"Attention. A new power matrix is available.", -- [2]
-				"MOTHER", -- [3]
-				7, -- [4]
-			}, -- [20]
-			{
-				139.961000000003, -- [1]
-				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
-				"G'huun", -- [3]
-				1, -- [4]
-			}, -- [21]
-			{
-				139.961000000003, -- [1]
-				"Log'loth w'oq Ongg!", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [22]
-			{
-				139.961000000003, -- [1]
-				"Children, come and feed!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [23]
-			{
-				164.328000000001, -- [1]
-				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
-				"G'huun", -- [3]
-				1, -- [4]
-			}, -- [24]
-			{
-				164.328000000001, -- [1]
-				"W'oq uhn'agth ez qam Shandai!", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [25]
-			{
-				164.328000000001, -- [1]
-				"Come, servants of rot. Consume!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [26]
-			{
-				188.676, -- [1]
-				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
-				"G'huun", -- [3]
-				1, -- [4]
-			}, -- [27]
-			{
-				188.676, -- [1]
-				"W'oq uhn'agth ez qam Shandai!", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [28]
-			{
-				188.676, -- [1]
-				"Come, servants of rot. Consume!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [29]
-			{
-				195.941000000006, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_SHADOW_DEATHCOIL.BLP:20|t G'huun casts |cFFFF0404|Hspell:272506|h[Explosive Corruption]|h|r on you!", -- [2]
-				"Teldrasil", -- [3]
-				2, -- [4]
-			}, -- [30]
-			{
-				211.814000000006, -- [1]
-				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
-				"G'huun", -- [3]
-				1, -- [4]
-			}, -- [31]
-			{
-				211.814000000006, -- [1]
-				"Qam oou iilth ez i awtgsshu amun on'ma!", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [32]
-			{
-				211.814000000006, -- [1]
-				"Let the feast of a thousand maws begin!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [33]
-			{
-				233.745999999999, -- [1]
-				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
-				"G'huun", -- [3]
-				1, -- [4]
-			}, -- [34]
-			{
-				233.745999999999, -- [1]
-				"Qam oou iilth ez i awtgsshu amun on'ma!", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [35]
-			{
-				233.745999999999, -- [1]
-				"Let the feast of a thousand maws begin!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [36]
-			{
-				243.207000000002, -- [1]
-				"A power matrix is ready for acquisition.", -- [2]
-				"MOTHER", -- [3]
-				7, -- [4]
-			}, -- [37]
-			{
-				243.409, -- [1]
-				"|TINTERFACE\\ICONS\\ABILITY_TITANKEEPER_CLEANSINGORB.BLP:20|t A new |cFFFF0404|Hspell:263420|h[Power Matrix]|h|r is available.", -- [2]
-				"Power Matrix", -- [3]
-				1, -- [4]
-			}, -- [38]
-			{
-				254.397000000004, -- [1]
-				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
-				"G'huun", -- [3]
-				1, -- [4]
-			}, -- [39]
-			{
-				254.397000000004, -- [1]
-				"W'oq uhn'agth ez qam Shandai!", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [40]
-			{
-				254.397000000004, -- [1]
-				"Come, servants of rot. Consume!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [41]
-			{
-				273.814000000006, -- [1]
-				"|TINTERFACE\\ICONS\\INV_MISC_MONSTERFANG_02.BLP:20|t G'huun calls upon the |cFFFF0404|Hspell:267509|h[Thousand Maws]|h|r to assist him!", -- [2]
-				"G'huun", -- [3]
-				1, -- [4]
-			}, -- [42]
-			{
-				273.814000000006, -- [1]
-				"Log'loth w'oq Ongg!", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [43]
-			{
-				273.814000000006, -- [1]
-				"Children, come and feed!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [44]
-			{
-				290.5, -- [1]
-				"Alert. Reorgination blast sequence initiated. Please vacate the area.", -- [2]
-				"MOTHER", -- [3]
-				7, -- [4]
-			}, -- [45]
-			{
-				320.564000000006, -- [1]
-				"Zuq ag'xig bormaz ag'thyzak!", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [46]
-			{
-				320.564000000006, -- [1]
-				"You cannot escape infection!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [47]
-			{
-				363.082000000002, -- [1]
-				"|TINTERFACE\\ICONS\\ABILITY_TITANKEEPER_CLEANSINGORB.BLP:20|t A new |cFFFF0404|Hspell:263420|h[Power Matrix]|h|r is available.", -- [2]
-				"Power Matrix", -- [3]
-				1, -- [4]
-			}, -- [48]
-			{
-				363.808000000005, -- [1]
-				"A new power matrix can now be collected.", -- [2]
-				"MOTHER", -- [3]
-				7, -- [4]
-			}, -- [49]
-			{
-				373.670000000006, -- [1]
-				"Oou qam puul zyqtahg ywaq vorzz Qam ma shn'ma.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [50]
-			{
-				373.670000000006, -- [1]
-				"The rot runs through your veins. Let it spread.", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [51]
-			{
-				381.671000000002, -- [1]
-				"|TINTERFACE\\ICONS\\ABILITY_RACIAL_CANNIBALIZE.BLP:20|t Use |cFFFF0404|Hspell:263235|h[Blood Feast]|h|r to purge your stacks of |cFFFF0404|Hspell:263227|h[Putrid Blood]|h|r.", -- [2]
-				"G'huun", -- [3]
-				2, -- [4]
-			}, -- [52]
-			{
-				421.060000000005, -- [1]
-				"Oou qam puul zyqtahg ywaq vorzz Qam ma shn'ma.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [53]
-			{
-				421.060000000005, -- [1]
-				"The rot runs through your veins. Let it spread.", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [54]
-			{
-				429.037000000004, -- [1]
-				"|TINTERFACE\\ICONS\\ABILITY_RACIAL_CANNIBALIZE.BLP:20|t Use |cFFFF0404|Hspell:263235|h[Blood Feast]|h|r to purge your stacks of |cFFFF0404|Hspell:263227|h[Putrid Blood]|h|r.", -- [2]
-				"G'huun", -- [3]
-				2, -- [4]
-			}, -- [55]
-			{
-				446.219000000005, -- [1]
-				"|TINTERFACE\\ICONS\\ABILITY_TITANKEEPER_CLEANSINGORB.BLP:20|t A new |cFFFF0404|Hspell:263420|h[Power Matrix]|h|r is available.", -- [2]
-				"Power Matrix", -- [3]
-				1, -- [4]
-			}, -- [56]
-			{
-				446.357000000004, -- [1]
-				"A power matrix is ready for acquisition.", -- [2]
-				"MOTHER", -- [3]
-				7, -- [4]
-			}, -- [57]
-			{
-				447.482000000004, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_SHADOW_DEATHCOIL.BLP:20|t G'huun casts |cFFFF0404|Hspell:272506|h[Explosive Corruption]|h|r on you!", -- [2]
-				"Teldrasil", -- [3]
-				2, -- [4]
-			}, -- [58]
-			{
-				468.521000000001, -- [1]
-				"Ywaq zuq ywag shn'ma Bo'al za qwor.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [59]
-			{
-				468.521000000001, -- [1]
-				"Seek out your allies. Share my gift.", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [60]
-			{
-				476.540000000001, -- [1]
-				"|TINTERFACE\\ICONS\\ABILITY_RACIAL_CANNIBALIZE.BLP:20|t Use |cFFFF0404|Hspell:263235|h[Blood Feast]|h|r to purge your stacks of |cFFFF0404|Hspell:263227|h[Putrid Blood]|h|r.", -- [2]
-				"G'huun", -- [3]
-				2, -- [4]
-			}, -- [61]
-			{
-				487.340000000004, -- [1]
-				"Ywaq ongg an'qov i lal halahs nuq.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [62]
-			{
-				487.340000000004, -- [1]
-				"Your husk serves a new master now.", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [63]
-			{
-				502.769, -- [1]
-				"Ywaq ongg an'qov i lal halahs nuq.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [64]
-			{
-				502.769, -- [1]
-				"Your husk serves a new master now.", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [65]
-			{
-				513.252, -- [1]
-				"Ywaq mh'naus wgah zaix zyqtahg.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [66]
-			{
-				513.252, -- [1]
-				"Your screams will echo forever!", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [67]
-			{
-				514.775000000001, -- [1]
-				"Oou qam puul zyqtahg ywaq vorzz Qam ma shn'ma.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [68]
-			{
-				514.775000000001, -- [1]
-				"The rot runs through your veins. Let it spread.", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [69]
-			{
-				522.763000000006, -- [1]
-				"|TINTERFACE\\ICONS\\ABILITY_RACIAL_CANNIBALIZE.BLP:20|t Use |cFFFF0404|Hspell:263235|h[Blood Feast]|h|r to purge your stacks of |cFFFF0404|Hspell:263227|h[Putrid Blood]|h|r.", -- [2]
-				"G'huun", -- [3]
-				2, -- [4]
-			}, -- [70]
-			{
-				526.174000000006, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_SHADOW_DEATHCOIL.BLP:20|t G'huun casts |cFFFF0404|Hspell:272506|h[Explosive Corruption]|h|r on you!", -- [2]
-				"Teldrasil", -- [3]
-				2, -- [4]
-			}, -- [71]
-			{
-				528.271000000001, -- [1]
-				"Ywaq ongg an'qov i lal halahs nuq.", -- [2]
-				"G'huun", -- [3]
-				7, -- [4]
-			}, -- [72]
-			{
-				528.271000000001, -- [1]
-				"Your husk serves a new master now.", -- [2]
-				"G'huun", -- [3]
-				5, -- [4]
-			}, -- [73]
-			["boss"] = "G'huun",
-		}, -- [3]
 	},
 }

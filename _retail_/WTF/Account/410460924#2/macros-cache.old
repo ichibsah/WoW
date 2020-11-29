@@ -1,3 +1,6 @@
+VER 3 000000000000000D "AAP_MACRO" "INV_MISC_QUESTIONMARK"
+/script print('no button yet')
+END
 VER 3 0000000000000006 "assist" "INV_MISC_QUESTIONMARK"
 /assist [player=target];
 /cast Power Word: Solace(Talent)
@@ -16,10 +19,17 @@ VER 3 000000000000000C "CollectMeRT" "INV_PET_SCORCHEDSTONE"
 /cm rt
 END
 VER 3 000000000000000A "Decursive" "INV_MISC_QUESTIONMARK"
-/script DecursiveRootTable.Dcr:Println('No spell available')
+/stopcasting
+/cast [@mouseover,nomod,exists] Remove Corruption;  [@mouseover,exists,mod:ctrl] Remove Corruption; [@mouseover,exists,mod:shift] Remove Corruption
 END
 VER 3 0000000000000007 "follow" "134892"
 /follow
+END
+VER 3 0000000000000012 "hbCrashProt_0" "Spell_Holy_SealOfSacrifice"
+1:H:1:1:Group:
+END
+VER 3 0000000000000011 "hbCrashProt_1" "Spell_Holy_SealOfSacrifice"
+Daliy:p:ayer-1096-0759E128:1:
 END
 VER 3 0000000000000004 "love" "INV_MISC_QUESTIONMARK"
 /love
@@ -34,4 +44,10 @@ VER 3 0000000000000005 "oom" "INV_MISC_QUESTIONMARK"
 END
 VER 3 000000000000000B "Pet" "132209"
 /pet
+END
+VER 3 000000000000000E "SunMoon" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cleartarget [dead]
+/targetenemy [noharm]
+/castsequence reset=combat/target Moonfire(Lunar),Sunfire(Solar)
 END

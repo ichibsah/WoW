@@ -39,11 +39,11 @@ dbGACB = {
 			},
 			["orders"] = {
 				["Daliya"] = {
-					["Herb Garden"] = 0,
 					["Lunarfall Excavation"] = 0,
-					["Tailoring Emporium"] = 0,
-					["Trading Post"] = 0,
+					["Herb Garden"] = 0,
 					["The Forge"] = 0,
+					["Trading Post"] = 0,
+					["Tailoring Emporium"] = 0,
 				},
 			},
 		},

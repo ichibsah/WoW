@@ -33,7 +33,7 @@ ShadowedUFDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
-			["wowBuild"] = 90001,
+			["wowBuild"] = 90002,
 			["auras"] = {
 				["borderType"] = "light",
 			},
@@ -3630,8 +3630,9 @@ ShadowedUFDB = {
 						["height"] = 0.4,
 						["order"] = 70,
 					},
-					["auraIndicators"] = {
+					["incAbsorb"] = {
 						["height"] = 0.5,
+						["cap"] = 1,
 					},
 					["comboPoints"] = {
 						["anchorTo"] = "$parent",
@@ -3656,9 +3657,8 @@ ShadowedUFDB = {
 						["y"] = 6,
 						["size"] = 14,
 					},
-					["incAbsorb"] = {
+					["auraIndicators"] = {
 						["height"] = 0.5,
-						["cap"] = 1,
 					},
 					["highlight"] = {
 						["height"] = 0.5,

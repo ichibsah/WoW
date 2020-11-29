@@ -1,4 +1,4 @@
 
 Overachiever_Tabs_CharVars = {
-	["Version"] = "1.1.1",
+	["Version"] = "1.1.3",
 }

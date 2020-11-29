@@ -3,6 +3,8 @@ SpyDB = {
 	["kosData"] = {
 		["Sporeggar"] = {
 			["Alliance"] = {
+				["Bazza"] = {
+				},
 				["Daliya"] = {
 				},
 			},
@@ -15,9 +17,26 @@ SpyDB = {
 		},
 	},
 	["profileKeys"] = {
+		["Bazza - Sporeggar"] = "Bazza - Sporeggar",
 		["Daliya - Sporeggar"] = "Daliya - Sporeggar",
 	},
 	["profiles"] = {
+		["Bazza - Sporeggar"] = {
+			["AppendUnitNameCheck"] = true,
+			["MainWindow"] = {
+				["Position"] = {
+					["h"] = 35,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["AppendUnitKoSCheck"] = true,
+		},
 		["Daliya - Sporeggar"] = {
 			["MainWindow"] = {
 				["Position"] = {
@@ -31,9 +50,8 @@ SpyDB = {
 					},
 				},
 			},
-			["MainWindowVis"] = false,
-			["AppendUnitKoSCheck"] = true,
 			["AppendUnitNameCheck"] = true,
+			["AppendUnitKoSCheck"] = true,
 		},
 	},
 }

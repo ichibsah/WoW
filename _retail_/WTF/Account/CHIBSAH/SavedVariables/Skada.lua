@@ -45,14 +45,14 @@ SkadaDB = {
 			["windows"] = {
 				{
 					["set"] = "total",
-					["y"] = 75.99971771240234,
-					["point"] = "BOTTOMRIGHT",
-					["mode"] = "Damage",
+					["y"] = 0,
+					["point"] = "BOTTOMLEFT",
+					["mode"] = "DPS",
 					["barwidth"] = 284.000152587891,
 					["background"] = {
 						["height"] = 172.000091552734,
 					},
-					["x"] = -93.998046875,
+					["x"] = 0,
 				}, -- [1]
 			},
 			["icon"] = {
@@ -70,7 +70,7 @@ SkadaDB = {
 				["1.6.3"] = true,
 			},
 			["modeclicks"] = {
-				["DPS"] = 24,
+				["DPS"] = 26,
 				["Overhealing"] = 1,
 				["Buff uptimes"] = 1,
 				["Enemy damage done"] = 3,

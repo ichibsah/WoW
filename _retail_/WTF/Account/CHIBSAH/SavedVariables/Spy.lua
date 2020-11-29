@@ -5,11 +5,11 @@ SpyDB = {
 			["Horde"] = {
 				["Corlin"] = {
 				},
-				["Nikilahi"] = {
-				},
 				["Jeyliah"] = {
 				},
 				["Teldrasil"] = {
+				},
+				["Nikilahi"] = {
 				},
 			},
 			["Alliance"] = {
@@ -32,6 +32,9 @@ SpyDB = {
 				["Classtrialol"] = {
 				},
 				["Yesu"] = {
+					["Ohoh-DefiasBrotherhood"] = {
+						["added"] = 1533647698,
+					},
 				},
 				["Youmie"] = {
 				},
@@ -183,6 +186,7 @@ SpyDB = {
 				},
 			},
 			["AppendUnitKoSCheck"] = true,
+			["MainWindowVis"] = false,
 		},
 		["Remraf - Sporeggar"] = {
 			["AppendUnitNameCheck"] = true,
@@ -354,10 +358,10 @@ SpyDB = {
 		["Mengsk - Sporeggar"] = {
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = 703.5000610351562,
-					["h"] = 35,
+					["y"] = 652.5,
+					["h"] = 34.99995040893555,
 					["w"] = 300,
-					["x"] = 13.00000095367432,
+					["x"] = 0,
 				},
 			},
 			["Colors"] = {

@@ -576,8 +576,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [95]
 						{
-							["arg1"] = "Logging started on 10/14/2018 at 11:55:36.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 10/14/2018 at 11:55:36.",
 						}, -- [96]
 						{
 							["arg2"] = "|Kf92|k000|k",
@@ -640,8 +640,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [107]
 						{
-							["arg1"] = "Logging started on 10/17/2018 at 22:06:39.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 10/17/2018 at 22:06:39.",
 						}, -- [108]
 						{
 							["arg2"] = "Démøn-Draenor",
@@ -1215,8 +1215,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [204]
 						{
-							["arg1"] = "Logging started on 10/26/2018 at 12:56:45.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 10/26/2018 at 12:56:45.",
 						}, -- [205]
 						{
 							["arg2"] = "|Kf14|k000000000|k",
@@ -1334,8 +1334,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [225]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 10/30/2018 at 15:54:48.",
+							["type"] = "SYSTEM",
 						}, -- [226]
 						{
 							["arg2"] = "|Kf15|k000000000|k",
@@ -1470,5887 +1470,5887 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [249]
 						{
-							["arg1"] = "Logging started on 11/20/2019 at 09:39:06.",
+							["arg1"] = "Logging started on 11/29/2020 at 13:23:00.",
 							["type"] = "SYSTEM",
 						}, -- [250]
 					},
 				}, -- [1]
 				{
 					["enabled"] = true,
-					["hasMessage"] = false,
+					["hasMessage"] = true,
 					["name"] = "Raid",
 					["logs"] = {
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
-							["time"] = 1539811494,
-							["arg1"] = "Vwah oou kaaxth zz ywaq iiyoq Ag'xlg fhssh I on'ma.",
-						}, -- [1]
-						{
-							["arg2"] = "G'huun",
-							["type"] = "MONSTER_WHISPER",
-							["time"] = 1539811494,
-							["arg1"] = "Feel the twitch in your spine? That is where I exist.",
-						}, -- [2]
-						{
-							["arg2"] = "G'huun",
-							["type"] = "MONSTER_YELL",
 							["time"] = 1539811513,
 							["arg1"] = "Ywaq mh'naus wgah zaix zyqtahg.",
-						}, -- [3]
+						}, -- [1]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539811513,
 							["arg1"] = "Your screams will echo forever!",
-						}, -- [4]
+						}, -- [2]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811527,
 							["arg1"] = "Za awtgsshu wgah uulg'ma ywaq zaix.",
-						}, -- [5]
+						}, -- [3]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539811527,
 							["arg1"] = "My whispers will liquefy your mind.",
-						}, -- [6]
+						}, -- [4]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811534,
 							["arg1"] = "Ywaq mh'naus wgah zaix zyqtahg.",
-						}, -- [7]
+						}, -- [5]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539811534,
 							["arg1"] = "Your screams will echo forever!",
-						}, -- [8]
+						}, -- [6]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811545,
 							["arg1"] = "Ywaq ongg an'qov i lal halahs nuq.",
-						}, -- [9]
+						}, -- [7]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539811545,
 							["arg1"] = "Your husk serves a new master now.",
-						}, -- [10]
+						}, -- [8]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811558,
 							["arg1"] = "I ongg za ywaq qvsakf.",
-						}, -- [11]
+						}, -- [9]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539811558,
 							["arg1"] = "I feed on your terror!",
-						}, -- [12]
+						}, -- [10]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811564,
+							["arg1"] = "Ywaq ongg an'qov i lal halahs nuq.",
+						}, -- [11]
+						{
+							["arg2"] = "G'huun",
+							["type"] = "MONSTER_WHISPER",
+							["time"] = 1539811564,
+							["arg1"] = "Your husk serves a new master now.",
+						}, -- [12]
+						{
+							["arg2"] = "G'huun",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1539811580,
 							["arg1"] = "Ywaq ongg an'qov i lal halahs nuq.",
 						}, -- [13]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
-							["time"] = 1539811564,
+							["time"] = 1539811580,
 							["arg1"] = "Your husk serves a new master now.",
 						}, -- [14]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
-							["time"] = 1539811580,
-							["arg1"] = "Ywaq ongg an'qov i lal halahs nuq.",
-						}, -- [15]
-						{
-							["arg2"] = "G'huun",
-							["type"] = "MONSTER_WHISPER",
-							["time"] = 1539811580,
-							["arg1"] = "Your husk serves a new master now.",
-						}, -- [16]
-						{
-							["arg2"] = "G'huun",
-							["type"] = "MONSTER_YELL",
 							["time"] = 1539811590,
 							["arg1"] = "I ongg za ywaq qvsakf.",
-						}, -- [17]
+						}, -- [15]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539811590,
 							["arg1"] = "I feed on your terror!",
-						}, -- [18]
+						}, -- [16]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811604,
+							["arg1"] = "Ywaq mh'naus wgah zaix zyqtahg.",
+						}, -- [17]
+						{
+							["arg2"] = "G'huun",
+							["type"] = "MONSTER_WHISPER",
+							["time"] = 1539811604,
+							["arg1"] = "Your screams will echo forever!",
+						}, -- [18]
+						{
+							["arg2"] = "G'huun",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1539811616,
 							["arg1"] = "Ywaq mh'naus wgah zaix zyqtahg.",
 						}, -- [19]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
-							["time"] = 1539811604,
+							["time"] = 1539811616,
 							["arg1"] = "Your screams will echo forever!",
 						}, -- [20]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
-							["time"] = 1539811616,
-							["arg1"] = "Ywaq mh'naus wgah zaix zyqtahg.",
-						}, -- [21]
-						{
-							["arg2"] = "G'huun",
-							["type"] = "MONSTER_WHISPER",
-							["time"] = 1539811616,
-							["arg1"] = "Your screams will echo forever!",
-						}, -- [22]
-						{
-							["arg2"] = "G'huun",
-							["type"] = "MONSTER_YELL",
 							["time"] = 1539811623,
 							["arg1"] = "Za awtgsshu wgah uulg'ma ywaq zaix.",
-						}, -- [23]
+						}, -- [21]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539811623,
 							["arg1"] = "My whispers will liquefy your mind.",
-						}, -- [24]
+						}, -- [22]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811627,
 							["arg1"] = "Ywaq mh'naus wgah zaix zyqtahg.",
-						}, -- [25]
+						}, -- [23]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539811627,
 							["arg1"] = "Your screams will echo forever!",
-						}, -- [26]
+						}, -- [24]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811628,
 							["arg1"] = "Oou shath'yar lwhuk shn'ma yrr shandi agth fhssh.",
-						}, -- [27]
+						}, -- [25]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811736,
 							["arg1"] = "Oou gul'kafh lal lwhuk!",
-						}, -- [28]
+						}, -- [26]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539811736,
 							["arg1"] = "The outbreak has begun!",
-						}, -- [29]
+						}, -- [27]
 						{
 							["arg2"] = "MOTHER",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811747,
 							["arg1"] = "A new power matrix can now be collected.",
-						}, -- [30]
+						}, -- [28]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811766,
 							["arg1"] = "W'oq uhn'agth ez qam Shandai!",
-						}, -- [31]
+						}, -- [29]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539811766,
 							["arg1"] = "Come, servants of rot. Consume!",
-						}, -- [32]
+						}, -- [30]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811795,
 							["arg1"] = "Qam oou iilth ez i awtgsshu amun on'ma!",
-						}, -- [33]
+						}, -- [31]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539811795,
 							["arg1"] = "Let the feast of a thousand maws begin!",
-						}, -- [34]
+						}, -- [32]
 						{
 							["arg2"] = "MOTHER",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811796,
 							["arg1"] = "A new power matrix can now be collected.",
-						}, -- [35]
+						}, -- [33]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811823,
 							["arg1"] = "W'oq uhn'agth ez qam Shandai!",
-						}, -- [36]
+						}, -- [34]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539811823,
 							["arg1"] = "Come, servants of rot. Consume!",
-						}, -- [37]
+						}, -- [35]
 						{
 							["arg2"] = "MOTHER",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811843,
 							["arg1"] = "Attention. A new power matrix is available.",
-						}, -- [38]
+						}, -- [36]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811849,
 							["arg1"] = "W'oq uhn'agth ez qam Shandai!",
-						}, -- [39]
+						}, -- [37]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539811849,
 							["arg1"] = "Come, servants of rot. Consume!",
-						}, -- [40]
+						}, -- [38]
 						{
 							["arg2"] = "MOTHER",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811869,
 							["arg1"] = "Warning. Reorigination blast imminent. Please clear the area.",
-						}, -- [41]
+						}, -- [39]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811900,
 							["arg1"] = "Zuq ag'xig bormaz ag'thyzak!",
-						}, -- [42]
+						}, -- [40]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539811900,
 							["arg1"] = "You cannot escape infection!",
-						}, -- [43]
+						}, -- [41]
 						{
 							["arg2"] = "MOTHER",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811912,
 							["arg1"] = "A power matrix is ready for acquisition.",
-						}, -- [44]
+						}, -- [42]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811954,
 							["arg1"] = "Oou qam puul zyqtahg ywaq vorzz Qam ma shn'ma.",
-						}, -- [45]
+						}, -- [43]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539811954,
 							["arg1"] = "The rot runs through your veins. Let it spread.",
-						}, -- [46]
+						}, -- [44]
 						{
 							["arg2"] = "MOTHER",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811955,
 							["arg1"] = "A new power matrix can now be collected.",
-						}, -- [47]
+						}, -- [45]
 						{
 							["arg2"] = "MOTHER",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811998,
 							["arg1"] = "A power matrix is ready for acquisition.",
-						}, -- [48]
+						}, -- [46]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812002,
 							["arg1"] = "Ywaq zuq ywag shn'ma Bo'al za qwor.",
-						}, -- [49]
+						}, -- [47]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539812002,
 							["arg1"] = "Seek out your allies. Share my gift.",
-						}, -- [50]
+						}, -- [48]
 						{
 							["arg2"] = "MOTHER",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812025,
 							["arg1"] = "Alert. Reorgination blast sequence initiated. Please vacate the area.",
-						}, -- [51]
+						}, -- [49]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812054,
 							["arg1"] = "Oou vwahuHn ag'xig shfk zuq!",
-						}, -- [52]
+						}, -- [50]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539812054,
 							["arg1"] = "The titans cannot save you!",
-						}, -- [53]
+						}, -- [51]
 						{
 							["arg2"] = "Lhurion-Kilrogg",
 							["type"] = "RAID_WARNING",
 							["time"] = 1539812061,
 							["arg1"] = "AVOID",
 							["clColor"] = "ffa330c9",
-						}, -- [54]
+						}, -- [52]
 						{
 							["arg2"] = "Lhurion-Kilrogg",
 							["type"] = "RAID_WARNING",
 							["time"] = 1539812075,
 							["arg1"] = "AVOID",
 							["clColor"] = "ffa330c9",
-						}, -- [55]
+						}, -- [53]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812076,
 							["arg1"] = "Awtgssh shn ongg shg'ullwaq!",
-						}, -- [56]
+						}, -- [54]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539812076,
 							["arg1"] = "Nothing can stop my pestilence!",
-						}, -- [57]
+						}, -- [55]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812091,
 							["arg1"] = "Ywaq ongg an'qov i lal halahs nuq.",
-						}, -- [58]
+						}, -- [56]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539812091,
 							["arg1"] = "Your husk serves a new master now.",
-						}, -- [59]
+						}, -- [57]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812106,
+							["arg1"] = "Za awtgsshu wgah uulg'ma ywaq zaix.",
+						}, -- [58]
+						{
+							["arg2"] = "G'huun",
+							["type"] = "MONSTER_WHISPER",
+							["time"] = 1539812106,
+							["arg1"] = "My whispers will liquefy your mind.",
+						}, -- [59]
+						{
+							["arg2"] = "G'huun",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1539812138,
 							["arg1"] = "Za awtgsshu wgah uulg'ma ywaq zaix.",
 						}, -- [60]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
-							["time"] = 1539812106,
+							["time"] = 1539812138,
 							["arg1"] = "My whispers will liquefy your mind.",
 						}, -- [61]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
-							["time"] = 1539812138,
-							["arg1"] = "Za awtgsshu wgah uulg'ma ywaq zaix.",
+							["time"] = 1539812156,
+							["arg1"] = "Ywaq ongg an'qov i lal halahs nuq.",
 						}, -- [62]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
-							["time"] = 1539812138,
-							["arg1"] = "My whispers will liquefy your mind.",
+							["time"] = 1539812156,
+							["arg1"] = "Your husk serves a new master now.",
 						}, -- [63]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
-							["time"] = 1539812156,
+							["time"] = 1539812167,
 							["arg1"] = "Ywaq ongg an'qov i lal halahs nuq.",
 						}, -- [64]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
-							["time"] = 1539812156,
+							["time"] = 1539812167,
 							["arg1"] = "Your husk serves a new master now.",
 						}, -- [65]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
-							["time"] = 1539812167,
-							["arg1"] = "Ywaq ongg an'qov i lal halahs nuq.",
-						}, -- [66]
-						{
-							["arg2"] = "G'huun",
-							["type"] = "MONSTER_WHISPER",
-							["time"] = 1539812167,
-							["arg1"] = "Your husk serves a new master now.",
-						}, -- [67]
-						{
-							["arg2"] = "G'huun",
-							["type"] = "MONSTER_YELL",
 							["time"] = 1539812171,
 							["arg1"] = "I ongg za ywaq qvsakf.",
-						}, -- [68]
+						}, -- [66]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539812171,
 							["arg1"] = "I feed on your terror!",
-						}, -- [69]
+						}, -- [67]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539812172,
 							["arg1"] = "The contagion... has taken root within you...",
-						}, -- [70]
+						}, -- [68]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812173,
 							["arg1"] = "Oou thyzz lal ak'uq qwaz Zuq shkul ma sk'tek...",
-						}, -- [71]
+						}, -- [69]
 						{
 							["arg2"] = "Princess Talanji",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812757,
 							["arg1"] = "Behold de blood of G'huun. By his will were borne de deaths of Shadra, Hi'reek, Torga, and ...and Rezan.",
-						}, -- [72]
+						}, -- [70]
 						{
 							["arg2"] = "Princess Talanji",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812770,
 							["arg1"] = "By his will were borne de deaths of so many of our brothers and sisters.",
-						}, -- [73]
+						}, -- [71]
 						{
 							["arg2"] = "Princess Talanji",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812779,
 							["arg1"] = "Let dis glaive be displayed as a reminder dat no matter how far we fall, no matter how much we lose, we are Zandalari!\nWe adapt, we find a way to survive!",
-						}, -- [74]
+						}, -- [72]
 						{
 							["arg2"] = "Princess Talanji",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812797,
 							["arg1"] = "If it were not for dis hero of de Horde, our losses would have been far worse.\nDis proves, more than ever, dat it is time for us to adapt, to become part of de world again.",
-						}, -- [75]
+						}, -- [73]
 						{
 							["arg2"] = "Princess Talanji",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812814,
 							["arg1"] = "Zandalar forever!",
+						}, -- [74]
+						{
+							["arg1"] = " ",
+						}, -- [75]
+						{
+							["arg1"] = " ",
 						}, -- [76]
 						{
-							["arg1"] = " ",
-						}, -- [77]
-						{
-							["arg1"] = " ",
-						}, -- [78]
-						{
-							["arg1"] = "Logging started on 10/26/2018 at 12:56:45.",
 							["type"] = "SYSTEM",
-						}, -- [79]
+							["arg1"] = "Logging started on 10/26/2018 at 12:56:45.",
+						}, -- [77]
 						{
 							["arg2"] = "Warlord Zakgra",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551703,
 							["arg1"] = "This way! A glorious battle awaits!",
-						}, -- [80]
+						}, -- [78]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551715,
 							["arg1"] = "Years ago, all of dis land belonged to da trolls.",
-						}, -- [81]
+						}, -- [79]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551720,
 							["arg1"] = "Today, it belongs to da Horde!",
-						}, -- [82]
+						}, -- [80]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551742,
 							["arg1"] = "Shadows consume you.",
-						}, -- [83]
+						}, -- [81]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551769,
 							["arg1"] = "Da hunt begins!",
-						}, -- [84]
+						}, -- [82]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551769,
 							["arg1"] = "Ah, victory! It taste sweet, mon!",
-						}, -- [85]
+						}, -- [83]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551850,
 							["arg1"] = "Good. We gonna use da lumber from Hatchet Ridge ta build our stronghold.",
-						}, -- [86]
+						}, -- [84]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551864,
 							["arg1"] = "Drywhisker Mine belongs to da Horde.",
-						}, -- [87]
+						}, -- [85]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551949,
 							["arg1"] = "Da stronghold be needin' reinforcement. Hold dem forces back before dey get too close!",
-						}, -- [88]
+						}, -- [86]
 						{
 							["arg2"] = "Throk",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551953,
 							["arg1"] = "See me at the Barracks when you're ready to train our army.",
-						}, -- [89]
+						}, -- [87]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551975,
 							["arg1"] = "Da Altar o' Storms be ready.",
-						}, -- [90]
+						}, -- [88]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552004,
 							["arg1"] = "Armory be good ta go, mon.",
-						}, -- [91]
+						}, -- [89]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552008,
 							["arg1"] = "Watch da shadows, Alliance scum. Da Horde be comin' for you...",
-						}, -- [92]
+						}, -- [90]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552112,
 							["arg1"] = "We be upgradin' da Great Hall to a Stronghold.",
-						}, -- [93]
+						}, -- [91]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552147,
 							["arg1"] = "Newstead be ours... an' wit' it, da wolf riders.",
-						}, -- [94]
+						}, -- [92]
 						{
 							["arg2"] = "Raider Zugg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552153,
 							["arg1"] = "Secure the area!",
-						}, -- [95]
+						}, -- [93]
 						{
 							["arg2"] = "Gwyndra Wildhammer",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552241,
 							["arg1"] = "The skies... call.",
-						}, -- [96]
+						}, -- [94]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552271,
 							["arg1"] = "Hold the Perch and the skies are ours!",
-						}, -- [97]
+						}, -- [95]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552272,
 							["arg1"] = "High Perch be ours, Turalyon. Da shadows draw closer...",
-						}, -- [98]
+						}, -- [96]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552275,
 							["arg1"] = "Let them try and break our defenses!",
-						}, -- [99]
+						}, -- [97]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552278,
 							["arg1"] = "Yet the Light still shines over Stromgarde.",
-						}, -- [100]
+						}, -- [98]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552297,
 							["arg1"] = "Da Workshop be done. Our demolishers gonna make quick work o' da Alliance walls!",
-						}, -- [101]
+						}, -- [99]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552456,
 							["arg1"] = "Da Circle of Elements be under da Horde's control now.",
-						}, -- [102]
+						}, -- [100]
 						{
 							["arg2"] = "Wistel Silversnitch",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552544,
 							["arg1"] = "The Motherlode is safe and sound. Come grab your share!",
-						}, -- [103]
+						}, -- [101]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552562,
 							["arg1"] = "Da Stronghold be a Fortress now!",
-						}, -- [104]
+						}, -- [102]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552579,
 							["arg1"] = "Send in da demolishers! No Light gonna protect dat paladin from da might of da Horde!",
-						}, -- [105]
+						}, -- [103]
 						{
 							["arg2"] = "Warbringer Kro'goth",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552580,
 							["arg1"] = "Hold your ground! If anything moves, kill it!",
-						}, -- [106]
+						}, -- [104]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552587,
 							["arg1"] = "Light will always defeat Shadow, Rokhan. Defenders, forward!",
-						}, -- [107]
+						}, -- [105]
 						{
 							["arg2"] = "Nied",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552662,
 							["arg1"] = "I, Gamon, will save us!",
 							["clColor"] = "ffff7c0a",
-						}, -- [108]
+						}, -- [106]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552764,
 							["arg1"] = "Da gate be down! Storm da fortress!",
-						}, -- [109]
+						}, -- [107]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552824,
 							["arg1"] = "For the Light!",
-						}, -- [110]
+						}, -- [108]
 						{
 							["arg2"] = "Teldrasil",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1540552829,
 							["arg1"] = "I should return to the Altar. This Essence is worthy of investigation.",
 							["clColor"] = "ffff7c0a",
-						}, -- [111]
+						}, -- [109]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552832,
 							["arg1"] = "By the Light, be purged!",
-						}, -- [112]
+						}, -- [110]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552836,
 							["arg1"] = "Scurry from the Light, vermin!",
-						}, -- [113]
+						}, -- [111]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552873,
 							["arg1"] = "For da Horde!",
-						}, -- [114]
+						}, -- [112]
 						{
 							["arg2"] = "Tally Zapnabber",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540553170,
 							["arg1"] = "Oh, I... I'm... Not sure we should be doing this!",
-						}, -- [115]
+						}, -- [113]
 						{
 							["arg2"] = "Nettlevine Sprite",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540553188,
 							["arg1"] = "Come and play with us!",
-						}, -- [116]
+						}, -- [114]
 						{
 							["arg2"] = "Dizzy Dina",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540553206,
 							["arg1"] = "Hostiles on the move.",
-						}, -- [117]
+						}, -- [115]
 						{
 							["arg2"] = "Gimzy Trickelbank",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540553246,
 							["arg1"] = "You there! You gotta help me out, hon! I'm all alone here, desperate, you know?",
-						}, -- [118]
+						}, -- [116]
 						{
 							["arg2"] = "Gimzy Trickelbank",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540553288,
 							["arg1"] = "You there! You gotta help me out, hon! I'm all alone here, desperate, you know?",
-						}, -- [119]
+						}, -- [117]
 						{
 							["arg2"] = "Vizio the Cartographer",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540553384,
 							["arg1"] = "How droll, I've mapped myself into a corner!",
-						}, -- [120]
+						}, -- [118]
 						{
 							["arg2"] = "Warlord Zakgra",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540555668,
 							["arg1"] = "This way! A glorious battle awaits!",
-						}, -- [121]
+						}, -- [119]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540555680,
 							["arg1"] = "Years ago, all of dis land belonged to da trolls.",
-						}, -- [122]
+						}, -- [120]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540555686,
 							["arg1"] = "Today, it belongs to da Horde!",
-						}, -- [123]
+						}, -- [121]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540555851,
 							["arg1"] = "Drywhisker Mine belongs to da Horde.",
-						}, -- [124]
+						}, -- [122]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540555859,
 							["arg1"] = "Good. We gonna use da lumber from Hatchet Ridge ta build our stronghold.",
-						}, -- [125]
+						}, -- [123]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540555938,
 							["arg1"] = "Da barracks be ready. Dis war gonna be won on da backs o' da grunts.",
-						}, -- [126]
+						}, -- [124]
 						{
 							["arg2"] = "Throk",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540555938,
 							["arg1"] = "We'll need reinforcements to win this war.",
-						}, -- [127]
+						}, -- [125]
 						{
 							["arg2"] = "Throk",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540555951,
 							["arg1"] = "See me at the Barracks when you're ready to train our army.",
-						}, -- [128]
+						}, -- [126]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556036,
 							["arg1"] = "Da stronghold be needin' reinforcement. Hold dem forces back before dey get too close!",
-						}, -- [129]
+						}, -- [127]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556060,
 							["arg1"] = "Armory be good ta go, mon.",
-						}, -- [130]
+						}, -- [128]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556078,
 							["arg1"] = "Da Altar o' Storms be ready.",
-						}, -- [131]
+						}, -- [129]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556098,
 							["arg1"] = "Watch da shadows, Alliance scum. Da Horde be comin' for you...",
-						}, -- [132]
+						}, -- [130]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556136,
 							["arg1"] = "We be upgradin' da Great Hall to a Stronghold.",
-						}, -- [133]
+						}, -- [131]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556271,
 							["arg1"] = "Da Workshop be done. Our demolishers gonna make quick work o' da Alliance walls!",
-						}, -- [134]
+						}, -- [132]
 						{
 							["arg2"] = "Gwyndra Wildhammer",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556283,
 							["arg1"] = "The skies... call.",
-						}, -- [135]
+						}, -- [133]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556295,
 							["arg1"] = "Hold the Perch and the skies are ours!",
-						}, -- [136]
+						}, -- [134]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556295,
 							["arg1"] = "High Perch be ours, Turalyon. Da shadows draw closer...",
-						}, -- [137]
+						}, -- [135]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556299,
 							["arg1"] = "Let them try and break our defenses!",
-						}, -- [138]
+						}, -- [136]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556302,
 							["arg1"] = "Yet the Light still shines over Stromgarde.",
-						}, -- [139]
+						}, -- [137]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556556,
 							["arg1"] = "Newstead be ours... an' wit' it, da wolf riders.",
-						}, -- [140]
+						}, -- [138]
 						{
 							["arg2"] = "Raider Zugg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556575,
 							["arg1"] = "Secure the area!",
-						}, -- [141]
+						}, -- [139]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556586,
 							["arg1"] = "Da Circle of Elements be under da Horde's control now.",
-						}, -- [142]
+						}, -- [140]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556638,
 							["arg1"] = "Da Stronghold be a Fortress now!",
-						}, -- [143]
+						}, -- [141]
 						{
 							["arg2"] = "Gwyndra Wildhammer",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556755,
 							["arg1"] = "The skies... call.",
-						}, -- [144]
+						}, -- [142]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556764,
 							["arg1"] = "Hold the Perch and the skies are ours!",
-						}, -- [145]
+						}, -- [143]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556768,
 							["arg1"] = "Let them try and break our defenses!",
-						}, -- [146]
+						}, -- [144]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556848,
 							["arg1"] = "Send in da demolishers! No Light gonna protect dat paladin from da might of da Horde!",
-						}, -- [147]
+						}, -- [145]
 						{
 							["arg2"] = "Warbringer Kro'goth",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556851,
 							["arg1"] = "Hold your ground! If anything moves, kill it!",
-						}, -- [148]
+						}, -- [146]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556857,
 							["arg1"] = "Light will always defeat Shadow, Rokhan. Defenders, forward!",
-						}, -- [149]
+						}, -- [147]
 						{
 							["arg2"] = "Horde Grunt",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556949,
 							["arg1"] = "Blood and honor!",
-						}, -- [150]
+						}, -- [148]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540557047,
 							["arg1"] = "Da gate be down! Storm da fortress!",
-						}, -- [151]
+						}, -- [149]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540557093,
 							["arg1"] = "For the Light!",
-						}, -- [152]
+						}, -- [150]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540557103,
 							["arg1"] = "By the Light's might!",
-						}, -- [153]
+						}, -- [151]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540557115,
 							["arg1"] = "By the Light, be purged!",
-						}, -- [154]
+						}, -- [152]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540557131,
 							["arg1"] = "By the Light, be purged!",
-						}, -- [155]
+						}, -- [153]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540557137,
 							["arg1"] = "Stromgarde may be lost, but the Alliance will never fall.",
-						}, -- [156]
+						}, -- [154]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540557137,
 							["arg1"] = "For da Horde!",
+						}, -- [155]
+						{
+							["arg1"] = " ",
+						}, -- [156]
+						{
+							["arg1"] = " ",
 						}, -- [157]
 						{
-							["arg1"] = " ",
-						}, -- [158]
-						{
-							["arg1"] = " ",
-						}, -- [159]
-						{
-							["arg1"] = "Logging started on 10/27/2018 at 13:29:02.",
 							["type"] = "SYSTEM",
-						}, -- [160]
+							["arg1"] = "Logging started on 10/27/2018 at 13:29:02.",
+						}, -- [158]
 						{
 							["arg2"] = "Yuke",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540640255,
 							["arg1"] = "Everyone at the academy is going to make fun of me for this! Oh, Yuke, you're so clumsy!",
-						}, -- [161]
+						}, -- [159]
 						{
 							["arg2"] = "Fenrae the Cunning",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540640306,
 							["arg1"] = "Go for their throats!",
-						}, -- [162]
+						}, -- [160]
 						{
 							["arg2"] = "Gunnolf the Ferocious",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540640325,
 							["arg1"] = "I can smell your fear.",
-						}, -- [163]
+						}, -- [161]
 						{
 							["arg2"] = "Raul the Tenacious",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540640382,
 							["arg1"] = "*Laughs* Just run for it, Hordies. We won't chase you!",
-						}, -- [164]
+						}, -- [162]
 						{
 							["arg2"] = "Mischievous Flood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540640474,
 							["arg1"] = "Got you!",
-						}, -- [165]
+						}, -- [163]
 						{
 							["arg2"] = "Grezla Bloodfury",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540641974,
 							["arg1"] = "Hold the line! Nothing gets through!",
-						}, -- [166]
+						}, -- [164]
 						{
 							["arg2"] = "Gwyndra Wildhammer",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642031,
 							["arg1"] = "The skies... call.",
-						}, -- [167]
+						}, -- [165]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642042,
 							["arg1"] = "Hold the Perch and the skies are ours!",
-						}, -- [168]
+						}, -- [166]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642042,
 							["arg1"] = "High Perch be ours, Turalyon. Da shadows draw closer...",
-						}, -- [169]
+						}, -- [167]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642046,
 							["arg1"] = "Let them try and break our defenses!",
-						}, -- [170]
+						}, -- [168]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642049,
 							["arg1"] = "Yet the Light still shines over Stromgarde.",
-						}, -- [171]
+						}, -- [169]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642081,
 							["arg1"] = "Newstead be ours... an' wit' it, da wolf riders.",
-						}, -- [172]
+						}, -- [170]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642259,
 							["arg1"] = "Da Circle of Elements be under da Horde's control now.",
-						}, -- [173]
+						}, -- [171]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642276,
 							["arg1"] = "Send in da demolishers! No Light gonna protect dat paladin from da might of da Horde!",
-						}, -- [174]
+						}, -- [172]
 						{
 							["arg2"] = "Warbringer Kro'goth",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642278,
 							["arg1"] = "Hold your ground! If anything moves, kill it!",
-						}, -- [175]
+						}, -- [173]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642285,
 							["arg1"] = "Light will always defeat Shadow, Rokhan. Defenders, forward!",
-						}, -- [176]
+						}, -- [174]
 						{
 							["arg2"] = "Darkspear Shadow Hunter",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642375,
 							["arg1"] = "This way! To battle!",
-						}, -- [177]
+						}, -- [175]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642451,
 							["arg1"] = "Da gate be down! Storm da fortress!",
-						}, -- [178]
+						}, -- [176]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642511,
 							["arg1"] = "For the Light!",
-						}, -- [179]
+						}, -- [177]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642518,
 							["arg1"] = "Let the Light cleanse you!",
-						}, -- [180]
+						}, -- [178]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642597,
 							["arg1"] = "By the Light, be purged!",
-						}, -- [181]
+						}, -- [179]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642602,
 							["arg1"] = "Stromgarde may be lost, but the Alliance will never fall.",
-						}, -- [182]
+						}, -- [180]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642602,
 							["arg1"] = "For da Horde!",
+						}, -- [181]
+						{
+							["arg1"] = " ",
+						}, -- [182]
+						{
+							["arg1"] = " ",
 						}, -- [183]
 						{
-							["arg1"] = " ",
-						}, -- [184]
-						{
-							["arg1"] = " ",
-						}, -- [185]
-						{
-							["arg1"] = "Logging started on 11/01/2018 at 08:52:29.",
 							["type"] = "SYSTEM",
-						}, -- [186]
+							["arg1"] = "Logging started on 11/01/2018 at 08:52:29.",
+						}, -- [184]
 						{
 							["arg2"] = "Tally Zapnabber",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541059216,
 							["arg1"] = "Oh, I... I'm... Not sure we should be doing this!",
-						}, -- [187]
+						}, -- [185]
 						{
 							["arg2"] = "Dizzy Dina",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541059511,
 							["arg1"] = "Hostiles on the move.",
-						}, -- [188]
+						}, -- [186]
 						{
 							["arg2"] = "Razak Ironsides",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541059539,
 							["arg1"] = "They've taken out my mechanostrider! Fall back!",
-						}, -- [189]
+						}, -- [187]
 						{
 							["arg2"] = "Tally Zapnabber",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541059562,
 							["arg1"] = "Oh, I... I'm... Not sure we should be doing this!",
-						}, -- [190]
+						}, -- [188]
 						{
 							["arg2"] = "Fenrae the Cunning",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541061794,
 							["arg1"] = "Go for their throats!",
-						}, -- [191]
+						}, -- [189]
 						{
 							["arg2"] = "Raul the Tenacious",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541061804,
 							["arg1"] = "Someone's gotta lick your wounds.",
-						}, -- [192]
+						}, -- [190]
 						{
 							["arg2"] = "Unleashed Tidebreaker",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541064793,
 							["arg1"] = "The tides shall swallow you whole!",
-						}, -- [193]
+						}, -- [191]
 						{
 							["arg2"] = "General Cadarin",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541065061,
 							["arg1"] = "Show your face, Horde scum! We have a friend of yours.",
-						}, -- [194]
+						}, -- [192]
 						{
 							["arg2"] = "Greeb Ramrocket",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541065564,
 							["arg1"] = "The zeppelin to Warsong Hold has just arrived! All aboard for Borean Tundra!",
+						}, -- [193]
+						{
+							["arg1"] = " ",
+						}, -- [194]
+						{
+							["arg1"] = " ",
 						}, -- [195]
 						{
-							["arg1"] = " ",
-						}, -- [196]
-						{
-							["arg1"] = " ",
-						}, -- [197]
-						{
-							["arg1"] = "Logging started on 06/30/2019 at 15:20:19.",
 							["type"] = "SYSTEM",
-						}, -- [198]
+							["arg1"] = "Logging started on 06/30/2019 at 15:20:19.",
+						}, -- [196]
 						{
 							["arg2"] = "Greeb Ramrocket",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561900888,
 							["arg1"] = "The zeppelin to Warsong Hold has just arrived! All aboard for Borean Tundra!",
-						}, -- [199]
+						}, -- [197]
 						{
 							["arg2"] = "Warlord Zakgra",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901658,
 							["arg1"] = "This way! A glorious battle awaits!",
-						}, -- [200]
+						}, -- [198]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901670,
 							["arg1"] = "Years ago, all of dis land belonged to da trolls.",
-						}, -- [201]
+						}, -- [199]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901675,
 							["arg1"] = "Today, it belongs to da Horde!",
-						}, -- [202]
+						}, -- [200]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901682,
 							["arg1"] = "Shadows consume you.",
-						}, -- [203]
+						}, -- [201]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901697,
 							["arg1"] = "Ah, victory! It taste sweet, mon!",
-						}, -- [204]
+						}, -- [202]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901789,
 							["arg1"] = "Good. We gonna use da lumber from Hatchet Ridge ta build our stronghold.",
-						}, -- [205]
+						}, -- [203]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901797,
 							["arg1"] = "Drywhisker Mine belongs to da Horde.",
-						}, -- [206]
+						}, -- [204]
 						{
 							["arg2"] = "Throk",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901863,
 							["arg1"] = "We'll need reinforcements to win this war.",
-						}, -- [207]
+						}, -- [205]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901863,
 							["arg1"] = "Da barracks be ready. Dis war gonna be won on da backs o' da grunts.",
-						}, -- [208]
+						}, -- [206]
 						{
 							["arg2"] = "Throk",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901877,
 							["arg1"] = "See me at the Barracks when you're ready to train our army.",
-						}, -- [209]
+						}, -- [207]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901895,
 							["arg1"] = "Watch da shadows, Alliance scum. Da Horde be comin' for you...",
-						}, -- [210]
+						}, -- [208]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901913,
 							["arg1"] = "Da stronghold be needin' reinforcement. Hold dem forces back before dey get too close!",
-						}, -- [211]
+						}, -- [209]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901944,
 							["arg1"] = "Armory be good ta go, mon.",
-						}, -- [212]
+						}, -- [210]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902019,
 							["arg1"] = "Newstead be ours... an' wit' it, da wolf riders.",
-						}, -- [213]
+						}, -- [211]
 						{
 							["arg2"] = "Gwyndra Wildhammer",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902047,
 							["arg1"] = "The skies... call.",
-						}, -- [214]
+						}, -- [212]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902063,
 							["arg1"] = "Hold the Perch and the skies are ours!",
-						}, -- [215]
+						}, -- [213]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902064,
 							["arg1"] = "High Perch be ours, Turalyon. Da shadows draw closer...",
-						}, -- [216]
+						}, -- [214]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902067,
 							["arg1"] = "Let them try and break our defenses!",
-						}, -- [217]
+						}, -- [215]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902070,
 							["arg1"] = "Yet the Light still shines over Stromgarde.",
-						}, -- [218]
+						}, -- [216]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902109,
 							["arg1"] = "Da Altar o' Storms be ready.",
-						}, -- [219]
+						}, -- [217]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902193,
 							["arg1"] = "Da Circle of Elements be under da Horde's control now.",
-						}, -- [220]
+						}, -- [218]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902208,
 							["arg1"] = "We be upgradin' da Great Hall to a Stronghold.",
-						}, -- [221]
+						}, -- [219]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902343,
 							["arg1"] = "Da Workshop be done. Our demolishers gonna make quick work o' da Alliance walls!",
-						}, -- [222]
+						}, -- [220]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902480,
 							["arg1"] = "Da Stronghold be a Fortress now!",
-						}, -- [223]
+						}, -- [221]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902507,
 							["arg1"] = "Send in da demolishers! No Light gonna protect dat paladin from da might of da Horde!",
-						}, -- [224]
+						}, -- [222]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902515,
 							["arg1"] = "Light will always defeat Shadow, Rokhan. Defenders, forward!",
-						}, -- [225]
+						}, -- [223]
 						{
 							["arg2"] = "Warbringer Kro'goth",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902519,
 							["arg1"] = "Hold your ground! If anything moves, kill it!",
-						}, -- [226]
+						}, -- [224]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902685,
 							["arg1"] = "Da gate be down! Storm da fortress!",
-						}, -- [227]
+						}, -- [225]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902721,
 							["arg1"] = "For the Light!",
-						}, -- [228]
+						}, -- [226]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902751,
 							["arg1"] = "Stromgarde may be lost, but the Alliance will never fall.",
-						}, -- [229]
+						}, -- [227]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905465,
 							["arg1"] = "The essence... belongs to the earth.",
-						}, -- [230]
+						}, -- [228]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905559,
 							["arg1"] = "The earth rages against you. How can you protect it?",
-						}, -- [231]
+						}, -- [229]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905690,
 							["arg1"] = "The earth will break you!",
-						}, -- [232]
+						}, -- [230]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905748,
 							["arg1"] = "The earth will break you!",
-						}, -- [233]
+						}, -- [231]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905768,
 							["arg1"] = "The earth will break you!",
-						}, -- [234]
+						}, -- [232]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905788,
 							["arg1"] = "The earth will break you!",
-						}, -- [235]
+						}, -- [233]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905805,
 							["arg1"] = "The earth will break you!",
-						}, -- [236]
+						}, -- [234]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905821,
 							["arg1"] = "Enough... I yield. You... are worthy.",
-						}, -- [237]
+						}, -- [235]
 						{
 							["arg2"] = "Navarrogg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905849,
 							["arg1"] = "Up here! I have prepared an exit for you.",
-						}, -- [238]
+						}, -- [236]
 						{
 							["arg2"] = "Mortiferous",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561906240,
 							["arg1"] = "Your titan gods have abandoned you. Lay down your arms. There is no hope left.",
-						}, -- [239]
+						}, -- [237]
 						{
 							["arg2"] = "Mortiferous",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561906376,
 							["arg1"] = "Salt the earth. Boil their seas. Drive them before you!",
-						}, -- [240]
+						}, -- [238]
 						{
 							["arg2"] = "Mortiferous",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561906669,
 							["arg1"] = "Too late, \"heroes\". Your world is lost.",
-						}, -- [241]
+						}, -- [239]
 						{
 							["arg2"] = "Mortiferous",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561906867,
 							["arg1"] = "Too late, \"heroes\". Your world is lost.",
-						}, -- [242]
+						}, -- [240]
 						{
 							["arg2"] = "Mortiferous",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561907042,
 							["arg1"] = "Your titan gods have abandoned you. Lay down your arms. There is no hope left.",
+						}, -- [241]
+						{
+							["arg1"] = " ",
+						}, -- [242]
+						{
+							["arg1"] = " ",
 						}, -- [243]
 						{
-							["arg1"] = " ",
-						}, -- [244]
-						{
-							["arg1"] = " ",
-						}, -- [245]
-						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 08/04/2019 at 14:56:08.",
-						}, -- [246]
+							["type"] = "SYSTEM",
+						}, -- [244]
 						{
 							["arg2"] = "Mortiferous",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1564923593,
 							["arg1"] = "Too late, \"heroes\". Your world is lost.",
+						}, -- [245]
+						{
+							["arg1"] = " ",
+						}, -- [246]
+						{
+							["arg1"] = " ",
 						}, -- [247]
 						{
-							["arg1"] = " ",
+							["arg1"] = "Logging started on 11/29/2020 at 13:23:00.",
+							["type"] = "SYSTEM",
 						}, -- [248]
 						{
-							["arg1"] = " ",
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1606654276,
+							["arg1"] = "Knights, secure the cave! We'll hold off these fiends.",
 						}, -- [249]
 						{
-							["arg1"] = "Logging started on 11/20/2019 at 09:39:06.",
-							["type"] = "SYSTEM",
+							["arg2"] = "Thrall",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1606654314,
+							["arg1"] = "Another ambush! Bring them down!",
 						}, -- [250]
 					},
 				}, -- [2]
 				{
 					["enabled"] = true,
-					["hasMessage"] = false,
+					["hasMessage"] = true,
 					["name"] = "Party",
 					["logs"] = {
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
-							["time"] = 1539811486,
-							["arg1"] = "Your screams will echo forever!",
-						}, -- [1]
-						{
-							["arg2"] = "G'huun",
-							["type"] = "MONSTER_YELL",
-							["time"] = 1539811494,
-							["arg1"] = "Vwah oou kaaxth zz ywaq iiyoq Ag'xlg fhssh I on'ma.",
-						}, -- [2]
-						{
-							["arg2"] = "G'huun",
-							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539811494,
 							["arg1"] = "Feel the twitch in your spine? That is where I exist.",
-						}, -- [3]
+						}, -- [1]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811513,
 							["arg1"] = "Ywaq mh'naus wgah zaix zyqtahg.",
-						}, -- [4]
+						}, -- [2]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539811513,
 							["arg1"] = "Your screams will echo forever!",
-						}, -- [5]
+						}, -- [3]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811527,
 							["arg1"] = "Za awtgsshu wgah uulg'ma ywaq zaix.",
-						}, -- [6]
+						}, -- [4]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539811527,
 							["arg1"] = "My whispers will liquefy your mind.",
-						}, -- [7]
+						}, -- [5]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811534,
 							["arg1"] = "Ywaq mh'naus wgah zaix zyqtahg.",
-						}, -- [8]
+						}, -- [6]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539811534,
 							["arg1"] = "Your screams will echo forever!",
-						}, -- [9]
+						}, -- [7]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811545,
 							["arg1"] = "Ywaq ongg an'qov i lal halahs nuq.",
-						}, -- [10]
+						}, -- [8]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539811545,
 							["arg1"] = "Your husk serves a new master now.",
-						}, -- [11]
+						}, -- [9]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811558,
 							["arg1"] = "I ongg za ywaq qvsakf.",
-						}, -- [12]
+						}, -- [10]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539811558,
 							["arg1"] = "I feed on your terror!",
-						}, -- [13]
+						}, -- [11]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811564,
+							["arg1"] = "Ywaq ongg an'qov i lal halahs nuq.",
+						}, -- [12]
+						{
+							["arg2"] = "G'huun",
+							["type"] = "MONSTER_WHISPER",
+							["time"] = 1539811564,
+							["arg1"] = "Your husk serves a new master now.",
+						}, -- [13]
+						{
+							["arg2"] = "G'huun",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1539811580,
 							["arg1"] = "Ywaq ongg an'qov i lal halahs nuq.",
 						}, -- [14]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
-							["time"] = 1539811564,
+							["time"] = 1539811580,
 							["arg1"] = "Your husk serves a new master now.",
 						}, -- [15]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
-							["time"] = 1539811580,
-							["arg1"] = "Ywaq ongg an'qov i lal halahs nuq.",
-						}, -- [16]
-						{
-							["arg2"] = "G'huun",
-							["type"] = "MONSTER_WHISPER",
-							["time"] = 1539811580,
-							["arg1"] = "Your husk serves a new master now.",
-						}, -- [17]
-						{
-							["arg2"] = "G'huun",
-							["type"] = "MONSTER_YELL",
 							["time"] = 1539811590,
 							["arg1"] = "I ongg za ywaq qvsakf.",
-						}, -- [18]
+						}, -- [16]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539811590,
 							["arg1"] = "I feed on your terror!",
-						}, -- [19]
+						}, -- [17]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811604,
+							["arg1"] = "Ywaq mh'naus wgah zaix zyqtahg.",
+						}, -- [18]
+						{
+							["arg2"] = "G'huun",
+							["type"] = "MONSTER_WHISPER",
+							["time"] = 1539811604,
+							["arg1"] = "Your screams will echo forever!",
+						}, -- [19]
+						{
+							["arg2"] = "G'huun",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1539811616,
 							["arg1"] = "Ywaq mh'naus wgah zaix zyqtahg.",
 						}, -- [20]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
-							["time"] = 1539811604,
+							["time"] = 1539811616,
 							["arg1"] = "Your screams will echo forever!",
 						}, -- [21]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
-							["time"] = 1539811616,
-							["arg1"] = "Ywaq mh'naus wgah zaix zyqtahg.",
-						}, -- [22]
-						{
-							["arg2"] = "G'huun",
-							["type"] = "MONSTER_WHISPER",
-							["time"] = 1539811616,
-							["arg1"] = "Your screams will echo forever!",
-						}, -- [23]
-						{
-							["arg2"] = "G'huun",
-							["type"] = "MONSTER_YELL",
 							["time"] = 1539811623,
 							["arg1"] = "Za awtgsshu wgah uulg'ma ywaq zaix.",
-						}, -- [24]
+						}, -- [22]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539811623,
 							["arg1"] = "My whispers will liquefy your mind.",
-						}, -- [25]
+						}, -- [23]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811627,
 							["arg1"] = "Ywaq mh'naus wgah zaix zyqtahg.",
-						}, -- [26]
+						}, -- [24]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539811627,
 							["arg1"] = "Your screams will echo forever!",
-						}, -- [27]
+						}, -- [25]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811628,
 							["arg1"] = "Oou shath'yar lwhuk shn'ma yrr shandi agth fhssh.",
-						}, -- [28]
+						}, -- [26]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811736,
 							["arg1"] = "Oou gul'kafh lal lwhuk!",
-						}, -- [29]
+						}, -- [27]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539811736,
 							["arg1"] = "The outbreak has begun!",
-						}, -- [30]
+						}, -- [28]
 						{
 							["arg2"] = "MOTHER",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811747,
 							["arg1"] = "A new power matrix can now be collected.",
-						}, -- [31]
+						}, -- [29]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811766,
 							["arg1"] = "W'oq uhn'agth ez qam Shandai!",
-						}, -- [32]
+						}, -- [30]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539811766,
 							["arg1"] = "Come, servants of rot. Consume!",
-						}, -- [33]
+						}, -- [31]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811795,
 							["arg1"] = "Qam oou iilth ez i awtgsshu amun on'ma!",
-						}, -- [34]
+						}, -- [32]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539811795,
 							["arg1"] = "Let the feast of a thousand maws begin!",
-						}, -- [35]
+						}, -- [33]
 						{
 							["arg2"] = "MOTHER",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811796,
 							["arg1"] = "A new power matrix can now be collected.",
-						}, -- [36]
+						}, -- [34]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811823,
 							["arg1"] = "W'oq uhn'agth ez qam Shandai!",
-						}, -- [37]
+						}, -- [35]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539811823,
 							["arg1"] = "Come, servants of rot. Consume!",
-						}, -- [38]
+						}, -- [36]
 						{
 							["arg2"] = "MOTHER",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811843,
 							["arg1"] = "Attention. A new power matrix is available.",
-						}, -- [39]
+						}, -- [37]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811849,
 							["arg1"] = "W'oq uhn'agth ez qam Shandai!",
-						}, -- [40]
+						}, -- [38]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539811849,
 							["arg1"] = "Come, servants of rot. Consume!",
-						}, -- [41]
+						}, -- [39]
 						{
 							["arg2"] = "MOTHER",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811869,
 							["arg1"] = "Warning. Reorigination blast imminent. Please clear the area.",
-						}, -- [42]
+						}, -- [40]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811900,
 							["arg1"] = "Zuq ag'xig bormaz ag'thyzak!",
-						}, -- [43]
+						}, -- [41]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539811900,
 							["arg1"] = "You cannot escape infection!",
-						}, -- [44]
+						}, -- [42]
 						{
 							["arg2"] = "MOTHER",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811912,
 							["arg1"] = "A power matrix is ready for acquisition.",
-						}, -- [45]
+						}, -- [43]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811954,
 							["arg1"] = "Oou qam puul zyqtahg ywaq vorzz Qam ma shn'ma.",
-						}, -- [46]
+						}, -- [44]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539811954,
 							["arg1"] = "The rot runs through your veins. Let it spread.",
-						}, -- [47]
+						}, -- [45]
 						{
 							["arg2"] = "MOTHER",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811955,
 							["arg1"] = "A new power matrix can now be collected.",
-						}, -- [48]
+						}, -- [46]
 						{
 							["arg2"] = "MOTHER",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811998,
 							["arg1"] = "A power matrix is ready for acquisition.",
-						}, -- [49]
+						}, -- [47]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812002,
 							["arg1"] = "Ywaq zuq ywag shn'ma Bo'al za qwor.",
-						}, -- [50]
+						}, -- [48]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539812002,
 							["arg1"] = "Seek out your allies. Share my gift.",
-						}, -- [51]
+						}, -- [49]
 						{
 							["arg2"] = "MOTHER",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812025,
 							["arg1"] = "Alert. Reorgination blast sequence initiated. Please vacate the area.",
-						}, -- [52]
+						}, -- [50]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812054,
 							["arg1"] = "Oou vwahuHn ag'xig shfk zuq!",
-						}, -- [53]
+						}, -- [51]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539812054,
 							["arg1"] = "The titans cannot save you!",
-						}, -- [54]
+						}, -- [52]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812076,
 							["arg1"] = "Awtgssh shn ongg shg'ullwaq!",
-						}, -- [55]
+						}, -- [53]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539812076,
 							["arg1"] = "Nothing can stop my pestilence!",
-						}, -- [56]
+						}, -- [54]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812091,
 							["arg1"] = "Ywaq ongg an'qov i lal halahs nuq.",
-						}, -- [57]
+						}, -- [55]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539812091,
 							["arg1"] = "Your husk serves a new master now.",
-						}, -- [58]
+						}, -- [56]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812106,
+							["arg1"] = "Za awtgsshu wgah uulg'ma ywaq zaix.",
+						}, -- [57]
+						{
+							["arg2"] = "G'huun",
+							["type"] = "MONSTER_WHISPER",
+							["time"] = 1539812106,
+							["arg1"] = "My whispers will liquefy your mind.",
+						}, -- [58]
+						{
+							["arg2"] = "G'huun",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1539812138,
 							["arg1"] = "Za awtgsshu wgah uulg'ma ywaq zaix.",
 						}, -- [59]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
-							["time"] = 1539812106,
+							["time"] = 1539812138,
 							["arg1"] = "My whispers will liquefy your mind.",
 						}, -- [60]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
-							["time"] = 1539812138,
-							["arg1"] = "Za awtgsshu wgah uulg'ma ywaq zaix.",
+							["time"] = 1539812156,
+							["arg1"] = "Ywaq ongg an'qov i lal halahs nuq.",
 						}, -- [61]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
-							["time"] = 1539812138,
-							["arg1"] = "My whispers will liquefy your mind.",
+							["time"] = 1539812156,
+							["arg1"] = "Your husk serves a new master now.",
 						}, -- [62]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
-							["time"] = 1539812156,
+							["time"] = 1539812167,
 							["arg1"] = "Ywaq ongg an'qov i lal halahs nuq.",
 						}, -- [63]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
-							["time"] = 1539812156,
+							["time"] = 1539812167,
 							["arg1"] = "Your husk serves a new master now.",
 						}, -- [64]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
-							["time"] = 1539812167,
-							["arg1"] = "Ywaq ongg an'qov i lal halahs nuq.",
-						}, -- [65]
-						{
-							["arg2"] = "G'huun",
-							["type"] = "MONSTER_WHISPER",
-							["time"] = 1539812167,
-							["arg1"] = "Your husk serves a new master now.",
-						}, -- [66]
-						{
-							["arg2"] = "G'huun",
-							["type"] = "MONSTER_YELL",
 							["time"] = 1539812171,
 							["arg1"] = "I ongg za ywaq qvsakf.",
-						}, -- [67]
+						}, -- [65]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539812171,
 							["arg1"] = "I feed on your terror!",
-						}, -- [68]
+						}, -- [66]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1539812172,
 							["arg1"] = "The contagion... has taken root within you...",
-						}, -- [69]
+						}, -- [67]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812173,
 							["arg1"] = "Oou thyzz lal ak'uq qwaz Zuq shkul ma sk'tek...",
-						}, -- [70]
+						}, -- [68]
 						{
 							["arg2"] = "Princess Talanji",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812757,
 							["arg1"] = "Behold de blood of G'huun. By his will were borne de deaths of Shadra, Hi'reek, Torga, and ...and Rezan.",
-						}, -- [71]
+						}, -- [69]
 						{
 							["arg2"] = "Princess Talanji",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812770,
 							["arg1"] = "By his will were borne de deaths of so many of our brothers and sisters.",
-						}, -- [72]
+						}, -- [70]
 						{
 							["arg2"] = "Princess Talanji",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812779,
 							["arg1"] = "Let dis glaive be displayed as a reminder dat no matter how far we fall, no matter how much we lose, we are Zandalari!\nWe adapt, we find a way to survive!",
-						}, -- [73]
+						}, -- [71]
 						{
 							["arg2"] = "Princess Talanji",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812797,
 							["arg1"] = "If it were not for dis hero of de Horde, our losses would have been far worse.\nDis proves, more than ever, dat it is time for us to adapt, to become part of de world again.",
-						}, -- [74]
+						}, -- [72]
 						{
 							["arg2"] = "Princess Talanji",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812814,
 							["arg1"] = "Zandalar forever!",
+						}, -- [73]
+						{
+							["arg1"] = " ",
+						}, -- [74]
+						{
+							["arg1"] = " ",
 						}, -- [75]
 						{
-							["arg1"] = " ",
-						}, -- [76]
-						{
-							["arg1"] = " ",
-						}, -- [77]
-						{
-							["arg1"] = "Logging started on 10/26/2018 at 12:56:45.",
 							["type"] = "SYSTEM",
-						}, -- [78]
+							["arg1"] = "Logging started on 10/26/2018 at 12:56:45.",
+						}, -- [76]
 						{
 							["arg2"] = "Warlord Zakgra",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551703,
 							["arg1"] = "This way! A glorious battle awaits!",
-						}, -- [79]
+						}, -- [77]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551715,
 							["arg1"] = "Years ago, all of dis land belonged to da trolls.",
-						}, -- [80]
+						}, -- [78]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551720,
 							["arg1"] = "Today, it belongs to da Horde!",
-						}, -- [81]
+						}, -- [79]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551742,
 							["arg1"] = "Shadows consume you.",
-						}, -- [82]
+						}, -- [80]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551769,
 							["arg1"] = "Da hunt begins!",
-						}, -- [83]
+						}, -- [81]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551769,
 							["arg1"] = "Ah, victory! It taste sweet, mon!",
-						}, -- [84]
+						}, -- [82]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551850,
 							["arg1"] = "Good. We gonna use da lumber from Hatchet Ridge ta build our stronghold.",
-						}, -- [85]
+						}, -- [83]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551864,
 							["arg1"] = "Drywhisker Mine belongs to da Horde.",
-						}, -- [86]
+						}, -- [84]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551949,
 							["arg1"] = "Da stronghold be needin' reinforcement. Hold dem forces back before dey get too close!",
-						}, -- [87]
+						}, -- [85]
 						{
 							["arg2"] = "Throk",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551953,
 							["arg1"] = "See me at the Barracks when you're ready to train our army.",
-						}, -- [88]
+						}, -- [86]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551975,
 							["arg1"] = "Da Altar o' Storms be ready.",
-						}, -- [89]
+						}, -- [87]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552004,
 							["arg1"] = "Armory be good ta go, mon.",
-						}, -- [90]
+						}, -- [88]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552008,
 							["arg1"] = "Watch da shadows, Alliance scum. Da Horde be comin' for you...",
-						}, -- [91]
+						}, -- [89]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552112,
 							["arg1"] = "We be upgradin' da Great Hall to a Stronghold.",
-						}, -- [92]
+						}, -- [90]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552147,
 							["arg1"] = "Newstead be ours... an' wit' it, da wolf riders.",
-						}, -- [93]
+						}, -- [91]
 						{
 							["arg2"] = "Raider Zugg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552153,
 							["arg1"] = "Secure the area!",
-						}, -- [94]
+						}, -- [92]
 						{
 							["arg2"] = "Gwyndra Wildhammer",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552241,
 							["arg1"] = "The skies... call.",
-						}, -- [95]
+						}, -- [93]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552271,
 							["arg1"] = "Hold the Perch and the skies are ours!",
-						}, -- [96]
+						}, -- [94]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552272,
 							["arg1"] = "High Perch be ours, Turalyon. Da shadows draw closer...",
-						}, -- [97]
+						}, -- [95]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552275,
 							["arg1"] = "Let them try and break our defenses!",
-						}, -- [98]
+						}, -- [96]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552278,
 							["arg1"] = "Yet the Light still shines over Stromgarde.",
-						}, -- [99]
+						}, -- [97]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552297,
 							["arg1"] = "Da Workshop be done. Our demolishers gonna make quick work o' da Alliance walls!",
-						}, -- [100]
+						}, -- [98]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552456,
 							["arg1"] = "Da Circle of Elements be under da Horde's control now.",
-						}, -- [101]
+						}, -- [99]
 						{
 							["arg2"] = "Wistel Silversnitch",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552544,
 							["arg1"] = "The Motherlode is safe and sound. Come grab your share!",
-						}, -- [102]
+						}, -- [100]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552562,
 							["arg1"] = "Da Stronghold be a Fortress now!",
-						}, -- [103]
+						}, -- [101]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552579,
 							["arg1"] = "Send in da demolishers! No Light gonna protect dat paladin from da might of da Horde!",
-						}, -- [104]
+						}, -- [102]
 						{
 							["arg2"] = "Warbringer Kro'goth",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552580,
 							["arg1"] = "Hold your ground! If anything moves, kill it!",
-						}, -- [105]
+						}, -- [103]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552587,
 							["arg1"] = "Light will always defeat Shadow, Rokhan. Defenders, forward!",
-						}, -- [106]
+						}, -- [104]
 						{
 							["arg2"] = "Nied",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552662,
 							["arg1"] = "I, Gamon, will save us!",
 							["clColor"] = "ffff7c0a",
-						}, -- [107]
+						}, -- [105]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552764,
 							["arg1"] = "Da gate be down! Storm da fortress!",
-						}, -- [108]
+						}, -- [106]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552824,
 							["arg1"] = "For the Light!",
-						}, -- [109]
+						}, -- [107]
 						{
 							["arg2"] = "Teldrasil",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1540552829,
 							["arg1"] = "I should return to the Altar. This Essence is worthy of investigation.",
 							["clColor"] = "ffff7c0a",
-						}, -- [110]
+						}, -- [108]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552832,
 							["arg1"] = "By the Light, be purged!",
-						}, -- [111]
+						}, -- [109]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552836,
 							["arg1"] = "Scurry from the Light, vermin!",
-						}, -- [112]
+						}, -- [110]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552873,
 							["arg1"] = "For da Horde!",
-						}, -- [113]
+						}, -- [111]
 						{
 							["arg2"] = "Tally Zapnabber",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540553170,
 							["arg1"] = "Oh, I... I'm... Not sure we should be doing this!",
-						}, -- [114]
+						}, -- [112]
 						{
 							["arg2"] = "Nettlevine Sprite",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540553188,
 							["arg1"] = "Come and play with us!",
-						}, -- [115]
+						}, -- [113]
 						{
 							["arg2"] = "Dizzy Dina",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540553206,
 							["arg1"] = "Hostiles on the move.",
-						}, -- [116]
+						}, -- [114]
 						{
 							["arg2"] = "Gimzy Trickelbank",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540553246,
 							["arg1"] = "You there! You gotta help me out, hon! I'm all alone here, desperate, you know?",
-						}, -- [117]
+						}, -- [115]
 						{
 							["arg2"] = "Gimzy Trickelbank",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540553288,
 							["arg1"] = "You there! You gotta help me out, hon! I'm all alone here, desperate, you know?",
-						}, -- [118]
+						}, -- [116]
 						{
 							["arg2"] = "Vizio the Cartographer",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540553384,
 							["arg1"] = "How droll, I've mapped myself into a corner!",
-						}, -- [119]
+						}, -- [117]
 						{
 							["arg2"] = "Warlord Zakgra",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540555668,
 							["arg1"] = "This way! A glorious battle awaits!",
-						}, -- [120]
+						}, -- [118]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540555680,
 							["arg1"] = "Years ago, all of dis land belonged to da trolls.",
-						}, -- [121]
+						}, -- [119]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540555686,
 							["arg1"] = "Today, it belongs to da Horde!",
-						}, -- [122]
+						}, -- [120]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540555851,
 							["arg1"] = "Drywhisker Mine belongs to da Horde.",
-						}, -- [123]
+						}, -- [121]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540555859,
 							["arg1"] = "Good. We gonna use da lumber from Hatchet Ridge ta build our stronghold.",
-						}, -- [124]
+						}, -- [122]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540555938,
 							["arg1"] = "Da barracks be ready. Dis war gonna be won on da backs o' da grunts.",
-						}, -- [125]
+						}, -- [123]
 						{
 							["arg2"] = "Throk",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540555938,
 							["arg1"] = "We'll need reinforcements to win this war.",
-						}, -- [126]
+						}, -- [124]
 						{
 							["arg2"] = "Throk",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540555951,
 							["arg1"] = "See me at the Barracks when you're ready to train our army.",
-						}, -- [127]
+						}, -- [125]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556036,
 							["arg1"] = "Da stronghold be needin' reinforcement. Hold dem forces back before dey get too close!",
-						}, -- [128]
+						}, -- [126]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556060,
 							["arg1"] = "Armory be good ta go, mon.",
-						}, -- [129]
+						}, -- [127]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556078,
 							["arg1"] = "Da Altar o' Storms be ready.",
-						}, -- [130]
+						}, -- [128]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556098,
 							["arg1"] = "Watch da shadows, Alliance scum. Da Horde be comin' for you...",
-						}, -- [131]
+						}, -- [129]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556136,
 							["arg1"] = "We be upgradin' da Great Hall to a Stronghold.",
-						}, -- [132]
+						}, -- [130]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556271,
 							["arg1"] = "Da Workshop be done. Our demolishers gonna make quick work o' da Alliance walls!",
-						}, -- [133]
+						}, -- [131]
 						{
 							["arg2"] = "Gwyndra Wildhammer",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556283,
 							["arg1"] = "The skies... call.",
-						}, -- [134]
+						}, -- [132]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556295,
 							["arg1"] = "Hold the Perch and the skies are ours!",
-						}, -- [135]
+						}, -- [133]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556295,
 							["arg1"] = "High Perch be ours, Turalyon. Da shadows draw closer...",
-						}, -- [136]
+						}, -- [134]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556299,
 							["arg1"] = "Let them try and break our defenses!",
-						}, -- [137]
+						}, -- [135]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556302,
 							["arg1"] = "Yet the Light still shines over Stromgarde.",
-						}, -- [138]
+						}, -- [136]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556556,
 							["arg1"] = "Newstead be ours... an' wit' it, da wolf riders.",
-						}, -- [139]
+						}, -- [137]
 						{
 							["arg2"] = "Raider Zugg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556575,
 							["arg1"] = "Secure the area!",
-						}, -- [140]
+						}, -- [138]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556586,
 							["arg1"] = "Da Circle of Elements be under da Horde's control now.",
-						}, -- [141]
+						}, -- [139]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556638,
 							["arg1"] = "Da Stronghold be a Fortress now!",
-						}, -- [142]
+						}, -- [140]
 						{
 							["arg2"] = "Gwyndra Wildhammer",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556755,
 							["arg1"] = "The skies... call.",
-						}, -- [143]
+						}, -- [141]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556764,
 							["arg1"] = "Hold the Perch and the skies are ours!",
-						}, -- [144]
+						}, -- [142]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556768,
 							["arg1"] = "Let them try and break our defenses!",
-						}, -- [145]
+						}, -- [143]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556848,
 							["arg1"] = "Send in da demolishers! No Light gonna protect dat paladin from da might of da Horde!",
-						}, -- [146]
+						}, -- [144]
 						{
 							["arg2"] = "Warbringer Kro'goth",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556851,
 							["arg1"] = "Hold your ground! If anything moves, kill it!",
-						}, -- [147]
+						}, -- [145]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556857,
 							["arg1"] = "Light will always defeat Shadow, Rokhan. Defenders, forward!",
-						}, -- [148]
+						}, -- [146]
 						{
 							["arg2"] = "Horde Grunt",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556949,
 							["arg1"] = "Blood and honor!",
-						}, -- [149]
+						}, -- [147]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540557047,
 							["arg1"] = "Da gate be down! Storm da fortress!",
-						}, -- [150]
+						}, -- [148]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540557093,
 							["arg1"] = "For the Light!",
-						}, -- [151]
+						}, -- [149]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540557103,
 							["arg1"] = "By the Light's might!",
-						}, -- [152]
+						}, -- [150]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540557115,
 							["arg1"] = "By the Light, be purged!",
-						}, -- [153]
+						}, -- [151]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540557131,
 							["arg1"] = "By the Light, be purged!",
-						}, -- [154]
+						}, -- [152]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540557137,
 							["arg1"] = "Stromgarde may be lost, but the Alliance will never fall.",
-						}, -- [155]
+						}, -- [153]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540557137,
 							["arg1"] = "For da Horde!",
+						}, -- [154]
+						{
+							["arg1"] = " ",
+						}, -- [155]
+						{
+							["arg1"] = " ",
 						}, -- [156]
 						{
-							["arg1"] = " ",
-						}, -- [157]
-						{
-							["arg1"] = " ",
-						}, -- [158]
-						{
-							["arg1"] = "Logging started on 10/27/2018 at 13:29:02.",
 							["type"] = "SYSTEM",
-						}, -- [159]
+							["arg1"] = "Logging started on 10/27/2018 at 13:29:02.",
+						}, -- [157]
 						{
 							["arg2"] = "Yuke",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540640255,
 							["arg1"] = "Everyone at the academy is going to make fun of me for this! Oh, Yuke, you're so clumsy!",
-						}, -- [160]
+						}, -- [158]
 						{
 							["arg2"] = "Fenrae the Cunning",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540640306,
 							["arg1"] = "Go for their throats!",
-						}, -- [161]
+						}, -- [159]
 						{
 							["arg2"] = "Gunnolf the Ferocious",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540640325,
 							["arg1"] = "I can smell your fear.",
-						}, -- [162]
+						}, -- [160]
 						{
 							["arg2"] = "Raul the Tenacious",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540640382,
 							["arg1"] = "*Laughs* Just run for it, Hordies. We won't chase you!",
-						}, -- [163]
+						}, -- [161]
 						{
 							["arg2"] = "Mischievous Flood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540640474,
 							["arg1"] = "Got you!",
-						}, -- [164]
+						}, -- [162]
 						{
 							["arg2"] = "Grezla Bloodfury",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540641974,
 							["arg1"] = "Hold the line! Nothing gets through!",
-						}, -- [165]
+						}, -- [163]
 						{
 							["arg2"] = "Gwyndra Wildhammer",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642031,
 							["arg1"] = "The skies... call.",
-						}, -- [166]
+						}, -- [164]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642042,
 							["arg1"] = "Hold the Perch and the skies are ours!",
-						}, -- [167]
+						}, -- [165]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642042,
 							["arg1"] = "High Perch be ours, Turalyon. Da shadows draw closer...",
-						}, -- [168]
+						}, -- [166]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642046,
 							["arg1"] = "Let them try and break our defenses!",
-						}, -- [169]
+						}, -- [167]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642049,
 							["arg1"] = "Yet the Light still shines over Stromgarde.",
-						}, -- [170]
+						}, -- [168]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642081,
 							["arg1"] = "Newstead be ours... an' wit' it, da wolf riders.",
-						}, -- [171]
+						}, -- [169]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642259,
 							["arg1"] = "Da Circle of Elements be under da Horde's control now.",
-						}, -- [172]
+						}, -- [170]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642276,
 							["arg1"] = "Send in da demolishers! No Light gonna protect dat paladin from da might of da Horde!",
-						}, -- [173]
+						}, -- [171]
 						{
 							["arg2"] = "Warbringer Kro'goth",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642278,
 							["arg1"] = "Hold your ground! If anything moves, kill it!",
-						}, -- [174]
+						}, -- [172]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642285,
 							["arg1"] = "Light will always defeat Shadow, Rokhan. Defenders, forward!",
-						}, -- [175]
+						}, -- [173]
 						{
 							["arg2"] = "Darkspear Shadow Hunter",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642375,
 							["arg1"] = "This way! To battle!",
-						}, -- [176]
+						}, -- [174]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642451,
 							["arg1"] = "Da gate be down! Storm da fortress!",
-						}, -- [177]
+						}, -- [175]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642511,
 							["arg1"] = "For the Light!",
-						}, -- [178]
+						}, -- [176]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642518,
 							["arg1"] = "Let the Light cleanse you!",
-						}, -- [179]
+						}, -- [177]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642597,
 							["arg1"] = "By the Light, be purged!",
-						}, -- [180]
+						}, -- [178]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642602,
 							["arg1"] = "Stromgarde may be lost, but the Alliance will never fall.",
-						}, -- [181]
+						}, -- [179]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642602,
 							["arg1"] = "For da Horde!",
-						}, -- [182]
+						}, -- [180]
 						{
 							["arg2"] = "Hmello-ArgentDawn",
 							["type"] = "PARTY",
 							["time"] = 1540642872,
 							["arg1"] = "I already did the quest, you need help?",
 							["clColor"] = "ff0070dd",
+						}, -- [181]
+						{
+							["arg1"] = " ",
+						}, -- [182]
+						{
+							["arg1"] = " ",
 						}, -- [183]
 						{
-							["arg1"] = " ",
-						}, -- [184]
-						{
-							["arg1"] = " ",
-						}, -- [185]
-						{
-							["arg1"] = "Logging started on 11/01/2018 at 08:52:29.",
 							["type"] = "SYSTEM",
-						}, -- [186]
+							["arg1"] = "Logging started on 11/01/2018 at 08:52:29.",
+						}, -- [184]
 						{
 							["arg2"] = "Tally Zapnabber",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541059216,
 							["arg1"] = "Oh, I... I'm... Not sure we should be doing this!",
-						}, -- [187]
+						}, -- [185]
 						{
 							["arg2"] = "Dizzy Dina",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541059511,
 							["arg1"] = "Hostiles on the move.",
-						}, -- [188]
+						}, -- [186]
 						{
 							["arg2"] = "Razak Ironsides",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541059539,
 							["arg1"] = "They've taken out my mechanostrider! Fall back!",
-						}, -- [189]
+						}, -- [187]
 						{
 							["arg2"] = "Tally Zapnabber",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541059562,
 							["arg1"] = "Oh, I... I'm... Not sure we should be doing this!",
-						}, -- [190]
+						}, -- [188]
 						{
 							["arg2"] = "Fenrae the Cunning",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541061794,
 							["arg1"] = "Go for their throats!",
-						}, -- [191]
+						}, -- [189]
 						{
 							["arg2"] = "Raul the Tenacious",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541061804,
 							["arg1"] = "Someone's gotta lick your wounds.",
-						}, -- [192]
+						}, -- [190]
 						{
 							["arg2"] = "Unleashed Tidebreaker",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541064793,
 							["arg1"] = "The tides shall swallow you whole!",
-						}, -- [193]
+						}, -- [191]
 						{
 							["arg2"] = "General Cadarin",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541065061,
 							["arg1"] = "Show your face, Horde scum! We have a friend of yours.",
-						}, -- [194]
+						}, -- [192]
 						{
 							["arg2"] = "Greeb Ramrocket",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541065564,
 							["arg1"] = "The zeppelin to Warsong Hold has just arrived! All aboard for Borean Tundra!",
+						}, -- [193]
+						{
+							["arg1"] = " ",
+						}, -- [194]
+						{
+							["arg1"] = " ",
 						}, -- [195]
 						{
-							["arg1"] = " ",
-						}, -- [196]
-						{
-							["arg1"] = " ",
-						}, -- [197]
-						{
-							["arg1"] = "Logging started on 06/30/2019 at 15:20:19.",
 							["type"] = "SYSTEM",
-						}, -- [198]
+							["arg1"] = "Logging started on 06/30/2019 at 15:20:19.",
+						}, -- [196]
 						{
 							["arg2"] = "Greeb Ramrocket",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561900888,
 							["arg1"] = "The zeppelin to Warsong Hold has just arrived! All aboard for Borean Tundra!",
-						}, -- [199]
+						}, -- [197]
 						{
 							["arg2"] = "Warlord Zakgra",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901658,
 							["arg1"] = "This way! A glorious battle awaits!",
-						}, -- [200]
+						}, -- [198]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901670,
 							["arg1"] = "Years ago, all of dis land belonged to da trolls.",
-						}, -- [201]
+						}, -- [199]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901675,
 							["arg1"] = "Today, it belongs to da Horde!",
-						}, -- [202]
+						}, -- [200]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901682,
 							["arg1"] = "Shadows consume you.",
-						}, -- [203]
+						}, -- [201]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901697,
 							["arg1"] = "Ah, victory! It taste sweet, mon!",
-						}, -- [204]
+						}, -- [202]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901789,
 							["arg1"] = "Good. We gonna use da lumber from Hatchet Ridge ta build our stronghold.",
-						}, -- [205]
+						}, -- [203]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901797,
 							["arg1"] = "Drywhisker Mine belongs to da Horde.",
-						}, -- [206]
+						}, -- [204]
 						{
 							["arg2"] = "Throk",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901863,
 							["arg1"] = "We'll need reinforcements to win this war.",
-						}, -- [207]
+						}, -- [205]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901863,
 							["arg1"] = "Da barracks be ready. Dis war gonna be won on da backs o' da grunts.",
-						}, -- [208]
+						}, -- [206]
 						{
 							["arg2"] = "Throk",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901877,
 							["arg1"] = "See me at the Barracks when you're ready to train our army.",
-						}, -- [209]
+						}, -- [207]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901895,
 							["arg1"] = "Watch da shadows, Alliance scum. Da Horde be comin' for you...",
-						}, -- [210]
+						}, -- [208]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901913,
 							["arg1"] = "Da stronghold be needin' reinforcement. Hold dem forces back before dey get too close!",
-						}, -- [211]
+						}, -- [209]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901944,
 							["arg1"] = "Armory be good ta go, mon.",
-						}, -- [212]
+						}, -- [210]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902019,
 							["arg1"] = "Newstead be ours... an' wit' it, da wolf riders.",
-						}, -- [213]
+						}, -- [211]
 						{
 							["arg2"] = "Gwyndra Wildhammer",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902047,
 							["arg1"] = "The skies... call.",
-						}, -- [214]
+						}, -- [212]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902063,
 							["arg1"] = "Hold the Perch and the skies are ours!",
-						}, -- [215]
+						}, -- [213]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902064,
 							["arg1"] = "High Perch be ours, Turalyon. Da shadows draw closer...",
-						}, -- [216]
+						}, -- [214]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902067,
 							["arg1"] = "Let them try and break our defenses!",
-						}, -- [217]
+						}, -- [215]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902070,
 							["arg1"] = "Yet the Light still shines over Stromgarde.",
-						}, -- [218]
+						}, -- [216]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902109,
 							["arg1"] = "Da Altar o' Storms be ready.",
-						}, -- [219]
+						}, -- [217]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902193,
 							["arg1"] = "Da Circle of Elements be under da Horde's control now.",
-						}, -- [220]
+						}, -- [218]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902208,
 							["arg1"] = "We be upgradin' da Great Hall to a Stronghold.",
-						}, -- [221]
+						}, -- [219]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902343,
 							["arg1"] = "Da Workshop be done. Our demolishers gonna make quick work o' da Alliance walls!",
-						}, -- [222]
+						}, -- [220]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902480,
 							["arg1"] = "Da Stronghold be a Fortress now!",
-						}, -- [223]
+						}, -- [221]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902507,
 							["arg1"] = "Send in da demolishers! No Light gonna protect dat paladin from da might of da Horde!",
-						}, -- [224]
+						}, -- [222]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902515,
 							["arg1"] = "Light will always defeat Shadow, Rokhan. Defenders, forward!",
-						}, -- [225]
+						}, -- [223]
 						{
 							["arg2"] = "Warbringer Kro'goth",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902519,
 							["arg1"] = "Hold your ground! If anything moves, kill it!",
-						}, -- [226]
+						}, -- [224]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902685,
 							["arg1"] = "Da gate be down! Storm da fortress!",
-						}, -- [227]
+						}, -- [225]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902721,
 							["arg1"] = "For the Light!",
-						}, -- [228]
+						}, -- [226]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902751,
 							["arg1"] = "Stromgarde may be lost, but the Alliance will never fall.",
-						}, -- [229]
+						}, -- [227]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905465,
 							["arg1"] = "The essence... belongs to the earth.",
-						}, -- [230]
+						}, -- [228]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905559,
 							["arg1"] = "The earth rages against you. How can you protect it?",
-						}, -- [231]
+						}, -- [229]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905690,
 							["arg1"] = "The earth will break you!",
-						}, -- [232]
+						}, -- [230]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905748,
 							["arg1"] = "The earth will break you!",
-						}, -- [233]
+						}, -- [231]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905768,
 							["arg1"] = "The earth will break you!",
-						}, -- [234]
+						}, -- [232]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905788,
 							["arg1"] = "The earth will break you!",
-						}, -- [235]
+						}, -- [233]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905805,
 							["arg1"] = "The earth will break you!",
-						}, -- [236]
+						}, -- [234]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905821,
 							["arg1"] = "Enough... I yield. You... are worthy.",
-						}, -- [237]
+						}, -- [235]
 						{
 							["arg2"] = "Navarrogg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905849,
 							["arg1"] = "Up here! I have prepared an exit for you.",
-						}, -- [238]
+						}, -- [236]
 						{
 							["arg2"] = "Mortiferous",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561906240,
 							["arg1"] = "Your titan gods have abandoned you. Lay down your arms. There is no hope left.",
-						}, -- [239]
+						}, -- [237]
 						{
 							["arg2"] = "Mortiferous",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561906376,
 							["arg1"] = "Salt the earth. Boil their seas. Drive them before you!",
-						}, -- [240]
+						}, -- [238]
 						{
 							["arg2"] = "Mortiferous",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561906669,
 							["arg1"] = "Too late, \"heroes\". Your world is lost.",
-						}, -- [241]
+						}, -- [239]
 						{
 							["arg2"] = "Mortiferous",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561906867,
 							["arg1"] = "Too late, \"heroes\". Your world is lost.",
-						}, -- [242]
+						}, -- [240]
 						{
 							["arg2"] = "Mortiferous",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561907042,
 							["arg1"] = "Your titan gods have abandoned you. Lay down your arms. There is no hope left.",
+						}, -- [241]
+						{
+							["arg1"] = " ",
+						}, -- [242]
+						{
+							["arg1"] = " ",
 						}, -- [243]
 						{
-							["arg1"] = " ",
-						}, -- [244]
-						{
-							["arg1"] = " ",
-						}, -- [245]
-						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 08/04/2019 at 14:56:08.",
-						}, -- [246]
+							["type"] = "SYSTEM",
+						}, -- [244]
 						{
 							["arg2"] = "Mortiferous",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1564923593,
 							["arg1"] = "Too late, \"heroes\". Your world is lost.",
+						}, -- [245]
+						{
+							["arg1"] = " ",
+						}, -- [246]
+						{
+							["arg1"] = " ",
 						}, -- [247]
 						{
-							["arg1"] = " ",
+							["arg1"] = "Logging started on 11/29/2020 at 13:23:00.",
+							["type"] = "SYSTEM",
 						}, -- [248]
 						{
-							["arg1"] = " ",
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1606654276,
+							["arg1"] = "Knights, secure the cave! We'll hold off these fiends.",
 						}, -- [249]
 						{
-							["arg1"] = "Logging started on 11/20/2019 at 09:39:06.",
-							["type"] = "SYSTEM",
+							["arg2"] = "Thrall",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1606654314,
+							["arg1"] = "Another ambush! Bring them down!",
 						}, -- [250]
 					},
 				}, -- [3]
 				{
 					["enabled"] = true,
-					["hasMessage"] = false,
+					["hasMessage"] = true,
 					["name"] = "Say",
 					["logs"] = {
-						{
-							["arg2"] = "Magni Bronzebeard",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541060496,
-							["arg1"] = "Such a shame... puttin' their own greed afore the health o' Azeroth. Thank ye, champion.",
-						}, -- [1]
-						{
-							["arg2"] = "Bladeguard Kaja",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541060620,
-							["arg1"] = "Dere's something very dangerous lurking here. You need to kill it before it kills you.",
-						}, -- [2]
-						{
-							["arg2"] = "Bladeguard Kaja",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541060659,
-							["arg1"] = "I've received reports of a nearby threat. Take it out as soon as possible!",
-						}, -- [3]
-						{
-							["arg2"] = "Warlord Zothix",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541060662,
-							["arg1"] = "The temple must fall! We will slaughter any who stand in our way.",
-						}, -- [4]
-						{
-							["arg2"] = "Warlord Zothix",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541060694,
-							["arg1"] = "You cannot stop... the sands...",
-						}, -- [5]
-						{
-							["arg2"] = "Bladeguard Kaja",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541060695,
-							["arg1"] = "Dat was quite a challenge, but you fought well. Keep up de good work!",
-						}, -- [6]
-						{
-							["arg2"] = "Faithless Warbringer",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541060847,
-							["arg1"] = "This is not... the end...",
-						}, -- [7]
-						{
-							["arg2"] = "Vorrik",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541060854,
-							["arg1"] = "There is a dangerous creature nearby. You must strike it down before it harms more innocents.",
-						}, -- [8]
-						{
-							["arg2"] = "Faithless Bonepicker",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541060858,
-							["arg1"] = "For the glory of the sethrak empire!",
-						}, -- [9]
-						{
-							["arg2"] = "Faithless Bonepicker",
-							["type"] = "MONSTER_EMOTE",
-							["time"] = 1541060863,
-							["arg1"] = "Faithless Bonepicker coats their claws with venom!",
-						}, -- [10]
-						{
-							["arg2"] = "Temple Defender",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541060873,
-							["arg1"] = "You have no idea what they've put us through...",
-						}, -- [11]
-						{
-							["arg2"] = "Faithless Bonepicker",
-							["type"] = "MONSTER_EMOTE",
-							["time"] = 1541060902,
-							["arg1"] = "Faithless Bonepicker coats their claws with venom!",
-						}, -- [12]
-						{
-							["arg2"] = "Temple Defender",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541060909,
-							["arg1"] = "The Faithless must be stopped!",
-						}, -- [13]
-						{
-							["arg2"] = "Vorrik",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541060915,
-							["arg1"] = "There is a dangerous creature nearby. You must strike it down before it harms more innocents.",
-						}, -- [14]
-						{
-							["arg2"] = "Temple Defender",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541060931,
-							["arg1"] = "Avenge those of us who could not be saved.",
-						}, -- [15]
-						{
-							["arg2"] = "Faithless Warbringer",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541060939,
-							["arg1"] = "We will eradicate you like insects!",
-						}, -- [16]
-						{
-							["arg2"] = "Faithless Bonepicker",
-							["type"] = "MONSTER_EMOTE",
-							["time"] = 1541060945,
-							["arg1"] = "Faithless Bonepicker coats their claws with venom!",
-						}, -- [17]
-						{
-							["arg2"] = "Faithless Warbringer",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541060956,
-							["arg1"] = "We will not... be stopped...",
-						}, -- [18]
-						{
-							["arg2"] = "Warbringer Hozzik",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541060965,
-							["arg1"] = "We cannot... be stopped...",
-						}, -- [19]
-						{
-							["arg2"] = "Vorrik",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541060965,
-							["arg1"] = "Thank you for your aid. The desert is a safer place thanks to your efforts.",
-						}, -- [20]
-						{
-							["arg2"] = "Faithless Bonepicker",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541061054,
-							["arg1"] = "Our empire's dawn is your extinction!",
-						}, -- [21]
-						{
-							["arg2"] = "Faithless Bonepicker",
-							["type"] = "MONSTER_EMOTE",
-							["time"] = 1541061059,
-							["arg1"] = "Faithless Bonepicker coats their claws with venom!",
-						}, -- [22]
-						{
-							["arg2"] = "Temple Defender",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541061082,
-							["arg1"] = "Avenge those of us who could not be saved.",
-						}, -- [23]
-						{
-							["arg2"] = "Provisioner Burg",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541061648,
-							["arg1"] = "Lok'tar! I have trade supplies from Orgrimmar.",
-						}, -- [24]
-						{
-							["arg2"] = "Captain Rez'okun",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541061682,
-							["arg1"] = "We are here. Clear skies, great day for some exploring.",
-						}, -- [25]
-						{
-							["arg2"] = "Gunnolf the Ferocious",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541061712,
-							["arg1"] = "The Horde! We'll run them down. Let the hunt begin! *howls*",
-						}, -- [26]
-						{
-							["arg2"] = "Gunnolf the Ferocious",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541061815,
-							["arg1"] = "You can't keep... the big dog down...",
-						}, -- [27]
-						{
-							["arg2"] = "Raul the Tenacious",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541061830,
-							["arg1"] = "Finally... time for a nap...",
-						}, -- [28]
-						{
-							["arg2"] = "Wavebreaker",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541061877,
-							["arg1"] = "Your future... is doomed...",
-						}, -- [29]
-						{
-							["arg2"] = "Captain Rez'okun",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541061925,
-							["arg1"] = "Ay, we have got a lot of Azerite over here. You had best check it out.",
-						}, -- [30]
-						{
-							["arg2"] = "Captain Rez'okun",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541061999,
-							["arg1"] = "De hull is half full. Keep it up and we will be done in no time!",
-						}, -- [31]
-						{
-							["arg2"] = "Raul the Tenacious",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541062063,
-							["arg1"] = "Nap time!",
-						}, -- [32]
-						{
-							["arg2"] = "Captain Rez'okun",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541062164,
-							["arg1"] = "De hull is nearly full. Just a bit more and we will be done.",
-						}, -- [33]
-						{
-							["arg2"] = "Duskstalker Kuli",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541062230,
-							["arg1"] = "I can see... da ancestors...",
-						}, -- [34]
-						{
-							["arg2"] = "Captain Rez'okun",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541062230,
-							["arg1"] = "Nice job out dere today! You showed dem, ah ha ha!",
-						}, -- [35]
-						{
-							["arg2"] = "Princess Talanji",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541062347,
-							["arg1"] = "De sirens have ensnared another Kul Tiran supply ship. Search de wreckage for anything we can use... but be careful not to end up like de crew!",
-						}, -- [36]
-						{
-							["arg2"] = "Charmed Sailor",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541062377,
-							["arg1"] = "Ach, I'm going to have that song stuck in my head all day.",
-						}, -- [37]
-						{
-							["arg2"] = "Charmed Sailor",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541062422,
-							["arg1"] = "Thank you, hero!",
-						}, -- [38]
-						{
-							["arg2"] = "Charmed Sailor",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541062477,
-							["arg1"] = "Thank you, hero!",
-						}, -- [39]
-						{
-							["arg2"] = "Charmed Sailor",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541062483,
-							["arg1"] = "That is one shanty I'll never want to hear again!",
-						}, -- [40]
-						{
-							["arg2"] = "Charmed Sailor",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541062483,
-							["arg1"] = "That is one shanty I'll never want to hear again!",
-						}, -- [41]
-						{
-							["arg2"] = "Princess Talanji",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541062566,
-							["arg1"] = "All sailors fear de siren's call. But some do not fear it enough.",
-						}, -- [42]
-						{
-							["arg2"] = "Princess Talanji",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541062627,
-							["arg1"] = "Your Horde's scouts have reported a formidable enemy nearby. I agree with their proposal on how to deal with it: a swift killing.",
-						}, -- [43]
-						{
-							["arg2"] = "Princess Talanji",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541062675,
-							["arg1"] = "Both our peoples will be safe, thanks to you.",
-						}, -- [44]
-						{
-							["arg2"] = "Princess Talanji",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541062757,
-							["arg1"] = "We must know what dese pirates are planning. Intercept their orders... no matter what it takes.",
-						}, -- [45]
-						{
-							["arg2"] = "Princess Talanji",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541062775,
-							["arg1"] = "We must know what dese pirates are planning. Intercept their orders... no matter what it takes.",
-						}, -- [46]
-						{
-							["arg2"] = "Princess Talanji",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541062876,
-							["arg1"] = "It is in our best interests to keep dese pirates out of de waters. You have my thanks, champion.",
-						}, -- [47]
-						{
-							["arg2"] = "Princess Talanji",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541062901,
-							["arg1"] = "Watch your step. There is a dangerous foe close to you. We need it slain before it causes any more trouble.",
-						}, -- [48]
-						{
-							["arg2"] = "Princess Talanji",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541062944,
-							["arg1"] = "Our efforts can continue with de death of dat enemy.",
-						}, -- [49]
-						{
-							["arg2"] = "Magni Bronzebeard",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541063348,
-							["arg1"] = "Some earth elementals have been infused with Azerite and are goin' crazy. Put them down and absorb their Azerite!",
-						}, -- [50]
-						{
-							["arg2"] = "Magni Bronzebeard",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541063512,
-							["arg1"] = "It's a shame that Azerite is drivin' the elements out of control. More reason for us tae be puttin' an end tae this.",
-						}, -- [51]
-						{
-							["arg2"] = "Nathanos Blightcaller",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541063675,
-							["arg1"] = "This avian menace hunts the seas, making prey of any ships we dispatch against Kul Tiras. End its pursuit.",
-						}, -- [52]
-						{
-							["arg2"] = "Nathanos Blightcaller",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541063745,
-							["arg1"] = "Ah, the thrill of the hunt. Savor it. I certainly do.",
-						}, -- [53]
-						{
-							["arg2"] = "Proudmoore Guard",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064093,
-							["arg1"] = "I've been scuttled, boys...",
-						}, -- [54]
-						{
-							["arg2"] = "Proudmoore Guard",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064102,
-							["arg1"] = "Kul Tiras stands...",
-						}, -- [55]
-						{
-							["arg2"] = "Proudmoore Guard",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064110,
-							["arg1"] = "Send me bones... to the sea...",
-						}, -- [56]
-						{
-							["arg2"] = "Proudmoore Guard",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064134,
-							["arg1"] = "I've been scuttled, boys...",
-						}, -- [57]
-						{
-							["arg2"] = "Kul Tiran Crewman",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064139,
-							["arg1"] = "The boatman... calls...",
-						}, -- [58]
-						{
-							["arg2"] = "Proudmoore Guard",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064152,
-							["arg1"] = "I've been scuttled, boys...",
-						}, -- [59]
-						{
-							["arg2"] = "Kul Tiran Crewman",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064180,
-							["arg1"] = "The boatman... calls...",
-						}, -- [60]
-						{
-							["arg2"] = "Kul Tiran Crewman",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064182,
-							["arg1"] = "Another trophy for the mantle!",
-						}, -- [61]
-						{
-							["arg2"] = "Guard-Commander Trunksal",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064200,
-							["arg1"] = "I will put you down, Horde scum!",
-						}, -- [62]
-						{
-							["arg2"] = "Guard-Commander Trunksal",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064224,
-							["arg1"] = "You'll end up... in Proudmoore's prison...",
-						}, -- [63]
-						{
-							["arg2"] = "Proudmoore Guard",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064260,
-							["arg1"] = "I've been scuttled, boys...",
-						}, -- [64]
-						{
-							["arg2"] = "Proudmoore Guard",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064275,
-							["arg1"] = "I die... for my house...",
-						}, -- [65]
-						{
-							["arg2"] = "Proudmoore Guard",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064282,
-							["arg1"] = "Let's test yer mettle!",
-						}, -- [66]
-						{
-							["arg2"] = "Kul Tiran Crewman",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064290,
-							["arg1"] = "Another trophy for the mantle!",
-						}, -- [67]
-						{
-							["arg2"] = "Kul Tiran Crewman",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064293,
-							["arg1"] = "Come at me!",
-						}, -- [68]
-						{
-							["arg2"] = "Proudmoore Guard",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064304,
-							["arg1"] = "Send me bones... to the sea...",
-						}, -- [69]
-						{
-							["arg2"] = "Kul Tiran Crewman",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064314,
-							["arg1"] = "The sea... will have... its due...",
-						}, -- [70]
-						{
-							["arg2"] = "Proudmoore Guard",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064330,
-							["arg1"] = "Let's test yer mettle!",
-						}, -- [71]
-						{
-							["arg2"] = "Proudmoore Guard",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064339,
-							["arg1"] = "I've been scuttled, boys...",
-						}, -- [72]
-						{
-							["arg2"] = "Mystic Birdhat",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064351,
-							["arg1"] = "Yak. Yak never changes.",
-						}, -- [73]
-						{
-							["arg2"] = "Captain Gastrod",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064353,
-							["arg1"] = "Ye think ye can stop us from retrieving Derek's body? Ye've got another thing coming!",
-						}, -- [74]
-						{
-							["arg2"] = "Captain Gastrod",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064369,
-							["arg1"] = "We will retrieve Derek's body... one way or another...",
-						}, -- [75]
-						{
-							["arg2"] = "Helmsman Miria",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064462,
-							["arg1"] = "I shall send you to the depths of the sea!",
-						}, -- [76]
-						{
-							["arg2"] = "Kul Tiran Crewman",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064475,
-							["arg1"] = "Another trophy for the mantle!",
-						}, -- [77]
-						{
-							["arg2"] = "Helmsman Miria",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064481,
-							["arg1"] = "Horde... scum...",
-						}, -- [78]
-						{
-							["arg2"] = "Nathanos Blightcaller",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064548,
-							["arg1"] = "Zelling, accompany Teldrasil to Boralus. Oculeth awaits with a portal.",
-						}, -- [79]
-						{
-							["arg2"] = "Thomas Zelling",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064552,
-							["arg1"] = "As you wish, Nathanos.",
-						}, -- [80]
-						{
-							["arg2"] = "Lilian Voss",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064554,
-							["arg1"] = "Remember, you will arrive deep in Boralus. Be on high alert.",
-						}, -- [81]
-						{
-							["arg2"] = "Chief Telemancer Oculeth",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064579,
-							["arg1"] = "Calculating the correct location to place this portal in Boralus was not easy, but it was a welcome challenge! Do tell me how it goes, will you?",
-						}, -- [82]
-						{
-							["arg2"] = "Thomas Zelling",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064597,
-							["arg1"] = "Be on your toes, Teldrasil. This is no ordinary basement -- we are quite deep in Boralus.",
-						}, -- [83]
-						{
-							["arg2"] = "Tidesage Archivist",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064614,
-							["arg1"] = "Sure is quiet today. Where is everybody?",
-						}, -- [84]
-						{
-							["arg2"] = "Tidesage Archivist",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064617,
-							["arg1"] = "Didn't you hear? The Horde has Derek Proudmoore's body at Plunder Harbor. Lady Proudmoore's practically sent the whole navy to retrieve it.",
-						}, -- [85]
-						{
-							["arg2"] = "Tidesage Archivist",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064630,
-							["arg1"] = "I journey... beneath... the tides...",
-						}, -- [86]
-						{
-							["arg2"] = "Archivist Medira",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064668,
-							["arg1"] = "Away from our archives! This research does not belong to you!",
-						}, -- [87]
-						{
-							["arg2"] = "Tidesage Archivist",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064668,
-							["arg1"] = "Embrace your end!",
-						}, -- [88]
-						{
-							["arg2"] = "Archivist Medira",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064688,
-							["arg1"] = "You will never be able to harness the power of our teachings...",
-						}, -- [89]
-						{
-							["arg2"] = "Boralus Militia",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064723,
-							["arg1"] = "I'm going down... with the ship...",
-						}, -- [90]
-						{
-							["arg2"] = "Brother Marrin",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064750,
-							["arg1"] = "You shall be washed away...",
-						}, -- [91]
-						{
-							["arg2"] = "Tidesage Summoner",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064779,
-							["arg1"] = "The sea will wash you away!",
-						}, -- [92]
-						{
-							["arg2"] = "Tidesage Summoner",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064790,
-							["arg1"] = "You will face... the eye... of the storm...",
-						}, -- [93]
-						{
-							["arg2"] = "Thomas Zelling",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064863,
-							["arg1"] = "Let me know when you're ready to progress to the ritual site, Teldrasil.",
-						}, -- [94]
-						{
-							["arg2"] = "Thomas Zelling",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064866,
-							["arg1"] = "The basement in question should be nearby. Let's not waste any time.",
-						}, -- [95]
-						{
-							["arg2"] = "Thomas Zelling",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064869,
-							["arg1"] = "Let me know when you're ready to progress to the ritual site, Teldrasil.",
-						}, -- [96]
-						{
-							["arg2"] = "Thomas Zelling",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064897,
-							["arg1"] = "This is the place. Let's get down to the basement.",
-						}, -- [97]
-						{
-							["arg2"] = "Thomas Zelling",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064914,
-							["arg1"] = "When you are ready to start the ritual, place the key of the sea in the bowl.",
-						}, -- [98]
-						{
-							["arg2"] = "Thomas Zelling",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064921,
-							["arg1"] = "I will need you to watch my back while I perform this ritual. It should only take a few moments.",
-						}, -- [99]
-						{
-							["arg2"] = "Thomas Zelling",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064927,
-							["arg1"] = "Tides that churn and ties that bind...",
-						}, -- [100]
-						{
-							["arg2"] = "Thomas Zelling",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064933,
-							["arg1"] = "The oceans will remain long after mankind.",
-						}, -- [101]
-						{
-							["arg2"] = "Thomas Zelling",
-							["type"] = "MONSTER_SAY",
-							["time"] = 1541064940,
-							["arg1"] = "Yet your power permit us to harness, to use...",
-						}, -- [102]
 						{
 							["arg2"] = "Thomas Zelling",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541064948,
 							["arg1"] = "Though punish us whilst against your will we abuse.",
-						}, -- [103]
+						}, -- [1]
 						{
 							["arg2"] = "Thomas Zelling",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541064955,
 							["arg1"] = "Grant me your might to put down our foes...",
-						}, -- [104]
+						}, -- [2]
 						{
 							["arg2"] = "Thomas Zelling",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541064962,
 							["arg1"] = "Then your boon I shall restore to the powers below!",
-						}, -- [105]
+						}, -- [3]
 						{
 							["arg2"] = "Thomas Zelling",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541064984,
 							["arg1"] = "It is done. Grab the scepter and let's get out of here!",
-						}, -- [106]
+						}, -- [4]
 						{
 							["arg2"] = "Thomas Zelling",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541065000,
 							["arg1"] = "Let's get back to the portal.",
-						}, -- [107]
+						}, -- [5]
 						{
 							["arg2"] = "Boralus Militia",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541065010,
 							["arg1"] = "Scurvy dog!",
-						}, -- [108]
+						}, -- [6]
 						{
 							["arg2"] = "Boralus Militia",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541065027,
 							["arg1"] = "Kul Tiras stands...",
-						}, -- [109]
+						}, -- [7]
 						{
 							["arg2"] = "Thomas Zelling",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541065043,
 							["arg1"] = "We have successfully retrieved the Abyssal Scepter, Nathanos.",
-						}, -- [110]
+						}, -- [8]
 						{
 							["arg2"] = "Nathanos Blightcaller",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541065046,
 							["arg1"] = "Ah, good. Not only will this be a boon for the Zandalari armada... but also a detriment to that of the Kul Tirans.",
-						}, -- [111]
+						}, -- [9]
 						{
 							["arg2"] = "Lilian Voss",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541065050,
 							["arg1"] = "I am getting restless. Allow me to provide my aid from the shadows.",
-						}, -- [112]
+						}, -- [10]
 						{
 							["arg2"] = "Nathanos Blightcaller",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541065051,
 							["arg1"] = "Let us see who Proudmoore has sent now.",
-						}, -- [113]
+						}, -- [11]
 						{
 							["arg2"] = "Captain Amalia Stone",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541065051,
 							["arg1"] = "Lady Proudmoore's forces are relentless, Nathanos. We should get out of here as soon as possible.",
-						}, -- [114]
+						}, -- [12]
 						{
 							["arg2"] = "Lilian Voss",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541065056,
 							["arg1"] = "I fear it is slightly too late for that, Amalia. We have a new visitor.",
-						}, -- [115]
+						}, -- [13]
 						{
 							["arg2"] = "Cousin Slowhands",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541065068,
 							["arg1"] = "I was going to have a party and invite Mystic Birdhat, but you dismissed him.",
-						}, -- [116]
+						}, -- [14]
 						{
 							["arg2"] = "General Cadarin",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541065072,
 							["arg1"] = "Return Derek Proudmoore to my hands, and you shall have your man back.",
-						}, -- [117]
+						}, -- [15]
 						{
 							["arg2"] = "Nathanos Blightcaller",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541065076,
 							["arg1"] = "Ah, my good man. That is a tactic that I could see working on somebody other than myself...",
-						}, -- [118]
+						}, -- [16]
 						{
 							["arg2"] = "Nathanos Blightcaller",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541065081,
 							["arg1"] = "But frankly, you can do what you want with Valentine. He means nothing to us.",
-						}, -- [119]
+						}, -- [17]
 						{
 							["arg2"] = "General Cadarin",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541065085,
 							["arg1"] = "So be it, corpse. I will recover Derek's body over your dead one.",
-						}, -- [120]
+						}, -- [18]
 						{
 							["arg2"] = "Nathanos Blightcaller",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541065089,
 							["arg1"] = "Take care of this nuisance, Teldrasil.",
-						}, -- [121]
+						}, -- [19]
 						{
 							["arg2"] = "General Cadarin",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541065099,
 							["arg1"] = "Derek will be returned to us... one way or another.",
-						}, -- [122]
+						}, -- [20]
 						{
 							["arg2"] = "Lilian Voss",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541065103,
 							["arg1"] = "Ah... another day, another kill.",
-						}, -- [123]
+						}, -- [21]
 						{
 							["arg2"] = "Lilian Voss",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541065174,
 							["arg1"] = "I will be waiting in the shadows, Teldrasil. Should you have need of me, just call.",
-						}, -- [124]
+						}, -- [22]
 						{
 							["arg2"] = "Lilian Voss",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541065178,
 							["arg1"] = "Come, Amalia. Let us continue our lesson on what it means to be Forsaken.",
-						}, -- [125]
+						}, -- [23]
 						{
 							["arg2"] = "Magni Bronzebeard",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541065304,
 							["arg1"] = "The Chamber of Heart sure looks better than the last time ye were here, eh?",
-						}, -- [126]
+						}, -- [24]
 						{
 							["arg2"] = "Magni Bronzebeard",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541065309,
 							["arg1"] = "Within this chamber, the Heart of Azeroth ye hold can grow even mightier!",
-						}, -- [127]
+						}, -- [25]
 						{
 							["arg2"] = "Magni Bronzebeard",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541065314,
 							["arg1"] = "Even now, I can... Hang on, what is that?",
-						}, -- [128]
+						}, -- [26]
 						{
 							["arg2"] = "That Which Hungers",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541065316,
 							["arg1"] = "The master hungers... the Heart shall feed his waking dream...",
-						}, -- [129]
+						}, -- [27]
 						{
 							["arg2"] = "Magni Bronzebeard",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541065321,
 							["arg1"] = "A minion o' the Old Gods! The Heart of Azeroth is strong enough tae drive it out! Use the Heart, Teldrasil!",
-						}, -- [130]
+						}, -- [28]
 						{
 							["arg2"] = "That Which Hungers",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541065323,
 							["arg1"] = "You will falter... he rises... he rises...",
-						}, -- [131]
+						}, -- [29]
 						{
 							["arg2"] = "Magni Bronzebeard",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541065330,
 							["arg1"] = "Ye did it! Azeroth has grown stronger... and ye have too, champion!",
-						}, -- [132]
+						}, -- [30]
 						{
 							["arg2"] = "Lady Sylvanas Windrunner",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541065445,
 							["arg1"] = "The world is full of soldiers, champion. But few truly have the stomach for war. You, it seems, have a genuine taste for it.",
-						}, -- [133]
+						}, -- [31]
 						{
 							["arg2"] = "Lady Sylvanas Windrunner",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541065458,
 							["arg1"] = "Though victory still eludes us, it draws closer every day. We must not rest until the last flicker of hope in the boy-king's heart turns to ashes.",
-						}, -- [134]
+						}, -- [32]
 						{
 							["arg2"] = "Lady Sylvanas Windrunner",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541065473,
 							["arg1"] = "Kul Tiras has become a rallying point for the Alliance. The return of its vaunted navy has emboldened them. But soon those tide-born curs will pay the price for defying us.",
-						}, -- [135]
+						}, -- [33]
 						{
 							["type"] = "TEXT_EMOTE",
 							["time"] = 1541065473,
 							["arg1"] = "You bow before Lady Sylvanas Windrunner.",
-						}, -- [136]
+						}, -- [34]
 						{
 							["arg2"] = "Lady Sylvanas Windrunner",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541065490,
 							["arg1"] = "You embody the best of the Horde, Teldrasil. I know that you will be the spark that sets Boralus ablaze.",
-						}, -- [137]
+						}, -- [35]
 						{
 							["arg2"] = "Lady Sylvanas Windrunner",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541065503,
 							["arg1"] = "For the Horde!",
-						}, -- [138]
+						}, -- [36]
 						{
 							["arg1"] = " ",
-						}, -- [139]
+						}, -- [37]
 						{
 							["arg1"] = " ",
-						}, -- [140]
+						}, -- [38]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 11/01/2018 at 10:48:24.",
-						}, -- [141]
+							["type"] = "SYSTEM",
+						}, -- [39]
 						{
 							["arg2"] = "Orc Commoner",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1541065861,
 							["arg1"] = "The Forsaken are right to celebrate their freedom.",
-						}, -- [142]
+						}, -- [40]
 						{
 							["arg1"] = " ",
-						}, -- [143]
+						}, -- [41]
 						{
 							["arg1"] = " ",
-						}, -- [144]
+						}, -- [42]
 						{
-							["arg1"] = "Logging started on 06/30/2019 at 15:20:19.",
 							["type"] = "SYSTEM",
-						}, -- [145]
+							["arg1"] = "Logging started on 06/30/2019 at 15:20:19.",
+						}, -- [43]
 						{
 							["arg2"] = "Nathanos Blightcaller",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561900914,
 							["arg1"] = "Meet me in Zuldazar, aboard the Banshee's Wail. What we do next... we do for the Horde.",
-						}, -- [146]
+						}, -- [44]
 						{
 							["arg2"] = "Griftah",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561901431,
 							["arg1"] = "Psst, Teldrasil, ya ever wanted to punch someone in da face, but knew ya couldn't? I got da solution for ya right here!",
-						}, -- [147]
+						}, -- [45]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561901718,
 							["arg1"] = "These are Alliance lands! The Light-blessed walls of Stromgarde will never fall to the likes of you.",
-						}, -- [148]
+						}, -- [46]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561901726,
 							["arg1"] = "All o' dis been troll lands long before da Alliance even knew it be here, Turalyon.",
-						}, -- [149]
+						}, -- [47]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561901735,
 							["arg1"] = "First tings first. We be needin' wood and iron ta build a Horde base here. Should be plenty of both nearby.",
-						}, -- [150]
+						}, -- [48]
 						{
 							["arg2"] = "Drywhisker Digger",
 							["type"] = "MONSTER_EMOTE",
 							["time"] = 1561901751,
 							["arg1"] = "%s attempts to run away in fear!",
-						}, -- [151]
+						}, -- [49]
 						{
 							["arg2"] = "Drywhisker Digger",
 							["type"] = "MONSTER_EMOTE",
 							["time"] = 1561901769,
 							["arg1"] = "%s attempts to run away in fear!",
-						}, -- [152]
+						}, -- [50]
 						{
 							["arg2"] = "Drywhisker Digger",
 							["type"] = "MONSTER_EMOTE",
 							["time"] = 1561901771,
 							["arg1"] = "%s attempts to run away in fear!",
-						}, -- [153]
+						}, -- [51]
 						{
 							["arg2"] = "Grezla Bloodfury",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561901902,
 							["arg1"] = "Blood and thunder!",
-						}, -- [154]
+						}, -- [52]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561901903,
 							["arg1"] = "You were warned, Horde scum. Now prepare to be annihilated.",
-						}, -- [155]
+						}, -- [53]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561901909,
 							["arg1"] = "Soldiers of the Alliance! Strike them down!",
-						}, -- [156]
+						}, -- [54]
 						{
 							["arg2"] = "Highlands Laborer",
 							["type"] = "MONSTER_EMOTE",
 							["time"] = 1561902061,
 							["arg1"] = "%s attempts to run away in fear!",
-						}, -- [157]
+						}, -- [55]
 						{
 							["arg2"] = "Wistel Silversnitch",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561902314,
 							["arg1"] = "Ooh, look at the size of THAT thing. Hey! Anyone wanna go kill it?",
-						}, -- [158]
+						}, -- [56]
 						{
 							["arg2"] = "Mystic Birdhat",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561902852,
 							["arg1"] = "Got some rye?",
-						}, -- [159]
+						}, -- [57]
 						{
 							["arg2"] = "Lady Sylvanas Windrunner",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561903004,
 							["arg1"] = "Behold the fruit of your labors. Derek Proudmoore... the corpse you recovered from the depths of the sea.",
-						}, -- [160]
+						}, -- [58]
 						{
 							["arg2"] = "Lady Sylvanas Windrunner",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561903013,
 							["arg1"] = "It shall prove a valuable weapon in our war against Kul Tiras. A dagger to plunge into the very heart of House Proudmoore... when the time is right.",
-						}, -- [161]
+						}, -- [59]
 						{
 							["arg2"] = "Lady Sylvanas Windrunner",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561903027,
 							["arg1"] = "And thanks to your efforts, the Horde has secured the might of the Zandalari fleet. All that remains is to finish breaking our foes... then we will have victory in this war.",
-						}, -- [162]
+						}, -- [60]
 						{
 							["arg2"] = "Nathanos Blightcaller",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904061,
 							["arg1"] = "You're back on your feet. Good. Your survival is key to the Dark Lady's plans.",
-						}, -- [163]
+						}, -- [61]
 						{
 							["arg2"] = "Nathanos Blightcaller",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904063,
 							["arg1"] = "I suppose you will want to find safe haven for our wounded. Oculeth will assist you. I have a mission to complete.",
-						}, -- [164]
+						}, -- [62]
 						{
 							["arg2"] = "Nathanos Blightcaller",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904069,
 							["arg1"] = "Look around, Teldrasil. The vaunted Alliance fleet lies in ruins. Perfect.",
-						}, -- [165]
+						}, -- [63]
 						{
 							["arg2"] = "Chief Telemancer Oculeth",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904089,
 							["arg1"] = "This area is fascinating, don't you think? The power that thrums all around us is quite astonishing.",
-						}, -- [166]
+						}, -- [64]
 						{
 							["arg2"] = "Chief Telemancer Oculeth",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904097,
 							["arg1"] = "My apologies. I am sometimes prone to distraction. I should get you down these falls without letting you plummet to your death.",
-						}, -- [167]
+						}, -- [65]
 						{
 							["arg2"] = "Chief Telemancer Oculeth",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904098,
 							["arg1"] = "Not so fast!",
-						}, -- [168]
+						}, -- [66]
 						{
 							["arg2"] = "Chief Telemancer Oculeth",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904105,
 							["arg1"] = "The Regent Lord and Lady Thalyssra seek shelter for our forces. I will remain here to catch any other soggy heroes who trudge along.",
-						}, -- [169]
+						}, -- [67]
 						{
 							["arg2"] = "Chief Telemancer Oculeth",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904114,
 							["arg1"] = "That looks far enough. No time to lose!",
-						}, -- [170]
+						}, -- [68]
 						{
 							["arg2"] = "Chief Telemancer Oculeth",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904118,
 							["arg1"] = "N'eth ana!",
-						}, -- [171]
+						}, -- [69]
 						{
 							["arg2"] = "Lor'themar Theron",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904247,
 							["arg1"] = "Soldiers, hold this ground! Where is Blightcaller?",
-						}, -- [172]
+						}, -- [70]
 						{
 							["arg2"] = "Lor'themar Theron",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904249,
 							["arg1"] = "It seemed as if the Alliance ships were about to capture us. Then the naga sprung their trap. What could those fiends be up to?",
-						}, -- [173]
+						}, -- [71]
 						{
 							["arg2"] = "Lor'themar Theron",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904257,
 							["arg1"] = "Go on ahead to Thalyssra. Cut down any naga you encounter along the way. Make them pay for every Horde life they have taken.",
-						}, -- [174]
+						}, -- [72]
 						{
 							["arg2"] = "First Arcanist Thalyssra",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904301,
 							["arg1"] = "Over here, Teldrasil! The naga's attack is relentless!",
-						}, -- [175]
+						}, -- [73]
 						{
 							["arg2"] = "First Arcanist Thalyssra",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904307,
 							["arg1"] = "Return quickly. I can only hold this barrier for so long.",
-						}, -- [176]
+						}, -- [74]
 						{
 							["arg2"] = "Tidemistress Ethendriss",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904327,
 							["arg1"] = "More sacrifices for the tide!",
-						}, -- [177]
+						}, -- [75]
 						{
 							["arg2"] = "Tidemistress Ethendriss",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904361,
 							["arg1"] = "The hour the queen spoke of is upon us.",
-						}, -- [178]
+						}, -- [76]
 						{
 							["arg2"] = "Tidemistress Ethendriss",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904396,
 							["arg1"] = "Yessss... More! More!",
-						}, -- [179]
+						}, -- [77]
 						{
 							["arg2"] = "Tidemistress Ethendriss",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904399,
 							["arg1"] = "His chains... will be... broken...",
-						}, -- [180]
+						}, -- [78]
 						{
 							["arg2"] = "Lor'themar Theron",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904685,
 							["arg1"] = "Our forces are vastly outnumbered. We cannot hold this position.",
-						}, -- [181]
+						}, -- [79]
 						{
 							["arg2"] = "First Arcanist Thalyssra",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904689,
 							["arg1"] = "We must move quickly.",
-						}, -- [182]
+						}, -- [80]
 						{
 							["arg2"] = "Priscilla Ashvane",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904736,
 							["arg1"] = "What are you waiting for? We have the enemy in our sights!",
-						}, -- [183]
+						}, -- [81]
 						{
 							["arg2"] = "Priscilla Ashvane",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904740,
 							["arg1"] = "Fire!",
-						}, -- [184]
+						}, -- [82]
 						{
 							["arg2"] = "Lor'themar Theron",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904746,
 							["arg1"] = "I knew Ashvane could not be trusted. Damn her treachery!",
-						}, -- [185]
+						}, -- [83]
 						{
 							["arg2"] = "First Arcanist Thalyssra",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904751,
 							["arg1"] = "This makes no sense. Why would the naga accept a human as an ally?",
-						}, -- [186]
+						}, -- [84]
 						{
 							["arg2"] = "Lor'themar Theron",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904755,
 							["arg1"] = "Once we find refuge, will you be able to send word to Oculeth?",
-						}, -- [187]
+						}, -- [85]
 						{
 							["arg2"] = "First Arcanist Thalyssra",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904757,
 							["arg1"] = "Questions will have to wait. We must find shelter for our people.",
-						}, -- [188]
+						}, -- [86]
 						{
 							["arg2"] = "First Arcanist Thalyssra",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904759,
 							["arg1"] = "Yes, assuming there is any safe ground to find. This place is unsettling, yet... familiar.",
-						}, -- [189]
+						}, -- [87]
 						{
 							["arg2"] = "First Arcanist Thalyssra",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904767,
 							["arg1"] = "Careful. Something stirs beyond this wall of water.",
-						}, -- [190]
+						}, -- [88]
 						{
 							["arg2"] = "Lor'themar Theron",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904769,
 							["arg1"] = "The Scepter of Tides... here?",
-						}, -- [191]
+						}, -- [89]
 						{
 							["arg2"] = "First Arcanist Thalyssra",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904771,
 							["arg1"] = "An illusion!",
-						}, -- [192]
+						}, -- [90]
 						{
 							["arg2"] = "Lor'themar Theron",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904772,
 							["arg1"] = "Look out!",
-						}, -- [193]
+						}, -- [91]
 						{
 							["arg2"] = "Neri Sharpfin",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904778,
 							["arg1"] = "Chew on this, monster! Atolia, free them from the beast's grip!",
-						}, -- [194]
+						}, -- [92]
 						{
 							["arg2"] = "Neri Sharpfin",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904788,
 							["arg1"] = "Okay, everyone. Let's get moving before the creature regains its wits! We have a safe place where you can regroup.",
-						}, -- [195]
+						}, -- [93]
 						{
 							["arg2"] = "First Arcanist Thalyssra",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904793,
 							["arg1"] = "We are strangers here. Why did you help us?",
-						}, -- [196]
+						}, -- [94]
 						{
 							["arg2"] = "Neri Sharpfin",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904797,
 							["arg1"] = "We've had our eye on you since this chaos started. Walls of water rising, ships crashing everywhere... then the naga swarmed all over you!",
-						}, -- [197]
+						}, -- [95]
 						{
 							["arg2"] = "Neri Sharpfin",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904807,
 							["arg1"] = "Any enemy of the queen is a friend of ours. We know the bad guys pretty well, and you're not one of them.",
-						}, -- [198]
+						}, -- [96]
 						{
 							["arg2"] = "Lor'themar Theron",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904815,
 							["arg1"] = "There are some who would beg to differ.",
-						}, -- [199]
+						}, -- [97]
 						{
 							["arg2"] = "Lor'themar Theron",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904821,
 							["arg1"] = "Tell me, what \"queen\" do you speak of?",
-						}, -- [200]
+						}, -- [98]
 						{
 							["arg2"] = "Neri Sharpfin",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904825,
 							["arg1"] = "What queen?! Are you telling me you don't know where you are?",
-						}, -- [201]
+						}, -- [99]
 						{
 							["arg2"] = "First Arcanist Thalyssra",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904830,
 							["arg1"] = "Of course! By the stars, I should have realized! Lor'themar, this place is--",
-						}, -- [202]
+						}, -- [100]
 						{
 							["arg2"] = "Queen Azshara",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904844,
 							["arg1"] = "Ah, good. Our guests have arrived.",
-						}, -- [203]
+						}, -- [101]
 						{
 							["arg2"] = "Queen Azshara",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904849,
 							["arg1"] = "I must say, that was a delightfully dramatic entrance.",
-						}, -- [204]
+						}, -- [102]
 						{
 							["arg2"] = "Queen Azshara",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904854,
 							["arg1"] = "Behold the wonders of Nazjatar.",
-						}, -- [205]
+						}, -- [103]
 						{
 							["arg2"] = "Queen Azshara",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904859,
 							["arg1"] = "The finest sight your eyes will ever behold... and the last.",
-						}, -- [206]
+						}, -- [104]
 						{
 							["arg2"] = "Lor'themar Theron",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904866,
 							["arg1"] = "Can you get us to safety?",
-						}, -- [207]
+						}, -- [105]
 						{
 							["arg2"] = "First Arcanist Thalyssra",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904871,
 							["arg1"] = "She is... preventing teleportation...",
-						}, -- [208]
+						}, -- [106]
 						{
 							["arg2"] = "Queen Azshara",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904876,
 							["arg1"] = "Please, do stay. Explore all the comforts my kingdom has to offer.",
-						}, -- [209]
+						}, -- [107]
 						{
 							["arg2"] = "Queen Azshara",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904885,
 							["arg1"] = "I will hold the waters at bay... so long as I remain entertained.",
-						}, -- [210]
+						}, -- [108]
 						{
 							["arg2"] = "Neri Sharpfin",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904897,
 							["arg1"] = "Phew! I knew Azshara didn't like us, but she reaaaaaally hates you. That got personal!",
-						}, -- [211]
+						}, -- [109]
 						{
 							["arg2"] = "Neri Sharpfin",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904905,
 							["arg1"] = "Let's go... before something else comes along to spoil the fun.",
-						}, -- [212]
+						}, -- [110]
 						{
 							["arg2"] = "Neri Sharpfin",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904910,
 							["arg1"] = "Never forget Neri's survival rule number one: Don't get killed!",
-						}, -- [213]
+						}, -- [111]
 						{
 							["arg2"] = "Neri Sharpfin",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904914,
 							["arg1"] = "Okay, folks. Here we are! It's not much, but it's home.",
-						}, -- [214]
+						}, -- [112]
 						{
 							["arg2"] = "Neri Sharpfin",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904919,
 							["arg1"] = "Tell your troops to make themselves comfortable. I have a few things to discuss with my people.",
-						}, -- [215]
+						}, -- [113]
 						{
 							["arg2"] = "First Arcanist Thalyssra",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904926,
 							["arg1"] = "We are in your debt, Neri.",
-						}, -- [216]
+						}, -- [114]
 						{
 							["arg2"] = "Neri Sharpfin",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904929,
 							["arg1"] = "Don't sweat it. If you wanna show your appreciation, you can lend a helping hand.",
-						}, -- [217]
+						}, -- [115]
 						{
 							["arg2"] = "Lor'themar Theron",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904941,
 							["arg1"] = "We must remain alert, Teldrasil. I doubt that Azshara set this trap merely to toy with us.",
-						}, -- [218]
+						}, -- [116]
 						{
 							["arg2"] = "First Arcanist Thalyssra",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904944,
 							["arg1"] = "Oculeth, I am relieved you made it here. Azshara is blocking my teleportation spells. We need to find a crack in her defenses.",
-						}, -- [219]
+						}, -- [117]
 						{
 							["arg2"] = "Chief Telemancer Oculeth",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904954,
 							["arg1"] = "I know just the thing, Thalyssra. Come along, Teldrasil. You will serve as my assistant!",
-						}, -- [220]
+						}, -- [118]
 						{
 							["arg2"] = "Chief Telemancer Oculeth",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904962,
 							["arg1"] = "If we combine our powers, we should be able to open a gateway to Zuldazar without Azshara noticing.",
-						}, -- [221]
+						}, -- [119]
 						{
 							["arg2"] = "Chief Telemancer Oculeth",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561904973,
 							["arg1"] = "Here we are. With the merest touch of the Heart of Azeroth, the pathway will be stabilized.",
-						}, -- [222]
+						}, -- [120]
 						{
 							["arg2"] = "Chief Telemancer Oculeth",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561905030,
 							["arg1"] = "Elementary! Well, arcane, if one is to be technical about it. I must beg your pardon. We are all a bit out of our depth right now.",
-						}, -- [223]
+						}, -- [121]
 						{
 							["arg2"] = "Chief Telemancer Oculeth",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561905039,
 							["arg1"] = "At any rate, I suppose you have work to do. Good luck!",
-						}, -- [224]
+						}, -- [122]
 						{
 							["arg2"] = "Magni Bronzebeard",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561905050,
 							["arg1"] = "Champion! MOTHER has a new plan tae save Azeroth. Meet us in the Chamber of Heart as soon as ye can!",
-						}, -- [225]
+						}, -- [123]
 						{
 							["arg2"] = "Hilkos",
 							["type"] = "MONSTER_EMOTE",
 							["time"] = 1561905073,
 							["arg1"] = "Hilkos-DefiasBrotherhood (Alliance) is marked on your map as an |c00FFFF00|Hspell:272295|h[Assassin]|h|r! Slay them for a bounty reward.",
 							["clColor"] = "ff3ec5e9",
-						}, -- [226]
+						}, -- [124]
 						{
 							["arg2"] = "Magni Bronzebeard",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561905365,
 							["arg1"] = "Tell our champion what ye've found, MOTHER.",
-						}, -- [227]
+						}, -- [125]
 						{
 							["arg2"] = "MOTHER",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561905368,
 							["arg1"] = "World unit Azeroth cascading toward terminal failure.",
-						}, -- [228]
+						}, -- [126]
 						{
 							["arg2"] = "MOTHER",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561905378,
 							["arg1"] = "Coordinate designation: Highmountain. Essence origin: Unknown.",
-						}, -- [229]
+						}, -- [127]
 						{
 							["arg2"] = "MOTHER",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561905384,
 							["arg1"] = "Caution recommended. Readings indicate extreme subterranean instability.",
-						}, -- [230]
+						}, -- [128]
 						{
 							["arg2"] = "Spiritwalker Ebonhorn",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561905425,
 							["arg1"] = "Hmm, I too have sensed something deep beneath Highmountain... in the caverns that were once Neltharion's lair.",
-						}, -- [231]
+						}, -- [129]
 						{
 							["arg2"] = "Navarrogg",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561905428,
 							["arg1"] = "I can take you into the heart of the mountain, troll.",
-						}, -- [232]
+						}, -- [130]
 						{
 							["arg2"] = "Spiritwalker Ebonhorn",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561905433,
 							["arg1"] = "Let us investigate the matter. Navarrogg can bring us directly to the source of the disturbance.",
-						}, -- [233]
+						}, -- [131]
 						{
 							["arg2"] = "Spiritwalker Ebonhorn",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561905470,
 							["arg1"] = "A stone lord from Deepholm? This is worse than I feared. Their kind still harbors enmity toward the black dragonflight.",
-						}, -- [234]
+						}, -- [132]
 						{
 							["arg2"] = "Spiritwalker Ebonhorn",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561905638,
 							["arg1"] = "Stone lord! I am Ebonhorn, protector of Highmountain. We have come to claim the essence you now hold!",
-						}, -- [235]
+						}, -- [133]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561905649,
 							["arg1"] = "I know you, dragon. Kin of the Worldbreaker. You are unworthy of such power.",
-						}, -- [236]
+						}, -- [134]
 						{
 							["arg2"] = "Spiritwalker Ebonhorn",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561905665,
 							["arg1"] = "I am free of my father's madness. We seek to wield the essence in defense of Azeroth!",
-						}, -- [237]
+						}, -- [135]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561905673,
 							["arg1"] = "Then face me, and prove you have the strength to do so.",
-						}, -- [238]
+						}, -- [136]
 						{
 							["arg2"] = "Spiritwalker Ebonhorn",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561905684,
 							["arg1"] = "Very well. We accept your challenge!",
-						}, -- [239]
+						}, -- [137]
 						{
 							["arg2"] = "Spiritwalker Ebonhorn",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561905835,
 							["arg1"] = "Well fought, Teldrasil. The essence is yours to claim.",
-						}, -- [240]
+						}, -- [138]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561905840,
 							["arg1"] = "It is done. Tread carefully. The Stonemother will be watching...",
-						}, -- [241]
+						}, -- [139]
 						{
 							["arg2"] = "Spiritwalker Ebonhorn",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561905843,
 							["arg1"] = "I will meet you in the Chamber of Heart, Teldrasil. There we will speak more of the essence and the role it shall play.",
-						}, -- [242]
+						}, -- [140]
 						{
 							["arg2"] = "Mayla Highmountain",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561905952,
 							["arg1"] = "The drogbar are assaulting Thunder Totem and too many of my forces have been drawn off to engage with the Legion. Can you assist us, champion?",
-						}, -- [243]
+						}, -- [141]
 						{
 							["arg2"] = "Displaced Rivermane",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561906007,
 							["arg1"] = "I heard the harpies hit Skyhorn hard. Lasan has been pulling back all of his forces to defend their home.",
-						}, -- [244]
+						}, -- [142]
 						{
 							["arg2"] = "Mayla Highmountain",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561906024,
 							["arg1"] = "This was a costly lesson in not overextending my forces. I appreciate your help, champion.",
-						}, -- [245]
+						}, -- [143]
 						{
 							["arg2"] = "Bloodtotem Trapper",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561906029,
 							["arg1"] = "Mayla cannot even stand against the drogbar. What hope does she have against the Legion?",
-						}, -- [246]
+						}, -- [144]
 						{
 							["arg2"] = "Mellok, Son of Torok",
 							["type"] = "MONSTER_SAY",
 							["time"] = 1561906033,
 							["arg1"] = "We are done with Highmountain. The Bloodtotem must look to new allies.",
+						}, -- [145]
+						{
+							["arg1"] = " ",
+						}, -- [146]
+						{
+							["arg1"] = " ",
+						}, -- [147]
+						{
+							["arg1"] = "Logging started on 11/29/2020 at 13:23:00.",
+							["type"] = "SYSTEM",
+						}, -- [148]
+						{
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606652650,
+							["arg1"] = "Champion, the veil between our world and the Shadowlands has been sundered.",
+						}, -- [149]
+						{
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606652657,
+							["arg1"] = "The Ebon Blade stands ready. I await you in Orgrimmar. Come, before the icy grasp of Death claims all of Azeroth.",
+						}, -- [150]
+						{
+							["arg2"] = "Glutonia",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653316,
+							["arg1"] = "Don't forget to push the premier account!",
+						}, -- [151]
+						{
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653410,
+							["arg1"] = "Champion! Preparations have been made.",
+						}, -- [152]
+						{
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653415,
+							["arg1"] = "Acherus, the stronghold of the Ebon Blade, has moved to Icecrown Citadel. My death gate will take us there.",
+						}, -- [153]
+						{
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653417,
+							["arg1"] = "Nazgrim will tell you of the grim fate that has befallen our allies.",
+						}, -- [154]
+						{
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653423,
+							["arg1"] = "Highlord Bolvar Fordragon has recovered from his battle with Sylvanas Windrunner. He awaits us, along with our allies.",
+						}, -- [155]
+						{
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653448,
+							["arg1"] = "Before her minions abducted key leaders, the Banshee Queen attacked Icecrown. She cut a path to the Frozen Throne and seized the Helm of Domination.",
+						}, -- [156]
+						{
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653460,
+							["arg1"] = "Look to the sky and you will see the results of her actions. I... have never beheld anything like this.",
+						}, -- [157]
+						{
+							["arg2"] = "Lor'themar Theron",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653472,
+							["arg1"] = "...the peace remains tenuous. These are troubled times. Our people need stability--Alliance and Horde alike.",
+						}, -- [158]
+						{
+							["arg2"] = "Highlord Bolvar Fordragon",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653476,
+							["arg1"] = "When the Banshee shattered the helm, it tore a gaping wound through the veil between our world and the Shadowlands.",
+						}, -- [159]
+						{
+							["arg2"] = "Highlord Bolvar Fordragon",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653488,
+							["arg1"] = "During my vigil upon the Frozen Throne, I caught fleeting glimpses into the realms of Death. Among them, I saw a place of inescapable darkness.",
+						}, -- [160]
+						{
+							["arg2"] = "Highlord Bolvar Fordragon",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653505,
+							["arg1"] = "That is where you must go, if you are to save those Sylvanas has taken. Together, we can open the way.",
+						}, -- [161]
+						{
+							["arg2"] = "Highlord Bolvar Fordragon",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653518,
+							["arg1"] = "Place the Shards of Domination around the circle of runes. Then the ritual can begin.",
+						}, -- [162]
+						{
+							["arg2"] = "Highlord Bolvar Fordragon",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653526,
+							["arg1"] = "When the helm rested upon my head, it took all my will to keep its insidious power in check. Many times, I nearly faltered.",
+						}, -- [163]
+						{
+							["arg2"] = "Highlord Bolvar Fordragon",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653539,
+							["arg1"] = "I could sense a dark presence at the edge of my consciousness. Not Arthas... not Ner'zhul. Something... else.",
+						}, -- [164]
+						{
+							["arg2"] = "Highlord Bolvar Fordragon",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653554,
+							["arg1"] = "It is that very presence I sense lurking beyond the shattered sky above.",
+						}, -- [165]
+						{
+							["arg2"] = "Highlord Bolvar Fordragon",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653570,
+							["arg1"] = "I dare not travel with you. Even free of the helm, I fear I would become bound to the will of its true master.",
+						}, -- [166]
+						{
+							["arg2"] = "Highlord Bolvar Fordragon",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653582,
+							["arg1"] = "But this threat cannot be left unchecked. Therefore, you must venture where I cannot.",
+						}, -- [167]
+						{
+							["arg2"] = "Highlord Bolvar Fordragon",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653605,
+							["arg1"] = "The dangers you face will be considerable. Alone, you may well be outmatched.",
+						}, -- [168]
+						{
+							["arg2"] = "Highlord Bolvar Fordragon",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653614,
+							["arg1"] = "To aid in this task, the Knights of the Ebon Blade shall lend you their strength. Darion Mograine has volunteered to fight at your side.",
+						}, -- [169]
+						{
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653628,
+							["arg1"] = "The Ebon Blade does not fear death. Here, or in realms beyond.",
+						}, -- [170]
+						{
+							["arg2"] = "Highlord Bolvar Fordragon",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653633,
+							["arg1"] = "Living mortals were never intended to cross beyond the veil. Where you are going, you may be unable to return.",
+						}, -- [171]
+						{
+							["arg2"] = "Highlord Bolvar Fordragon",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653645,
+							["arg1"] = "But there is no other course. Death comes to claim Azeroth. It falls to you to defend her.",
+						}, -- [172]
+						{
+							["arg2"] = "Highlord Bolvar Fordragon",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653657,
+							["arg1"] = "The time has come. Take up the shattered helm and we will open the rift.",
+						}, -- [173]
+						{
+							["arg2"] = "Highlord Bolvar Fordragon",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653663,
+							["arg1"] = "The path opens!",
+						}, -- [174]
+						{
+							["arg2"] = "Lor'themar Theron",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653668,
+							["arg1"] = "Your courage will be remembered, champion. Al diel shala.",
+						}, -- [175]
+						{
+							["arg2"] = "Genn Greymane",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653673,
+							["arg1"] = "Find those who were taken and bring them home!",
+						}, -- [176]
+						{
+							["arg2"] = "Tyrande Whisperwind",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653680,
+							["arg1"] = "Rescue the others! The Banshee is mine to kill!",
+						}, -- [177]
+						{
+							["arg2"] = "Genn Greymane",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653684,
+							["arg1"] = "Tyrande! Don't do this!",
+						}, -- [178]
+						{
+							["arg2"] = "Tyrande Whisperwind",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653686,
+							["arg1"] = "Tor ilisar'thera'nal!",
+						}, -- [179]
+						{
+							["arg2"] = "Genn Greymane",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653691,
+							["arg1"] = "We cannot lose you... to the darkness.",
+						}, -- [180]
+						{
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653699,
+							["arg1"] = "You made it through the rift. Good. I doubt this mission could succeed without you.",
+						}, -- [181]
+						{
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653705,
+							["arg1"] = "No sign yet of the High Priestess. Perhaps she charged ahead into the chaos.",
+						}, -- [182]
+						{
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653766,
+							["arg1"] = "Fight your way out of here. We will meet you ahead.",
+						}, -- [183]
+						{
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653780,
+							["arg1"] = "Regroup with your fellow knights. We will not be far behind.",
+						}, -- [184]
+						{
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653863,
+							["arg1"] = "We are establishing a forward position. Go, make sure we hold it.",
+						}, -- [185]
+						{
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653883,
+							["arg1"] = "This clarion will signal the Ebon Blade to converge on your foe. Use it wisely.",
+						}, -- [186]
+						{
+							["arg2"] = "Ruiner Maroth",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653934,
+							["arg1"] = "There is no... escape...",
+						}, -- [187]
+						{
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653936,
+							["arg1"] = "We rally up ahead. Go!",
+						}, -- [188]
+						{
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653940,
+							["arg1"] = "We have done all we can here.",
+						}, -- [189]
+						{
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653943,
+							["arg1"] = "Let's get moving--before reinforcements arrive.",
+						}, -- [190]
+						{
+							["arg2"] = "Terrified Soul",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606653964,
+							["arg1"] = "They're... everywhere!",
+						}, -- [191]
+						{
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654100,
+							["arg1"] = "We are vastly outnumbered. Let's try not to draw unwanted attention.",
+						}, -- [192]
+						{
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654107,
+							["arg1"] = "Keep an eye out for clues that point to the whereabouts of our allies.",
+						}, -- [193]
+						{
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654117,
+							["arg1"] = "Frost magic. Looks like the work of our friend the Lord Admiral.",
+						}, -- [194]
+						{
+							["arg2"] = "Terrified Soul",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654120,
+							["arg1"] = "Is there no escape?!",
+						}, -- [195]
+						{
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654122,
+							["arg1"] = "The conflict seems to move in this direction. We should follow the trail before it grows... cold.",
+						}, -- [196]
+						{
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654146,
+							["arg1"] = "More of Lady Proudmoore's handiwork.",
+						}, -- [197]
+						{
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654150,
+							["arg1"] = "It would be unwise to break the enchantment. Let's move along.",
+						}, -- [198]
+						{
+							["arg2"] = "Terrified Soul",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654152,
+							["arg1"] = "I repent! I repent! Please! Spare me this torment!",
+						}, -- [199]
+						{
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654157,
+							["arg1"] = "The Lord Admiral is truly formidable, to have bested one of these monstrosities.",
+						}, -- [200]
+						{
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654162,
+							["arg1"] = "Up ahead! It's Lady Proudmoore!",
+						}, -- [201]
+						{
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654164,
+							["arg1"] = "Hold! What's that up ahead?",
+						}, -- [202]
+						{
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654170,
+							["arg1"] = "Looks like we've secured the Lord Admiral. I'll signal the Ebon Blade to advance.",
+						}, -- [203]
+						{
+							["arg2"] = "Lady Jaina Proudmoore",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654174,
+							["arg1"] = "We can't stay here. Can you walk, Thrall?",
+						}, -- [204]
+						{
+							["arg2"] = "Thrall",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654177,
+							["arg1"] = "I... will manage.",
+						}, -- [205]
+						{
+							["arg2"] = "Thrall",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654181,
+							["arg1"] = "Thank you for coming to my aid, Jaina.",
+						}, -- [206]
+						{
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654184,
+							["arg1"] = "Something's flying at us from above!",
+						}, -- [207]
+						{
+							["arg2"] = "Lady Jaina Proudmoore",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654188,
+							["arg1"] = "They've found us! Be ready!",
+						}, -- [208]
+						{
+							["arg2"] = "Tariesh",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654194,
+							["arg1"] = "Struggle all you like, mortals. You cannot escape your fate!",
+						}, -- [209]
+						{
+							["arg2"] = "Tariesh",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654231,
+							["arg1"] = "Your chains will be eternal!",
+						}, -- [210]
+						{
+							["arg2"] = "Lady Jaina Proudmoore",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654235,
+							["arg1"] = "We're overrun! I'm getting us out of here!",
+						}, -- [211]
+						{
+							["arg2"] = "Lady Jaina Proudmoore",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654246,
+							["arg1"] = "I left some mirror images behind to keep them distracted.",
+						}, -- [212]
+						{
+							["arg2"] = "Lady Jaina Proudmoore",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654250,
+							["arg1"] = "The illusion won't hold for long. Hurry!",
+						}, -- [213]
+						{
+							["arg2"] = "Lady Jaina Proudmoore",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654257,
+							["arg1"] = "There's a cave just around the bend. With any luck, we can reach it before they notice.",
+						}, -- [214]
+						{
+							["arg2"] = "Thrall",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654261,
+							["arg1"] = "Let's hope so. Our captors won't be pleased you've managed to slip past them again.",
+						}, -- [215]
+						{
+							["arg2"] = "Tariesh",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654267,
+							["arg1"] = "You will not evade our grasp, mortals!",
+						}, -- [216]
+						{
+							["arg2"] = "Lady Jaina Proudmoore",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654275,
+							["arg1"] = "Well, there goes our luck!",
+						}, -- [217]
+						{
+							["arg2"] = "Lady Jaina Proudmoore",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654291,
+							["arg1"] = "So much for remaining unnoticed. Let's hurry.",
+						}, -- [218]
+						{
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654295,
+							["arg1"] = "What did Thrall mean by \"slip past them again\"? You've escaped before?",
+						}, -- [219]
+						{
+							["arg2"] = "Lady Jaina Proudmoore",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654301,
+							["arg1"] = "Indeed. I've broken free countless times, only to end up back in a cage.",
+						}, -- [220]
+						{
+							["arg2"] = "Lady Jaina Proudmoore",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654307,
+							["arg1"] = "I've hidden inside this cave before. We can't stay long, but it should buy us a little time.",
+						}, -- [221]
+						{
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654333,
+							["arg1"] = "Lord Admiral, before we found you, did you see any sign of the Night Warrior?",
+						}, -- [222]
+						{
+							["arg2"] = "Lady Jaina Proudmoore",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654338,
+							["arg1"] = "Tyrande? Here? No, I have not.",
+						}, -- [223]
+						{
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654342,
+							["arg1"] = "She leapt into the rift just ahead of us. She vowed to find Sylvanas Windrunner... at any cost.",
+						}, -- [224]
+						{
+							["arg2"] = "Lady Jaina Proudmoore",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654350,
+							["arg1"] = "That is troubling. An ancient ritual infused her with incredible power. I fear it may be growing beyond her ability to contain it.",
+						}, -- [225]
+						{
+							["arg2"] = "Tariesh",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654362,
+							["arg1"] = "Your cell awaits, mage! The Jailer has plans for you!",
+						}, -- [226]
+						{
+							["arg2"] = "Lady Jaina Proudmoore",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654368,
+							["arg1"] = "I've had enough of your cages, fiend!",
+						}, -- [227]
+						{
+							["arg2"] = "Tariesh",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654371,
+							["arg1"] = "There is nowhere to run! Nothing escapes the Maw!",
+						}, -- [228]
+						{
+							["arg2"] = "Tariesh",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654392,
+							["arg1"] = "These allies of yours are insignificant. You will all end up in chains!",
+						}, -- [229]
+						{
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654400,
+							["arg1"] = "Not if we end you first!",
+						}, -- [230]
+						{
+							["arg2"] = "Tariesh",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654405,
+							["arg1"] = "It is useless... to resist...",
+						}, -- [231]
+						{
+							["arg2"] = "Lady Jaina Proudmoore",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654409,
+							["arg1"] = "In here!",
+						}, -- [232]
+						{
+							["arg2"] = "Lady Jaina Proudmoore",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654423,
+							["arg1"] = "We should be safe enough here for the moment.",
+						}, -- [233]
+						{
+							["arg2"] = "Lady Jaina Proudmoore",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654427,
+							["arg1"] = "When you first arrived, I wasn't sure if you were even real... or if you were just another illusion meant to torment us.",
+						}, -- [234]
+						{
+							["arg2"] = "Lady Jaina Proudmoore",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654437,
+							["arg1"] = "I was beginning to lose hope that I'd see anyone from our world again.",
+						}, -- [235]
+						{
+							["arg2"] = "Lady Jaina Proudmoore",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654454,
+							["arg1"] = "Very well... where to begin?",
+						}, -- [236]
+						{
+							["arg2"] = "Lady Jaina Proudmoore",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654458,
+							["arg1"] = "Denizens call this realm \"the Maw.\" From what I have gathered, it was intended as a prison for the most foul, irredeemable souls that ever existed.",
+						}, -- [237]
+						{
+							["arg2"] = "Thrall",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654469,
+							["arg1"] = "Something has changed. Pure, noble souls are being held captive here as well. They cry out in torment.",
+						}, -- [238]
+						{
+							["arg2"] = "Lady Jaina Proudmoore",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654478,
+							["arg1"] = "Indeed. And one of their tormentors--and ours--is Sylvanas Windrunner.",
+						}, -- [239]
+						{
+							["arg2"] = "Lady Jaina Proudmoore",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654485,
+							["arg1"] = "It seems she has made a powerful ally. The shades whisper of someone called... the Jailer.",
+						}, -- [240]
+						{
+							["arg2"] = "Lady Jaina Proudmoore",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654491,
+							["arg1"] = "The Jailer rules this realm. We know little about him, but it's clear he has taken a special interest in us.",
+						}, -- [241]
+						{
+							["arg2"] = "Lady Jaina Proudmoore",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654499,
+							["arg1"] = "He has personally overseen our... treatment here.",
+						}, -- [242]
+						{
+							["arg2"] = "Thrall",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654504,
+							["arg1"] = "We have endured countless torments. At times, it felt as if we were being tested. Though for what purpose, I cannot say.",
+						}, -- [243]
+						{
+							["arg2"] = "Lady Jaina Proudmoore",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654515,
+							["arg1"] = "Whatever this Jailer and the Banshee are planning, it won't end well... for any of us.",
+						}, -- [244]
+						{
+							["arg2"] = "Lady Jaina Proudmoore",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654520,
+							["arg1"] = "I caught glimpses of Baine and Anduin during my attempts to break free. They live... that's all I know for certain.",
+						}, -- [245]
+						{
+							["arg2"] = "Lady Jaina Proudmoore",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654527,
+							["arg1"] = "But I have found no means of leaving the Maw. I can only manage to teleport short distances. This nightmare feels... inescapable.",
+						}, -- [246]
+						{
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654538,
+							["arg1"] = "Countless souls are now pouring into this realm. But some have been here for untold ages. Perhaps one of them knows a way out.",
 						}, -- [247]
 						{
-							["arg1"] = " ",
+							["arg2"] = "Lady Jaina Proudmoore",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654547,
+							["arg1"] = "I can scarcely imagine the horrors such spirits have endured. I fear there's nothing left of them to save.",
 						}, -- [248]
 						{
-							["arg1"] = " ",
+							["arg2"] = "Lady Jaina Proudmoore",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654555,
+							["arg1"] = "They manifest as malevolent shades that wander the darkness. I doubt they'd willingly help us.",
 						}, -- [249]
 						{
-							["arg1"] = "Logging started on 11/20/2019 at 09:39:06.",
-							["type"] = "SYSTEM",
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_SAY",
+							["time"] = 1606654562,
+							["arg1"] = "Knights of the Ebon Blade have ways to compel the dead to speak. If we seize one of them, we can extract its secrets.",
 						}, -- [250]
 					},
 				}, -- [4]
 				{
 					["enabled"] = true,
-					["hasMessage"] = false,
+					["hasMessage"] = true,
 					["name"] = "Yell",
 					["logs"] = {
-						{
-							["arg2"] = "G'huun",
-							["type"] = "MONSTER_YELL",
-							["time"] = 1539811078,
-							["arg1"] = "Log'loth w'oq Ongg!",
-						}, -- [1]
-						{
-							["arg2"] = "G'huun",
-							["type"] = "MONSTER_YELL",
-							["time"] = 1539811107,
-							["arg1"] = "Log'loth w'oq Ongg!",
-						}, -- [2]
 						{
 							["arg2"] = "MOTHER",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811107,
 							["arg1"] = "A power matrix is ready for acquisition.",
-						}, -- [3]
+						}, -- [1]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811135,
 							["arg1"] = "Log'loth w'oq Ongg!",
-						}, -- [4]
+						}, -- [2]
 						{
 							["arg2"] = "MOTHER",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811138,
 							["arg1"] = "Attention. A new power matrix is available.",
-						}, -- [5]
+						}, -- [3]
 						{
 							["arg2"] = "MOTHER",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811160,
 							["arg1"] = "Warning. Reorigination blast imminent. Please clear the area.",
-						}, -- [6]
+						}, -- [4]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811190,
 							["arg1"] = "Zuq ag'xig bormaz ag'thyzak!",
-						}, -- [7]
+						}, -- [5]
 						{
 							["arg2"] = "MOTHER",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811203,
 							["arg1"] = "A new power matrix can now be collected.",
-						}, -- [8]
+						}, -- [6]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811243,
 							["arg1"] = "Qam oou uhnish kyth zuq Ongg za fhssh as'rr.",
-						}, -- [9]
+						}, -- [7]
 						{
 							["arg2"] = "MOTHER",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811280,
 							["arg1"] = "Attention. A new power matrix is available.",
-						}, -- [10]
+						}, -- [8]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811291,
 							["arg1"] = "Ywaq zuq ywag shn'ma Bo'al za qwor.",
-						}, -- [11]
+						}, -- [9]
 						{
 							["arg2"] = "Mezo-LaughingSkull",
 							["type"] = "YELL",
 							["time"] = 1539811291,
 							["arg1"] = "Blood Feast on Mezo",
 							["clColor"] = "ffc69b6d",
-						}, -- [12]
+						}, -- [10]
 						{
 							["arg2"] = "Mezo-LaughingSkull",
 							["type"] = "YELL",
 							["time"] = 1539811296,
 							["arg1"] = "{rt7}3",
 							["clColor"] = "ffc69b6d",
-						}, -- [13]
+						}, -- [11]
 						{
 							["arg2"] = "Mezo-LaughingSkull",
 							["type"] = "YELL",
 							["time"] = 1539811297,
 							["arg1"] = "{rt7}2",
 							["clColor"] = "ffc69b6d",
-						}, -- [14]
+						}, -- [12]
 						{
 							["arg2"] = "Mezo-LaughingSkull",
 							["type"] = "YELL",
 							["time"] = 1539811298,
 							["arg1"] = "{rt7}1",
 							["clColor"] = "ffc69b6d",
-						}, -- [15]
+						}, -- [13]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811339,
 							["arg1"] = "Qam oou uhnish kyth zuq Ongg za fhssh as'rr.",
-						}, -- [16]
+						}, -- [14]
 						{
 							["arg2"] = "Darthion-Ahn'Qiraj",
 							["type"] = "YELL",
 							["time"] = 1539811339,
 							["arg1"] = "Blood Feast on Darthion",
 							["clColor"] = "ffc41e3a",
-						}, -- [17]
+						}, -- [15]
 						{
 							["arg2"] = "Darthion-Ahn'Qiraj",
 							["type"] = "YELL",
 							["time"] = 1539811344,
 							["arg1"] = "Blood Feast fading in 3",
 							["clColor"] = "ffc41e3a",
-						}, -- [18]
+						}, -- [16]
 						{
 							["arg2"] = "Darthion-Ahn'Qiraj",
 							["type"] = "YELL",
 							["time"] = 1539811345,
 							["arg1"] = "Blood Feast fading in 2",
 							["clColor"] = "ffc41e3a",
-						}, -- [19]
+						}, -- [17]
 						{
 							["arg2"] = "MOTHER",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811346,
 							["arg1"] = "A new power matrix can now be collected.",
-						}, -- [20]
+						}, -- [18]
 						{
 							["arg2"] = "Darthion-Ahn'Qiraj",
 							["type"] = "YELL",
 							["time"] = 1539811346,
 							["arg1"] = "Blood Feast fading in 1",
 							["clColor"] = "ffc41e3a",
-						}, -- [21]
+						}, -- [19]
 						{
 							["arg2"] = "MOTHER",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811382,
 							["arg1"] = "Alert. Reorgination blast sequence initiated. Please vacate the area.",
-						}, -- [22]
+						}, -- [20]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811386,
 							["arg1"] = "Ywaq ongg an'qov i lal halahs nuq.",
-						}, -- [23]
+						}, -- [21]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811410,
 							["arg1"] = "Oou vwahuHn ag'xig shfk zuq!",
-						}, -- [24]
+						}, -- [22]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811432,
 							["arg1"] = "Awtgssh shn ongg shg'ullwaq!",
-						}, -- [25]
+						}, -- [23]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811434,
 							["arg1"] = "Ywaq ongg an'qov i lal halahs nuq.",
-						}, -- [26]
+						}, -- [24]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811449,
 							["arg1"] = "Ywaq ongg an'qov i lal halahs nuq.",
-						}, -- [27]
+						}, -- [25]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811462,
 							["arg1"] = "Vwah oou kaaxth zz ywaq iiyoq Ag'xlg fhssh I on'ma.",
-						}, -- [28]
+						}, -- [26]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811471,
 							["arg1"] = "Ywaq ongg an'qov i lal halahs nuq.",
-						}, -- [29]
+						}, -- [27]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811486,
 							["arg1"] = "Ywaq mh'naus wgah zaix zyqtahg.",
-						}, -- [30]
+						}, -- [28]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811494,
 							["arg1"] = "Vwah oou kaaxth zz ywaq iiyoq Ag'xlg fhssh I on'ma.",
-						}, -- [31]
+						}, -- [29]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811513,
 							["arg1"] = "Ywaq mh'naus wgah zaix zyqtahg.",
-						}, -- [32]
+						}, -- [30]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811527,
 							["arg1"] = "Za awtgsshu wgah uulg'ma ywaq zaix.",
-						}, -- [33]
+						}, -- [31]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811534,
 							["arg1"] = "Ywaq mh'naus wgah zaix zyqtahg.",
-						}, -- [34]
+						}, -- [32]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811545,
 							["arg1"] = "Ywaq ongg an'qov i lal halahs nuq.",
-						}, -- [35]
+						}, -- [33]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811558,
 							["arg1"] = "I ongg za ywaq qvsakf.",
-						}, -- [36]
+						}, -- [34]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811564,
 							["arg1"] = "Ywaq ongg an'qov i lal halahs nuq.",
-						}, -- [37]
+						}, -- [35]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811580,
 							["arg1"] = "Ywaq ongg an'qov i lal halahs nuq.",
-						}, -- [38]
+						}, -- [36]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811590,
 							["arg1"] = "I ongg za ywaq qvsakf.",
-						}, -- [39]
+						}, -- [37]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811604,
 							["arg1"] = "Ywaq mh'naus wgah zaix zyqtahg.",
-						}, -- [40]
+						}, -- [38]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811616,
 							["arg1"] = "Ywaq mh'naus wgah zaix zyqtahg.",
-						}, -- [41]
+						}, -- [39]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811623,
 							["arg1"] = "Za awtgsshu wgah uulg'ma ywaq zaix.",
-						}, -- [42]
+						}, -- [40]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811627,
 							["arg1"] = "Ywaq mh'naus wgah zaix zyqtahg.",
-						}, -- [43]
+						}, -- [41]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811628,
 							["arg1"] = "Oou shath'yar lwhuk shn'ma yrr shandi agth fhssh.",
-						}, -- [44]
+						}, -- [42]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811736,
 							["arg1"] = "Oou gul'kafh lal lwhuk!",
-						}, -- [45]
+						}, -- [43]
 						{
 							["arg2"] = "MOTHER",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811747,
 							["arg1"] = "A new power matrix can now be collected.",
-						}, -- [46]
+						}, -- [44]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811766,
 							["arg1"] = "W'oq uhn'agth ez qam Shandai!",
-						}, -- [47]
+						}, -- [45]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811795,
 							["arg1"] = "Qam oou iilth ez i awtgsshu amun on'ma!",
-						}, -- [48]
+						}, -- [46]
 						{
 							["arg2"] = "MOTHER",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811796,
 							["arg1"] = "A new power matrix can now be collected.",
-						}, -- [49]
+						}, -- [47]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811823,
 							["arg1"] = "W'oq uhn'agth ez qam Shandai!",
-						}, -- [50]
+						}, -- [48]
 						{
 							["arg2"] = "MOTHER",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811843,
 							["arg1"] = "Attention. A new power matrix is available.",
-						}, -- [51]
+						}, -- [49]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811849,
 							["arg1"] = "W'oq uhn'agth ez qam Shandai!",
-						}, -- [52]
+						}, -- [50]
 						{
 							["arg2"] = "MOTHER",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811869,
 							["arg1"] = "Warning. Reorigination blast imminent. Please clear the area.",
-						}, -- [53]
+						}, -- [51]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811900,
 							["arg1"] = "Zuq ag'xig bormaz ag'thyzak!",
-						}, -- [54]
+						}, -- [52]
 						{
 							["arg2"] = "MOTHER",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811912,
 							["arg1"] = "A power matrix is ready for acquisition.",
-						}, -- [55]
+						}, -- [53]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811954,
 							["arg1"] = "Oou qam puul zyqtahg ywaq vorzz Qam ma shn'ma.",
-						}, -- [56]
+						}, -- [54]
 						{
 							["arg2"] = "MOTHER",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811955,
 							["arg1"] = "A new power matrix can now be collected.",
-						}, -- [57]
+						}, -- [55]
 						{
 							["arg2"] = "MOTHER",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539811998,
 							["arg1"] = "A power matrix is ready for acquisition.",
-						}, -- [58]
+						}, -- [56]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812002,
 							["arg1"] = "Ywaq zuq ywag shn'ma Bo'al za qwor.",
-						}, -- [59]
+						}, -- [57]
 						{
 							["arg2"] = "MOTHER",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812025,
 							["arg1"] = "Alert. Reorgination blast sequence initiated. Please vacate the area.",
-						}, -- [60]
+						}, -- [58]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812054,
 							["arg1"] = "Oou vwahuHn ag'xig shfk zuq!",
-						}, -- [61]
+						}, -- [59]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812076,
 							["arg1"] = "Awtgssh shn ongg shg'ullwaq!",
-						}, -- [62]
+						}, -- [60]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812091,
 							["arg1"] = "Ywaq ongg an'qov i lal halahs nuq.",
-						}, -- [63]
+						}, -- [61]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812106,
 							["arg1"] = "Za awtgsshu wgah uulg'ma ywaq zaix.",
-						}, -- [64]
+						}, -- [62]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812138,
 							["arg1"] = "Za awtgsshu wgah uulg'ma ywaq zaix.",
-						}, -- [65]
+						}, -- [63]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812156,
 							["arg1"] = "Ywaq ongg an'qov i lal halahs nuq.",
-						}, -- [66]
+						}, -- [64]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812167,
 							["arg1"] = "Ywaq ongg an'qov i lal halahs nuq.",
-						}, -- [67]
+						}, -- [65]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812171,
 							["arg1"] = "I ongg za ywaq qvsakf.",
-						}, -- [68]
+						}, -- [66]
 						{
 							["arg2"] = "G'huun",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812173,
 							["arg1"] = "Oou thyzz lal ak'uq qwaz Zuq shkul ma sk'tek...",
-						}, -- [69]
+						}, -- [67]
 						{
 							["arg2"] = "Princess Talanji",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812757,
 							["arg1"] = "Behold de blood of G'huun. By his will were borne de deaths of Shadra, Hi'reek, Torga, and ...and Rezan.",
-						}, -- [70]
+						}, -- [68]
 						{
 							["arg2"] = "Princess Talanji",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812770,
 							["arg1"] = "By his will were borne de deaths of so many of our brothers and sisters.",
-						}, -- [71]
+						}, -- [69]
 						{
 							["arg2"] = "Princess Talanji",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812779,
 							["arg1"] = "Let dis glaive be displayed as a reminder dat no matter how far we fall, no matter how much we lose, we are Zandalari!\nWe adapt, we find a way to survive!",
-						}, -- [72]
+						}, -- [70]
 						{
 							["arg2"] = "Princess Talanji",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812797,
 							["arg1"] = "If it were not for dis hero of de Horde, our losses would have been far worse.\nDis proves, more than ever, dat it is time for us to adapt, to become part of de world again.",
-						}, -- [73]
+						}, -- [71]
 						{
 							["arg2"] = "Princess Talanji",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812814,
 							["arg1"] = "Zandalar forever!",
+						}, -- [72]
+						{
+							["arg1"] = " ",
+						}, -- [73]
+						{
+							["arg1"] = " ",
 						}, -- [74]
 						{
-							["arg1"] = " ",
-						}, -- [75]
-						{
-							["arg1"] = " ",
-						}, -- [76]
-						{
-							["arg1"] = "Logging started on 10/26/2018 at 12:56:45.",
 							["type"] = "SYSTEM",
-						}, -- [77]
+							["arg1"] = "Logging started on 10/26/2018 at 12:56:45.",
+						}, -- [75]
 						{
 							["arg2"] = "Warlord Zakgra",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551703,
 							["arg1"] = "This way! A glorious battle awaits!",
-						}, -- [78]
+						}, -- [76]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551715,
 							["arg1"] = "Years ago, all of dis land belonged to da trolls.",
-						}, -- [79]
+						}, -- [77]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551720,
 							["arg1"] = "Today, it belongs to da Horde!",
-						}, -- [80]
+						}, -- [78]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551742,
 							["arg1"] = "Shadows consume you.",
-						}, -- [81]
+						}, -- [79]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551769,
 							["arg1"] = "Da hunt begins!",
-						}, -- [82]
+						}, -- [80]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551769,
 							["arg1"] = "Ah, victory! It taste sweet, mon!",
-						}, -- [83]
+						}, -- [81]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551850,
 							["arg1"] = "Good. We gonna use da lumber from Hatchet Ridge ta build our stronghold.",
-						}, -- [84]
+						}, -- [82]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551864,
 							["arg1"] = "Drywhisker Mine belongs to da Horde.",
-						}, -- [85]
+						}, -- [83]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551949,
 							["arg1"] = "Da stronghold be needin' reinforcement. Hold dem forces back before dey get too close!",
-						}, -- [86]
+						}, -- [84]
 						{
 							["arg2"] = "Throk",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551953,
 							["arg1"] = "See me at the Barracks when you're ready to train our army.",
-						}, -- [87]
+						}, -- [85]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551975,
 							["arg1"] = "Da Altar o' Storms be ready.",
-						}, -- [88]
+						}, -- [86]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552004,
 							["arg1"] = "Armory be good ta go, mon.",
-						}, -- [89]
+						}, -- [87]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552008,
 							["arg1"] = "Watch da shadows, Alliance scum. Da Horde be comin' for you...",
-						}, -- [90]
+						}, -- [88]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552112,
 							["arg1"] = "We be upgradin' da Great Hall to a Stronghold.",
-						}, -- [91]
+						}, -- [89]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552147,
 							["arg1"] = "Newstead be ours... an' wit' it, da wolf riders.",
-						}, -- [92]
+						}, -- [90]
 						{
 							["arg2"] = "Raider Zugg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552153,
 							["arg1"] = "Secure the area!",
-						}, -- [93]
+						}, -- [91]
 						{
 							["arg2"] = "Gwyndra Wildhammer",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552241,
 							["arg1"] = "The skies... call.",
-						}, -- [94]
+						}, -- [92]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552271,
 							["arg1"] = "Hold the Perch and the skies are ours!",
-						}, -- [95]
+						}, -- [93]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552272,
 							["arg1"] = "High Perch be ours, Turalyon. Da shadows draw closer...",
-						}, -- [96]
+						}, -- [94]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552275,
 							["arg1"] = "Let them try and break our defenses!",
-						}, -- [97]
+						}, -- [95]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552278,
 							["arg1"] = "Yet the Light still shines over Stromgarde.",
-						}, -- [98]
+						}, -- [96]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552297,
 							["arg1"] = "Da Workshop be done. Our demolishers gonna make quick work o' da Alliance walls!",
-						}, -- [99]
+						}, -- [97]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552456,
 							["arg1"] = "Da Circle of Elements be under da Horde's control now.",
-						}, -- [100]
+						}, -- [98]
 						{
 							["arg2"] = "Wistel Silversnitch",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552544,
 							["arg1"] = "The Motherlode is safe and sound. Come grab your share!",
-						}, -- [101]
+						}, -- [99]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552562,
 							["arg1"] = "Da Stronghold be a Fortress now!",
-						}, -- [102]
+						}, -- [100]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552579,
 							["arg1"] = "Send in da demolishers! No Light gonna protect dat paladin from da might of da Horde!",
-						}, -- [103]
+						}, -- [101]
 						{
 							["arg2"] = "Warbringer Kro'goth",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552580,
 							["arg1"] = "Hold your ground! If anything moves, kill it!",
-						}, -- [104]
+						}, -- [102]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552587,
 							["arg1"] = "Light will always defeat Shadow, Rokhan. Defenders, forward!",
-						}, -- [105]
+						}, -- [103]
 						{
 							["arg2"] = "Nied",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552662,
 							["arg1"] = "I, Gamon, will save us!",
 							["clColor"] = "ffff7c0a",
-						}, -- [106]
+						}, -- [104]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552764,
 							["arg1"] = "Da gate be down! Storm da fortress!",
-						}, -- [107]
+						}, -- [105]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552824,
 							["arg1"] = "For the Light!",
-						}, -- [108]
+						}, -- [106]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552832,
 							["arg1"] = "By the Light, be purged!",
-						}, -- [109]
+						}, -- [107]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552836,
 							["arg1"] = "Scurry from the Light, vermin!",
-						}, -- [110]
+						}, -- [108]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552873,
 							["arg1"] = "For da Horde!",
-						}, -- [111]
+						}, -- [109]
 						{
 							["arg2"] = "Tally Zapnabber",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540553170,
 							["arg1"] = "Oh, I... I'm... Not sure we should be doing this!",
-						}, -- [112]
+						}, -- [110]
 						{
 							["arg2"] = "Nettlevine Sprite",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540553188,
 							["arg1"] = "Come and play with us!",
-						}, -- [113]
+						}, -- [111]
 						{
 							["arg2"] = "Dizzy Dina",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540553206,
 							["arg1"] = "Hostiles on the move.",
-						}, -- [114]
+						}, -- [112]
 						{
 							["arg2"] = "Gimzy Trickelbank",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540553246,
 							["arg1"] = "You there! You gotta help me out, hon! I'm all alone here, desperate, you know?",
-						}, -- [115]
+						}, -- [113]
 						{
 							["arg2"] = "Gimzy Trickelbank",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540553288,
 							["arg1"] = "You there! You gotta help me out, hon! I'm all alone here, desperate, you know?",
-						}, -- [116]
+						}, -- [114]
 						{
 							["arg2"] = "Vizio the Cartographer",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540553384,
 							["arg1"] = "How droll, I've mapped myself into a corner!",
-						}, -- [117]
+						}, -- [115]
 						{
 							["arg2"] = "Maguu-TwistingNether",
 							["type"] = "YELL",
 							["time"] = 1540555608,
 							["arg1"] = "TONIGHT WE DINE IN HELL BOYS",
 							["clColor"] = "ff00ff96",
-						}, -- [118]
+						}, -- [116]
 						{
 							["arg2"] = "Daphnae-Kazzak",
 							["type"] = "YELL",
 							["time"] = 1540555630,
 							["arg1"] = "it is morning here sorry girls",
 							["clColor"] = "fff48cba",
-						}, -- [119]
+						}, -- [117]
 						{
 							["arg2"] = "Maguu-TwistingNether",
 							["type"] = "YELL",
 							["time"] = 1540555642,
 							["arg1"] = "sorry",
 							["clColor"] = "ff00ff96",
-						}, -- [120]
+						}, -- [118]
 						{
 							["arg2"] = "Warlord Zakgra",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540555668,
 							["arg1"] = "This way! A glorious battle awaits!",
-						}, -- [121]
+						}, -- [119]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540555680,
 							["arg1"] = "Years ago, all of dis land belonged to da trolls.",
-						}, -- [122]
+						}, -- [120]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540555686,
 							["arg1"] = "Today, it belongs to da Horde!",
-						}, -- [123]
+						}, -- [121]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540555851,
 							["arg1"] = "Drywhisker Mine belongs to da Horde.",
-						}, -- [124]
+						}, -- [122]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540555859,
 							["arg1"] = "Good. We gonna use da lumber from Hatchet Ridge ta build our stronghold.",
-						}, -- [125]
+						}, -- [123]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540555938,
 							["arg1"] = "Da barracks be ready. Dis war gonna be won on da backs o' da grunts.",
-						}, -- [126]
+						}, -- [124]
 						{
 							["arg2"] = "Throk",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540555938,
 							["arg1"] = "We'll need reinforcements to win this war.",
-						}, -- [127]
+						}, -- [125]
 						{
 							["arg2"] = "Throk",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540555951,
 							["arg1"] = "See me at the Barracks when you're ready to train our army.",
-						}, -- [128]
+						}, -- [126]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556036,
 							["arg1"] = "Da stronghold be needin' reinforcement. Hold dem forces back before dey get too close!",
-						}, -- [129]
+						}, -- [127]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556060,
 							["arg1"] = "Armory be good ta go, mon.",
-						}, -- [130]
+						}, -- [128]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556078,
 							["arg1"] = "Da Altar o' Storms be ready.",
-						}, -- [131]
+						}, -- [129]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556098,
 							["arg1"] = "Watch da shadows, Alliance scum. Da Horde be comin' for you...",
-						}, -- [132]
+						}, -- [130]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556136,
 							["arg1"] = "We be upgradin' da Great Hall to a Stronghold.",
-						}, -- [133]
+						}, -- [131]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556271,
 							["arg1"] = "Da Workshop be done. Our demolishers gonna make quick work o' da Alliance walls!",
-						}, -- [134]
+						}, -- [132]
 						{
 							["arg2"] = "Gwyndra Wildhammer",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556283,
 							["arg1"] = "The skies... call.",
-						}, -- [135]
+						}, -- [133]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556295,
 							["arg1"] = "Hold the Perch and the skies are ours!",
-						}, -- [136]
+						}, -- [134]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556295,
 							["arg1"] = "High Perch be ours, Turalyon. Da shadows draw closer...",
-						}, -- [137]
+						}, -- [135]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556299,
 							["arg1"] = "Let them try and break our defenses!",
-						}, -- [138]
+						}, -- [136]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556302,
 							["arg1"] = "Yet the Light still shines over Stromgarde.",
-						}, -- [139]
+						}, -- [137]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556556,
 							["arg1"] = "Newstead be ours... an' wit' it, da wolf riders.",
-						}, -- [140]
+						}, -- [138]
 						{
 							["arg2"] = "Raider Zugg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556575,
 							["arg1"] = "Secure the area!",
-						}, -- [141]
+						}, -- [139]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556586,
 							["arg1"] = "Da Circle of Elements be under da Horde's control now.",
-						}, -- [142]
+						}, -- [140]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556638,
 							["arg1"] = "Da Stronghold be a Fortress now!",
-						}, -- [143]
+						}, -- [141]
 						{
 							["arg2"] = "Gwyndra Wildhammer",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556755,
 							["arg1"] = "The skies... call.",
-						}, -- [144]
+						}, -- [142]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556764,
 							["arg1"] = "Hold the Perch and the skies are ours!",
-						}, -- [145]
+						}, -- [143]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556768,
 							["arg1"] = "Let them try and break our defenses!",
-						}, -- [146]
+						}, -- [144]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556848,
 							["arg1"] = "Send in da demolishers! No Light gonna protect dat paladin from da might of da Horde!",
-						}, -- [147]
+						}, -- [145]
 						{
 							["arg2"] = "Warbringer Kro'goth",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556851,
 							["arg1"] = "Hold your ground! If anything moves, kill it!",
-						}, -- [148]
+						}, -- [146]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556857,
 							["arg1"] = "Light will always defeat Shadow, Rokhan. Defenders, forward!",
-						}, -- [149]
+						}, -- [147]
 						{
 							["arg2"] = "Horde Grunt",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556949,
 							["arg1"] = "Blood and honor!",
-						}, -- [150]
+						}, -- [148]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540557047,
 							["arg1"] = "Da gate be down! Storm da fortress!",
-						}, -- [151]
+						}, -- [149]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540557093,
 							["arg1"] = "For the Light!",
-						}, -- [152]
+						}, -- [150]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540557103,
 							["arg1"] = "By the Light's might!",
-						}, -- [153]
+						}, -- [151]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540557115,
 							["arg1"] = "By the Light, be purged!",
-						}, -- [154]
+						}, -- [152]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540557131,
 							["arg1"] = "By the Light, be purged!",
-						}, -- [155]
+						}, -- [153]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540557137,
 							["arg1"] = "Stromgarde may be lost, but the Alliance will never fall.",
-						}, -- [156]
+						}, -- [154]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540557137,
 							["arg1"] = "For da Horde!",
+						}, -- [155]
+						{
+							["arg1"] = " ",
+						}, -- [156]
+						{
+							["arg1"] = " ",
 						}, -- [157]
 						{
-							["arg1"] = " ",
-						}, -- [158]
-						{
-							["arg1"] = " ",
-						}, -- [159]
-						{
-							["arg1"] = "Logging started on 10/27/2018 at 13:29:02.",
 							["type"] = "SYSTEM",
-						}, -- [160]
+							["arg1"] = "Logging started on 10/27/2018 at 13:29:02.",
+						}, -- [158]
 						{
 							["arg2"] = "Yuke",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540640255,
 							["arg1"] = "Everyone at the academy is going to make fun of me for this! Oh, Yuke, you're so clumsy!",
-						}, -- [161]
+						}, -- [159]
 						{
 							["arg2"] = "Fenrae the Cunning",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540640306,
 							["arg1"] = "Go for their throats!",
-						}, -- [162]
+						}, -- [160]
 						{
 							["arg2"] = "Gunnolf the Ferocious",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540640325,
 							["arg1"] = "I can smell your fear.",
-						}, -- [163]
+						}, -- [161]
 						{
 							["arg2"] = "Raul the Tenacious",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540640382,
 							["arg1"] = "*Laughs* Just run for it, Hordies. We won't chase you!",
-						}, -- [164]
+						}, -- [162]
 						{
 							["arg2"] = "Mischievous Flood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540640474,
 							["arg1"] = "Got you!",
-						}, -- [165]
+						}, -- [163]
 						{
 							["arg2"] = "Grezla Bloodfury",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540641974,
 							["arg1"] = "Hold the line! Nothing gets through!",
-						}, -- [166]
+						}, -- [164]
 						{
 							["arg2"] = "Gwyndra Wildhammer",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642031,
 							["arg1"] = "The skies... call.",
-						}, -- [167]
+						}, -- [165]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642042,
 							["arg1"] = "Hold the Perch and the skies are ours!",
-						}, -- [168]
+						}, -- [166]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642042,
 							["arg1"] = "High Perch be ours, Turalyon. Da shadows draw closer...",
-						}, -- [169]
+						}, -- [167]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642046,
 							["arg1"] = "Let them try and break our defenses!",
-						}, -- [170]
+						}, -- [168]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642049,
 							["arg1"] = "Yet the Light still shines over Stromgarde.",
-						}, -- [171]
+						}, -- [169]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642081,
 							["arg1"] = "Newstead be ours... an' wit' it, da wolf riders.",
-						}, -- [172]
+						}, -- [170]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642259,
 							["arg1"] = "Da Circle of Elements be under da Horde's control now.",
-						}, -- [173]
+						}, -- [171]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642276,
 							["arg1"] = "Send in da demolishers! No Light gonna protect dat paladin from da might of da Horde!",
-						}, -- [174]
+						}, -- [172]
 						{
 							["arg2"] = "Warbringer Kro'goth",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642278,
 							["arg1"] = "Hold your ground! If anything moves, kill it!",
-						}, -- [175]
+						}, -- [173]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642285,
 							["arg1"] = "Light will always defeat Shadow, Rokhan. Defenders, forward!",
-						}, -- [176]
+						}, -- [174]
 						{
 							["arg2"] = "Darkspear Shadow Hunter",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642375,
 							["arg1"] = "This way! To battle!",
-						}, -- [177]
+						}, -- [175]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642451,
 							["arg1"] = "Da gate be down! Storm da fortress!",
-						}, -- [178]
+						}, -- [176]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642511,
 							["arg1"] = "For the Light!",
-						}, -- [179]
+						}, -- [177]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642518,
 							["arg1"] = "Let the Light cleanse you!",
-						}, -- [180]
+						}, -- [178]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642597,
 							["arg1"] = "By the Light, be purged!",
-						}, -- [181]
+						}, -- [179]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642602,
 							["arg1"] = "Stromgarde may be lost, but the Alliance will never fall.",
-						}, -- [182]
+						}, -- [180]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642602,
 							["arg1"] = "For da Horde!",
+						}, -- [181]
+						{
+							["arg1"] = " ",
+						}, -- [182]
+						{
+							["arg1"] = " ",
 						}, -- [183]
 						{
-							["arg1"] = " ",
-						}, -- [184]
-						{
-							["arg1"] = " ",
-						}, -- [185]
-						{
-							["arg1"] = "Logging started on 11/01/2018 at 08:52:29.",
 							["type"] = "SYSTEM",
-						}, -- [186]
+							["arg1"] = "Logging started on 11/01/2018 at 08:52:29.",
+						}, -- [184]
 						{
 							["arg2"] = "Tally Zapnabber",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541059216,
 							["arg1"] = "Oh, I... I'm... Not sure we should be doing this!",
-						}, -- [187]
+						}, -- [185]
 						{
 							["arg2"] = "Dizzy Dina",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541059511,
 							["arg1"] = "Hostiles on the move.",
-						}, -- [188]
+						}, -- [186]
 						{
 							["arg2"] = "Razak Ironsides",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541059539,
 							["arg1"] = "They've taken out my mechanostrider! Fall back!",
-						}, -- [189]
+						}, -- [187]
 						{
 							["arg2"] = "Tally Zapnabber",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541059562,
 							["arg1"] = "Oh, I... I'm... Not sure we should be doing this!",
-						}, -- [190]
+						}, -- [188]
 						{
 							["arg2"] = "Fenrae the Cunning",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541061794,
 							["arg1"] = "Go for their throats!",
-						}, -- [191]
+						}, -- [189]
 						{
 							["arg2"] = "Raul the Tenacious",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541061804,
 							["arg1"] = "Someone's gotta lick your wounds.",
-						}, -- [192]
+						}, -- [190]
 						{
 							["arg2"] = "Unleashed Tidebreaker",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541064793,
 							["arg1"] = "The tides shall swallow you whole!",
-						}, -- [193]
+						}, -- [191]
 						{
 							["arg2"] = "General Cadarin",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541065061,
 							["arg1"] = "Show your face, Horde scum! We have a friend of yours.",
-						}, -- [194]
+						}, -- [192]
 						{
 							["arg2"] = "Greeb Ramrocket",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541065564,
 							["arg1"] = "The zeppelin to Warsong Hold has just arrived! All aboard for Borean Tundra!",
+						}, -- [193]
+						{
+							["arg1"] = " ",
+						}, -- [194]
+						{
+							["arg1"] = " ",
 						}, -- [195]
 						{
-							["arg1"] = " ",
-						}, -- [196]
-						{
-							["arg1"] = " ",
-						}, -- [197]
-						{
-							["arg1"] = "Logging started on 06/30/2019 at 15:20:19.",
 							["type"] = "SYSTEM",
-						}, -- [198]
+							["arg1"] = "Logging started on 06/30/2019 at 15:20:19.",
+						}, -- [196]
 						{
 							["arg2"] = "Greeb Ramrocket",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561900888,
 							["arg1"] = "The zeppelin to Warsong Hold has just arrived! All aboard for Borean Tundra!",
-						}, -- [199]
+						}, -- [197]
 						{
 							["arg2"] = "Warlord Zakgra",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901658,
 							["arg1"] = "This way! A glorious battle awaits!",
-						}, -- [200]
+						}, -- [198]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901670,
 							["arg1"] = "Years ago, all of dis land belonged to da trolls.",
-						}, -- [201]
+						}, -- [199]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901675,
 							["arg1"] = "Today, it belongs to da Horde!",
-						}, -- [202]
+						}, -- [200]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901682,
 							["arg1"] = "Shadows consume you.",
-						}, -- [203]
+						}, -- [201]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901697,
 							["arg1"] = "Ah, victory! It taste sweet, mon!",
-						}, -- [204]
+						}, -- [202]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901789,
 							["arg1"] = "Good. We gonna use da lumber from Hatchet Ridge ta build our stronghold.",
-						}, -- [205]
+						}, -- [203]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901797,
 							["arg1"] = "Drywhisker Mine belongs to da Horde.",
-						}, -- [206]
+						}, -- [204]
 						{
 							["arg2"] = "Throk",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901863,
 							["arg1"] = "We'll need reinforcements to win this war.",
-						}, -- [207]
+						}, -- [205]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901863,
 							["arg1"] = "Da barracks be ready. Dis war gonna be won on da backs o' da grunts.",
-						}, -- [208]
+						}, -- [206]
 						{
 							["arg2"] = "Throk",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901877,
 							["arg1"] = "See me at the Barracks when you're ready to train our army.",
-						}, -- [209]
+						}, -- [207]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901895,
 							["arg1"] = "Watch da shadows, Alliance scum. Da Horde be comin' for you...",
-						}, -- [210]
+						}, -- [208]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901913,
 							["arg1"] = "Da stronghold be needin' reinforcement. Hold dem forces back before dey get too close!",
-						}, -- [211]
+						}, -- [209]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901944,
 							["arg1"] = "Armory be good ta go, mon.",
-						}, -- [212]
+						}, -- [210]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902019,
 							["arg1"] = "Newstead be ours... an' wit' it, da wolf riders.",
-						}, -- [213]
+						}, -- [211]
 						{
 							["arg2"] = "Gwyndra Wildhammer",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902047,
 							["arg1"] = "The skies... call.",
-						}, -- [214]
+						}, -- [212]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902063,
 							["arg1"] = "Hold the Perch and the skies are ours!",
-						}, -- [215]
+						}, -- [213]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902064,
 							["arg1"] = "High Perch be ours, Turalyon. Da shadows draw closer...",
-						}, -- [216]
+						}, -- [214]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902067,
 							["arg1"] = "Let them try and break our defenses!",
-						}, -- [217]
+						}, -- [215]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902070,
 							["arg1"] = "Yet the Light still shines over Stromgarde.",
-						}, -- [218]
+						}, -- [216]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902109,
 							["arg1"] = "Da Altar o' Storms be ready.",
-						}, -- [219]
+						}, -- [217]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902193,
 							["arg1"] = "Da Circle of Elements be under da Horde's control now.",
-						}, -- [220]
+						}, -- [218]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902208,
 							["arg1"] = "We be upgradin' da Great Hall to a Stronghold.",
-						}, -- [221]
+						}, -- [219]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902343,
 							["arg1"] = "Da Workshop be done. Our demolishers gonna make quick work o' da Alliance walls!",
-						}, -- [222]
+						}, -- [220]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902480,
 							["arg1"] = "Da Stronghold be a Fortress now!",
-						}, -- [223]
+						}, -- [221]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902507,
 							["arg1"] = "Send in da demolishers! No Light gonna protect dat paladin from da might of da Horde!",
-						}, -- [224]
+						}, -- [222]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902515,
 							["arg1"] = "Light will always defeat Shadow, Rokhan. Defenders, forward!",
-						}, -- [225]
+						}, -- [223]
 						{
 							["arg2"] = "Warbringer Kro'goth",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902519,
 							["arg1"] = "Hold your ground! If anything moves, kill it!",
-						}, -- [226]
+						}, -- [224]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902685,
 							["arg1"] = "Da gate be down! Storm da fortress!",
-						}, -- [227]
+						}, -- [225]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902721,
 							["arg1"] = "For the Light!",
-						}, -- [228]
+						}, -- [226]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902751,
 							["arg1"] = "Stromgarde may be lost, but the Alliance will never fall.",
-						}, -- [229]
+						}, -- [227]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905465,
 							["arg1"] = "The essence... belongs to the earth.",
-						}, -- [230]
+						}, -- [228]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905559,
 							["arg1"] = "The earth rages against you. How can you protect it?",
-						}, -- [231]
+						}, -- [229]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905690,
 							["arg1"] = "The earth will break you!",
-						}, -- [232]
+						}, -- [230]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905748,
 							["arg1"] = "The earth will break you!",
-						}, -- [233]
+						}, -- [231]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905768,
 							["arg1"] = "The earth will break you!",
-						}, -- [234]
+						}, -- [232]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905788,
 							["arg1"] = "The earth will break you!",
-						}, -- [235]
+						}, -- [233]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905805,
 							["arg1"] = "The earth will break you!",
-						}, -- [236]
+						}, -- [234]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905821,
 							["arg1"] = "Enough... I yield. You... are worthy.",
-						}, -- [237]
+						}, -- [235]
 						{
 							["arg2"] = "Navarrogg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905849,
 							["arg1"] = "Up here! I have prepared an exit for you.",
-						}, -- [238]
+						}, -- [236]
 						{
 							["arg2"] = "Mortiferous",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561906240,
 							["arg1"] = "Your titan gods have abandoned you. Lay down your arms. There is no hope left.",
-						}, -- [239]
+						}, -- [237]
 						{
 							["arg2"] = "Mortiferous",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561906376,
 							["arg1"] = "Salt the earth. Boil their seas. Drive them before you!",
-						}, -- [240]
+						}, -- [238]
 						{
 							["arg2"] = "Mortiferous",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561906669,
 							["arg1"] = "Too late, \"heroes\". Your world is lost.",
-						}, -- [241]
+						}, -- [239]
 						{
 							["arg2"] = "Mortiferous",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561906867,
 							["arg1"] = "Too late, \"heroes\". Your world is lost.",
-						}, -- [242]
+						}, -- [240]
 						{
 							["arg2"] = "Mortiferous",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561907042,
 							["arg1"] = "Your titan gods have abandoned you. Lay down your arms. There is no hope left.",
+						}, -- [241]
+						{
+							["arg1"] = " ",
+						}, -- [242]
+						{
+							["arg1"] = " ",
 						}, -- [243]
 						{
-							["arg1"] = " ",
-						}, -- [244]
-						{
-							["arg1"] = " ",
-						}, -- [245]
-						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 08/04/2019 at 14:56:08.",
-						}, -- [246]
+							["type"] = "SYSTEM",
+						}, -- [244]
 						{
 							["arg2"] = "Mortiferous",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1564923593,
 							["arg1"] = "Too late, \"heroes\". Your world is lost.",
+						}, -- [245]
+						{
+							["arg1"] = " ",
+						}, -- [246]
+						{
+							["arg1"] = " ",
 						}, -- [247]
 						{
-							["arg1"] = " ",
+							["arg1"] = "Logging started on 11/29/2020 at 13:23:00.",
+							["type"] = "SYSTEM",
 						}, -- [248]
 						{
-							["arg1"] = " ",
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1606654276,
+							["arg1"] = "Knights, secure the cave! We'll hold off these fiends.",
 						}, -- [249]
 						{
-							["arg1"] = "Logging started on 11/20/2019 at 09:39:06.",
-							["type"] = "SYSTEM",
+							["arg2"] = "Thrall",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1606654314,
+							["arg1"] = "Another ambush! Bring them down!",
 						}, -- [250]
 					},
 				}, -- [5]
@@ -7359,7 +7359,7 @@ ElephantDBPerChar = {
 					["name"] = "Officer",
 					["logs"] = {
 						{
-							["arg1"] = "Logging started on 11/20/2019 at 09:39:06.",
+							["arg1"] = "Logging started on 11/29/2020 at 13:23:00.",
 							["type"] = "SYSTEM",
 						}, -- [1]
 					},
@@ -7390,8 +7390,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [4]
 						{
-							["arg1"] = "Logging started on 09/08/2018 at 10:26:49.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 09/08/2018 at 10:26:49.",
 						}, -- [5]
 						{
 							["arg2"] = "Nyannas-DefiasBrotherhood",
@@ -7575,8 +7575,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [32]
 						{
-							["arg1"] = "Logging started on 09/10/2018 at 19:25:38.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 09/10/2018 at 19:25:38.",
 						}, -- [33]
 						{
 							["arg2"] = "Anastassia-Ravenholdt",
@@ -7711,8 +7711,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [53]
 						{
-							["arg1"] = "Logging started on 09/12/2018 at 10:24:52.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 09/12/2018 at 10:24:52.",
 						}, -- [54]
 						{
 							["arg2"] = "Gorebuddy-Ravenholdt",
@@ -7735,8 +7735,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [58]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 09/12/2018 at 13:14:45.",
+							["type"] = "SYSTEM",
 						}, -- [59]
 						{
 							["arg2"] = "Láncélot-DefiasBrotherhood",
@@ -8060,8 +8060,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [106]
 						{
-							["arg1"] = "Logging started on 09/13/2018 at 16:47:04.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 09/13/2018 at 16:47:04.",
 						}, -- [107]
 						{
 							["arg2"] = "Wzenja-DefiasBrotherhood",
@@ -8210,8 +8210,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [129]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 09/14/2018 at 17:27:59.",
+							["type"] = "SYSTEM",
 						}, -- [130]
 						{
 							["arg2"] = "Cowlegs-DefiasBrotherhood",
@@ -8311,8 +8311,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [145]
 						{
-							["arg1"] = "Logging started on 09/21/2018 at 14:22:58.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 09/21/2018 at 14:22:58.",
 						}, -- [146]
 						{
 							["arg2"] = "Elvurile-DefiasBrotherhood",
@@ -8356,8 +8356,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [153]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 09/21/2018 at 16:23:46.",
+							["type"] = "SYSTEM",
 						}, -- [154]
 						{
 							["arg2"] = "Termínatór-ScarshieldLegion",
@@ -8534,8 +8534,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [180]
 						{
-							["arg1"] = "Logging started on 09/25/2018 at 13:11:32.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 09/25/2018 at 13:11:32.",
 						}, -- [181]
 						{
 							["arg2"] = "Xaen-DefiasBrotherhood",
@@ -8572,8 +8572,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [187]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 09/26/2018 at 13:16:52.",
+							["type"] = "SYSTEM",
 						}, -- [188]
 						{
 							["arg2"] = "Nermo-DefiasBrotherhood",
@@ -8617,8 +8617,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [195]
 						{
-							["arg1"] = "Logging started on 09/29/2018 at 13:11:09.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 09/29/2018 at 13:11:09.",
 						}, -- [196]
 						{
 							["arg2"] = "Belispeak-DefiasBrotherhood",
@@ -8753,8 +8753,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [216]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 09/30/2018 at 15:22:12.",
+							["type"] = "SYSTEM",
 						}, -- [217]
 						{
 							["arg2"] = "Termínatór-ScarshieldLegion",
@@ -8938,8 +8938,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [244]
 						{
-							["arg1"] = "Logging started on 10/02/2018 at 22:07:58.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 10/02/2018 at 22:07:58.",
 						}, -- [245]
 						{
 							["arg2"] = "Joefish-DefiasBrotherhood",
@@ -8962,1250 +8962,1250 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [249]
 						{
-							["arg1"] = "Logging started on 11/20/2019 at 09:39:06.",
+							["arg1"] = "Logging started on 11/29/2020 at 13:23:00.",
 							["type"] = "SYSTEM",
 						}, -- [250]
 					},
 				}, -- [7]
 				{
 					["enabled"] = true,
-					["hasMessage"] = false,
+					["hasMessage"] = true,
 					["name"] = "Item Loot",
 					["logs"] = {
 						{
 							["type"] = "LOOT",
-							["time"] = 1540912672,
-							["arg1"] = "Streetkid-TwistingNether receives loot: |cff9d9d9d|Hitem:158806::::::::120:102::::::|h[Hooked Talon]|h|r.",
-						}, -- [1]
-						{
-							["type"] = "LOOT",
-							["time"] = 1540912672,
-							["arg1"] = "Maøne-Archimonde receives loot: |cff9d9d9d|Hitem:155608::::::::120:102::::::|h[Defiled Bone]|h|r.",
-						}, -- [2]
-						{
-							["type"] = "LOOT",
-							["time"] = 1540912673,
-							["arg1"] = "Acina-Uldaman receives loot: |cff9d9d9d|Hitem:155608::::::::120:102::::::|h[Defiled Bone]|h|r.",
-						}, -- [3]
-						{
-							["type"] = "LOOT",
-							["time"] = 1540912674,
-							["arg1"] = "Rathzor-Darksorrow receives loot: |cff9d9d9d|Hitem:155608::::::::120:102::::::|h[Defiled Bone]|h|r.",
-						}, -- [4]
-						{
-							["type"] = "LOOT",
-							["time"] = 1540912674,
-							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:158806::::::::120:102::::::|h[Hooked Talon]|h|r.",
-						}, -- [5]
-						{
-							["type"] = "LOOT",
-							["time"] = 1540912677,
-							["arg1"] = "Garator-Draenor receives loot: |cff9d9d9d|Hitem:158806::::::::120:102::::::|h[Hooked Talon]|h|r.",
-						}, -- [6]
-						{
-							["type"] = "LOOT",
-							["time"] = 1540912709,
-							["arg1"] = "You receive item: |cff0070dd|Hitem:161094::::::::120:102::26:4:42:4803:1517:4785:::|h[Voodoo-Bound Handwraps]|h|r.",
-						}, -- [7]
-						{
-							["type"] = "LOOT",
-							["time"] = 1540912711,
-							["arg1"] = "Aizp-Stormscale receives loot: |cff9d9d9d|Hitem:158771::::::::120:102::::::|h[Spirit Ichor]|h|r.",
-						}, -- [8]
-						{
-							["type"] = "LOOT",
-							["time"] = 1540912711,
-							["arg1"] = "Maøne-Archimonde receives loot: |cff9d9d9d|Hitem:158771::::::::120:102::::::|h[Spirit Ichor]|h|r.",
-						}, -- [9]
-						{
-							["type"] = "LOOT",
-							["time"] = 1540912713,
-							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:158771::::::::120:102::::::|h[Spirit Ichor]|h|r.",
-						}, -- [10]
-						{
-							["type"] = "LOOT",
-							["time"] = 1540912819,
-							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:155608::::::::120:102::::::|h[Defiled Bone]|h|rx2.",
-						}, -- [11]
-						{
-							["type"] = "LOOT",
-							["time"] = 1540912849,
-							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:158862::::::::120:102::::::|h[Ancient Grave Dust]|h|r.",
-						}, -- [12]
-						{
-							["type"] = "LOOT",
-							["time"] = 1540912849,
-							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:155608::::::::120:102::::::|h[Defiled Bone]|h|rx2.",
-						}, -- [13]
-						{
-							["type"] = "LOOT",
-							["time"] = 1540912873,
-							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:155608::::::::120:102::::::|h[Defiled Bone]|h|rx2.",
-						}, -- [14]
-						{
-							["type"] = "LOOT",
-							["time"] = 1540912874,
-							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:158862::::::::120:102::::::|h[Ancient Grave Dust]|h|r.",
-						}, -- [15]
-						{
-							["type"] = "LOOT",
-							["time"] = 1540912876,
-							["arg1"] = "Верминаа-Ревущийфьорд receives loot: |cff9d9d9d|Hitem:158771::::::::120:102::::::|h[Spirit Ichor]|h|rx2.",
-						}, -- [16]
-						{
-							["type"] = "LOOT",
-							["time"] = 1540912881,
-							["arg1"] = "Speed-Frostwolf receives loot: |cff9d9d9d|Hitem:155608::::::::120:102::::::|h[Defiled Bone]|h|rx5.",
-						}, -- [17]
-						{
-							["type"] = "LOOT",
-							["time"] = 1540912882,
-							["arg1"] = "Speed-Frostwolf receives loot: |cff9d9d9d|Hitem:158862::::::::120:102::::::|h[Ancient Grave Dust]|h|r.",
-						}, -- [18]
-						{
-							["type"] = "LOOT",
 							["time"] = 1540912936,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:162633::::::::120:102::::::|h[Petrified Jungle Orchid]|h|r.",
-						}, -- [19]
+						}, -- [1]
 						{
 							["type"] = "CURRENCY",
 							["time"] = 1540912937,
 							["arg1"] = "You receive currency: |cffffffff|Hcurrency:1560:0|h[War Resources]|h|r x16.",
-						}, -- [20]
+						}, -- [2]
 						{
 							["type"] = "LOOT",
 							["time"] = 1540912941,
 							["arg1"] = "You receive item: |cff0070dd|Hitem:161095::::::::120:102::25:3:4803:1512:4785:::|h[Queensguard Specter Legwraps]|h|r.",
-						}, -- [21]
+						}, -- [3]
 						{
 							["type"] = "LOOT",
 							["time"] = 1540912945,
 							["arg1"] = "Zîckzane-Stormscale receives loot: |cff9d9d9d|Hitem:158771::::::::120:102::::::|h[Spirit Ichor]|h|r.",
-						}, -- [22]
+						}, -- [4]
 						{
 							["type"] = "LOOT",
 							["time"] = 1540912945,
 							["arg1"] = "Zîckzane-Stormscale receives loot: |cff9d9d9d|Hitem:155608::::::::120:102::::::|h[Defiled Bone]|h|r.",
-						}, -- [23]
+						}, -- [5]
 						{
 							["type"] = "LOOT",
 							["time"] = 1540913006,
 							["arg1"] = "You receive item: |cffa335ee|Hitem:157881::::::::120:102::28:3:1547:5136:5378:::|h[Blood Bog Headcover]|h|r.",
-						}, -- [24]
+						}, -- [6]
 						{
 							["type"] = "LOOT",
 							["time"] = 1540913023,
 							["arg1"] = "You receive loot: |cff0070dd|Hitem:152876::::::::120:102::::::|h[Umbra Shard]|h|r.",
-						}, -- [25]
+						}, -- [7]
 						{
 							["type"] = "LOOT",
 							["time"] = 1540913024,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:152875::::::::120:102::::::|h[Gloom Dust]|h|r.",
-						}, -- [26]
+						}, -- [8]
 						{
 							["type"] = "LOOT",
 							["time"] = 1540913028,
 							["arg1"] = "You receive loot: |cff0070dd|Hitem:152876::::::::120:102::::::|h[Umbra Shard]|h|r.",
-						}, -- [27]
+						}, -- [9]
 						{
 							["type"] = "LOOT",
 							["time"] = 1540913028,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:152875::::::::120:102::::::|h[Gloom Dust]|h|rx2.",
-						}, -- [28]
+						}, -- [10]
 						{
 							["type"] = "LOOT",
 							["time"] = 1540913032,
 							["arg1"] = "You receive loot: |cffa335ee|Hitem:152877::::::::120:102::::::|h[Veiled Crystal]|h|r.",
-						}, -- [29]
+						}, -- [11]
 						{
 							["type"] = "LOOT",
 							["time"] = 1540913061,
 							["arg1"] = "You receive loot: |cffa335ee|Hitem:152877::::::::120:102::::::|h[Veiled Crystal]|h|r.",
-						}, -- [30]
+						}, -- [12]
 						{
 							["type"] = "LOOT",
 							["time"] = 1540913061,
 							["arg1"] = "You receive loot: |cff0070dd|Hitem:152876::::::::120:102::::::|h[Umbra Shard]|h|r.",
-						}, -- [31]
+						}, -- [13]
 						{
 							["type"] = "LOOT",
 							["time"] = 1540914842,
 							["arg1"] = "You receive item: |cff9d9d9d|Hitem:158771::::::::120:102::::::|h[Spirit Ichor]|h|r.",
-						}, -- [32]
+						}, -- [14]
 						{
 							["type"] = "LOOT",
 							["time"] = 1540915200,
 							["arg1"] = "Ðoppex-Blackmoore receives loot: |cff9d9d9d|Hitem:157842::::::::120:102::::::|h[Rusty Gear]|h|r.",
-						}, -- [33]
+						}, -- [15]
 						{
 							["type"] = "LOOT",
 							["time"] = 1540915201,
 							["arg1"] = "Wwm-Turalyon receives loot: |cff9d9d9d|Hitem:158834::::::::120:102::::::|h[Winch Coil]|h|r.",
-						}, -- [34]
+						}, -- [16]
 						{
 							["type"] = "LOOT",
 							["time"] = 1540915201,
 							["arg1"] = "Perledor-Naxxramas receives loot: |cff9d9d9d|Hitem:157842::::::::120:102::::::|h[Rusty Gear]|h|r.",
-						}, -- [35]
+						}, -- [17]
 						{
 							["type"] = "LOOT",
 							["time"] = 1540915201,
 							["arg1"] = "Bloodshot-Illidan receives loot: |cff9d9d9d|Hitem:157842::::::::120:102::::::|h[Rusty Gear]|h|r.",
-						}, -- [36]
+						}, -- [18]
 						{
 							["type"] = "LOOT",
 							["time"] = 1540915202,
 							["arg1"] = "Hâldir-C'Thun receives loot: |cff9d9d9d|Hitem:158834::::::::120:102::::::|h[Winch Coil]|h|r.",
-						}, -- [37]
+						}, -- [19]
 						{
 							["type"] = "LOOT",
 							["time"] = 1540915203,
 							["arg1"] = "Geraki-BurningBlade receives loot: |cff9d9d9d|Hitem:157842::::::::120:102::::::|h[Rusty Gear]|h|r.",
-						}, -- [38]
+						}, -- [20]
 						{
 							["type"] = "LOOT",
 							["time"] = 1540915203,
 							["arg1"] = "Xaomei-AzjolNerub receives loot: |cff9d9d9d|Hitem:158834::::::::120:102::::::|h[Winch Coil]|h|r.",
-						}, -- [39]
+						}, -- [21]
 						{
 							["type"] = "LOOT",
 							["time"] = 1540915204,
 							["arg1"] = "Foxxiê-Blackmoore receives loot: |cff9d9d9d|Hitem:158834::::::::120:102::::::|h[Winch Coil]|h|r.",
-						}, -- [40]
+						}, -- [22]
 						{
 							["type"] = "LOOT",
 							["time"] = 1540915206,
 							["arg1"] = "Aefelia-Archimonde receives loot: |cff9d9d9d|Hitem:157842::::::::120:102::::::|h[Rusty Gear]|h|r.",
-						}, -- [41]
+						}, -- [23]
 						{
 							["type"] = "LOOT",
 							["time"] = 1540915208,
 							["arg1"] = "Тестостеронн-ВечнаяПесня receives loot: |cff9d9d9d|Hitem:158834::::::::120:102::::::|h[Winch Coil]|h|r.",
-						}, -- [42]
+						}, -- [24]
 						{
 							["type"] = "LOOT",
 							["time"] = 1540915212,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:157842::::::::120:102::::::|h[Rusty Gear]|h|r.",
-						}, -- [43]
+						}, -- [25]
 						{
 							["arg1"] = " ",
-						}, -- [44]
+						}, -- [26]
 						{
 							["arg1"] = " ",
-						}, -- [45]
+						}, -- [27]
 						{
-							["arg1"] = "Logging started on 11/01/2018 at 08:52:29.",
 							["type"] = "SYSTEM",
-						}, -- [46]
+							["arg1"] = "Logging started on 11/01/2018 at 08:52:29.",
+						}, -- [28]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541059811,
 							["arg1"] = "You receive item: |cff1eff00|Hitem:163611::::::::120:102::11::::|h[Seafarer's Coin Pouch]|h|r.",
-						}, -- [47]
+						}, -- [29]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541060104,
 							["arg1"] = "Käpôche-Hyjal receives loot: |cffffffff|Hitem:152576::::::::120:102::::::|h[Tidespray Linen]|h|rx3.",
-						}, -- [48]
+						}, -- [30]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541060104,
 							["arg1"] = "You loot 1 Gold, 6 Silver, 12 Copper",
-						}, -- [49]
+						}, -- [31]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541060212,
 							["arg1"] = "You loot 1 Gold, 66 Silver, 89 Copper",
-						}, -- [50]
+						}, -- [32]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541060408,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:152576::::::::120:102::::::|h[Tidespray Linen]|h|rx9.",
-						}, -- [51]
+						}, -- [33]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541060409,
 							["arg1"] = "You loot 6 Gold, 81 Silver, 25 Copper",
-						}, -- [52]
+						}, -- [34]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541060451,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:155598::::::::120:102::::::|h[Severed Mandible]|h|r.",
-						}, -- [53]
+						}, -- [35]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541060452,
 							["arg1"] = "You loot 4 Gold, 26 Silver, 63 Copper",
-						}, -- [54]
+						}, -- [36]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541060482,
 							["arg1"] = "You loot 75 Silver, 23 Copper",
-						}, -- [55]
+						}, -- [37]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541060496,
 							["arg1"] = "You receive item: |cff0070dd|Hitem:158043::::::::120:102::27:2:1517:4785:::|h[Fairweather Shoulderpads]|h|r.",
-						}, -- [56]
+						}, -- [38]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541060565,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:155598::::::::120:102::::::|h[Severed Mandible]|h|rx2.",
-						}, -- [57]
+						}, -- [39]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541060650,
 							["arg1"] = "You receive loot: |cff0070dd|Hitem:152876::::::::120:102::::::|h[Umbra Shard]|h|r.",
-						}, -- [58]
+						}, -- [40]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541060651,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:152875::::::::120:102::::::|h[Gloom Dust]|h|r.",
-						}, -- [59]
+						}, -- [41]
 						{
 							["type"] = "CURRENCY",
 							["time"] = 1541060653,
 							["arg1"] = "You receive currency: |cffa335ee|Hcurrency:1710:0|h[Seafarer's Dubloon]|h|r x3.",
-						}, -- [60]
+						}, -- [42]
 						{
 							["type"] = "CURRENCY",
 							["time"] = 1541060695,
 							["arg1"] = "You receive currency: |cffffffff|Hcurrency:1560:0|h[War Resources]|h|r x33.",
-						}, -- [61]
+						}, -- [43]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541060696,
 							["arg1"] = "You loot 1 Gold, 31 Silver, 62 Copper",
-						}, -- [62]
+						}, -- [44]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541060849,
 							["arg1"] = "You loot 2 Gold, 5 Silver, 30 Copper",
-						}, -- [63]
+						}, -- [45]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541060872,
 							["arg1"] = "You loot 2 Gold, 13 Silver, 65 Copper",
-						}, -- [64]
+						}, -- [46]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541060895,
 							["arg1"] = "You loot 44 Silver, 34 Copper",
-						}, -- [65]
+						}, -- [47]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541060922,
 							["arg1"] = "You receive loot: |cff1eff00|Hitem:160180::::::::120:102:512::3:4796:4802:1698:120:::|h[Skycaller Cowl of the Feverflare]|h|r.",
-						}, -- [66]
+						}, -- [48]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541060923,
 							["arg1"] = "You loot 2 Gold, 48 Silver, 88 Copper",
-						}, -- [67]
+						}, -- [49]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541060927,
 							["arg1"] = "You loot 61 Silver, 41 Copper",
-						}, -- [68]
+						}, -- [50]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541060987,
 							["arg1"] = "You loot 9 Gold, 69 Silver, 44 Copper",
-						}, -- [69]
+						}, -- [51]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541060996,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:153556::::::::120:102::::::|h[Sethrak Weapon]|h|r.",
-						}, -- [70]
+						}, -- [52]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541061010,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:153556::::::::120:102::::::|h[Sethrak Weapon]|h|r.",
-						}, -- [71]
+						}, -- [53]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541061027,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:152576::::::::120:102::::::|h[Tidespray Linen]|h|rx3.",
-						}, -- [72]
+						}, -- [54]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541061027,
 							["arg1"] = "You loot 3 Gold, 14 Silver, 89 Copper",
-						}, -- [73]
+						}, -- [55]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541061041,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:153556::::::::120:102::::::|h[Sethrak Weapon]|h|r.",
-						}, -- [74]
+						}, -- [56]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541061043,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:153556::::::::120:102::::::|h[Sethrak Weapon]|h|r.",
-						}, -- [75]
+						}, -- [57]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541061045,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:153556::::::::120:102::::::|h[Sethrak Weapon]|h|r.",
-						}, -- [76]
+						}, -- [58]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541061047,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:153556::::::::120:102::::::|h[Sethrak Weapon]|h|r.",
-						}, -- [77]
+						}, -- [59]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541061050,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:153556::::::::120:102::::::|h[Sethrak Weapon]|h|r.",
-						}, -- [78]
+						}, -- [60]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541061051,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:153556::::::::120:102::::::|h[Sethrak Weapon]|h|r.",
-						}, -- [79]
+						}, -- [61]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541061053,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:153556::::::::120:102::::::|h[Sethrak Weapon]|h|r.",
-						}, -- [80]
+						}, -- [62]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541061056,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:153556::::::::120:102::::::|h[Sethrak Weapon]|h|r.",
-						}, -- [81]
+						}, -- [63]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541061069,
 							["arg1"] = "You loot 48 Silver, 64 Copper",
-						}, -- [82]
+						}, -- [64]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541061070,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:153556::::::::120:102::::::|h[Sethrak Weapon]|h|r.",
-						}, -- [83]
+						}, -- [65]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541061072,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:153556::::::::120:102::::::|h[Sethrak Weapon]|h|r.",
-						}, -- [84]
+						}, -- [66]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541061074,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:153556::::::::120:102::::::|h[Sethrak Weapon]|h|r.",
-						}, -- [85]
+						}, -- [67]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541061082,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:153556::::::::120:102::::::|h[Sethrak Weapon]|h|r.",
-						}, -- [86]
+						}, -- [68]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541061084,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:153556::::::::120:102::::::|h[Sethrak Weapon]|h|r.",
-						}, -- [87]
+						}, -- [69]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541061085,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:153556::::::::120:102::::::|h[Sethrak Weapon]|h|r.",
-						}, -- [88]
+						}, -- [70]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541061128,
 							["arg1"] = "You loot 2 Gold, 51 Silver, 44 Copper",
-						}, -- [89]
+						}, -- [71]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541061134,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:153556::::::::120:102::::::|h[Sethrak Weapon]|h|r.",
-						}, -- [90]
+						}, -- [72]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541061136,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:153556::::::::120:102::::::|h[Sethrak Weapon]|h|r.",
-						}, -- [91]
+						}, -- [73]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541061138,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:153556::::::::120:102::::::|h[Sethrak Weapon]|h|r.",
-						}, -- [92]
+						}, -- [74]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541061142,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:153556::::::::120:102::::::|h[Sethrak Weapon]|h|r.",
-						}, -- [93]
+						}, -- [75]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541061357,
 							["arg1"] = "You receive item: |cffa335ee|Hitem:157947::::::::120:102::28:3:1547:5140:5379:::|h[Deathsnap Shoulderguards]|h|r.",
-						}, -- [94]
+						}, -- [76]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541061365,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:152875::::::::120:102::::::|h[Gloom Dust]|h|rx5.",
-						}, -- [95]
+						}, -- [77]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541062230,
 							["arg1"] = "You receive item: |cff1eff00|Hitem:163611::::::::120:102::11::::|h[Seafarer's Coin Pouch]|h|r.",
-						}, -- [96]
+						}, -- [78]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541062230,
 							["arg1"] = "You receive item: |cff0070dd|Hitem:163619::::::::120:102::::::|h[Golden Beetle]|h|r.",
-						}, -- [97]
+						}, -- [79]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541062350,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:163099::::::::120:102::::::|h[Proudmoore Supply Crate]|h|r.",
-						}, -- [98]
+						}, -- [80]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541062379,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:158839::::::::120:102::::::|h[Thick Crab Claw]|h|r.",
-						}, -- [99]
+						}, -- [81]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541062380,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:155603::::::::120:102::::::|h[Flaky Fish Scales]|h|rx2.",
-						}, -- [100]
+						}, -- [82]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541062392,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:155601::::::::120:102::::::|h[Pointy Leg Segment]|h|r.",
-						}, -- [101]
+						}, -- [83]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541062395,
 							["arg1"] = "You receive loot: |cff1eff00|Hitem:154165::::::::120:102::::::|h[Calcified Bone]|h|rx3.",
-						}, -- [102]
+						}, -- [84]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541062395,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:153050::::::::120:102::::::|h[Shimmerscale]|h|rx5.",
-						}, -- [103]
+						}, -- [85]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541062395,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:155618::::::::120:102::::::|h[Discarded Molting]|h|r.",
-						}, -- [104]
+						}, -- [86]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541062406,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:155603::::::::120:102::::::|h[Flaky Fish Scales]|h|r.",
-						}, -- [105]
+						}, -- [87]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541062408,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:163099::::::::120:102::::::|h[Proudmoore Supply Crate]|h|r.",
-						}, -- [106]
+						}, -- [88]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541062423,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:158745::::::::120:102::::::|h[Luminous Scale]|h|r.",
-						}, -- [107]
+						}, -- [89]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541062437,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:163099::::::::120:102::::::|h[Proudmoore Supply Crate]|h|r.",
-						}, -- [108]
+						}, -- [90]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541062439,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:158745::::::::120:102::::::|h[Luminous Scale]|h|r.",
-						}, -- [109]
+						}, -- [91]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541062445,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:163099::::::::120:102::::::|h[Proudmoore Supply Crate]|h|r.",
-						}, -- [110]
+						}, -- [92]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541062460,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:163099::::::::120:102::::::|h[Proudmoore Supply Crate]|h|r.",
-						}, -- [111]
+						}, -- [93]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541062468,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:163099::::::::120:102::::::|h[Proudmoore Supply Crate]|h|r.",
-						}, -- [112]
+						}, -- [94]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541062485,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:155603::::::::120:102::::::|h[Flaky Fish Scales]|h|r.",
-						}, -- [113]
+						}, -- [95]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541062485,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:158745::::::::120:102::::::|h[Luminous Scale]|h|r.",
-						}, -- [114]
+						}, -- [96]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541062514,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:161199::::::::120:102::::::|h[Silver-Plated Tankard]|h|r.",
-						}, -- [115]
+						}, -- [97]
 						{
 							["type"] = "CURRENCY",
 							["time"] = 1541062515,
 							["arg1"] = "You receive currency: |cffffffff|Hcurrency:1560:0|h[War Resources]|h|r x17.",
-						}, -- [116]
+						}, -- [98]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541062518,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:163099::::::::120:102::::::|h[Proudmoore Supply Crate]|h|r.",
-						}, -- [117]
+						}, -- [99]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541062524,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:163089::::::::120:102::::::|h[Long-Stemmed Pipe]|h|r.",
-						}, -- [118]
+						}, -- [100]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541062524,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:161207::::::::120:102::::::|h[Admiral's Black Rum]|h|r.",
-						}, -- [119]
+						}, -- [101]
 						{
 							["type"] = "CURRENCY",
 							["time"] = 1541062524,
 							["arg1"] = "You receive currency: |cffffffff|Hcurrency:1560:0|h[War Resources]|h|r x9.",
-						}, -- [120]
+						}, -- [102]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541062525,
 							["arg1"] = "You loot 20 Gold, 80 Silver, 59 Copper",
-						}, -- [121]
+						}, -- [103]
 						{
 							["type"] = "CURRENCY",
 							["time"] = 1541062529,
 							["arg1"] = "You receive currency: |cffa335ee|Hcurrency:1710:0|h[Seafarer's Dubloon]|h|r x3.",
-						}, -- [122]
+						}, -- [104]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541062565,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:163099::::::::120:102::::::|h[Proudmoore Supply Crate]|h|r.",
-						}, -- [123]
+						}, -- [105]
 						{
 							["type"] = "CURRENCY",
 							["time"] = 1541062566,
 							["arg1"] = "You receive currency: |cffffffff|Hcurrency:1560:0|h[War Resources]|h|r x44.",
-						}, -- [124]
+						}, -- [106]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541062677,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:158775::::::::120:102::::::|h[Thick Hivewax]|h|r.",
-						}, -- [125]
+						}, -- [107]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541062793,
 							["arg1"] = "You receive loot: |cff1eff00|Hitem:159569::::::::120:102:512::3:4796:4802:1693:120:::|h[Wavecaller Spire of the Fireflash]|h|r.",
-						}, -- [126]
+						}, -- [108]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541062794,
 							["arg1"] = "You loot 3 Gold, 15 Silver, 13 Copper",
-						}, -- [127]
+						}, -- [109]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541062814,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:153681::::::::120:102::::::|h[Cutwater Corsair Orders]|h|r.",
-						}, -- [128]
+						}, -- [110]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541062814,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:152576::::::::120:102::::::|h[Tidespray Linen]|h|rx3.",
-						}, -- [129]
+						}, -- [111]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541062815,
 							["arg1"] = "You loot 2 Gold, 88 Silver, 36 Copper",
-						}, -- [130]
+						}, -- [112]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541062867,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:153682::::::::120:102::::::|h[Blacktooth Bruiser Orders]|h|r.",
-						}, -- [131]
+						}, -- [113]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541062867,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:154802::::::::120:102::11::::|h[Notched Handaxe]|h|r.",
-						}, -- [132]
+						}, -- [114]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541062868,
 							["arg1"] = "You loot 6 Gold, 93 Silver, 37 Copper",
-						}, -- [133]
+						}, -- [115]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541062876,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:153680::::::::120:102::::::|h[Bilge Rat Orders]|h|r.",
-						}, -- [134]
+						}, -- [116]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541062877,
 							["arg1"] = "You loot 1 Gold, 24 Silver, 85 Copper",
-						}, -- [135]
+						}, -- [117]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541062952,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:152576::::::::120:102::::::|h[Tidespray Linen]|h|rx3.",
-						}, -- [136]
+						}, -- [118]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541062952,
 							["arg1"] = "You loot 1 Gold, 6 Silver, 35 Copper",
-						}, -- [137]
+						}, -- [119]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541063413,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:152631::::::::120:102::::::|h[Briny Flesh]|h|rx2.",
-						}, -- [138]
+						}, -- [120]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541063413,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:158751::::::::120:102::::::|h[Matted Pelt]|h|rx2.",
-						}, -- [139]
+						}, -- [121]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541063413,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:159756::::::::120:102::::::|h[Depleted Azerite]|h|r.",
-						}, -- [140]
+						}, -- [122]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541063413,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:157844::::::::120:102::::::|h[Iridescent Speck]|h|r.",
-						}, -- [141]
+						}, -- [123]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541063459,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:158751::::::::120:102::::::|h[Matted Pelt]|h|rx2.",
-						}, -- [142]
+						}, -- [124]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541063459,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:152631::::::::120:102::::::|h[Briny Flesh]|h|rx3.",
-						}, -- [143]
+						}, -- [125]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541063459,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:158839::::::::120:102::::::|h[Thick Crab Claw]|h|r.",
-						}, -- [144]
+						}, -- [126]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541063480,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:159756::::::::120:102::::::|h[Depleted Azerite]|h|rx4.",
-						}, -- [145]
+						}, -- [127]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541063480,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:158751::::::::120:102::::::|h[Matted Pelt]|h|r.",
-						}, -- [146]
+						}, -- [128]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541063480,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:157844::::::::120:102::::::|h[Iridescent Speck]|h|rx6.",
-						}, -- [147]
+						}, -- [129]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541063480,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:158861::::::::120:102::::::|h[Tensile Eye Stalk]|h|r.",
-						}, -- [148]
+						}, -- [130]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541063513,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:158794::::::::120:102::::::|h[Ivory Tusk]|h|r.",
-						}, -- [149]
+						}, -- [131]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541063514,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:157844::::::::120:102::::::|h[Iridescent Speck]|h|rx3.",
-						}, -- [150]
+						}, -- [132]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541063514,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:159756::::::::120:102::::::|h[Depleted Azerite]|h|r.",
-						}, -- [151]
+						}, -- [133]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541063633,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:155631::::::::120:102::::::|h[Inert Stone]|h|r.",
-						}, -- [152]
+						}, -- [134]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541063743,
 							["arg1"] = "Jaycobb-TwistingNether receives item: |cffa335ee|Hitem:161377::::::::120:102::3:4:4798:42:1477:4786:::|h[Azurethos' Singed Plumage]|h|r.",
-						}, -- [153]
+						}, -- [135]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541063744,
 							["arg1"] = "Batracho-Shattrath receives item: |cffa335ee|Hitem:161365::::::::120:102::3:3:4798:1477:4786:::|h[Footpads of the Encircling Storm]|h|r.",
-						}, -- [154]
+						}, -- [136]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541063745,
 							["arg1"] = "Тэрдокс-Ревущийфьорд receives bonus loot: |cffa335ee|Hitem:161363::::::::120:102::3:3:4798:1477:4786:::|h[Sandals of Rustling Rage]|h|r.",
-						}, -- [155]
+						}, -- [137]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541063747,
 							["arg1"] = "Mockingdust-Blackmoore receives bonus loot: |cffa335ee|Hitem:161378::::::::120:102::3:3:4798:1477:4786:::|h[Plume of the Seaborne Avian]|h|r.",
-						}, -- [156]
+						}, -- [138]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541063749,
 							["arg1"] = "Ptigaston-Archimonde receives bonus loot: |cffa335ee|Hitem:161365::::::::120:102::3:4:4798:43:1492:4784:::|h[Footpads of the Encircling Storm]|h|r.",
-						}, -- [157]
+						}, -- [139]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541063750,
 							["arg1"] = "Kyono-Zul'jin receives bonus loot: |cffa335ee|Hitem:161378::::::::120:102::3:3:4798:1477:4786:::|h[Plume of the Seaborne Avian]|h|r.",
-						}, -- [158]
+						}, -- [140]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541063753,
 							["arg1"] = "Skulgar-Mal'Ganis receives bonus loot: |cffa335ee|Hitem:161378::::::::120:102::3:3:4798:1477:4786:::|h[Plume of the Seaborne Avian]|h|r.",
-						}, -- [159]
+						}, -- [141]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541063760,
 							["arg1"] = "Чучеломяучел-Ревущийфьорд receives loot: |cffffffff|Hitem:154897::::::::120:102::::::|h[Stringy Loins]|h|rx4.",
-						}, -- [160]
+						}, -- [142]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541063760,
 							["arg1"] = "Чучеломяучел-Ревущийфьорд receives loot: |cff9d9d9d|Hitem:155593::::::::120:102::::::|h[Keeled Breastbone]|h|rx2.",
-						}, -- [161]
+						}, -- [143]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541064082,
 							["arg1"] = "You loot 57 Silver, 79 Copper",
-						}, -- [162]
+						}, -- [144]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541064095,
 							["arg1"] = "You loot 1 Gold, 13 Silver, 30 Copper",
-						}, -- [163]
+						}, -- [145]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541064105,
 							["arg1"] = "You loot 52 Silver, 6 Copper",
-						}, -- [164]
+						}, -- [146]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541064114,
 							["arg1"] = "You loot 1 Gold, 44 Silver, 35 Copper",
-						}, -- [165]
+						}, -- [147]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541064140,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:154804::::::::120:102::::::|h[Chipped-Blade Scimitar]|h|r.",
-						}, -- [166]
+						}, -- [148]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541064141,
 							["arg1"] = "You loot 4 Gold, 29 Silver, 21 Copper",
-						}, -- [167]
+						}, -- [149]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541064154,
 							["arg1"] = "You loot 1 Gold, 31 Silver, 18 Copper",
-						}, -- [168]
+						}, -- [150]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541064181,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:152576::::::::120:102::::::|h[Tidespray Linen]|h|rx3.",
-						}, -- [169]
+						}, -- [151]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541064181,
 							["arg1"] = "You loot 1 Gold, 58 Silver, 78 Copper",
-						}, -- [170]
+						}, -- [152]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541064193,
 							["arg1"] = "You loot 1 Gold, 32 Silver, 51 Copper",
-						}, -- [171]
+						}, -- [153]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541064226,
 							["arg1"] = "You loot 1 Gold, 88 Silver, 11 Copper",
-						}, -- [172]
+						}, -- [154]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541064262,
 							["arg1"] = "You loot 1 Gold, 34 Silver, 38 Copper",
-						}, -- [173]
+						}, -- [155]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541064277,
 							["arg1"] = "You loot 46 Silver, 36 Copper",
-						}, -- [174]
+						}, -- [156]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541064318,
 							["arg1"] = "You loot 6 Gold, 16 Silver, 33 Copper",
-						}, -- [175]
+						}, -- [157]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541064341,
 							["arg1"] = "You loot 1 Gold, 32 Silver, 82 Copper",
-						}, -- [176]
+						}, -- [158]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541064372,
 							["arg1"] = "You loot 1 Gold, 29 Silver, 98 Copper",
-						}, -- [177]
+						}, -- [159]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541064390,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:152576::::::::120:102::::::|h[Tidespray Linen]|h|rx3.",
-						}, -- [178]
+						}, -- [160]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541064391,
 							["arg1"] = "You loot 83 Silver, 77 Copper",
-						}, -- [179]
+						}, -- [161]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541064493,
 							["arg1"] = "You loot 4 Gold, 2 Silver, 95 Copper",
-						}, -- [180]
+						}, -- [162]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541064578,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:152875::::::::120:102::::::|h[Gloom Dust]|h|rx7.",
-						}, -- [181]
+						}, -- [163]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541064630,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:152576::::::::120:102::::::|h[Tidespray Linen]|h|rx2.",
-						}, -- [182]
+						}, -- [164]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541064631,
 							["arg1"] = "You loot 1 Gold, 80 Silver, 38 Copper",
-						}, -- [183]
+						}, -- [165]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541064657,
 							["arg1"] = "You loot 2 Gold, 12 Silver, 73 Copper",
-						}, -- [184]
+						}, -- [166]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541064658,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:162106::::::::120:102::::::|h[Tome of Tidesage Research]|h|r.",
-						}, -- [185]
+						}, -- [167]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541064689,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:161336::::::::120:102::::::|h[Compass of Clarity]|h|r.",
-						}, -- [186]
+						}, -- [168]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541064689,
 							["arg1"] = "You receive loot: |cff1eff00|Hitem:152577::::::::120:102::::::|h[Deep Sea Satin]|h|r.",
-						}, -- [187]
+						}, -- [169]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541064690,
 							["arg1"] = "You loot 2 Gold, 17 Silver, 71 Copper",
-						}, -- [188]
+						}, -- [170]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541064694,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:162106::::::::120:102::::::|h[Tome of Tidesage Research]|h|r.",
-						}, -- [189]
+						}, -- [171]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541064697,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:162106::::::::120:102::::::|h[Tome of Tidesage Research]|h|r.",
-						}, -- [190]
+						}, -- [172]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541064725,
 							["arg1"] = "You loot 2 Gold, 13 Silver, 64 Copper",
-						}, -- [191]
+						}, -- [173]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541064751,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:161335::::::::120:102::::::|h[Curio of the Depths]|h|r.",
-						}, -- [192]
+						}, -- [174]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541064752,
 							["arg1"] = "You loot 1 Gold, 59 Silver, 33 Copper",
-						}, -- [193]
+						}, -- [175]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541064758,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:162106::::::::120:102::::::|h[Tome of Tidesage Research]|h|r.",
-						}, -- [194]
+						}, -- [176]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541064763,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:162106::::::::120:102::::::|h[Tome of Tidesage Research]|h|r.",
-						}, -- [195]
+						}, -- [177]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541064795,
 							["arg1"] = "You loot 2 Gold, 34 Silver, 83 Copper",
-						}, -- [196]
+						}, -- [178]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541064816,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:161334::::::::120:102::::::|h[Key of the Sea]|h|r.",
-						}, -- [197]
+						}, -- [179]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541064816,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:158874::::::::120:102::::::|h[Frothing Vapor]|h|r.",
-						}, -- [198]
+						}, -- [180]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541064837,
 							["arg1"] = "You receive loot: |cff1eff00|Hitem:152577::::::::120:102::::::|h[Deep Sea Satin]|h|r.",
-						}, -- [199]
+						}, -- [181]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541064837,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:160927::::::::120:102::::::|h[Chipped Stone Hatchet]|h|r.",
-						}, -- [200]
+						}, -- [182]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541064837,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:152576::::::::120:102::::::|h[Tidespray Linen]|h|rx3.",
-						}, -- [201]
+						}, -- [183]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541064838,
 							["arg1"] = "You loot 79 Silver, 25 Copper",
-						}, -- [202]
+						}, -- [184]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541064936,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:155615::::::::120:102::::::|h[Pestilent Muck]|h|rx2.",
-						}, -- [203]
+						}, -- [185]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541064953,
 							["arg1"] = "You loot 49 Silver, 1 Copper",
-						}, -- [204]
+						}, -- [186]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541064974,
 							["arg1"] = "You loot 62 Silver, 85 Copper",
-						}, -- [205]
+						}, -- [187]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541064991,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:155615::::::::120:102::::::|h[Pestilent Muck]|h|r.",
-						}, -- [206]
+						}, -- [188]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541064992,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:158773::::::::120:102::::::|h[Wriggling Goop]|h|r.",
-						}, -- [207]
+						}, -- [189]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541064994,
 							["arg1"] = "You receive loot: |cffa335ee|Hitem:162579::::::::120:102::::::|h[Abyssal Scepter]|h|r.",
-						}, -- [208]
+						}, -- [190]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541065029,
 							["arg1"] = "You loot 1 Gold, 62 Silver, 51 Copper",
-						}, -- [209]
+						}, -- [191]
 						{
 							["type"] = "MONEY",
 							["time"] = 1541065101,
 							["arg1"] = "You loot 1 Gold, 10 Silver, 78 Copper",
-						}, -- [210]
+						}, -- [192]
 						{
 							["type"] = "LOOT",
 							["time"] = 1541065329,
 							["arg1"] = "Your |cffe6cc80|Hitem:158075::::::::120:102::11:4:4933:4936:4929:1520:::|h[Heart of Azeroth]|h|r was changed to |cffe6cc80|Hitem:158075::::::::120:102::11:4:4936:4929:4930:1520:::|h[Heart of Azeroth]|h|r.",
-						}, -- [211]
+						}, -- [193]
 						{
 							["arg1"] = " ",
-						}, -- [212]
+						}, -- [194]
 						{
 							["arg1"] = " ",
-						}, -- [213]
+						}, -- [195]
 						{
-							["arg1"] = "Logging started on 06/30/2019 at 15:20:19.",
 							["type"] = "SYSTEM",
-						}, -- [214]
+							["arg1"] = "Logging started on 06/30/2019 at 15:20:19.",
+						}, -- [196]
 						{
 							["type"] = "LOOT",
 							["time"] = 1561901174,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:7099::::::::120:102::::::|h[Severed Pincer]|h|r.",
-						}, -- [215]
+						}, -- [197]
 						{
 							["type"] = "LOOT",
 							["time"] = 1561901238,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:117::::::::120:102::::::|h[Tough Jerky]|h|r.",
-						}, -- [216]
+						}, -- [198]
 						{
 							["type"] = "CURRENCY",
 							["time"] = 1561901791,
 							["arg1"] = "You receive currency: |cffffffff|Hcurrency:1541:0|h[Iron]|h|r x3.",
-						}, -- [217]
+						}, -- [199]
 						{
 							["type"] = "LOOT",
 							["time"] = 1561902751,
 							["arg1"] = "You receive item: |cffa335ee|Hitem:163360::::::::120:102::3:3:5124:1532:4786:::|h[Honorbound Outrider's Drape]|h|r.",
-						}, -- [218]
+						}, -- [200]
 						{
 							["type"] = "LOOT",
 							["time"] = 1561902765,
 							["arg1"] = "You receive item: |cffa335ee|Hitem:163438::::::::120:102::6:4:5126:41:1562:4786:::|h[Honorbound Outrider's Boots]|h|r.",
-						}, -- [219]
+						}, -- [201]
 						{
 							["type"] = "CURRENCY",
 							["time"] = 1561902766,
 							["arg1"] = "You receive currency: |cffffffff|Hcurrency:1716:0|h[Honorbound Service Medal]|h|r x15.",
-						}, -- [220]
+						}, -- [202]
 						{
 							["type"] = "LOOT",
 							["time"] = 1561903532,
 							["arg1"] = "You receive item: |cff00ccff|Hitem:168416::::::::120:102::::::|h[Anglers' Water Striders]|h|r.",
-						}, -- [221]
+						}, -- [203]
 						{
 							["type"] = "LOOT",
 							["time"] = 1561903545,
 							["arg1"] = "You receive item: |cff1eff00|Hitem:168417::::::::120:102::::::|h[Inflatable Mount Shoes]|h|r.",
-						}, -- [222]
+						}, -- [204]
 						{
 							["type"] = "LOOT",
 							["time"] = 1561903736,
 							["arg1"] = "You receive item: |cff1eff00|Hitem:168417::::::::120:102::::::|h[Inflatable Mount Shoes]|h|r.",
-						}, -- [223]
+						}, -- [205]
 						{
 							["type"] = "MONEY",
 							["time"] = 1561904331,
 							["arg1"] = "You loot 1 Gold, 89 Silver, 30 Copper",
-						}, -- [224]
+						}, -- [206]
 						{
 							["type"] = "MONEY",
 							["time"] = 1561904361,
 							["arg1"] = "You loot 2 Gold, 15 Silver, 93 Copper",
-						}, -- [225]
+						}, -- [207]
 						{
 							["type"] = "LOOT",
 							["time"] = 1561904401,
 							["arg1"] = "You receive loot: |cff1eff00|Hitem:167738::::::::120:102::::::|h[Gilded Seaweave]|h|rx2.",
-						}, -- [226]
+						}, -- [208]
 						{
 							["type"] = "MONEY",
 							["time"] = 1561904402,
 							["arg1"] = "You loot 2 Gold, 75 Silver, 93 Copper",
-						}, -- [227]
+						}, -- [209]
 						{
 							["type"] = "LOOT",
 							["time"] = 1561904423,
 							["arg1"] = "You receive item: |cffa335ee|Hitem:163872::::::::120:102::30:2:1562:4786:::|h[Honorbound War Staff]|h|r.",
-						}, -- [228]
+						}, -- [210]
 						{
 							["type"] = "MONEY",
 							["time"] = 1561904515,
 							["arg1"] = "You loot 2 Gold, 10 Silver, 13 Copper",
-						}, -- [229]
+						}, -- [211]
 						{
 							["type"] = "LOOT",
 							["time"] = 1561904578,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:154783::::::::120:102::::::|h[Ruptured Plate Gauntlets]|h|r.",
-						}, -- [230]
+						}, -- [212]
 						{
 							["type"] = "MONEY",
 							["time"] = 1561904579,
 							["arg1"] = "You loot 1 Gold, 85 Silver, 59 Copper",
-						}, -- [231]
+						}, -- [213]
 						{
 							["type"] = "LOOT",
 							["time"] = 1561904587,
 							["arg1"] = "You receive loot: |cff1eff00|Hitem:167738::::::::120:102::::::|h[Gilded Seaweave]|h|rx2.",
-						}, -- [232]
+						}, -- [214]
 						{
 							["type"] = "MONEY",
 							["time"] = 1561904587,
 							["arg1"] = "You loot 2 Gold, 44 Silver, 28 Copper",
-						}, -- [233]
+						}, -- [215]
 						{
 							["type"] = "LOOT",
 							["time"] = 1561904642,
 							["arg1"] = "You receive loot: |cff1eff00|Hitem:169424::::::::120:102:512::2:4796:1709:120:::|h[Wavecrash Headguard of the Aurora]|h|r.",
-						}, -- [234]
+						}, -- [216]
 						{
 							["type"] = "MONEY",
 							["time"] = 1561904643,
 							["arg1"] = "You loot 1 Gold, 57 Silver, 25 Copper",
-						}, -- [235]
+						}, -- [217]
 						{
 							["type"] = "LOOT",
 							["time"] = 1561905029,
 							["arg1"] = "You receive item: |cffa335ee|Hitem:170518::::::::120:102::11:3:1577:4786:5413:::|h[Honorbound Outrider's Tunic]|h|r.",
-						}, -- [236]
+						}, -- [218]
 						{
 							["type"] = "LOOT",
 							["time"] = 1561905490,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:159140::::::::120:102::::::|h[Lifeless Clay]|h|r.",
-						}, -- [237]
+						}, -- [219]
 						{
 							["type"] = "LOOT",
 							["time"] = 1561905491,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:157844::::::::120:102::::::|h[Iridescent Speck]|h|r.",
-						}, -- [238]
+						}, -- [220]
 						{
 							["type"] = "LOOT",
 							["time"] = 1561905732,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:157844::::::::120:102::::::|h[Iridescent Speck]|h|rx2.",
-						}, -- [239]
+						}, -- [221]
 						{
 							["type"] = "LOOT",
 							["time"] = 1561905840,
 							["arg1"] = "You receive loot: |cffe6cc80|Hitem:167830::::::::120:102::::::|h[Petrified Ebony Scale]|h|r.",
-						}, -- [240]
+						}, -- [222]
 						{
 							["type"] = "MONEY",
 							["time"] = 1561905963,
 							["arg1"] = "You loot 47 Silver, 30 Copper",
-						}, -- [241]
+						}, -- [223]
 						{
 							["type"] = "LOOT",
 							["time"] = 1561906004,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:124437::::::::120:102::::::|h[Shal'dorei Silk]|h|rx3.",
-						}, -- [242]
+						}, -- [224]
 						{
 							["type"] = "MONEY",
 							["time"] = 1561906005,
 							["arg1"] = "You loot 1 Gold, 94 Copper",
-						}, -- [243]
+						}, -- [225]
 						{
 							["type"] = "MONEY",
 							["time"] = 1561906009,
 							["arg1"] = "You loot 1 Gold, 38 Copper",
-						}, -- [244]
+						}, -- [226]
 						{
 							["type"] = "LOOT",
 							["time"] = 1561906015,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:124437::::::::120:102::::::|h[Shal'dorei Silk]|h|r.",
-						}, -- [245]
+						}, -- [227]
 						{
 							["type"] = "MONEY",
 							["time"] = 1561906016,
 							["arg1"] = "You loot 2 Gold, 9 Silver, 85 Copper",
-						}, -- [246]
+						}, -- [228]
 						{
 							["type"] = "CURRENCY",
 							["time"] = 1561906023,
 							["arg1"] = "You receive currency: |cffffffff|Hcurrency:1220:0|h[Order Resources]|h|r x358.",
+						}, -- [229]
+						{
+							["arg1"] = " ",
+						}, -- [230]
+						{
+							["arg1"] = " ",
+						}, -- [231]
+						{
+							["arg1"] = "Logging started on 11/29/2020 at 13:23:00.",
+							["type"] = "SYSTEM",
+						}, -- [232]
+						{
+							["type"] = "LOOT",
+							["time"] = 1606652655,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:152875::::::::50:102:::::::|h[Gloom Dust]|h|rx8.",
+						}, -- [233]
+						{
+							["type"] = "MONEY",
+							["time"] = 1606653808,
+							["arg1"] = "You loot 1 Gold, 37 Silver, 14 Copper",
+						}, -- [234]
+						{
+							["type"] = "LOOT",
+							["time"] = 1606653888,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:176862::::::::50:102:::::::|h[Marred Skin]|h|r.",
+						}, -- [235]
+						{
+							["type"] = "MONEY",
+							["time"] = 1606653889,
+							["arg1"] = "You loot 69 Silver, 17 Copper",
+						}, -- [236]
+						{
+							["type"] = "MONEY",
+							["time"] = 1606653904,
+							["arg1"] = "You loot 1 Gold, 32 Silver, 18 Copper",
+						}, -- [237]
+						{
+							["type"] = "MONEY",
+							["time"] = 1606653938,
+							["arg1"] = "You loot 1 Gold, 86 Silver, 31 Copper",
+						}, -- [238]
+						{
+							["type"] = "MONEY",
+							["time"] = 1606654023,
+							["arg1"] = "You loot 2 Gold, 1 Silver, 69 Copper",
+						}, -- [239]
+						{
+							["type"] = "MONEY",
+							["time"] = 1606654049,
+							["arg1"] = "You loot 77 Silver, 76 Copper",
+						}, -- [240]
+						{
+							["type"] = "MONEY",
+							["time"] = 1606654086,
+							["arg1"] = "You loot 34 Silver, 74 Copper",
+						}, -- [241]
+						{
+							["type"] = "LOOT",
+							["time"] = 1606654241,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:173202::::::::50:102:::::::|h[Shrouded Cloth]|h|r.",
+						}, -- [242]
+						{
+							["type"] = "MONEY",
+							["time"] = 1606654242,
+							["arg1"] = "You loot 3 Gold, 89 Silver, 9 Copper",
+						}, -- [243]
+						{
+							["type"] = "LOOT",
+							["time"] = 1606654292,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:173202::::::::50:102:::::::|h[Shrouded Cloth]|h|rx2.",
+						}, -- [244]
+						{
+							["type"] = "LOOT",
+							["time"] = 1606654292,
+							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:184391::::::::50:102:::::::|h[Hollow Phylactery Shard]|h|r.",
+						}, -- [245]
+						{
+							["type"] = "MONEY",
+							["time"] = 1606654293,
+							["arg1"] = "You loot 3 Gold, 72 Silver, 24 Copper",
+						}, -- [246]
+						{
+							["type"] = "LOOT",
+							["time"] = 1606654335,
+							["arg1"] = "You receive loot: |cff1eff00|Hitem:173204::::::::50:102:::::::|h[Lightless Silk]|h|r.",
 						}, -- [247]
 						{
-							["arg1"] = " ",
+							["type"] = "MONEY",
+							["time"] = 1606654336,
+							["arg1"] = "You loot 3 Gold, 30 Silver, 88 Copper",
 						}, -- [248]
 						{
-							["arg1"] = " ",
+							["type"] = "MONEY",
+							["time"] = 1606654409,
+							["arg1"] = "You loot 3 Gold, 64 Silver, 86 Copper",
 						}, -- [249]
 						{
-							["arg1"] = "Logging started on 11/20/2019 at 09:39:06.",
-							["type"] = "SYSTEM",
+							["type"] = "LOOT",
+							["time"] = 1606654582,
+							["arg1"] = "You receive item: |cffffffff|Hitem:178495::::::::50:102::11::1:28:1400:::|h[Shattered Helm of Domination]|h|r.",
 						}, -- [250]
 					},
 				}, -- [8]
@@ -10216,1233 +10216,1228 @@ ElephantDBPerChar = {
 					["logs"] = {
 						{
 							["type"] = "SYSTEM",
-							["time"] = 1541062864,
-							["arg1"] = "Voodooshift seems to be sobering up.",
-						}, -- [1]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541062864,
-							["arg1"] = "Voodooshift looks drunk.",
-						}, -- [2]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541062869,
-							["arg1"] = "Voodooshift seems to be sobering up.",
-						}, -- [3]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541062876,
-							["arg1"] = "Received 97 Gold, 97 Silver, 70 Copper.",
-						}, -- [4]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541062883,
-							["arg1"] = "You leave the group.",
-						}, -- [5]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541062944,
-							["arg1"] = "You receive item: |cff0070dd|Hcurrency:1553:280|h[Glowing Azerite Crystal]|h|r.",
-						}, -- [6]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541062944,
-							["arg1"] = "|cffe6cc80|Hitem:158075::::::::120:102::11:4:4933:4936:4929:1520:::|h[Heart of Azeroth]|h|r gains 280 Artifact Power.",
-						}, -- [7]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063415,
-							["arg1"] = "You receive item: |cff1eff00|Hcurrency:1553:22|h[Tiny Azerite Splinter]|h|r.",
-						}, -- [8]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063415,
-							["arg1"] = "|cffe6cc80|Hitem:158075::::::::120:102::11:4:4933:4936:4929:1520:::|h[Heart of Azeroth]|h|r gains 22 Artifact Power.",
-						}, -- [9]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063415,
-							["arg1"] = "You receive item: |cff1eff00|Hcurrency:1553:13|h[Tiny Azerite Splinter]|h|r.",
-						}, -- [10]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063415,
-							["arg1"] = "|cffe6cc80|Hitem:158075::::::::120:102::11:4:4933:4936:4929:1520:::|h[Heart of Azeroth]|h|r gains 13 Artifact Power.",
-						}, -- [11]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063461,
-							["arg1"] = "You receive item: |cff1eff00|Hcurrency:1553:6|h[Tiny Azerite Splinter]|h|r.",
-						}, -- [12]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063461,
-							["arg1"] = "|cffe6cc80|Hitem:158075::::::::120:102::11:4:4933:4936:4929:1520:::|h[Heart of Azeroth]|h|r gains 6 Artifact Power.",
-						}, -- [13]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063461,
-							["arg1"] = "You receive item: |cff1eff00|Hcurrency:1553:5|h[Tiny Azerite Splinter]|h|r.",
-						}, -- [14]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063461,
-							["arg1"] = "|cffe6cc80|Hitem:158075::::::::120:102::11:4:4933:4936:4929:1520:::|h[Heart of Azeroth]|h|r gains 5 Artifact Power.",
-						}, -- [15]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063461,
-							["arg1"] = "You receive item: |cff1eff00|Hcurrency:1553:12|h[Tiny Azerite Splinter]|h|r.",
-						}, -- [16]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063461,
-							["arg1"] = "|cffe6cc80|Hitem:158075::::::::120:102::11:4:4933:4936:4929:1520:::|h[Heart of Azeroth]|h|r gains 12 Artifact Power.",
-						}, -- [17]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063461,
-							["arg1"] = "You receive item: |cff1eff00|Hcurrency:1553:7|h[Tiny Azerite Splinter]|h|r.",
-						}, -- [18]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063461,
-							["arg1"] = "|cffe6cc80|Hitem:158075::::::::120:102::11:4:4933:4936:4929:1520:::|h[Heart of Azeroth]|h|r gains 7 Artifact Power.",
-						}, -- [19]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063479,
-							["arg1"] = "You receive item: |cff1eff00|Hcurrency:1553:3|h[Tiny Azerite Splinter]|h|r.",
-						}, -- [20]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063479,
-							["arg1"] = "|cffe6cc80|Hitem:158075::::::::120:102::11:4:4933:4936:4929:1520:::|h[Heart of Azeroth]|h|r gains 3 Artifact Power.",
-						}, -- [21]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063479,
-							["arg1"] = "You receive item: |cff1eff00|Hcurrency:1553:3|h[Tiny Azerite Splinter]|h|r.",
-						}, -- [22]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063479,
-							["arg1"] = "|cffe6cc80|Hitem:158075::::::::120:102::11:4:4933:4936:4929:1520:::|h[Heart of Azeroth]|h|r gains 3 Artifact Power.",
-						}, -- [23]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063479,
-							["arg1"] = "You receive item: |cff1eff00|Hcurrency:1553:3|h[Tiny Azerite Splinter]|h|r.",
-						}, -- [24]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063479,
-							["arg1"] = "|cffe6cc80|Hitem:158075::::::::120:102::11:4:4933:4936:4929:1520:::|h[Heart of Azeroth]|h|r gains 3 Artifact Power.",
-						}, -- [25]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063479,
-							["arg1"] = "You receive item: |cff1eff00|Hcurrency:1553:4|h[Tiny Azerite Splinter]|h|r.",
-						}, -- [26]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063479,
-							["arg1"] = "|cffe6cc80|Hitem:158075::::::::120:102::11:4:4933:4936:4929:1520:::|h[Heart of Azeroth]|h|r gains 4 Artifact Power.",
-						}, -- [27]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063512,
-							["arg1"] = "You receive item: |cff1eff00|Hcurrency:1553:5|h[Tiny Azerite Splinter]|h|r.",
-						}, -- [28]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063512,
-							["arg1"] = "|cffe6cc80|Hitem:158075::::::::120:102::11:4:4933:4936:4929:1520:::|h[Heart of Azeroth]|h|r gains 5 Artifact Power.",
-						}, -- [29]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063512,
-							["arg1"] = "You receive item: |cff1eff00|Hcurrency:1553:7|h[Tiny Azerite Splinter]|h|r.",
-						}, -- [30]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063512,
-							["arg1"] = "|cffe6cc80|Hitem:158075::::::::120:102::11:4:4933:4936:4929:1520:::|h[Heart of Azeroth]|h|r gains 7 Artifact Power.",
-						}, -- [31]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063512,
-							["arg1"] = "You receive item: |cff1eff00|Hcurrency:1553:6|h[Tiny Azerite Splinter]|h|r.",
-						}, -- [32]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063512,
-							["arg1"] = "|cffe6cc80|Hitem:158075::::::::120:102::11:4:4933:4936:4929:1520:::|h[Heart of Azeroth]|h|r gains 6 Artifact Power.",
-						}, -- [33]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063512,
-							["arg1"] = "You receive item: |cff1eff00|Hcurrency:1553:6|h[Tiny Azerite Splinter]|h|r.",
-						}, -- [34]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063512,
-							["arg1"] = "|cffe6cc80|Hitem:158075::::::::120:102::11:4:4933:4936:4929:1520:::|h[Heart of Azeroth]|h|r gains 6 Artifact Power.",
-						}, -- [35]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063512,
-							["arg1"] = "You receive item: |cff0070dd|Hcurrency:1553:292|h[Glowing Azerite Crystal]|h|r.",
-						}, -- [36]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063512,
-							["arg1"] = "|cffe6cc80|Hitem:158075::::::::120:102::11:4:4933:4936:4929:1520:::|h[Heart of Azeroth]|h|r gains 292 Artifact Power.",
-						}, -- [37]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063684,
-							["arg1"] = "Party converted to Raid",
-						}, -- [38]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063684,
-							["arg1"] = "You have joined a raid group. |cffff2020(While in a raid, you cannot earn credit towards most non-raid quests.)|r",
-						}, -- [39]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063684,
-							["arg1"] = "Raid Difficulty set to Mythic.",
-						}, -- [40]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063684,
-							["arg1"] = "Legacy Raid Difficulty set to 10 Player (Heroic).",
-						}, -- [41]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063698,
-							["arg1"] = "Зайчёна-СвежевательДуш has joined the raid group.",
-						}, -- [42]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063704,
-							["arg1"] = "Alerna-Blackhand has joined the raid group.",
-						}, -- [43]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063713,
-							["arg1"] = "Fangss-Sanguino has joined the raid group.",
-						}, -- [44]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063715,
-							["arg1"] = "Iomadh-Sargeras has joined the raid group.",
-						}, -- [45]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063716,
-							["arg1"] = "Yûgure-BurningLegion has left the raid group.",
-						}, -- [46]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063717,
-							["arg1"] = "Damnedspawn-Genjuros has joined the raid group.",
-						}, -- [47]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063723,
-							["arg1"] = "Nicaty-C'Thun has joined the raid group.",
-						}, -- [48]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063728,
-							["arg1"] = "Kyono-Zul'jin has joined the raid group.",
-						}, -- [49]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063734,
-							["arg1"] = "Gholit-Frostwolf has joined the raid group.",
-						}, -- [50]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063738,
-							["arg1"] = "Samaael-Blackhand has joined the raid group.",
-						}, -- [51]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063738,
-							["arg1"] = "Лечулюбя-Ревущийфьорд has joined the raid group.",
-						}, -- [52]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063743,
-							["arg1"] = "Received 38 Gold, 57 Silver, 98 Copper.",
-						}, -- [53]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063744,
-							["arg1"] = "You receive item: |cffa335ee|Hcurrency:1553:825|h[Radiant Azerite Core]|h|r.",
-						}, -- [54]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063744,
-							["arg1"] = "|cffe6cc80|Hitem:158075::::::::120:102::11:4:4933:4936:4929:1520:::|h[Heart of Azeroth]|h|r gains 825 Artifact Power.",
-						}, -- [55]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1541063748,
-							["arg1"] = "Glabur-Hyjal has joined the raid group.",
-						}, -- [56]
-						{
-							["type"] = "SYSTEM",
 							["time"] = 1541063749,
 							["arg1"] = "Samaael-Blackhand has left the raid group.",
-						}, -- [57]
+						}, -- [1]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541063751,
 							["arg1"] = "Tonchí-TwistingNether has left the raid group.",
-						}, -- [58]
+						}, -- [2]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541063752,
 							["arg1"] = "Tureklas-Kazzak has left the raid group.",
-						}, -- [59]
+						}, -- [3]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541063756,
 							["arg1"] = "Krith-Sanguino has left the raid group.",
-						}, -- [60]
+						}, -- [4]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541063758,
 							["arg1"] = "Gholit-Frostwolf has left the raid group.",
-						}, -- [61]
+						}, -- [5]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541063758,
 							["arg1"] = "Выдавиглаз-Ревущийфьорд has left the raid group.",
-						}, -- [62]
+						}, -- [6]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541063758,
 							["arg1"] = "Tacocat-Crushridge has left the raid group.",
-						}, -- [63]
+						}, -- [7]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541063758,
 							["arg1"] = "Neiiji-Archimonde has left the raid group.",
-						}, -- [64]
+						}, -- [8]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541063758,
 							["arg1"] = "Franea-Archimonde has left the raid group.",
-						}, -- [65]
+						}, -- [9]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541063760,
 							["arg1"] = "Skulgar-Mal'Ganis has left the raid group.",
-						}, -- [66]
+						}, -- [10]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541063761,
 							["arg1"] = "Kyono-Zul'jin has left the raid group.",
-						}, -- [67]
+						}, -- [11]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541063762,
 							["arg1"] = "Glabur-Hyjal has left the raid group.",
-						}, -- [68]
+						}, -- [12]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541063763,
 							["arg1"] = "Чучеломяучел-Ревущийфьорд has left the raid group.",
-						}, -- [69]
+						}, -- [13]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541063763,
 							["arg1"] = "You leave the group.",
-						}, -- [70]
+						}, -- [14]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541063764,
 							["arg1"] = "You are not in a raid group",
-						}, -- [71]
+						}, -- [15]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541063764,
 							["arg1"] = "You are not in a raid group",
-						}, -- [72]
+						}, -- [16]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541064435,
 							["arg1"] = "The Bulk of the Guard completed.",
-						}, -- [73]
+						}, -- [17]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541064435,
 							["arg1"] = "Received 23 Gold, 40 Silver.",
-						}, -- [74]
+						}, -- [18]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541064544,
 							["arg1"] = "Old Colleagues completed.",
-						}, -- [75]
+						}, -- [19]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541064544,
 							["arg1"] = "Received 46 Gold, 80 Silver.",
-						}, -- [76]
+						}, -- [20]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541064546,
 							["arg1"] = "Quest accepted: A Well Placed Portal",
-						}, -- [77]
+						}, -- [21]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541064603,
 							["arg1"] = "A Well Placed Portal completed.",
-						}, -- [78]
+						}, -- [22]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541064603,
 							["arg1"] = "Received 2 Gold, 34 Silver.",
-						}, -- [79]
+						}, -- [23]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541064603,
 							["arg1"] = "Quest accepted: Relics of Ritual",
-						}, -- [80]
+						}, -- [24]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541064604,
 							["arg1"] = "Quest accepted: Forfeit Souls",
-						}, -- [81]
+						}, -- [25]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541064605,
 							["arg1"] = "Quest accepted: Tidesage Teachings",
-						}, -- [82]
+						}, -- [26]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541064861,
 							["arg1"] = "Tidesage Teachings completed.",
-						}, -- [83]
+						}, -- [27]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541064861,
 							["arg1"] = "Received 23 Gold, 40 Silver.",
-						}, -- [84]
+						}, -- [28]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541064862,
 							["arg1"] = "Forfeit Souls completed.",
-						}, -- [85]
+						}, -- [29]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541064862,
 							["arg1"] = "Received 23 Gold, 40 Silver.",
-						}, -- [86]
+						}, -- [30]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541064862,
 							["arg1"] = "Relics of Ritual completed.",
-						}, -- [87]
+						}, -- [31]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541064862,
 							["arg1"] = "Received 46 Gold, 80 Silver.",
-						}, -- [88]
+						}, -- [32]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541064863,
 							["arg1"] = "Quest accepted: Gaining the Upper Hand",
-						}, -- [89]
+						}, -- [33]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541064999,
 							["arg1"] = "Gaining the Upper Hand completed.",
-						}, -- [90]
+						}, -- [34]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541064999,
 							["arg1"] = "Received 46 Gold, 80 Silver.",
-						}, -- [91]
+						}, -- [35]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065000,
 							["arg1"] = "Quest accepted: Return to the Harbor",
-						}, -- [92]
+						}, -- [36]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065046,
 							["arg1"] = "Return to the Harbor completed.",
-						}, -- [93]
+						}, -- [37]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065046,
 							["arg1"] = "Received 2 Gold, 34 Silver.",
-						}, -- [94]
+						}, -- [38]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065047,
 							["arg1"] = "Quest accepted: Life Held Hostage",
-						}, -- [95]
+						}, -- [39]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065048,
 							["arg1"] = "You don't meet the requirements for that quest.",
-						}, -- [96]
+						}, -- [40]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065050,
 							["arg1"] = "You don't meet the requirements for that quest.",
-						}, -- [97]
+						}, -- [41]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065051,
 							["arg1"] = "You don't meet the requirements for that quest.",
-						}, -- [98]
+						}, -- [42]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065107,
 							["arg1"] = "Life Held Hostage completed.",
-						}, -- [99]
+						}, -- [43]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065107,
 							["arg1"] = "Received 46 Gold, 80 Silver.",
-						}, -- [100]
+						}, -- [44]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065107,
 							["arg1"] = "Quest accepted: The Aid of the Tides",
-						}, -- [101]
+						}, -- [45]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065168,
 							["arg1"] = "The Aid of the Tides completed.",
-						}, -- [102]
+						}, -- [46]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065168,
 							["arg1"] = "Received 2 Gold, 34 Silver.",
-						}, -- [103]
+						}, -- [47]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065169,
 							["arg1"] = "Quest accepted: A Cycle of Hatred",
-						}, -- [104]
+						}, -- [48]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065173,
 							["arg1"] = "|cff1eff00|Hgarrfollower:1062:2:120:800:1103:0:0:0:0:0:0:0:1043|h[Lilian Voss]|h|r recruited.",
-						}, -- [105]
+						}, -- [49]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065173,
 							["arg1"] = "Champion: Lilian Voss completed.",
-						}, -- [106]
+						}, -- [50]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065265,
 							["arg1"] = "You receive item: |cffa335ee|Hcurrency:1553:1400|h[Radiant Azerite Matrix]|h|r.",
-						}, -- [107]
+						}, -- [51]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065265,
 							["arg1"] = "|cffe6cc80|Hitem:158075::::::::120:102::11:4:4933:4936:4929:1520:::|h[Heart of Azeroth]|h|r gains 1,400 Artifact Power.",
-						}, -- [108]
+						}, -- [52]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065265,
 							["arg1"] = "You are now Revered with Champions of Azeroth.",
-						}, -- [109]
+						}, -- [53]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065265,
 							["arg1"] = "Champions of Azeroth completed.",
-						}, -- [110]
+						}, -- [54]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065272,
 							["arg1"] = "Quest accepted: The Chamber of Heart",
-						}, -- [111]
+						}, -- [55]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065333,
 							["arg1"] = "The Chamber of Heart completed.",
-						}, -- [112]
+						}, -- [56]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065333,
 							["arg1"] = "Received 2 Gold, 34 Silver.",
-						}, -- [113]
+						}, -- [57]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065445,
 							["arg1"] = "You receive item: |cffa335ee|Hcurrency:1553:800|h[Radiant Azerite Core]|h|r.",
-						}, -- [114]
+						}, -- [58]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065445,
 							["arg1"] = "|cffe6cc80|Hitem:158075::::::::120:102::11:4:4936:4929:4930:1520:::|h[Heart of Azeroth]|h|r gains 800 Artifact Power.",
-						}, -- [115]
+						}, -- [59]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065445,
 							["arg1"] = "A Cycle of Hatred completed.",
-						}, -- [116]
+						}, -- [60]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065445,
 							["arg1"] = "Received 2 Gold, 34 Silver.",
-						}, -- [117]
+						}, -- [61]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065488,
 							["arg1"] = "Quest accepted: Machines of War",
-						}, -- [118]
+						}, -- [62]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065489,
 							["arg1"] = "Quest accepted: Enemies Below",
-						}, -- [119]
+						}, -- [63]
 						{
 							["arg1"] = " ",
-						}, -- [120]
+						}, -- [64]
 						{
 							["arg1"] = " ",
-						}, -- [121]
+						}, -- [65]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 11/01/2018 at 10:48:24.",
-						}, -- [122]
+							["type"] = "SYSTEM",
+						}, -- [66]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065811,
 							["arg1"] = "Auction created.",
-						}, -- [123]
+						}, -- [67]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065812,
 							["arg1"] = "Auction created.",
-						}, -- [124]
+						}, -- [68]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065812,
 							["arg1"] = "Auction created.",
-						}, -- [125]
+						}, -- [69]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065813,
 							["arg1"] = "Auction created.",
-						}, -- [126]
+						}, -- [70]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065813,
 							["arg1"] = "Auction created.",
-						}, -- [127]
+						}, -- [71]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065814,
 							["arg1"] = "Auction created.",
-						}, -- [128]
+						}, -- [72]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065815,
 							["arg1"] = "Auction created.",
-						}, -- [129]
+						}, -- [73]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065816,
 							["arg1"] = "Auction created.",
-						}, -- [130]
+						}, -- [74]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065817,
 							["arg1"] = "Auction created.",
-						}, -- [131]
+						}, -- [75]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065818,
 							["arg1"] = "Auction created.",
-						}, -- [132]
+						}, -- [76]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065838,
 							["arg1"] = "Quest accepted: Masked Orphan Matron",
-						}, -- [133]
+						}, -- [77]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065838,
 							["arg1"] = "Quest accepted: A Season for Celebration",
-						}, -- [134]
+						}, -- [78]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065866,
 							["arg1"] = "Kugar seems a little tipsy from the |cffffffff|Hitem:37908::::::::120:102::::::|h[Bartlett's Bitter Brew]|h|r.",
-						}, -- [135]
+						}, -- [79]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1541065964,
 							["arg1"] = "|Hplayer:Uradriel-DefiasBrotherhood|h[Uradriel-DefiasBrotherhood]|h has come online.",
-						}, -- [136]
+						}, -- [80]
 						{
 							["arg1"] = " ",
-						}, -- [137]
+						}, -- [81]
 						{
 							["arg1"] = " ",
-						}, -- [138]
+						}, -- [82]
 						{
-							["arg1"] = "Logging started on 06/30/2019 at 15:20:19.",
 							["type"] = "SYSTEM",
-						}, -- [139]
+							["arg1"] = "Logging started on 06/30/2019 at 15:20:19.",
+						}, -- [83]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561900884,
 							["arg1"] = "You have learned a new passive effect: |cff71d5ff|Hspell:226342:0|h[Broken Isles Pathfinder]|h|r.",
-						}, -- [140]
+						}, -- [84]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561900888,
 							["arg1"] = "Quest accepted: The Warchief's Order",
-						}, -- [141]
+						}, -- [85]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561901520,
 							["arg1"] = "Quest accepted: Warfront: The Battle for Stromgarde",
-						}, -- [142]
+						}, -- [86]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561901525,
 							["arg1"] = "Quest accepted: Trouble in Darkshore",
-						}, -- [143]
+						}, -- [87]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561901538,
 							["arg1"] = "You have joined the queue for Battle for Stromgarde.",
-						}, -- [144]
+						}, -- [88]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561901574,
 							["arg1"] = "Party converted to Raid",
-						}, -- [145]
+						}, -- [89]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561902751,
 							["arg1"] = "You receive item: |cff1eff00|Hcurrency:1553:150|h[Small Azerite Cluster]|h|r.",
-						}, -- [146]
+						}, -- [90]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561902751,
 							["arg1"] = "|cffe6cc80|Hitem:158075::::::::120:102::11:4:4936:4929:4930:1526:::|h[Heart of Azeroth]|h|r gains 150 Artifact Power.",
-						}, -- [147]
+						}, -- [91]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561902752,
 							["arg1"] = "Aitomama-TwistingNether has left the instance group.",
-						}, -- [148]
+						}, -- [92]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561902752,
 							["arg1"] = "Eilissa-Drak'thul has left the instance group.",
-						}, -- [149]
+						}, -- [93]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561902753,
 							["arg1"] = "Siffe-Ragnaros has left the instance group.",
-						}, -- [150]
+						}, -- [94]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561902753,
 							["arg1"] = "Doppelherz-DefiasBrotherhood has left the instance group.",
-						}, -- [151]
+						}, -- [95]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561902753,
 							["arg1"] = "Sundaylunch-Draenor has left the instance group.",
-						}, -- [152]
+						}, -- [96]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561902753,
 							["arg1"] = "You leave the group.",
-						}, -- [153]
+						}, -- [97]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561902765,
 							["arg1"] = "You receive item: |cffa335ee|Hcurrency:1553:750|h[Radiant Azerite Core]|h|r.",
-						}, -- [154]
+						}, -- [98]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561902765,
 							["arg1"] = "|cffe6cc80|Hitem:158075::::::::120:102::11:4:4936:4929:4930:1526:::|h[Heart of Azeroth]|h|r gains 750 Artifact Power.",
-						}, -- [155]
+						}, -- [99]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561902765,
 							["arg1"] = "Warfront: The Battle for Stromgarde completed.",
-						}, -- [156]
+						}, -- [100]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561902765,
 							["arg1"] = "Received 46 Gold, 80 Silver.",
-						}, -- [157]
+						}, -- [101]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561902765,
 							["arg1"] = "|cffff80ff|Htransmogappearance:100655|h[Honorbound Outrider's Boots]|h|r has been added to your appearance collection.",
-						}, -- [158]
+						}, -- [102]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561902872,
 							["arg1"] = "Expanding our Influence completed.",
-						}, -- [159]
+						}, -- [103]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561902933,
 							["arg1"] = "You receive item: |cff0070dd|Hcurrency:1553:425|h[Glowing Azerite Geode]|h|r.",
-						}, -- [160]
+						}, -- [104]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561902933,
 							["arg1"] = "|cffe6cc80|Hitem:158075::::::::120:102::11:4:4936:4929:4930:1528:::|h[Heart of Azeroth]|h|r gains 425 Artifact Power.",
-						}, -- [161]
+						}, -- [105]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561902934,
 							["arg1"] = "You receive item: |cff0070dd|Hcurrency:1553:200|h[Glowing Azerite Crystal]|h|r.",
-						}, -- [162]
+						}, -- [106]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561902934,
 							["arg1"] = "|cffe6cc80|Hitem:158075::::::::120:102::11:4:4936:4929:4930:1528:::|h[Heart of Azeroth]|h|r gains 200 Artifact Power.",
-						}, -- [163]
+						}, -- [107]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561902934,
 							["arg1"] = "Silvermoon Sorceress has been exhausted.",
-						}, -- [164]
+						}, -- [108]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561902935,
 							["arg1"] = "Received 139 Gold, 79 Silver.",
-						}, -- [165]
+						}, -- [109]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561902935,
 							["arg1"] = "Nightborne Warpcasters has been exhausted.",
-						}, -- [166]
+						}, -- [110]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561902945,
 							["arg1"] = "|cffffffff|Hgarrfollower:1073:1:120:800:1084:0:0:0:0:0:0:0:0|h[Huojin Monks]|h|r recruited.",
-						}, -- [167]
+						}, -- [111]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561902945,
 							["arg1"] = "|cffffffff|Hgarrfollower:1070:1:120:1:1083:0:0:0:0:0:0:0:0|h[Silvermoon Sorceress]|h|r recruited.",
-						}, -- [168]
+						}, -- [112]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561903024,
 							["arg1"] = "Our War Continues completed.",
-						}, -- [169]
+						}, -- [113]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561903024,
 							["arg1"] = "Received 2 Gold, 34 Silver.",
-						}, -- [170]
+						}, -- [114]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561903024,
 							["arg1"] = "The Warchief's Order completed.",
-						}, -- [171]
+						}, -- [115]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561903024,
 							["arg1"] = "Received 2 Gold, 34 Silver.",
-						}, -- [172]
+						}, -- [116]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561903025,
 							["arg1"] = "Quest accepted: Send the Fleet",
-						}, -- [173]
+						}, -- [117]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561903026,
 							["arg1"] = "Quest accepted: Azerite Denied",
-						}, -- [174]
+						}, -- [118]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561903516,
 							["arg1"] = "Bid accepted.",
-						}, -- [175]
+						}, -- [119]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561903516,
 							["arg1"] = "You won an auction for Inflatable Mount Shoes",
-						}, -- [176]
+						}, -- [120]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561903625,
 							["arg1"] = "Auction created.",
-						}, -- [177]
+						}, -- [121]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561903690,
 							["arg1"] = "Auction cancelled.",
-						}, -- [178]
+						}, -- [122]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561903796,
 							["arg1"] = "Auction created.",
-						}, -- [179]
+						}, -- [123]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561904063,
 							["arg1"] = "Send the Fleet completed.",
-						}, -- [180]
+						}, -- [124]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561904063,
 							["arg1"] = "Received 2 Gold, 34 Silver.",
-						}, -- [181]
+						}, -- [125]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561904063,
 							["arg1"] = "Quest accepted: Upheaval",
-						}, -- [182]
+						}, -- [126]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561904088,
 							["arg1"] = "Upheaval completed.",
-						}, -- [183]
+						}, -- [127]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561904088,
 							["arg1"] = "Received 2 Gold, 34 Silver.",
-						}, -- [184]
+						}, -- [128]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561904089,
 							["arg1"] = "Quest accepted: Descent",
-						}, -- [185]
+						}, -- [129]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561904248,
 							["arg1"] = "Descent completed.",
-						}, -- [186]
+						}, -- [130]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561904248,
 							["arg1"] = "Received 2 Gold, 34 Silver.",
-						}, -- [187]
+						}, -- [131]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561904249,
 							["arg1"] = "Quest accepted: The First Arcanist",
-						}, -- [188]
+						}, -- [132]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561904304,
 							["arg1"] = "The First Arcanist completed.",
-						}, -- [189]
+						}, -- [133]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561904304,
 							["arg1"] = "Received 11 Gold, 70 Silver.",
-						}, -- [190]
+						}, -- [134]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561904305,
 							["arg1"] = "Quest accepted: Fortunate Souls",
-						}, -- [191]
+						}, -- [135]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561904306,
 							["arg1"] = "Quest accepted: Disruption of Power",
-						}, -- [192]
+						}, -- [136]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561904306,
 							["arg1"] = "Quest accepted: Dark Tides",
-						}, -- [193]
+						}, -- [137]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561904423,
 							["arg1"] = "Dark Tides completed.",
-						}, -- [194]
+						}, -- [138]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561904423,
 							["arg1"] = "Received 46 Gold, 80 Silver.",
-						}, -- [195]
+						}, -- [139]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561904683,
 							["arg1"] = "Fortunate Souls completed.",
-						}, -- [196]
+						}, -- [140]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561904683,
 							["arg1"] = "Received 23 Gold, 40 Silver.",
-						}, -- [197]
+						}, -- [141]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561904683,
 							["arg1"] = "Disruption of Power completed.",
-						}, -- [198]
+						}, -- [142]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561904683,
 							["arg1"] = "Received 23 Gold, 40 Silver.",
-						}, -- [199]
+						}, -- [143]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561904684,
 							["arg1"] = "Quest accepted: In Deep",
-						}, -- [200]
+						}, -- [144]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561904710,
 							["arg1"] = "In Deep completed.",
-						}, -- [201]
+						}, -- [145]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561904710,
 							["arg1"] = "Received 2 Gold, 34 Silver.",
-						}, -- [202]
+						}, -- [146]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561904712,
 							["arg1"] = "Quest accepted: Up Against It",
-						}, -- [203]
+						}, -- [147]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561904770,
 							["arg1"] = "Up Against It completed.",
-						}, -- [204]
+						}, -- [148]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561904770,
 							["arg1"] = "Received 23 Gold, 40 Silver.",
-						}, -- [205]
+						}, -- [149]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561904785,
 							["arg1"] = "You are now Neutral with The Unshackled.",
-						}, -- [206]
+						}, -- [150]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561904793,
 							["arg1"] = "Quest accepted: Stay Low, Stay Fast!",
-						}, -- [207]
+						}, -- [151]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561904941,
 							["arg1"] = "Stay Low, Stay Fast! completed.",
-						}, -- [208]
+						}, -- [152]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561904941,
 							["arg1"] = "Received 23 Gold, 40 Silver.",
-						}, -- [209]
+						}, -- [153]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561904944,
 							["arg1"] = "Quest accepted: A Way Home",
-						}, -- [210]
+						}, -- [154]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561905029,
 							["arg1"] = "A Way Home completed.",
-						}, -- [211]
+						}, -- [155]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561905029,
 							["arg1"] = "Received 11 Gold, 70 Silver.",
-						}, -- [212]
+						}, -- [156]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561905050,
 							["arg1"] = "Quest accepted: Essential Empowerment",
-						}, -- [213]
+						}, -- [157]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561905355,
 							["arg1"] = "Essential Empowerment completed.",
-						}, -- [214]
+						}, -- [158]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561905355,
 							["arg1"] = "Received 2 Gold, 34 Silver.",
-						}, -- [215]
+						}, -- [159]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561905356,
 							["arg1"] = "Quest accepted: MOTHER Knows Best",
-						}, -- [216]
+						}, -- [160]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561905375,
 							["arg1"] = "MOTHER Knows Best completed.",
-						}, -- [217]
+						}, -- [161]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561905375,
 							["arg1"] = "Received 2 Gold, 34 Silver.",
-						}, -- [218]
+						}, -- [162]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561905376,
 							["arg1"] = "Quest accepted: A Disturbance Beneath the Earth",
-						}, -- [219]
+						}, -- [163]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561905426,
 							["arg1"] = "A Disturbance Beneath the Earth completed.",
-						}, -- [220]
+						}, -- [164]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561905426,
 							["arg1"] = "Received 2 Gold, 34 Silver.",
-						}, -- [221]
+						}, -- [165]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561905427,
 							["arg1"] = "Quest accepted: Take My Hand",
-						}, -- [222]
+						}, -- [166]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561905452,
 							["arg1"] = "Dungeon Difficulty set to Normal Scenario.",
-						}, -- [223]
+						}, -- [167]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561905456,
 							["arg1"] = "Take My Hand completed.",
-						}, -- [224]
+						}, -- [168]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561905456,
 							["arg1"] = "Received 2 Gold, 34 Silver.",
-						}, -- [225]
+						}, -- [169]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561905456,
 							["arg1"] = "Quest accepted: Calming the Spine",
-						}, -- [226]
+						}, -- [170]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561905458,
 							["arg1"] = "You don't meet the requirements for that quest.",
-						}, -- [227]
+						}, -- [171]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561905459,
 							["arg1"] = "You don't meet the requirements for that quest.",
-						}, -- [228]
+						}, -- [172]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561905572,
 							["arg1"] = "Calming the Spine completed.",
-						}, -- [229]
+						}, -- [173]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561905572,
 							["arg1"] = "Received 23 Gold, 40 Silver.",
-						}, -- [230]
+						}, -- [174]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561905572,
 							["arg1"] = "You receive item: |cffa335ee|Hcurrency:1553:700|h[Radiant Azerite Fragment]|h|r.",
-						}, -- [231]
+						}, -- [175]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561905572,
 							["arg1"] = "|cffe6cc80|Hitem:158075::::::::120:102::11:4:4936:4929:4930:1528:::|h[Heart of Azeroth]|h|r gains 700 Artifact Power.",
-						}, -- [232]
+						}, -- [176]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561905573,
 							["arg1"] = "Quest accepted: Dominating the Indomitable",
-						}, -- [233]
+						}, -- [177]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561905842,
 							["arg1"] = "You receive item: |cffa335ee|Hcurrency:1553:1000|h[Radiant Azerite Matrix]|h|r.",
-						}, -- [234]
+						}, -- [178]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561905842,
 							["arg1"] = "|cffe6cc80|Hitem:158075::::::::120:102::11:4:4936:4929:4930:1530:::|h[Heart of Azeroth]|h|r gains 1,000 Artifact Power.",
-						}, -- [235]
+						}, -- [179]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561905842,
 							["arg1"] = "Dominating the Indomitable completed.",
-						}, -- [236]
+						}, -- [180]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561905842,
 							["arg1"] = "Received 70 Gold, 20 Silver.",
-						}, -- [237]
+						}, -- [181]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561905843,
 							["arg1"] = "Quest accepted: A Friendly Face",
-						}, -- [238]
+						}, -- [182]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561905873,
 							["arg1"] = "You have been removed from the group.",
-						}, -- [239]
+						}, -- [183]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561906022,
 							["arg1"] = "You are now Neutral with Highmountain Tribe.",
-						}, -- [240]
+						}, -- [184]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1561906360,
 							["arg1"] = "You are now Away: AFK",
-						}, -- [241]
+						}, -- [185]
 						{
 							["arg1"] = " ",
-						}, -- [242]
+						}, -- [186]
 						{
 							["arg1"] = " ",
-						}, -- [243]
+						}, -- [187]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 08/04/2019 at 14:56:08.",
-						}, -- [244]
+							["type"] = "SYSTEM",
+						}, -- [188]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1564923407,
 							["arg1"] = "You have learned a new passive effect: |cff71d5ff|Hspell:281576:0|h[Battle for Azeroth Pathfinder]|h|r.",
-						}, -- [245]
+						}, -- [189]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1564923409,
 							["arg1"] = "You are now Neutral with your guild.",
-						}, -- [246]
+						}, -- [190]
 						{
 							["arg1"] = " ",
-						}, -- [247]
+						}, -- [191]
 						{
 							["arg1"] = " ",
-						}, -- [248]
+						}, -- [192]
 						{
-							["arg1"] = "Logging started on 11/20/2019 at 09:39:06.",
 							["type"] = "SYSTEM",
-						}, -- [249]
+							["arg1"] = "Logging started on 11/20/2019 at 09:39:06.",
+						}, -- [193]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1574239196,
 							["arg1"] = "You have learned a new passive effect: |cff71d5ff|Hspell:278833:0|h[Battle for Azeroth Pathfinder]|h|r.",
+						}, -- [194]
+						{
+							["arg1"] = " ",
+						}, -- [195]
+						{
+							["arg1"] = " ",
+						}, -- [196]
+						{
+							["arg1"] = "Logging started on 11/29/2020 at 13:23:00.",
+							["type"] = "SYSTEM",
+						}, -- [197]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606652642,
+							["arg1"] = "You feel rested.",
+						}, -- [198]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606652721,
+							["arg1"] = "You have learned a new passive effect: |cff71d5ff|Hspell:202430:0|h[Nature's Balance]|h|r.",
+						}, -- [199]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606652748,
+							["arg1"] = "You have learned a new ability: |cff71d5ff|Hspell:252216:0|h[Tiger Dash]|h|r.",
+						}, -- [200]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606652784,
+							["arg1"] = "You have learned a new passive effect: |cff71d5ff|Hspell:197492:0|h[Restoration Affinity]|h|r.",
+						}, -- [201]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606652784,
+							["arg1"] = "You have learned a new passive effect: |cff71d5ff|Hspell:145108:0|h[Ysera's Gift]|h|r.",
+						}, -- [202]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606652784,
+							["arg1"] = "You have learned a new spell: |cff71d5ff|Hspell:774:0|h[Rejuvenation]|h|r.",
+						}, -- [203]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606652784,
+							["arg1"] = "You have learned a new spell: |cff71d5ff|Hspell:18562:0|h[Swiftmend]|h|r.",
+						}, -- [204]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606652784,
+							["arg1"] = "You have learned a new passive effect: |cff71d5ff|Hspell:231040:0|h[Rejuvenation]|h|r.",
+						}, -- [205]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606652784,
+							["arg1"] = "You have learned a new spell: |cff71d5ff|Hspell:48438:0|h[Wild Growth]|h|r.",
+						}, -- [206]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606652784,
+							["arg1"] = "You have learned a new spell: |cff71d5ff|Hspell:102793:0|h[Ursol's Vortex]|h|r.",
+						}, -- [207]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606652788,
+							["arg1"] = "You have learned a new spell: |cff71d5ff|Hspell:102359:0|h[Mass Entanglement]|h|r.",
+						}, -- [208]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606652827,
+							["arg1"] = "You have learned a new ability: |cff71d5ff|Hspell:102560:0|h[Incarnation: Chosen of Elune]|h|r.",
+						}, -- [209]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606652865,
+							["arg1"] = "You have learned a new spell: |cff71d5ff|Hspell:202347:0|h[Stellar Flare]|h|r.",
+						}, -- [210]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606652941,
+							["arg1"] = "You have learned a new spell: |cff71d5ff|Hspell:202770:0|h[Fury of Elune]|h|r.",
+						}, -- [211]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606653308,
+							["arg1"] = "You are not in a guild.",
+						}, -- [212]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606653410,
+							["arg1"] = "You are now Neutral with Knights of the Ebon Blade.",
+						}, -- [213]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606653474,
+							["arg1"] = "Shadowlands: A Chilling Summons completed.",
+						}, -- [214]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606653474,
+							["arg1"] = "Experience gained: 1072.",
+						}, -- [215]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606653474,
+							["arg1"] = "Received 2 Gold, 34 Silver.",
+						}, -- [216]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606653475,
+							["arg1"] = "Quest accepted: Through the Shattered Sky",
+						}, -- [217]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606653734,
+							["arg1"] = "Through the Shattered Sky completed.",
+						}, -- [218]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606653734,
+							["arg1"] = "Experience gained: 4235.",
+						}, -- [219]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606653734,
+							["arg1"] = "Received 11 Gold, 70 Silver.",
+						}, -- [220]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606653735,
+							["arg1"] = "Quest accepted: A Fractured Blade",
+						}, -- [221]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606653738,
+							["arg1"] = "Quest accepted: Mawsworn Menace",
+						}, -- [222]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606653804,
+							["arg1"] = "You are no longer rested.",
+						}, -- [223]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606653851,
+							["arg1"] = "Quest accepted: Ruiner's End",
+						}, -- [224]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606653883,
+							["arg1"] = "A Fractured Blade completed.",
+						}, -- [225]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606653883,
+							["arg1"] = "Experience gained: 8470.",
+						}, -- [226]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606653883,
+							["arg1"] = "Received 23 Gold, 40 Silver.",
+						}, -- [227]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606653960,
+							["arg1"] = "Ruiner's End completed.",
+						}, -- [228]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606653960,
+							["arg1"] = "Experience gained: 8470.",
+						}, -- [229]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606653960,
+							["arg1"] = "Received 23 Gold, 40 Silver.",
+						}, -- [230]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606654099,
+							["arg1"] = "Mawsworn Menace completed.",
+						}, -- [231]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606654099,
+							["arg1"] = "Experience gained: 8470.",
+						}, -- [232]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606654099,
+							["arg1"] = "Received 23 Gold, 40 Silver.",
+						}, -- [233]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606654099,
+							["arg1"] = "Quest accepted: Fear to Tread",
+						}, -- [234]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606654172,
+							["arg1"] = "Fear to Tread completed.",
+						}, -- [235]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606654172,
+							["arg1"] = "Experience gained: 8470.",
+						}, -- [236]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606654172,
+							["arg1"] = "Received 23 Gold, 40 Silver.",
+						}, -- [237]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606654172,
+							["arg1"] = "Quest accepted: On Blackened Wings",
+						}, -- [238]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606654250,
+							["arg1"] = "On Blackened Wings completed.",
+						}, -- [239]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606654250,
+							["arg1"] = "Experience gained: 8470.",
+						}, -- [240]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606654250,
+							["arg1"] = "Received 23 Gold, 40 Silver.",
+						}, -- [241]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606654251,
+							["arg1"] = "Quest accepted: A Flight from Darkness",
+						}, -- [242]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606654451,
+							["arg1"] = "A Flight from Darkness completed.",
+						}, -- [243]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606654451,
+							["arg1"] = "Experience gained: 8470.",
+						}, -- [244]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606654451,
+							["arg1"] = "Received 23 Gold, 40 Silver.",
+						}, -- [245]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606654452,
+							["arg1"] = "Quest accepted: A Moment's Respite",
+						}, -- [246]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606654579,
+							["arg1"] = "A Moment's Respite completed.",
+						}, -- [247]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606654579,
+							["arg1"] = "Experience gained: 4235.",
+						}, -- [248]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606654579,
+							["arg1"] = "Received 11 Gold, 70 Silver.",
+						}, -- [249]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1606654582,
+							["arg1"] = "Quest accepted: Field Seance",
 						}, -- [250]
 					},
 				}, -- [9]
@@ -11486,8 +11481,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [6]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 09/24/2018 at 16:04:51.",
+							["type"] = "SYSTEM",
 						}, -- [7]
 						{
 							["arg2"] = "Safeways-DefiasBrotherhood",
@@ -11594,8 +11589,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [23]
 						{
-							["arg1"] = "Logging started on 09/25/2018 at 13:11:32.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 09/25/2018 at 13:11:32.",
 						}, -- [24]
 						{
 							["arg2"] = "Squidwardkie-DefiasBrotherhood",
@@ -11744,8 +11739,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [46]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 09/26/2018 at 13:16:52.",
+							["type"] = "SYSTEM",
 						}, -- [47]
 						{
 							["arg2"] = "Kaeldrana-DefiasBrotherhood",
@@ -12062,8 +12057,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [93]
 						{
-							["arg1"] = "Logging started on 09/28/2018 at 15:39:31.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 09/28/2018 at 15:39:31.",
 						}, -- [94]
 						{
 							["arg2"] = "Scottyjo-DefiasBrotherhood",
@@ -12100,8 +12095,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [100]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 09/28/2018 at 17:10:31.",
+							["type"] = "SYSTEM",
 						}, -- [101]
 						{
 							["arg2"] = "Dolóres-DefiasBrotherhood",
@@ -12117,8 +12112,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [104]
 						{
-							["arg1"] = "Logging started on 09/29/2018 at 13:11:09.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 09/29/2018 at 13:11:09.",
 						}, -- [105]
 						{
 							["arg2"] = "Starorc-DefiasBrotherhood",
@@ -12281,8 +12276,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [129]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 09/30/2018 at 15:22:12.",
+							["type"] = "SYSTEM",
 						}, -- [130]
 						{
 							["arg2"] = "Starorc-DefiasBrotherhood",
@@ -12536,8 +12531,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [167]
 						{
-							["arg1"] = "Logging started on 09/30/2018 at 19:30:23.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 09/30/2018 at 19:30:23.",
 						}, -- [168]
 						{
 							["arg2"] = "Argdul-DefiasBrotherhood",
@@ -12567,8 +12562,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [173]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 10/01/2018 at 15:39:04.",
+							["type"] = "SYSTEM",
 						}, -- [174]
 						{
 							["arg2"] = "Teldrasil-Sporeggar",
@@ -12591,8 +12586,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [178]
 						{
-							["arg1"] = "Logging started on 10/02/2018 at 22:07:58.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 10/02/2018 at 22:07:58.",
 						}, -- [179]
 						{
 							["arg2"] = "Orgar-DefiasBrotherhood",
@@ -12657,8 +12652,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [189]
 						{
-							["arg1"] = "Logging started on 10/06/2018 at 09:31:40.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 10/06/2018 at 09:31:40.",
 						}, -- [190]
 						{
 							["arg2"] = "Teldrasil-Sporeggar",
@@ -12702,8 +12697,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [197]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 10/13/2018 at 09:03:50.",
+							["type"] = "SYSTEM",
 						}, -- [198]
 						{
 							["arg2"] = "Redmix-DefiasBrotherhood",
@@ -12747,8 +12742,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [205]
 						{
-							["arg1"] = "Logging started on 10/13/2018 at 10:54:59.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 10/13/2018 at 10:54:59.",
 						}, -- [206]
 						{
 							["arg2"] = "Teldrasil-Sporeggar",
@@ -12764,8 +12759,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [209]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 10/14/2018 at 10:50:53.",
+							["type"] = "SYSTEM",
 						}, -- [210]
 						{
 							["arg2"] = "Teldrasil-Sporeggar",
@@ -12781,8 +12776,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [213]
 						{
-							["arg1"] = "Logging started on 10/14/2018 at 11:55:36.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 10/14/2018 at 11:55:36.",
 						}, -- [214]
 						{
 							["arg2"] = "Doaks-DefiasBrotherhood",
@@ -12798,8 +12793,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [217]
 						{
-							["arg1"] = "Logging started on 10/17/2018 at 22:06:39.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 10/17/2018 at 22:06:39.",
 						}, -- [218]
 						{
 							["arg2"] = "Argdul-DefiasBrotherhood",
@@ -12857,8 +12852,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [227]
 						{
-							["arg1"] = "Logging started on 10/26/2018 at 12:56:45.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 10/26/2018 at 12:56:45.",
 						}, -- [228]
 						{
 							["arg2"] = "Kojotus",
@@ -12902,8 +12897,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [235]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 10/28/2018 at 16:43:44.",
+							["type"] = "SYSTEM",
 						}, -- [236]
 						{
 							["arg2"] = "Vezor-DefiasBrotherhood",
@@ -12926,8 +12921,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [240]
 						{
-							["arg1"] = "Logging started on 11/01/2018 at 08:52:29.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 11/01/2018 at 08:52:29.",
 						}, -- [241]
 						{
 							["arg2"] = "Teldrasil-Sporeggar",
@@ -12978,1460 +12973,1458 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [249]
 						{
-							["arg1"] = "Logging started on 11/20/2019 at 09:39:06.",
+							["arg1"] = "Logging started on 11/29/2020 at 13:23:00.",
 							["type"] = "SYSTEM",
 						}, -- [250]
 					},
 				}, -- [10]
 				{
 					["enabled"] = true,
-					["hasMessage"] = false,
+					["hasMessage"] = true,
 					["name"] = "Instance",
 					["logs"] = {
-						{
-							["arg2"] = "Amidoinitryt-Kazzak",
-							["type"] = "INSTANCE_CHAT",
-							["time"] = 1539812176,
-							["arg1"] = "rez meh?",
-							["clColor"] = "ffaad372",
-						}, -- [1]
-						{
-							["arg2"] = "Toastlock-TwistingNether",
-							["type"] = "INSTANCE_CHAT",
-							["time"] = 1539812184,
-							["arg1"] = "gj",
-							["clColor"] = "ff8787ed",
-						}, -- [2]
 						{
 							["arg2"] = "Slowjob-Ragnaros",
 							["type"] = "INSTANCE_CHAT",
 							["time"] = 1539812205,
 							["arg1"] = "roll |cffa335ee|Hitem:160690::::::::120:264::4:3:4801:1462:4786:::|h[Heptavium, Staff of Torturous Knowledge]|h|r'",
 							["clColor"] = "ff0070dd",
-						}, -- [3]
+						}, -- [1]
 						{
 							["arg2"] = "Princess Talanji",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812757,
 							["arg1"] = "Behold de blood of G'huun. By his will were borne de deaths of Shadra, Hi'reek, Torga, and ...and Rezan.",
-						}, -- [4]
+						}, -- [2]
 						{
 							["arg2"] = "Princess Talanji",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812770,
 							["arg1"] = "By his will were borne de deaths of so many of our brothers and sisters.",
-						}, -- [5]
+						}, -- [3]
 						{
 							["arg2"] = "Princess Talanji",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812779,
 							["arg1"] = "Let dis glaive be displayed as a reminder dat no matter how far we fall, no matter how much we lose, we are Zandalari!\nWe adapt, we find a way to survive!",
-						}, -- [6]
+						}, -- [4]
 						{
 							["arg2"] = "Princess Talanji",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812797,
 							["arg1"] = "If it were not for dis hero of de Horde, our losses would have been far worse.\nDis proves, more than ever, dat it is time for us to adapt, to become part of de world again.",
-						}, -- [7]
+						}, -- [5]
 						{
 							["arg2"] = "Princess Talanji",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1539812814,
 							["arg1"] = "Zandalar forever!",
+						}, -- [6]
+						{
+							["arg1"] = " ",
+						}, -- [7]
+						{
+							["arg1"] = " ",
 						}, -- [8]
 						{
-							["arg1"] = " ",
-						}, -- [9]
-						{
-							["arg1"] = " ",
-						}, -- [10]
-						{
-							["arg1"] = "Logging started on 10/26/2018 at 12:56:45.",
 							["type"] = "SYSTEM",
-						}, -- [11]
+							["arg1"] = "Logging started on 10/26/2018 at 12:56:45.",
+						}, -- [9]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1540551642,
 							["arg1"] = "1 minute until the Battle for Stromgarde begins.",
-						}, -- [12]
+						}, -- [10]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1540551672,
 							["arg1"] = "30 seconds until the Battle for Stromgarde begins.",
-						}, -- [13]
+						}, -- [11]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1540551702,
 							["arg1"] = "The Battle for Stromgarde has begun!",
-						}, -- [14]
+						}, -- [12]
 						{
 							["arg2"] = "Warlord Zakgra",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551703,
 							["arg1"] = "This way! A glorious battle awaits!",
-						}, -- [15]
+						}, -- [13]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551715,
 							["arg1"] = "Years ago, all of dis land belonged to da trolls.",
-						}, -- [16]
+						}, -- [14]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551720,
 							["arg1"] = "Today, it belongs to da Horde!",
-						}, -- [17]
+						}, -- [15]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551742,
 							["arg1"] = "Shadows consume you.",
-						}, -- [18]
+						}, -- [16]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551769,
 							["arg1"] = "Da hunt begins!",
-						}, -- [19]
+						}, -- [17]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551769,
 							["arg1"] = "Ah, victory! It taste sweet, mon!",
-						}, -- [20]
+						}, -- [18]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1540551777,
 							["arg1"] = "The Horde has reclaimed Ar'gorok!",
-						}, -- [21]
+						}, -- [19]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1540551850,
 							["arg1"] = "Nied-Azuremyst has captured Hatchet Ridge!",
-						}, -- [22]
+						}, -- [20]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551850,
 							["arg1"] = "Good. We gonna use da lumber from Hatchet Ridge ta build our stronghold.",
-						}, -- [23]
+						}, -- [21]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1540551864,
 							["arg1"] = "Capgross-C'Thun has captured Drywhisker Mine!",
-						}, -- [24]
+						}, -- [22]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551864,
 							["arg1"] = "Drywhisker Mine belongs to da Horde.",
-						}, -- [25]
+						}, -- [23]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551949,
 							["arg1"] = "Da stronghold be needin' reinforcement. Hold dem forces back before dey get too close!",
-						}, -- [26]
+						}, -- [24]
 						{
 							["arg2"] = "Throk",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551953,
 							["arg1"] = "See me at the Barracks when you're ready to train our army.",
-						}, -- [27]
+						}, -- [25]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540551975,
 							["arg1"] = "Da Altar o' Storms be ready.",
-						}, -- [28]
+						}, -- [26]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552004,
 							["arg1"] = "Armory be good ta go, mon.",
-						}, -- [29]
+						}, -- [27]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1540552008,
 							["arg1"] = "Szikszäi-Ragnaros has captured the Northfold Crossing!",
-						}, -- [30]
+						}, -- [28]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552008,
 							["arg1"] = "Watch da shadows, Alliance scum. Da Horde be comin' for you...",
-						}, -- [31]
+						}, -- [29]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552112,
 							["arg1"] = "We be upgradin' da Great Hall to a Stronghold.",
-						}, -- [32]
+						}, -- [30]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1540552146,
 							["arg1"] = "Capgross-C'Thun has captured Newstead!",
-						}, -- [33]
+						}, -- [31]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552147,
 							["arg1"] = "Newstead be ours... an' wit' it, da wolf riders.",
-						}, -- [34]
+						}, -- [32]
 						{
 							["arg2"] = "Raider Zugg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552153,
 							["arg1"] = "Secure the area!",
-						}, -- [35]
+						}, -- [33]
 						{
 							["arg2"] = "Gwyndra Wildhammer",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552241,
 							["arg1"] = "The skies... call.",
-						}, -- [36]
+						}, -- [34]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1540552271,
 							["arg1"] = "Ðÿsfunction-Sylvanas has captured High Perch!",
-						}, -- [37]
+						}, -- [35]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552271,
 							["arg1"] = "Hold the Perch and the skies are ours!",
-						}, -- [38]
+						}, -- [36]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552272,
 							["arg1"] = "High Perch be ours, Turalyon. Da shadows draw closer...",
-						}, -- [39]
+						}, -- [37]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552275,
 							["arg1"] = "Let them try and break our defenses!",
-						}, -- [40]
+						}, -- [38]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552278,
 							["arg1"] = "Yet the Light still shines over Stromgarde.",
-						}, -- [41]
+						}, -- [39]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552297,
 							["arg1"] = "Da Workshop be done. Our demolishers gonna make quick work o' da Alliance walls!",
-						}, -- [42]
+						}, -- [40]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1540552455,
 							["arg1"] = "Ðÿsfunction-Sylvanas has captured the Circle of Elements!",
-						}, -- [43]
+						}, -- [41]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552456,
 							["arg1"] = "Da Circle of Elements be under da Horde's control now.",
-						}, -- [44]
+						}, -- [42]
 						{
 							["arg2"] = "Wistel Silversnitch",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552544,
 							["arg1"] = "The Motherlode is safe and sound. Come grab your share!",
-						}, -- [45]
+						}, -- [43]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552562,
 							["arg1"] = "Da Stronghold be a Fortress now!",
-						}, -- [46]
+						}, -- [44]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1540552577,
 							["arg1"] = "Lezath-TarrenMill has captured Valorcall Pass!",
-						}, -- [47]
+						}, -- [45]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552579,
 							["arg1"] = "Send in da demolishers! No Light gonna protect dat paladin from da might of da Horde!",
-						}, -- [48]
+						}, -- [46]
 						{
 							["arg2"] = "Warbringer Kro'goth",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552580,
 							["arg1"] = "Hold your ground! If anything moves, kill it!",
-						}, -- [49]
+						}, -- [47]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552587,
 							["arg1"] = "Light will always defeat Shadow, Rokhan. Defenders, forward!",
-						}, -- [50]
+						}, -- [48]
 						{
 							["arg2"] = "Nied",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552662,
 							["arg1"] = "I, Gamon, will save us!",
 							["clColor"] = "ffff7c0a",
-						}, -- [51]
+						}, -- [49]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552764,
 							["arg1"] = "Da gate be down! Storm da fortress!",
-						}, -- [52]
+						}, -- [50]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552824,
 							["arg1"] = "For the Light!",
-						}, -- [53]
+						}, -- [51]
 						{
 							["arg2"] = "Teldrasil",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1540552829,
 							["arg1"] = "I should return to the Altar. This Essence is worthy of investigation.",
 							["clColor"] = "ffff7c0a",
-						}, -- [54]
+						}, -- [52]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552832,
 							["arg1"] = "By the Light, be purged!",
-						}, -- [55]
+						}, -- [53]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552836,
 							["arg1"] = "Scurry from the Light, vermin!",
-						}, -- [56]
+						}, -- [54]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540552873,
 							["arg1"] = "For da Horde!",
-						}, -- [57]
+						}, -- [55]
 						{
 							["arg2"] = "Tally Zapnabber",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540553170,
 							["arg1"] = "Oh, I... I'm... Not sure we should be doing this!",
-						}, -- [58]
+						}, -- [56]
 						{
 							["arg2"] = "Nettlevine Sprite",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540553188,
 							["arg1"] = "Come and play with us!",
-						}, -- [59]
+						}, -- [57]
 						{
 							["arg2"] = "Dizzy Dina",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540553206,
 							["arg1"] = "Hostiles on the move.",
-						}, -- [60]
+						}, -- [58]
 						{
 							["arg2"] = "Gimzy Trickelbank",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540553246,
 							["arg1"] = "You there! You gotta help me out, hon! I'm all alone here, desperate, you know?",
-						}, -- [61]
+						}, -- [59]
 						{
 							["arg2"] = "Gimzy Trickelbank",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540553288,
 							["arg1"] = "You there! You gotta help me out, hon! I'm all alone here, desperate, you know?",
-						}, -- [62]
+						}, -- [60]
 						{
 							["arg2"] = "Vizio the Cartographer",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540553384,
 							["arg1"] = "How droll, I've mapped myself into a corner!",
-						}, -- [63]
+						}, -- [61]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1540555607,
 							["arg1"] = "1 minute until the Battle for Stromgarde begins.",
-						}, -- [64]
+						}, -- [62]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1540555637,
 							["arg1"] = "30 seconds until the Battle for Stromgarde begins.",
-						}, -- [65]
+						}, -- [63]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1540555667,
 							["arg1"] = "The Battle for Stromgarde has begun!",
-						}, -- [66]
+						}, -- [64]
 						{
 							["arg2"] = "Warlord Zakgra",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540555668,
 							["arg1"] = "This way! A glorious battle awaits!",
-						}, -- [67]
+						}, -- [65]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540555680,
 							["arg1"] = "Years ago, all of dis land belonged to da trolls.",
-						}, -- [68]
+						}, -- [66]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540555686,
 							["arg1"] = "Today, it belongs to da Horde!",
-						}, -- [69]
+						}, -- [67]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1540555752,
 							["arg1"] = "The Horde has reclaimed Ar'gorok!",
-						}, -- [70]
+						}, -- [68]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1540555851,
 							["arg1"] = "Meitarx-Draenor has captured Drywhisker Mine!",
-						}, -- [71]
+						}, -- [69]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540555851,
 							["arg1"] = "Drywhisker Mine belongs to da Horde.",
-						}, -- [72]
+						}, -- [70]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1540555852,
 							["arg1"] = "Mankus-BurningLegion has captured Hatchet Ridge!",
-						}, -- [73]
+						}, -- [71]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540555859,
 							["arg1"] = "Good. We gonna use da lumber from Hatchet Ridge ta build our stronghold.",
-						}, -- [74]
+						}, -- [72]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540555938,
 							["arg1"] = "Da barracks be ready. Dis war gonna be won on da backs o' da grunts.",
-						}, -- [75]
+						}, -- [73]
 						{
 							["arg2"] = "Throk",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540555938,
 							["arg1"] = "We'll need reinforcements to win this war.",
-						}, -- [76]
+						}, -- [74]
 						{
 							["arg2"] = "Throk",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540555951,
 							["arg1"] = "See me at the Barracks when you're ready to train our army.",
-						}, -- [77]
+						}, -- [75]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556036,
 							["arg1"] = "Da stronghold be needin' reinforcement. Hold dem forces back before dey get too close!",
-						}, -- [78]
+						}, -- [76]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556060,
 							["arg1"] = "Armory be good ta go, mon.",
-						}, -- [79]
+						}, -- [77]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556078,
 							["arg1"] = "Da Altar o' Storms be ready.",
-						}, -- [80]
+						}, -- [78]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1540556098,
 							["arg1"] = "Kryos-Nemesis has captured the Northfold Crossing!",
-						}, -- [81]
+						}, -- [79]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556098,
 							["arg1"] = "Watch da shadows, Alliance scum. Da Horde be comin' for you...",
-						}, -- [82]
+						}, -- [80]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556136,
 							["arg1"] = "We be upgradin' da Great Hall to a Stronghold.",
-						}, -- [83]
+						}, -- [81]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556271,
 							["arg1"] = "Da Workshop be done. Our demolishers gonna make quick work o' da Alliance walls!",
-						}, -- [84]
+						}, -- [82]
 						{
 							["arg2"] = "Gwyndra Wildhammer",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556283,
 							["arg1"] = "The skies... call.",
-						}, -- [85]
+						}, -- [83]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1540556295,
 							["arg1"] = "Hippolyte-DefiasBrotherhood has captured High Perch!",
-						}, -- [86]
+						}, -- [84]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556295,
 							["arg1"] = "Hold the Perch and the skies are ours!",
-						}, -- [87]
+						}, -- [85]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556295,
 							["arg1"] = "High Perch be ours, Turalyon. Da shadows draw closer...",
-						}, -- [88]
+						}, -- [86]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556299,
 							["arg1"] = "Let them try and break our defenses!",
-						}, -- [89]
+						}, -- [87]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556302,
 							["arg1"] = "Yet the Light still shines over Stromgarde.",
-						}, -- [90]
+						}, -- [88]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1540556555,
 							["arg1"] = "Peacelight-Quel'Thalas has captured Newstead!",
-						}, -- [91]
+						}, -- [89]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556556,
 							["arg1"] = "Newstead be ours... an' wit' it, da wolf riders.",
-						}, -- [92]
+						}, -- [90]
 						{
 							["arg2"] = "Raider Zugg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556575,
 							["arg1"] = "Secure the area!",
-						}, -- [93]
+						}, -- [91]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1540556586,
 							["arg1"] = "Daphnae-Kazzak has captured the Circle of Elements!",
-						}, -- [94]
+						}, -- [92]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556586,
 							["arg1"] = "Da Circle of Elements be under da Horde's control now.",
-						}, -- [95]
+						}, -- [93]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556638,
 							["arg1"] = "Da Stronghold be a Fortress now!",
-						}, -- [96]
+						}, -- [94]
 						{
 							["arg2"] = "Nolucia-Kazzak",
 							["type"] = "INSTANCE_CHAT",
 							["time"] = 1540556672,
 							["arg1"] = "I think we still need another demolisher",
 							["clColor"] = "ff8787ed",
-						}, -- [97]
+						}, -- [95]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1540556713,
 							["arg1"] = "The Alliance has taken control of High Perch!",
-						}, -- [98]
+						}, -- [96]
 						{
 							["arg2"] = "Gwyndra Wildhammer",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556755,
 							["arg1"] = "The skies... call.",
-						}, -- [99]
+						}, -- [97]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1540556764,
 							["arg1"] = "Nagrell-LaughingSkull has captured High Perch!",
-						}, -- [100]
+						}, -- [98]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556764,
 							["arg1"] = "Hold the Perch and the skies are ours!",
-						}, -- [101]
+						}, -- [99]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556768,
 							["arg1"] = "Let them try and break our defenses!",
-						}, -- [102]
+						}, -- [100]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1540556848,
 							["arg1"] = "Nagrell-LaughingSkull has captured Valorcall Pass!",
-						}, -- [103]
+						}, -- [101]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556848,
 							["arg1"] = "Send in da demolishers! No Light gonna protect dat paladin from da might of da Horde!",
-						}, -- [104]
+						}, -- [102]
 						{
 							["arg2"] = "Warbringer Kro'goth",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556851,
 							["arg1"] = "Hold your ground! If anything moves, kill it!",
-						}, -- [105]
+						}, -- [103]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556857,
 							["arg1"] = "Light will always defeat Shadow, Rokhan. Defenders, forward!",
-						}, -- [106]
+						}, -- [104]
 						{
 							["arg2"] = "Daphnae-Kazzak",
 							["type"] = "INSTANCE_CHAT",
 							["time"] = 1540556880,
 							["arg1"] = "go to elements",
 							["clColor"] = "fff48cba",
-						}, -- [107]
+						}, -- [105]
 						{
 							["arg2"] = "Horde Grunt",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540556949,
 							["arg1"] = "Blood and honor!",
-						}, -- [108]
+						}, -- [106]
 						{
 							["arg2"] = "Nolucia-Kazzak",
 							["type"] = "INSTANCE_CHAT",
 							["time"] = 1540556980,
 							["arg1"] = "Demolisher down",
 							["clColor"] = "ff8787ed",
-						}, -- [109]
+						}, -- [107]
 						{
 							["arg2"] = "Peacelight-Quel'Thalas",
 							["type"] = "INSTANCE_CHAT",
 							["time"] = 1540557012,
 							["arg1"] = "two are also enough",
 							["clColor"] = "ff00ff96",
-						}, -- [110]
+						}, -- [108]
 						{
 							["arg2"] = "Orfoz-Kazzak",
 							["type"] = "INSTANCE_CHAT",
 							["time"] = 1540557044,
 							["arg1"] = "gate hp % ?",
 							["clColor"] = "ff3fc6ea",
-						}, -- [111]
+						}, -- [109]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540557047,
 							["arg1"] = "Da gate be down! Storm da fortress!",
-						}, -- [112]
+						}, -- [110]
 						{
 							["arg2"] = "Orfoz-Kazzak",
 							["type"] = "INSTANCE_CHAT",
 							["time"] = 1540557054,
 							["arg1"] = "nvm",
 							["clColor"] = "ff3fc6ea",
-						}, -- [113]
+						}, -- [111]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540557093,
 							["arg1"] = "For the Light!",
-						}, -- [114]
+						}, -- [112]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540557103,
 							["arg1"] = "By the Light's might!",
-						}, -- [115]
+						}, -- [113]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540557115,
 							["arg1"] = "By the Light, be purged!",
-						}, -- [116]
+						}, -- [114]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540557131,
 							["arg1"] = "By the Light, be purged!",
-						}, -- [117]
+						}, -- [115]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540557137,
 							["arg1"] = "Stromgarde may be lost, but the Alliance will never fall.",
-						}, -- [118]
+						}, -- [116]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540557137,
 							["arg1"] = "For da Horde!",
+						}, -- [117]
+						{
+							["arg1"] = " ",
+						}, -- [118]
+						{
+							["arg1"] = " ",
 						}, -- [119]
 						{
-							["arg1"] = " ",
-						}, -- [120]
-						{
-							["arg1"] = " ",
-						}, -- [121]
-						{
-							["arg1"] = "Logging started on 10/27/2018 at 13:29:02.",
 							["type"] = "SYSTEM",
-						}, -- [122]
+							["arg1"] = "Logging started on 10/27/2018 at 13:29:02.",
+						}, -- [120]
 						{
 							["arg2"] = "Yuke",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540640255,
 							["arg1"] = "Everyone at the academy is going to make fun of me for this! Oh, Yuke, you're so clumsy!",
-						}, -- [123]
+						}, -- [121]
 						{
 							["arg2"] = "Fenrae the Cunning",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540640306,
 							["arg1"] = "Go for their throats!",
-						}, -- [124]
+						}, -- [122]
 						{
 							["arg2"] = "Gunnolf the Ferocious",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540640325,
 							["arg1"] = "I can smell your fear.",
-						}, -- [125]
+						}, -- [123]
 						{
 							["arg2"] = "Raul the Tenacious",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540640382,
 							["arg1"] = "*Laughs* Just run for it, Hordies. We won't chase you!",
-						}, -- [126]
+						}, -- [124]
 						{
 							["arg2"] = "Mischievous Flood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540640474,
 							["arg1"] = "Got you!",
-						}, -- [127]
+						}, -- [125]
 						{
 							["arg2"] = "Shaylin-Stormrage",
 							["type"] = "INSTANCE_CHAT",
 							["time"] = 1540641928,
 							["arg1"] = "contribute your wood and ore ",
 							["clColor"] = "fffff468",
-						}, -- [128]
+						}, -- [126]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1540641964,
 							["arg1"] = "Ragnarh-Minahonda has captured the Northfold Crossing!",
-						}, -- [129]
+						}, -- [127]
 						{
 							["arg2"] = "Grezla Bloodfury",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540641974,
 							["arg1"] = "Hold the line! Nothing gets through!",
-						}, -- [130]
+						}, -- [128]
 						{
 							["arg2"] = "Nariaim-Draenor",
 							["type"] = "INSTANCE_CHAT",
 							["time"] = 1540641996,
 							["arg1"] = "just build demo's anmd run down middle now",
 							["clColor"] = "ff8787ed",
-						}, -- [131]
+						}, -- [129]
 						{
 							["arg2"] = "Tenebrean-Silvermoon",
 							["type"] = "INSTANCE_CHAT",
 							["time"] = 1540642015,
 							["arg1"] = "exactly what im doing",
 							["clColor"] = "fff48cba",
-						}, -- [132]
+						}, -- [130]
 						{
 							["arg2"] = "Gwyndra Wildhammer",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642031,
 							["arg1"] = "The skies... call.",
-						}, -- [133]
+						}, -- [131]
 						{
 							["arg2"] = "Nariaim-Draenor",
 							["type"] = "INSTANCE_CHAT",
 							["time"] = 1540642036,
 							["arg1"] = "at this point none of the other points actually matter",
 							["clColor"] = "ff8787ed",
-						}, -- [134]
+						}, -- [132]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1540642042,
 							["arg1"] = "Balroh-Uldum has captured High Perch!",
-						}, -- [135]
+						}, -- [133]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642042,
 							["arg1"] = "Hold the Perch and the skies are ours!",
-						}, -- [136]
+						}, -- [134]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642042,
 							["arg1"] = "High Perch be ours, Turalyon. Da shadows draw closer...",
-						}, -- [137]
+						}, -- [135]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642046,
 							["arg1"] = "Let them try and break our defenses!",
-						}, -- [138]
+						}, -- [136]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642049,
 							["arg1"] = "Yet the Light still shines over Stromgarde.",
-						}, -- [139]
+						}, -- [137]
 						{
 							["arg2"] = "Tenebrean-Silvermoon",
 							["type"] = "INSTANCE_CHAT",
 							["time"] = 1540642052,
 							["arg1"] = "i wanted my private heal squad :(",
 							["clColor"] = "fff48cba",
-						}, -- [140]
+						}, -- [138]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1540642080,
 							["arg1"] = "Elínà-Stormreaver has captured Newstead!",
-						}, -- [141]
+						}, -- [139]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642081,
 							["arg1"] = "Newstead be ours... an' wit' it, da wolf riders.",
-						}, -- [142]
+						}, -- [140]
 						{
 							["arg2"] = "Lunaci-Hellscream",
 							["type"] = "INSTANCE_CHAT",
 							["time"] = 1540642132,
 							["arg1"] = "really?",
 							["clColor"] = "ff8787ed",
-						}, -- [143]
+						}, -- [141]
 						{
 							["arg2"] = "Lunaci-Hellscream",
 							["type"] = "INSTANCE_CHAT",
 							["time"] = 1540642146,
 							["arg1"] = "Reset the flag boss",
 							["clColor"] = "ff8787ed",
-						}, -- [144]
+						}, -- [142]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1540642258,
 							["arg1"] = "Voodoodu-Stormreaver has captured the Circle of Elements!",
-						}, -- [145]
+						}, -- [143]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642259,
 							["arg1"] = "Da Circle of Elements be under da Horde's control now.",
-						}, -- [146]
+						}, -- [144]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1540642275,
 							["arg1"] = "Kagney-Ravenholdt has captured Valorcall Pass!",
-						}, -- [147]
+						}, -- [145]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642276,
 							["arg1"] = "Send in da demolishers! No Light gonna protect dat paladin from da might of da Horde!",
-						}, -- [148]
+						}, -- [146]
 						{
 							["arg2"] = "Warbringer Kro'goth",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642278,
 							["arg1"] = "Hold your ground! If anything moves, kill it!",
-						}, -- [149]
+						}, -- [147]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642285,
 							["arg1"] = "Light will always defeat Shadow, Rokhan. Defenders, forward!",
-						}, -- [150]
+						}, -- [148]
 						{
 							["arg2"] = "Lunaci-Hellscream",
 							["type"] = "INSTANCE_CHAT",
 							["time"] = 1540642372,
 							["arg1"] = "Dont waste time waiting on the gate areas are getting attacked around you",
 							["clColor"] = "ff8787ed",
-						}, -- [151]
+						}, -- [149]
 						{
 							["arg2"] = "Darkspear Shadow Hunter",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642375,
 							["arg1"] = "This way! To battle!",
-						}, -- [152]
+						}, -- [150]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642451,
 							["arg1"] = "Da gate be down! Storm da fortress!",
-						}, -- [153]
+						}, -- [151]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642511,
 							["arg1"] = "For the Light!",
-						}, -- [154]
+						}, -- [152]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642518,
 							["arg1"] = "Let the Light cleanse you!",
-						}, -- [155]
+						}, -- [153]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642597,
 							["arg1"] = "By the Light, be purged!",
-						}, -- [156]
+						}, -- [154]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642602,
 							["arg1"] = "Stromgarde may be lost, but the Alliance will never fall.",
-						}, -- [157]
+						}, -- [155]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1540642602,
 							["arg1"] = "For da Horde!",
+						}, -- [156]
+						{
+							["arg1"] = " ",
+						}, -- [157]
+						{
+							["arg1"] = " ",
 						}, -- [158]
 						{
-							["arg1"] = " ",
-						}, -- [159]
-						{
-							["arg1"] = " ",
-						}, -- [160]
-						{
-							["arg1"] = "Logging started on 11/01/2018 at 08:52:29.",
 							["type"] = "SYSTEM",
-						}, -- [161]
+							["arg1"] = "Logging started on 11/01/2018 at 08:52:29.",
+						}, -- [159]
 						{
 							["arg2"] = "Vegat-TwistingNether",
 							["type"] = "INSTANCE_CHAT",
 							["time"] = 1541059162,
 							["arg1"] = "the fuck you 2 retards going",
 							["clColor"] = "ffc69b6d",
-						}, -- [162]
+						}, -- [160]
 						{
 							["arg2"] = "Tally Zapnabber",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541059216,
 							["arg1"] = "Oh, I... I'm... Not sure we should be doing this!",
-						}, -- [163]
+						}, -- [161]
 						{
 							["arg2"] = "Vegat-TwistingNether",
 							["type"] = "INSTANCE_CHAT",
 							["time"] = 1541059466,
 							["arg1"] = "oops",
 							["clColor"] = "ffc69b6d",
-						}, -- [164]
+						}, -- [162]
 						{
 							["arg2"] = "Dizzy Dina",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541059511,
 							["arg1"] = "Hostiles on the move.",
-						}, -- [165]
+						}, -- [163]
 						{
 							["arg2"] = "Razak Ironsides",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541059539,
 							["arg1"] = "They've taken out my mechanostrider! Fall back!",
-						}, -- [166]
+						}, -- [164]
 						{
 							["arg2"] = "Tally Zapnabber",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541059562,
 							["arg1"] = "Oh, I... I'm... Not sure we should be doing this!",
-						}, -- [167]
+						}, -- [165]
 						{
 							["arg2"] = "Fenrae the Cunning",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541061794,
 							["arg1"] = "Go for their throats!",
-						}, -- [168]
+						}, -- [166]
 						{
 							["arg2"] = "Raul the Tenacious",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541061804,
 							["arg1"] = "Someone's gotta lick your wounds.",
-						}, -- [169]
+						}, -- [167]
 						{
 							["arg2"] = "Unleashed Tidebreaker",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541064793,
 							["arg1"] = "The tides shall swallow you whole!",
-						}, -- [170]
+						}, -- [168]
 						{
 							["arg2"] = "General Cadarin",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541065061,
 							["arg1"] = "Show your face, Horde scum! We have a friend of yours.",
-						}, -- [171]
+						}, -- [169]
 						{
 							["arg2"] = "Greeb Ramrocket",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1541065564,
 							["arg1"] = "The zeppelin to Warsong Hold has just arrived! All aboard for Borean Tundra!",
+						}, -- [170]
+						{
+							["arg1"] = " ",
+						}, -- [171]
+						{
+							["arg1"] = " ",
 						}, -- [172]
 						{
-							["arg1"] = " ",
-						}, -- [173]
-						{
-							["arg1"] = " ",
-						}, -- [174]
-						{
-							["arg1"] = "Logging started on 06/30/2019 at 15:20:19.",
 							["type"] = "SYSTEM",
-						}, -- [175]
+							["arg1"] = "Logging started on 06/30/2019 at 15:20:19.",
+						}, -- [173]
 						{
 							["arg2"] = "Greeb Ramrocket",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561900888,
 							["arg1"] = "The zeppelin to Warsong Hold has just arrived! All aboard for Borean Tundra!",
-						}, -- [176]
+						}, -- [174]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1561901597,
 							["arg1"] = "1 minute until the Battle for Stromgarde begins.",
-						}, -- [177]
+						}, -- [175]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1561901627,
 							["arg1"] = "30 seconds until the Battle for Stromgarde begins.",
-						}, -- [178]
+						}, -- [176]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1561901657,
 							["arg1"] = "The Battle for Stromgarde has begun!",
-						}, -- [179]
+						}, -- [177]
 						{
 							["arg2"] = "Warlord Zakgra",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901658,
 							["arg1"] = "This way! A glorious battle awaits!",
-						}, -- [180]
+						}, -- [178]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901670,
 							["arg1"] = "Years ago, all of dis land belonged to da trolls.",
-						}, -- [181]
+						}, -- [179]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901675,
 							["arg1"] = "Today, it belongs to da Horde!",
-						}, -- [182]
+						}, -- [180]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901682,
 							["arg1"] = "Shadows consume you.",
-						}, -- [183]
+						}, -- [181]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901697,
 							["arg1"] = "Ah, victory! It taste sweet, mon!",
-						}, -- [184]
+						}, -- [182]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1561901718,
 							["arg1"] = "The Horde has reclaimed Ar'gorok!",
-						}, -- [185]
+						}, -- [183]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1561901788,
 							["arg1"] = "Sergilol-Shadowsong has captured Hatchet Ridge!",
-						}, -- [186]
+						}, -- [184]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901789,
 							["arg1"] = "Good. We gonna use da lumber from Hatchet Ridge ta build our stronghold.",
-						}, -- [187]
+						}, -- [185]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1561901797,
 							["arg1"] = "Doppelherz-DefiasBrotherhood has captured Drywhisker Mine!",
-						}, -- [188]
+						}, -- [186]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901797,
 							["arg1"] = "Drywhisker Mine belongs to da Horde.",
-						}, -- [189]
+						}, -- [187]
 						{
 							["arg2"] = "Throk",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901863,
 							["arg1"] = "We'll need reinforcements to win this war.",
-						}, -- [190]
+						}, -- [188]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901863,
 							["arg1"] = "Da barracks be ready. Dis war gonna be won on da backs o' da grunts.",
-						}, -- [191]
+						}, -- [189]
 						{
 							["arg2"] = "Throk",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901877,
 							["arg1"] = "See me at the Barracks when you're ready to train our army.",
-						}, -- [192]
+						}, -- [190]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1561901894,
 							["arg1"] = "Siffe-Ragnaros has captured the Northfold Crossing!",
-						}, -- [193]
+						}, -- [191]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901895,
 							["arg1"] = "Watch da shadows, Alliance scum. Da Horde be comin' for you...",
-						}, -- [194]
+						}, -- [192]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901913,
 							["arg1"] = "Da stronghold be needin' reinforcement. Hold dem forces back before dey get too close!",
-						}, -- [195]
+						}, -- [193]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561901944,
 							["arg1"] = "Armory be good ta go, mon.",
-						}, -- [196]
+						}, -- [194]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1561902018,
 							["arg1"] = "Kyngua-Hellscream has captured Newstead!",
-						}, -- [197]
+						}, -- [195]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902019,
 							["arg1"] = "Newstead be ours... an' wit' it, da wolf riders.",
-						}, -- [198]
+						}, -- [196]
 						{
 							["arg2"] = "Gwyndra Wildhammer",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902047,
 							["arg1"] = "The skies... call.",
-						}, -- [199]
+						}, -- [197]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1561902063,
 							["arg1"] = "Kryossh-ChamberofAspects has captured High Perch!",
-						}, -- [200]
+						}, -- [198]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902063,
 							["arg1"] = "Hold the Perch and the skies are ours!",
-						}, -- [201]
+						}, -- [199]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902064,
 							["arg1"] = "High Perch be ours, Turalyon. Da shadows draw closer...",
-						}, -- [202]
+						}, -- [200]
 						{
 							["arg2"] = "Rokk Stoneblood",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902067,
 							["arg1"] = "Let them try and break our defenses!",
-						}, -- [203]
+						}, -- [201]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902070,
 							["arg1"] = "Yet the Light still shines over Stromgarde.",
-						}, -- [204]
+						}, -- [202]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902109,
 							["arg1"] = "Da Altar o' Storms be ready.",
-						}, -- [205]
+						}, -- [203]
 						{
 							["arg2"] = "Rsrs-Trollbane",
 							["type"] = "INSTANCE_CHAT",
 							["time"] = 1561902125,
 							["arg1"] = "we need more at the circle of element",
 							["clColor"] = "ffc59a6c",
-						}, -- [206]
+						}, -- [204]
 						{
 							["arg2"] = "Rsrs-Trollbane",
 							["type"] = "INSTANCE_CHAT",
 							["time"] = 1561902129,
 							["arg1"] = "boss keep healing up",
 							["clColor"] = "ffc59a6c",
-						}, -- [207]
+						}, -- [205]
 						{
 							["arg2"] = "Itra-TwistingNether",
 							["type"] = "INSTANCE_CHAT",
 							["time"] = 1561902144,
 							["arg1"] = "omw",
 							["clColor"] = "fffe7b09",
-						}, -- [208]
+						}, -- [206]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1561902193,
 							["arg1"] = "Kyngua-Hellscream has captured the Circle of Elements!",
-						}, -- [209]
+						}, -- [207]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902193,
 							["arg1"] = "Da Circle of Elements be under da Horde's control now.",
-						}, -- [210]
+						}, -- [208]
 						{
 							["arg2"] = "Kryossh-ChamberofAspects",
 							["type"] = "INSTANCE_CHAT",
 							["time"] = 1561902200,
 							["arg1"] = "Interrupted Valorcall Faithful's |cff71d5ff|Hspell:262309:0|h[Heal]|h|r!",
 							["clColor"] = "ffa9d271",
-						}, -- [211]
+						}, -- [209]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902208,
 							["arg1"] = "We be upgradin' da Great Hall to a Stronghold.",
-						}, -- [212]
+						}, -- [210]
 						{
 							["arg2"] = "Itra-TwistingNether",
 							["type"] = "INSTANCE_CHAT",
 							["time"] = 1561902274,
 							["arg1"] = "need to finish buildinmg",
 							["clColor"] = "fffe7b09",
-						}, -- [213]
+						}, -- [211]
 						{
 							["arg2"] = "Kryossh-ChamberofAspects",
 							["type"] = "INSTANCE_CHAT",
 							["time"] = 1561902293,
 							["arg1"] = "Interrupted Valorcall Faithful's |cff71d5ff|Hspell:262309:0|h[Heal]|h|r!",
 							["clColor"] = "ffa9d271",
-						}, -- [214]
+						}, -- [212]
 						{
 							["arg2"] = "Kyngua-Hellscream",
 							["type"] = "INSTANCE_CHAT",
 							["time"] = 1561902296,
 							["arg1"] = "turn in some wood",
 							["clColor"] = "ff3ec5e9",
-						}, -- [215]
+						}, -- [213]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902343,
 							["arg1"] = "Da Workshop be done. Our demolishers gonna make quick work o' da Alliance walls!",
-						}, -- [216]
+						}, -- [214]
 						{
 							["arg2"] = "Itra-TwistingNether",
 							["type"] = "INSTANCE_CHAT",
 							["time"] = 1561902343,
 							["arg1"] = "going to collect some",
 							["clColor"] = "fffe7b09",
-						}, -- [217]
+						}, -- [215]
 						{
 							["arg2"] = "Kryossh-ChamberofAspects",
 							["type"] = "INSTANCE_CHAT",
 							["time"] = 1561902351,
 							["arg1"] = "Interrupted Valorcall Spellweaver's |cff71d5ff|Hspell:262006:0|h[Fireball]|h|r!",
 							["clColor"] = "ffa9d271",
-						}, -- [218]
+						}, -- [216]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902480,
 							["arg1"] = "Da Stronghold be a Fortress now!",
-						}, -- [219]
+						}, -- [217]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1561902506,
 							["arg1"] = "Sundaylunch-Draenor has captured Valorcall Pass!",
-						}, -- [220]
+						}, -- [218]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902507,
 							["arg1"] = "Send in da demolishers! No Light gonna protect dat paladin from da might of da Horde!",
-						}, -- [221]
+						}, -- [219]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902515,
 							["arg1"] = "Light will always defeat Shadow, Rokhan. Defenders, forward!",
-						}, -- [222]
+						}, -- [220]
 						{
 							["arg2"] = "Warbringer Kro'goth",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902519,
 							["arg1"] = "Hold your ground! If anything moves, kill it!",
-						}, -- [223]
+						}, -- [221]
 						{
 							["arg2"] = "Sundaylunch-Draenor",
 							["type"] = "INSTANCE_CHAT",
 							["time"] = 1561902546,
 							["arg1"] = "Interrupted Veteran Sorcerer's |cff71d5ff|Hspell:262007:0|h[Polymorph]|h|r!",
 							["clColor"] = "ffa22fc8",
-						}, -- [224]
+						}, -- [222]
 						{
 							["arg2"] = "Sundaylunch-Draenor",
 							["type"] = "INSTANCE_CHAT",
 							["time"] = 1561902566,
 							["arg1"] = "Interrupted Vengeful Ghost's |cff71d5ff|Hspell:84533:0|h[Drain Life]|h|r!",
 							["clColor"] = "ffa22fc8",
-						}, -- [225]
+						}, -- [223]
 						{
 							["arg2"] = "Rokhan",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902685,
 							["arg1"] = "Da gate be down! Storm da fortress!",
-						}, -- [226]
+						}, -- [224]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902721,
 							["arg1"] = "For the Light!",
-						}, -- [227]
+						}, -- [225]
 						{
 							["arg2"] = "Itra-TwistingNether",
 							["type"] = "INSTANCE_CHAT",
 							["time"] = 1561902725,
 							["arg1"] = "bl",
 							["clColor"] = "fffe7b09",
-						}, -- [228]
+						}, -- [226]
 						{
 							["arg2"] = "High Exarch Turalyon",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561902751,
 							["arg1"] = "Stromgarde may be lost, but the Alliance will never fall.",
-						}, -- [229]
+						}, -- [227]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905465,
 							["arg1"] = "The essence... belongs to the earth.",
-						}, -- [230]
+						}, -- [228]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905559,
 							["arg1"] = "The earth rages against you. How can you protect it?",
-						}, -- [231]
+						}, -- [229]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905690,
 							["arg1"] = "The earth will break you!",
-						}, -- [232]
+						}, -- [230]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905748,
 							["arg1"] = "The earth will break you!",
-						}, -- [233]
+						}, -- [231]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905768,
 							["arg1"] = "The earth will break you!",
-						}, -- [234]
+						}, -- [232]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905788,
 							["arg1"] = "The earth will break you!",
-						}, -- [235]
+						}, -- [233]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905805,
 							["arg1"] = "The earth will break you!",
-						}, -- [236]
+						}, -- [234]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905821,
 							["arg1"] = "Enough... I yield. You... are worthy.",
-						}, -- [237]
+						}, -- [235]
 						{
 							["arg2"] = "Navarrogg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561905849,
 							["arg1"] = "Up here! I have prepared an exit for you.",
-						}, -- [238]
+						}, -- [236]
 						{
 							["arg2"] = "Mortiferous",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561906240,
 							["arg1"] = "Your titan gods have abandoned you. Lay down your arms. There is no hope left.",
-						}, -- [239]
+						}, -- [237]
 						{
 							["arg2"] = "Mortiferous",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561906376,
 							["arg1"] = "Salt the earth. Boil their seas. Drive them before you!",
-						}, -- [240]
+						}, -- [238]
 						{
 							["arg2"] = "Mortiferous",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561906669,
 							["arg1"] = "Too late, \"heroes\". Your world is lost.",
-						}, -- [241]
+						}, -- [239]
 						{
 							["arg2"] = "Mortiferous",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561906867,
 							["arg1"] = "Too late, \"heroes\". Your world is lost.",
-						}, -- [242]
+						}, -- [240]
 						{
 							["arg2"] = "Mortiferous",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1561907042,
 							["arg1"] = "Your titan gods have abandoned you. Lay down your arms. There is no hope left.",
+						}, -- [241]
+						{
+							["arg1"] = " ",
+						}, -- [242]
+						{
+							["arg1"] = " ",
 						}, -- [243]
 						{
-							["arg1"] = " ",
-						}, -- [244]
-						{
-							["arg1"] = " ",
-						}, -- [245]
-						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 08/04/2019 at 14:56:08.",
-						}, -- [246]
+							["type"] = "SYSTEM",
+						}, -- [244]
 						{
 							["arg2"] = "Mortiferous",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1564923593,
 							["arg1"] = "Too late, \"heroes\". Your world is lost.",
+						}, -- [245]
+						{
+							["arg1"] = " ",
+						}, -- [246]
+						{
+							["arg1"] = " ",
 						}, -- [247]
 						{
-							["arg1"] = " ",
+							["arg1"] = "Logging started on 11/29/2020 at 13:23:00.",
+							["type"] = "SYSTEM",
 						}, -- [248]
 						{
-							["arg1"] = " ",
+							["arg2"] = "Highlord Darion Mograine",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1606654276,
+							["arg1"] = "Knights, secure the cave! We'll hold off these fiends.",
 						}, -- [249]
 						{
-							["arg1"] = "Logging started on 11/20/2019 at 09:39:06.",
-							["type"] = "SYSTEM",
+							["arg2"] = "Thrall",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1606654314,
+							["arg1"] = "Another ambush! Bring them down!",
 						}, -- [250]
 					},
 				}, -- [11]
@@ -14440,7 +14433,7 @@ ElephantDBPerChar = {
 					["name"] = "World defense",
 					["logs"] = {
 						{
-							["arg1"] = "Logging started on 11/20/2019 at 09:39:06.",
+							["arg1"] = "Logging started on 11/29/2020 at 13:23:00.",
 							["type"] = "SYSTEM",
 						}, -- [1]
 					},
@@ -14450,112 +14443,101 @@ ElephantDBPerChar = {
 					["name"] = "Guild recruitment",
 					["logs"] = {
 						{
-							["arg1"] = "Logging started on 11/20/2019 at 09:39:06.",
+							["arg1"] = "Logging started on 11/29/2020 at 13:23:00.",
 							["type"] = "SYSTEM",
 						}, -- [1]
 					},
 				},
 				["general"] = {
 					["enabled"] = true,
-					["hasMessage"] = false,
+					["hasMessage"] = true,
 					["name"] = "General",
 					["logs"] = {
 						{
-							["clColor"] = "ffc69b6d",
-							["time"] = 1538317528,
-							["arg1"] = "do you get lke rewards or something for killing ppl 10 on 1 or is it an achievement or something or just the honour bounty or?",
-							["arg9"] = "General - Vol'dun",
-							["arg2"] = "Mafunyane-DefiasBrotherhood",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [1]
-						{
-							["clColor"] = "ffc41e3a",
-							["time"] = 1538317550,
-							["arg1"] = "think they have their pvp weekly here",
-							["arg9"] = "General - Vol'dun",
-							["arg2"] = "Winterbreeze-DefiasBrotherhood",
-						}, -- [2]
-						{
-							["clColor"] = "ffc69b6d",
-							["time"] = 1538317553,
-							["arg1"] = "yes a title, conquerer of azeroth",
-							["arg9"] = "General - Vol'dun",
-							["arg2"] = "Dwana-DefiasBrotherhood",
-						}, -- [3]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [4]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [5]
 						{
 							["clColor"] = "fffff468",
 							["time"] = 1538320873,
 							["arg1"] = "4v1`",
 							["arg9"] = "General - Vol'dun",
 							["arg2"] = "Åchyls-DefiasBrotherhood",
+						}, -- [2]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [3]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [4]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [5]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [6]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [7]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [8]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [9]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [10]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [11]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [12]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [13]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [14]
 						{
 							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 09/30/2018 at 19:30:23.",
 						}, -- [15]
 						{
 							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
 						}, -- [16]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [17]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [18]
 						{
-							["arg1"] = "Logging started on 09/30/2018 at 19:30:23.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [19]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [20]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [21]
 						{
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 10/01/2018 at 15:39:04.",
 							["type"] = "SYSTEM",
 						}, -- [22]
 						{
@@ -14563,145 +14545,145 @@ ElephantDBPerChar = {
 							["type"] = "SYSTEM",
 						}, -- [23]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [24]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [25]
 						{
+							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 10/01/2018 at 15:39:04.",
 						}, -- [26]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [27]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [28]
 						{
 							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 10/02/2018 at 22:07:58.",
 						}, -- [29]
 						{
 							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
 						}, -- [30]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [31]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [32]
-						{
-							["arg1"] = "Logging started on 10/02/2018 at 22:07:58.",
-							["type"] = "SYSTEM",
-						}, -- [33]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [34]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [35]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [36]
 						{
 							["clColor"] = "ffaad372",
 							["time"] = 1538511335,
 							["arg1"] = "dude gtfo",
 							["arg9"] = "General - The Battle for Stromgarde",
 							["arg2"] = "Kabozgus-DefiasBrotherhood",
-						}, -- [37]
+						}, -- [33]
 						{
 							["clColor"] = "ffff7c0a",
 							["time"] = 1538511342,
 							["arg1"] = "goodiest that's a strecth haha xD",
 							["arg9"] = "General - The Battle for Stromgarde",
 							["arg2"] = "Poohoof",
-						}, -- [38]
+						}, -- [34]
 						{
 							["clColor"] = "ffc69b6d",
 							["time"] = 1538511402,
 							["arg1"] = "for no life maby asmongold he have biggest collection hehe",
 							["arg9"] = "General - The Battle for Stromgarde",
 							["arg2"] = "Liftbro-DefiasBrotherhood",
-						}, -- [39]
+						}, -- [35]
 						{
 							["clColor"] = "ffff7c0a",
 							["time"] = 1538512446,
 							["arg1"] = "CIRCLE OF ELEMENTS",
 							["arg9"] = "General - The Battle for Stromgarde",
 							["arg2"] = "Moonoos-DefiasBrotherhood",
+						}, -- [36]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [37]
+						{
+							["arg1"] = " ",
+						}, -- [38]
+						{
+							["arg1"] = " ",
+						}, -- [39]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 10/06/2018 at 09:31:40.",
 						}, -- [40]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [41]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [42]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [43]
 						{
-							["arg1"] = "Logging started on 10/06/2018 at 09:31:40.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [44]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [45]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [46]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [47]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [48]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [49]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [50]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [51]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [52]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [53]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [54]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [55]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [56]
 						{
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 10/13/2018 at 09:03:50.",
 							["type"] = "SYSTEM",
 						}, -- [57]
 						{
@@ -14709,115 +14691,115 @@ ElephantDBPerChar = {
 							["type"] = "SYSTEM",
 						}, -- [58]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [59]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [60]
 						{
+							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 10/13/2018 at 09:03:50.",
 						}, -- [61]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [62]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [63]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [64]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [65]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [66]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [67]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [68]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [69]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [70]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [71]
 						{
 							["clColor"] = "ffff7c0a",
 							["time"] = 1539416978,
 							["arg1"] = "Im at 14/15 slain for \"A wicked vessel\" And it wont increase to 15 no mather how many i kill, anyone got a cluep lease?",
 							["arg9"] = "General - Stormsong Valley",
 							["arg2"] = "Hórke-SteamwheedleCartel",
+						}, -- [68]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [69]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [70]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [71]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [72]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [73]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [74]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [75]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [76]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [77]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [78]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [79]
 						{
 							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 10/13/2018 at 10:54:59.",
 						}, -- [80]
 						{
 							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
 						}, -- [81]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [82]
 						{
 							["arg1"] = " ",
 						}, -- [83]
 						{
-							["arg1"] = "Logging started on 10/13/2018 at 10:54:59.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [84]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 10/14/2018 at 10:33:40.",
 						}, -- [85]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [86]
 						{
 							["arg1"] = " ",
@@ -14826,7 +14808,7 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [88]
 						{
-							["arg1"] = "Logging started on 10/14/2018 at 10:33:40.",
+							["arg1"] = "Logging started on 10/14/2018 at 10:50:53.",
 							["type"] = "SYSTEM",
 						}, -- [89]
 						{
@@ -14834,59 +14816,59 @@ ElephantDBPerChar = {
 							["type"] = "SYSTEM",
 						}, -- [90]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [91]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [92]
 						{
+							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 10/14/2018 at 10:50:53.",
 						}, -- [93]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [94]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [95]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [96]
 						{
 							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 10/14/2018 at 11:55:36.",
 						}, -- [97]
 						{
 							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
 						}, -- [98]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [99]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [100]
 						{
-							["arg1"] = "Logging started on 10/14/2018 at 11:55:36.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [101]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [102]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [103]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [104]
 						{
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 10/15/2018 at 22:50:58.",
 							["type"] = "SYSTEM",
 						}, -- [105]
 						{
@@ -14894,95 +14876,95 @@ ElephantDBPerChar = {
 							["type"] = "SYSTEM",
 						}, -- [106]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [107]
 						{
 							["arg1"] = " ",
 						}, -- [108]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 10/15/2018 at 22:50:58.",
+							["arg1"] = " ",
 						}, -- [109]
 						{
 							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 10/17/2018 at 22:06:39.",
 						}, -- [110]
 						{
 							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
 						}, -- [111]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [112]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [113]
 						{
-							["arg1"] = "Logging started on 10/17/2018 at 22:06:39.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [114]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [115]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [116]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [117]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [118]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [119]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [120]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [121]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [122]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [123]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [124]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [125]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [126]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [127]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [128]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [129]
 						{
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 10/18/2018 at 15:56:09.",
 							["type"] = "SYSTEM",
 						}, -- [130]
 						{
@@ -14997,154 +14979,154 @@ ElephantDBPerChar = {
 						}, -- [133]
 						{
 							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 10/18/2018 at 15:56:09.",
+							["arg1"] = "Logging started on 10/26/2018 at 12:56:45.",
 						}, -- [134]
 						{
 							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
 						}, -- [135]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [136]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [137]
 						{
-							["arg1"] = "Logging started on 10/26/2018 at 12:56:45.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [138]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [139]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [140]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [141]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [142]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [143]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [144]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [145]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [146]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [147]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [148]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [149]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [150]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [151]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 10/27/2018 at 13:29:02.",
 						}, -- [152]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [153]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [154]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [155]
 						{
-							["arg1"] = "Logging started on 10/27/2018 at 13:29:02.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [156]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [157]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [158]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [159]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [160]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [161]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [162]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [163]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [164]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [165]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [166]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [167]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [168]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [169]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [170]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [171]
 						{
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 10/28/2018 at 16:43:44.",
 							["type"] = "SYSTEM",
 						}, -- [172]
 						{
@@ -15158,142 +15140,142 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [175]
 						{
+							["arg1"] = "Logging started on 10/30/2018 at 15:54:48.",
 							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 10/28/2018 at 16:43:44.",
 						}, -- [176]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [177]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [178]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [179]
 						{
+							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 10/30/2018 at 15:54:48.",
 						}, -- [180]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [181]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [182]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [183]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [184]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [185]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [186]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [187]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [188]
 						{
 							["clColor"] = "ff3fc6ea",
 							["time"] = 1540915194,
 							["arg1"] = "на счет лагов , не игра же виновата)",
 							["arg9"] = "General - Stormsong Valley",
 							["arg2"] = "Гарнет-Термоштепсель",
+						}, -- [185]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [186]
+						{
+							["arg1"] = " ",
+						}, -- [187]
+						{
+							["arg1"] = " ",
+						}, -- [188]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 11/01/2018 at 08:52:29.",
 						}, -- [189]
 						{
 							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
 						}, -- [190]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [191]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [192]
 						{
-							["arg1"] = "Logging started on 11/01/2018 at 08:52:29.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [193]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [194]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [195]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [196]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [197]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [198]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [199]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [200]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [201]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [202]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [203]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [204]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [205]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [206]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [207]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [208]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [209]
 						{
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 11/01/2018 at 10:48:24.",
 							["type"] = "SYSTEM",
 						}, -- [210]
 						{
@@ -15301,123 +15283,123 @@ ElephantDBPerChar = {
 							["type"] = "SYSTEM",
 						}, -- [211]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [212]
 						{
 							["arg1"] = " ",
 						}, -- [213]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 11/01/2018 at 10:48:24.",
+							["arg1"] = " ",
 						}, -- [214]
 						{
 							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 06/30/2019 at 15:20:19.",
 						}, -- [215]
 						{
 							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
 						}, -- [216]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [217]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [218]
 						{
-							["arg1"] = "Logging started on 06/30/2019 at 15:20:19.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [219]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [220]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [221]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [222]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [223]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [224]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [225]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [226]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [227]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [228]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [229]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [230]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [231]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [232]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [233]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [234]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [235]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [236]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [237]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [238]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [239]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [240]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [241]
 						{
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 08/04/2019 at 14:56:08.",
 							["type"] = "SYSTEM",
 						}, -- [242]
 						{
@@ -15431,1405 +15413,1384 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [245]
 						{
+							["arg1"] = "Logging started on 11/29/2020 at 13:23:00.",
 							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 08/04/2019 at 14:56:08.",
 						}, -- [246]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [247]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [248]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [249]
 						{
-							["arg1"] = "Logging started on 11/20/2019 at 09:39:06.",
+							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
 						}, -- [250]
 					},
 				},
 				["trade"] = {
 					["enabled"] = true,
-					["hasMessage"] = false,
+					["hasMessage"] = true,
 					["name"] = "Trade",
 					["logs"] = {
-						{
-							["clColor"] = "ffffffff",
-							["time"] = 1537977684,
-							["arg1"] = "|cff0070dd|Hitem:133511::::::::120:256::::::|h[Adorno reluciente de Guraturdido]|h|r :D",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Easyheal-DefiasBrotherhood",
-						}, -- [1]
-						{
-							["clColor"] = "ffff7c0a",
-							["time"] = 1537977695,
-							["arg1"] = "shout out to good lad Spoony for showing silithus portal <3",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Gilby-DefiasBrotherhood",
-						}, -- [2]
-						{
-							["clColor"] = "ffffffff",
-							["time"] = 1537977701,
-							["arg1"] = "but it costs 1500, so 2 timewalking to earn each toy",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Easyheal-DefiasBrotherhood",
-						}, -- [3]
-						{
-							["clColor"] = "fffff468",
-							["time"] = 1537977707,
-							["arg1"] = "<Ninth Square> are looking for members to bolster our roster! We're currently looking for tanks & DPS to progress through Mythic+ & Heroic Uldir, we're 8/8N & 3/8HC and raid Thurs/Mon 8.30pm - 12am (server time). Socials, casuals and PVP'ers are welcome. ",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Hyzen-TheVentureCo",
-						}, -- [4]
-						{
-							["clColor"] = "ff3fc6ea",
-							["time"] = 1537977727,
-							["arg1"] = "Different timewalking = different mounts, and the rest of the items. First tw of the day rewards a quest that gives 500 badges.",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Tegalad-DefiasBrotherhood",
-						}, -- [5]
-						{
-							["clColor"] = "ffc69b6d",
-							["time"] = 1537977728,
-							["arg1"] = "any cool mounts tho?",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Daisho-DefiasBrotherhood",
-						}, -- [6]
-						{
-							["clColor"] = "ff3fc6ea",
-							["time"] = 1537977748,
-							["arg1"] = "|cff71d5ff|Hspell:142910:0|h[Ironbound Wraithcharger]|h|r|cff71d5ff|Hspell:194464:0|h[Eclipse Dragonhawk]|h|r",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Tegalad-DefiasBrotherhood",
-						}, -- [7]
-						{
-							["clColor"] = "ffc69b6d",
-							["time"] = 1537977783,
-							["arg1"] = "not bad",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Daisho-DefiasBrotherhood",
-						}, -- [8]
-						{
-							["clColor"] = "ffff7c0a",
-							["time"] = 1537977820,
-							["arg1"] = "The Gallywix Community, WTS Heroic Uldir Full Run @Fri/Sat/Sun/Mon @20:00 ST + [Ahead of the Curve: G'huun], 370 iLvl Loot, Azerite Gear etc. Boosted by raiders from top guilds - Method, FSY, PMA etc.",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Gallyboost-DefiasBrotherhood",
-						}, -- [9]
-						{
-							["clColor"] = "ff3fc6ea",
-							["time"] = 1537977861,
-							["arg1"] = "+ pandaria serpent, forgot the name though. There is also a chance for |cff71d5ff|Hspell:201098:0|h[Infinite Timereaver]|h|r to drop during the instance",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Tegalad-DefiasBrotherhood",
-						}, -- [10]
-						{
-							["clColor"] = "ff3fc6ea",
-							["time"] = 1537977905,
-							["arg1"] = "guys for frost mage |cff71d5ff|Hspell:277663:0|h[Tunnel of Ice]|h|r or |cff71d5ff|Hspell:281841:0|h[Tradewinds]|h|r? ",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Xylem-DefiasBrotherhood",
-						}, -- [11]
-						{
-							["clColor"] = "ff3fc6ea",
-							["time"] = 1537977924,
-							["arg1"] = "sim it",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Clydo-DefiasBrotherhood",
-						}, -- [12]
-						{
-							["clColor"] = "ff3fc6ea",
-							["time"] = 1537977935,
-							["arg1"] = "best way to know",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Clydo-DefiasBrotherhood",
-						}, -- [13]
-						{
-							["clColor"] = "ff0070dd",
-							["time"] = 1537977945,
-							["arg1"] = "Tunnel of ice higher roleplay value",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Elidnis-DefiasBrotherhood",
-						}, -- [14]
-						{
-							["clColor"] = "fffff468",
-							["time"] = 1537977948,
-							["arg1"] = "<Time Well Wasted> 7/8HC has just sprouted out and is looking for new prey to trap in its social and raiding circles. We are a tight crew drawn together by the same dislikes. Our aim is to farm HC and then start mythic raiding as soon as gear allows us",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Chiasmata-DefiasBrotherhood",
-						}, -- [15]
-						{
-							["clColor"] = "ffaad372",
-							["time"] = 1537977950,
-							["arg1"] = "LFM Mythic Taloc need Prot pally tank rest ranged DPS",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Ozzwaldo-DefiasBrotherhood",
-						}, -- [16]
-						{
-							["clColor"] = "ff8787ed",
-							["time"] = 1537977961,
-							["arg1"] = "|cffa335ee|Hitem:160612::::::::120:265::4:3:4801:1462:4786:::|h[Spellbound Specimen Handlers]|h|r 22k",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Renfri-DefiasBrotherhood",
-						}, -- [17]
-						{
-							["clColor"] = "ffaad372",
-							["time"] = 1537977979,
-							["arg1"] = "WTS Mythic+ dungeons for weekly chest, Mythic dungeons 8/8, Uldir Normal/Heroic, World Quests boost",
-							["arg6"] = "DND",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Dakaleo-Ravenholdt",
-						}, -- [18]
 						{
 							["clColor"] = "ffff7c0a",
 							["time"] = 1537978000,
 							["arg1"] = "The Gallywix Community, WTS Heroic Uldir Full Run @Fri/Sat/Sun/Mon @20:00 ST + [Ahead of the Curve: G'huun], 370 iLvl Loot, Azerite Gear etc. Boosted by raiders from top guilds - Method, FSY, PMA etc.",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Gallyboost-DefiasBrotherhood",
-						}, -- [19]
+						}, -- [1]
 						{
 							["clColor"] = "ff8787ed",
 							["time"] = 1537978002,
 							["arg1"] = "|cffa335ee|Hitem:160612::::::::120:265::4:3:4801:1462:4786:::|h[Spellbound Specimen Handlers]|h|r 22 000 gold",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Renfri-DefiasBrotherhood",
-						}, -- [20]
+						}, -- [2]
 						{
 							["clColor"] = "ff8787ed",
 							["time"] = 1537978037,
 							["arg1"] = "The Ten Thousand. Poszukujemy graczy, którzy będa chcieli wraz z nami podjąć krucjatę i stanąć naprzeciwko wrogom Azeroth! Każdy może dołączyć w nasze szeregi, niezależnie od levelu, znajomości gry czy preferowanego end game'u. ",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Xisorin-DefiasBrotherhood",
-						}, -- [21]
+						}, -- [3]
 						{
 							["clColor"] = "ffff7c0a",
 							["time"] = 1537978037,
 							["arg1"] = "Ill give you 2k for that",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Casperovsky-DefiasBrotherhood",
-						}, -- [22]
+						}, -- [4]
 						{
 							["clColor"] = "fff48cba",
 							["time"] = 1537978059,
 							["arg1"] = "<Infinitus> 6/8 HC is recruiting ranged dps. We are a raiding guild with an old heritage when it comes to content clearing. As we have before, so are we here now to clear Normal/HC/Mythic content. If you want any info or a chat about us, please whisper me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Sún-DefiasBrotherhood",
-						}, -- [23]
+						}, -- [5]
 						{
 							["clColor"] = "ffffffff",
 							["time"] = 1537978065,
 							["arg1"] = "Ill give 2.5k",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Spoony-DefiasBrotherhood",
-						}, -- [24]
+						}, -- [6]
 						{
 							["clColor"] = "ffaad372",
 							["time"] = 1537978071,
 							["arg1"] = "3k",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tuksen-DefiasBrotherhood",
-						}, -- [25]
+						}, -- [7]
 						{
 							["clColor"] = "ffff7c0a",
 							["time"] = 1537978091,
 							["arg1"] = "20k",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Angerfist-DefiasBrotherhood",
-						}, -- [26]
+						}, -- [8]
 						{
 							["clColor"] = "ff3fc6ea",
 							["time"] = 1537978096,
 							["arg1"] = "1k",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Clydo-DefiasBrotherhood",
-						}, -- [27]
+						}, -- [9]
 						{
 							["clColor"] = "ff3fc6ea",
 							["time"] = 1537978103,
 							["arg1"] = "easy barteringh",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Clydo-DefiasBrotherhood",
-						}, -- [28]
+						}, -- [10]
 						{
 							["clColor"] = "ffffffff",
 							["time"] = 1537978103,
 							["arg1"] = "your mum",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Sonfyre-DefiasBrotherhood",
-						}, -- [29]
+						}, -- [11]
 						{
 							["clColor"] = "ff8787ed",
 							["time"] = 1537978147,
 							["arg1"] = "WTS |cffa335ee|Hitem:49286:::::::1360960768:120:265::::::|h[X-51 Nether-Rocket X-TREME]|h|r|cff0070dd|Hbattlepet:242:25:3:1319:305:289:0000000000000000|h[Spectral Tiger Cub]|h|r",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Bloodleh-DefiasBrotherhood",
-						}, -- [30]
+						}, -- [12]
 						{
 							["clColor"] = "ff8787ed",
 							["time"] = 1537978148,
 							["arg1"] = "|cffa335ee|Hitem:160612::::::::120:265::4:3:4801:1462:4786:::|h[Spellbound Specimen Handlers]|h|r 22k",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Renfri-DefiasBrotherhood",
-						}, -- [31]
+						}, -- [13]
 						{
 							["clColor"] = "ff8787ed",
 							["time"] = 1537978150,
 							["arg1"] = "WTB all |cffffffff|Hitem:16885::::::::120:265::::::|h[Heavy Junkbox]|h|r, looking for farmers as well",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Bloodleh-DefiasBrotherhood",
-						}, -- [32]
+						}, -- [14]
 						{
 							["clColor"] = "ffaad372",
 							["time"] = 1537978186,
 							["arg1"] = "LFM Mythic Taloc need Prot pally rest ranged DPS free 385 items come get some",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Ozzwaldo-DefiasBrotherhood",
-						}, -- [33]
+						}, -- [15]
 						{
 							["clColor"] = "ff00ff96",
 							["time"] = 1537978226,
 							["arg1"] = "WTS|cffa335ee|Hitem:152877::::::::120:269::::::|h[Veiled Crystal]|h|r|cff0070dd|Hitem:152876::::::::120:269::::::|h[Umbra Shard]|h|r",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Alliibaba-DefiasBrotherhood",
-						}, -- [34]
+						}, -- [16]
 						{
 							["clColor"] = "ff8787ed",
 							["time"] = 1537978337,
 							["arg1"] = "Ad Absurdum is looking for chill and mature players to join their ranks. We are a community that enjoys doing PvE and PvP content in a comfortable pace where the social experience is highly valued. Contact me if curious!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Patermortua-ScarshieldLegion",
-						}, -- [35]
+						}, -- [17]
 						{
 							["clColor"] = "fffff468",
 							["time"] = 1537978343,
 							["arg1"] = "Prophets of The Revenant - New friendly guild recruiting all kind of players, looking for social and fun time, leveling, dungeons, pvp and raids. Welcome!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Lepso-DefiasBrotherhood",
-						}, -- [36]
+						}, -- [18]
 						{
 							["clColor"] = "ff0070dd",
 							["time"] = 1537978362,
 							["arg1"] = "1 hour of game time left",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Nitrodentka-DefiasBrotherhood",
-						}, -- [37]
+						}, -- [19]
 						{
 							["clColor"] = "ff0070dd",
 							["time"] = 1537978364,
 							["arg1"] = ";_;",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Nitrodentka-DefiasBrotherhood",
-						}, -- [38]
+						}, -- [20]
 						{
 							["clColor"] = "ff0070dd",
 							["time"] = 1537978368,
 							["arg1"] = "rip",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Rémedy-DefiasBrotherhood",
-						}, -- [39]
+						}, -- [21]
 						{
 							["clColor"] = "ffff7c0a",
 							["time"] = 1537978372,
 							["arg1"] = "u not losing much",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Sagiroth-DefiasBrotherhood",
-						}, -- [40]
+						}, -- [22]
 						{
 							["clColor"] = "ffaad372",
 							["time"] = 1537978373,
 							["arg1"] = "bye friend",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Erreth-DefiasBrotherhood",
-						}, -- [41]
+						}, -- [23]
 						{
 							["clColor"] = "ff0070dd",
 							["time"] = 1537978375,
 							["arg1"] = "cya bro",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Elidnis-DefiasBrotherhood",
-						}, -- [42]
+						}, -- [24]
 						{
 							["clColor"] = "ffffffff",
 							["time"] = 1537978378,
 							["arg1"] = "Cya !",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Healini-TheVentureCo",
-						}, -- [43]
+						}, -- [25]
 						{
 							["clColor"] = "ff8787ed",
 							["time"] = 1537978379,
 							["arg1"] = "The Ten Thousand. Poszukujemy graczy, którzy będa chcieli wraz z nami podjąć krucjatę i stanąć naprzeciwko wrogom Azeroth! Każdy może dołączyć w nasze szeregi, niezależnie od levelu, znajomości gry czy preferowanego end game'u. ",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Xisorin-DefiasBrotherhood",
-						}, -- [44]
+						}, -- [26]
 						{
 							["clColor"] = "ffffffff",
 							["time"] = 1537978379,
 							["arg1"] = ":P",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Healini-TheVentureCo",
-						}, -- [45]
+						}, -- [27]
 						{
 							["clColor"] = "ff00ff96",
 							["time"] = 1537978386,
 							["arg1"] = "don't have the gold for more gametime?",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Bamboóze-DefiasBrotherhood",
-						}, -- [46]
+						}, -- [28]
 						{
 							["clColor"] = "ff0070dd",
 							["time"] = 1537978403,
 							["arg1"] = "short a few thousand",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Nitrodentka-DefiasBrotherhood",
-						}, -- [47]
+						}, -- [29]
 						{
 							["clColor"] = "ffffffff",
 							["time"] = 1537978415,
 							["arg1"] = "Oh man.. sucks !",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Healini-TheVentureCo",
-						}, -- [48]
+						}, -- [30]
 						{
 							["clColor"] = "ffffffff",
 							["time"] = 1537978416,
 							["arg1"] = "cya haha ",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Healini-TheVentureCo",
-						}, -- [49]
+						}, -- [31]
 						{
 							["clColor"] = "ff3fc6ea",
 							["time"] = 1537978427,
 							["arg1"] = "sell something on the ah kek",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Zorgoz-DefiasBrotherhood",
-						}, -- [50]
+						}, -- [32]
 						{
 							["clColor"] = "fffff468",
 							["time"] = 1537978462,
 							["arg1"] = "Prophets of The Revenant - New friendly guild recruiting all kind of players, looking for social and fun time, leveling, dungeons, pvp and raids. Welcome!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Lepso-DefiasBrotherhood",
-						}, -- [51]
+						}, -- [33]
 						{
 							["clColor"] = "ff00ff96",
 							["time"] = 1537978463,
 							["arg1"] = "We, FairyTail, are a guild that has some casual raids, mythics, etc,  going on. We aren't too serious and it is more important to just have fun together :) /w me for more info if you are interested :)",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Ryuukoji-DefiasBrotherhood",
-						}, -- [52]
+						}, -- [34]
 						{
 							["clColor"] = "ffaad372",
 							["time"] = 1537978472,
 							["arg1"] = "LF5M Mythic Taloc - 360+ Need Prot paladin + Ranged DPS",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Ozzwaldo-DefiasBrotherhood",
-						}, -- [53]
+						}, -- [35]
 						{
 							["clColor"] = "ff8787ed",
 							["time"] = 1537978522,
 							["arg1"] = "|cffa335ee|Hitem:160612::::::::120:265::4:3:4801:1462:4786:::|h[Spellbound Specimen Handlers]|h|r 22k or more, whisper if interested",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Renfri-DefiasBrotherhood",
-						}, -- [54]
+						}, -- [36]
 						{
 							["clColor"] = "ffff7c0a",
 							["time"] = 1537978554,
 							["arg1"] = "more ",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Angerfist-DefiasBrotherhood",
-						}, -- [55]
+						}, -- [37]
 						{
 							["clColor"] = "ff8787ed",
 							["time"] = 1537978570,
 							["arg1"] = "30k?",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Renfri-DefiasBrotherhood",
-						}, -- [56]
+						}, -- [38]
 						{
 							["clColor"] = "ffff7c0a",
 							["time"] = 1537978576,
 							["arg1"] = "100k",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Angerfist-DefiasBrotherhood",
-						}, -- [57]
+						}, -- [39]
 						{
 							["clColor"] = "ff8787ed",
 							["time"] = 1537978585,
 							["arg1"] = "deal m9",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Renfri-DefiasBrotherhood",
-						}, -- [58]
+						}, -- [40]
 						{
 							["clColor"] = "ffaad372",
 							["time"] = 1537978590,
 							["arg1"] = "WTS Mythic+ dungeons for weekly chest, Mythic dungeons 8/8, Uldir Normal/Heroic, World Quests boost",
-							["arg6"] = "DND",
-							["arg9"] = "Trade - City",
 							["arg2"] = "Dakaleo-Ravenholdt",
-						}, -- [59]
+							["arg9"] = "Trade - City",
+							["arg6"] = "DND",
+						}, -- [41]
 						{
 							["clColor"] = "ffaad372",
 							["time"] = 1537978594,
 							["arg1"] = "MORE!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Thanrok-DefiasBrotherhood",
-						}, -- [60]
+						}, -- [42]
 						{
 							["clColor"] = "ffff7c0a",
 							["time"] = 1537978603,
 							["arg1"] = "fck i dont have more",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Angerfist-DefiasBrotherhood",
-						}, -- [61]
+						}, -- [43]
 						{
 							["clColor"] = "ff8787ed",
 							["time"] = 1537978610,
 							["arg1"] = "too late m7",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Renfri-DefiasBrotherhood",
-						}, -- [62]
+						}, -- [44]
 						{
 							["clColor"] = "ff8787ed",
 							["time"] = 1537978631,
 							["arg1"] = "is sold",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Renfri-DefiasBrotherhood",
-						}, -- [63]
+						}, -- [45]
 						{
 							["clColor"] = "ffff7c0a",
 							["time"] = 1537978636,
 							["arg1"] = "i can buy you a drink",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Angerfist-DefiasBrotherhood",
-						}, -- [64]
+						}, -- [46]
 						{
 							["clColor"] = "ffff7c0a",
 							["time"] = 1537978641,
 							["arg1"] = "cannon shot?",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Angerfist-DefiasBrotherhood",
-						}, -- [65]
+						}, -- [47]
 						{
 							["clColor"] = "ffaad372",
 							["time"] = 1537978653,
 							["arg1"] = "LF5M Mythic Taloc - 360+ Need Prot paladin + Ranged DPS",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Ozzwaldo-DefiasBrotherhood",
-						}, -- [66]
+						}, -- [48]
 						{
 							["clColor"] = "fffff468",
 							["time"] = 1537978657,
 							["arg1"] = "Prophets of The Revenant - New friendly guild recruiting all kind of players, looking for social and fun time, leveling, dungeons, pvp and raids. Welcome!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Lepso-DefiasBrotherhood",
-						}, -- [67]
+						}, -- [49]
 						{
 							["clColor"] = "ffaad372",
 							["time"] = 1537978662,
 							["arg1"] = "Banned are looking for raiders to join our team on a wednesday and a sunday evenings 8pm-11pm (server Time) We are currently Looking for DeathKnight and Boomkin/Warlock to add to our team we are 6/8 HC :) Are considering other classes too :)",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Ollza-Ravenholdt",
-						}, -- [68]
+						}, -- [50]
 						{
 							["clColor"] = "ff8787ed",
 							["time"] = 1537978665,
 							["arg1"] = "only in head",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Renfri-DefiasBrotherhood",
-						}, -- [69]
+						}, -- [51]
 						{
 							["clColor"] = "ffff7c0a",
 							["time"] = 1537978680,
 							["arg1"] = "in mouth",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Angerfist-DefiasBrotherhood",
-						}, -- [70]
+						}, -- [52]
 						{
 							["clColor"] = "ffc69b6d",
 							["time"] = 1537978704,
 							["arg1"] = "<Infinitus> 6/8 HC is recruiting ranged dps. We are a raiding guild with an old heritage when it comes to content clearing. As we have before, so are we here now to clear HC/Mythic content. 3 Raid nights per week, /w for more info!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Ozgard-DefiasBrotherhood",
-						}, -- [71]
+						}, -- [53]
 						{
 							["clColor"] = "ffaad372",
 							["time"] = 1537978772,
 							["arg1"] = "[PL] Gildia <Useless Kids> Uldir 1/8M- BFA rekrutacja! Poszukujemy osob do rozszerzenia Grupy Raidowej, rowniez zapraszamy graczy Casualowych. Jestesmy aktywna Gildia. Raidujemy w Śr/Czw/Wt/Sob od 19 do max 23. Wiecej info /w",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Valaky-DefiasBrotherhood",
-						}, -- [72]
+						}, -- [54]
 						{
 							["clColor"] = "ffff7c0a",
 							["time"] = 1537978793,
 							["arg1"] = "wts 5x |cffffffff|Hitem:152639::::::::120:102::::::|h[Flask of Endless Fathoms]|h|r 7x |cff1eff00|Hitem:152510::::::::120:102::::::|h[Anchor Weed]|h|r",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Withdrawal-DefiasBrotherhood",
-						}, -- [73]
+						}, -- [55]
 						{
 							["clColor"] = "ffaad372",
 							["time"] = 1537978800,
 							["arg1"] = "LF4m Tank and ranged dps Mythic TALOC",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Ozzwaldo-DefiasBrotherhood",
-						}, -- [74]
+						}, -- [56]
 						{
 							["clColor"] = "ffaad372",
 							["time"] = 1537978815,
 							["arg1"] = "Banned are looking for raiders to join our team on a wednesday and a sunday evenings 8pm-11pm (server Time) We are currently Looking for DeathKnight and Boomkin/Warlock to add to our team we are 6/8 HC :) Are considering other classes too :)",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Ollza-Ravenholdt",
-						}, -- [75]
+						}, -- [57]
 						{
 							["clColor"] = "ffaad372",
 							["time"] = 1537978829,
 							["arg1"] = "ollza can you stop posting that shit after im looking for someone",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Ozzwaldo-DefiasBrotherhood",
-						}, -- [76]
+						}, -- [58]
 						{
 							["clColor"] = "ffc41e3a",
 							["time"] = 1537978866,
 							["arg1"] = "Wojownicy Hordy, \"Aeternam\" rekrutuje! Poszukujemy bohaterow ktorzy razem z nami beda walczyc ku chwale Hordy! Oferujemy przyjazna atmosfere, raidy, mythic+ oraz wiele ciekawych eventow. Napisz do nas! For the Horde!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Teylach-DefiasBrotherhood",
-						}, -- [77]
+						}, -- [59]
 						{
 							["clColor"] = "ffaad372",
 							["time"] = 1537978867,
 							["arg1"] = "cry sum where else",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Ollza-Ravenholdt",
-						}, -- [78]
+						}, -- [60]
 						{
 							["clColor"] = "ffaad372",
 							["time"] = 1537978877,
 							["arg1"] = "gonna tell him off for using trade too",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Ollza-Ravenholdt",
-						}, -- [79]
+						}, -- [61]
 						{
 							["clColor"] = "ffff7c0a",
 							["time"] = 1537978886,
 							["arg1"] = "wts |cffa335ee|Hitem:163969::::::::120:102::54:2:1472:4786:::|h[Ameelton's Shot-Thrower]|h|r |cffa335ee|Hitem:152877::::::::120:102::::::|h[Veiled Crystal]|h|r |cffffffff|Hitem:152639::::::::120:102::::::|h[Flask of Endless Fathoms]|h|r",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Withdrawal-DefiasBrotherhood",
-						}, -- [80]
+						}, -- [62]
 						{
 							["clColor"] = "ffaad372",
 							["time"] = 1537978892,
 							["arg1"] = "ye",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Ozzwaldo-DefiasBrotherhood",
-						}, -- [81]
+						}, -- [63]
 						{
 							["clColor"] = "ffaad372",
 							["time"] = 1537978895,
 							["arg1"] = "wind it in teylach",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Ozzwaldo-DefiasBrotherhood",
-						}, -- [82]
+						}, -- [64]
 						{
 							["clColor"] = "ff00ff96",
 							["time"] = 1537978943,
 							["arg1"] = "[PL] Community PvP \"Under Siege\" specjalizujace sie w RatedBG zaprasza wszystkich doswiadczonych graczy, ktorzy pragna dolaczyc do tworzonego przez weteranow RatedBG Teamu. Aktualnie poszukiwane klasy to Rogue & Demon Hunter. /W po wiecej info.",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Klesk-Sporeggar",
-						}, -- [83]
+						}, -- [65]
 						{
 							["clColor"] = "ffaad372",
 							["time"] = 1537978944,
 							["arg1"] = "LF5M Mythic Taloc - 360+ Need Prot paladin + Ranged DPS",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Ozzwaldo-DefiasBrotherhood",
-						}, -- [84]
+						}, -- [66]
 						{
 							["clColor"] = "ffaad372",
 							["time"] = 1537978949,
 							["arg1"] = "Banned are looking for raiders to join our team on a wednesday and a sunday evenings 8pm-11pm (server Time) We are currently Looking for DeathKnight and Boomkin/Warlock to add to our team we are 6/8 HC :) Are considering other classes too :)",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Ollza-Ravenholdt",
-						}, -- [85]
+						}, -- [67]
 						{
 							["clColor"] = "ffaad372",
 							["time"] = 1537978988,
 							["arg1"] = "<Dysfunctional Family> We are a friendly group of misfits who do weekly casual raids but understand real life commitments. We are always here to help, we are the family! Whisper if interested!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Yukin-DefiasBrotherhood",
-						}, -- [86]
+						}, -- [68]
 						{
 							["clColor"] = "ffc69b6d",
 							["time"] = 1537979031,
 							["arg1"] = "<The Elder Council> is a friendly PvE raid guild which is looking for a tank and DPS for the core HC progression team. We raid mon-wed-sun. whisper me for info.",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Blackhammer-ScarshieldLegion",
-						}, -- [87]
+						}, -- [69]
 						{
 							["clColor"] = "ff8787ed",
 							["time"] = 1537979052,
 							["arg1"] = "The Ten Thousand. Poszukujemy graczy, którzy będa chcieli wraz z nami podjąć krucjatę i stanąć naprzeciwko wrogom Azeroth! Każdy może dołączyć w nasze szeregi, niezależnie od levelu, znajomości gry czy preferowanego end game'u. ",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Xisorin-DefiasBrotherhood",
-						}, -- [88]
+						}, -- [70]
 						{
 							["clColor"] = "ffc41e3a",
 							["time"] = 1537979064,
 							["arg1"] = "English name, goblin language",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tusanisian-DefiasBrotherhood",
-						}, -- [89]
+						}, -- [71]
 						{
 							["clColor"] = "ffffffff",
 							["time"] = 1537979073,
 							["arg1"] = "<The Devoted> are recruiting ranged dps for our raids! We raid Tue/Sun from 20.00-23.00, and Wednesday from 19-22 server time. We are a casual PVE guild 8/8N, 4/8H in Uldir.  /w for more info!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Machae-DefiasBrotherhood",
-						}, -- [90]
+						}, -- [72]
 						{
 							["clColor"] = "ffff7c0a",
 							["time"] = 1537979077,
 							["arg1"] = "wts |cffa335ee|Hitem:163969::::::::120:102::54:3:42:1472:4786:::|h[Ameelton's Shot-Thrower]|h|r100k |cffffffff|Hitem:152639::::::::120:102::::::|h[Flask of Endless Fathoms]|h|r1.5k |cffa335ee|Hitem:152877::::::::120:102::::::|h[Veiled Crystal]|h|r 600g",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Withdrawal-DefiasBrotherhood",
-						}, -- [91]
+						}, -- [73]
 						{
 							["clColor"] = "ffaad372",
 							["time"] = 1537979091,
 							["arg1"] = "LF4M Mythic Taloc - 360+ Need Prot paladin + Ranged DPS",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Ozzwaldo-DefiasBrotherhood",
-						}, -- [92]
+						}, -- [74]
 						{
 							["clColor"] = "ffaad372",
 							["time"] = 1537979202,
 							["arg1"] = "WTS Mythic+ dungeons for weekly chest, Mythic dungeons 8/8, Uldir Normal/Heroic, World Quests boost",
-							["arg6"] = "DND",
-							["arg9"] = "Trade - City",
 							["arg2"] = "Dakaleo-Ravenholdt",
-						}, -- [93]
+							["arg9"] = "Trade - City",
+							["arg6"] = "DND",
+						}, -- [75]
 						{
 							["clColor"] = "ff8787ed",
 							["time"] = 1537979267,
 							["arg1"] = "WTS |cffa335ee|Hitem:49286:::::::1360960768:120:265::::::|h[X-51 Nether-Rocket X-TREME]|h|r|cff0070dd|Hbattlepet:242:25:3:1319:305:289:0000000000000000|h[Spectral Tiger Cub]|h|r",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Bloodleh-DefiasBrotherhood",
-						}, -- [94]
+						}, -- [76]
 						{
 							["clColor"] = "ff8787ed",
 							["time"] = 1537979271,
 							["arg1"] = "WTB all |cffffffff|Hitem:16885::::::::120:265::::::|h[Heavy Junkbox]|h|r, looking for farmers as well",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Bloodleh-DefiasBrotherhood",
-						}, -- [95]
+						}, -- [77]
 						{
 							["clColor"] = "ffaad372",
 							["time"] = 1537979275,
 							["arg1"] = "LF3M Mythic Taloc - 360+ need prot paladin + ranged DPS",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Ozzwaldo-DefiasBrotherhood",
-						}, -- [96]
+						}, -- [78]
 						{
 							["clColor"] = "ff8787ed",
 							["time"] = 1537979277,
 							["arg1"] = "<The Elder Council> is a friendly PvE raid guild which is looking for a tank and DPS for the core HC progression team. We raid mon-wed-sun. whisper me for info.",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Visermo-ScarshieldLegion",
-						}, -- [97]
+						}, -- [79]
 						{
 							["arg1"] = " ",
-						}, -- [98]
+						}, -- [80]
 						{
 							["arg1"] = " ",
-						}, -- [99]
+						}, -- [81]
 						{
+							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 09/28/2018 at 15:39:31.",
-							["type"] = "SYSTEM",
-						}, -- [100]
+						}, -- [82]
 						{
+							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+						}, -- [83]
+						{
+							["arg1"] = " ",
+						}, -- [84]
+						{
+							["arg1"] = " ",
+						}, -- [85]
+						{
 							["type"] = "SYSTEM",
-						}, -- [101]
-						{
-							["arg1"] = " ",
-						}, -- [102]
-						{
-							["arg1"] = " ",
-						}, -- [103]
-						{
 							["arg1"] = "Logging started on 09/29/2018 at 13:11:09.",
-							["type"] = "SYSTEM",
-						}, -- [104]
+						}, -- [86]
 						{
 							["clColor"] = "ffffffff",
 							["time"] = 1538222154,
 							["arg1"] = " Horde RP guild <The Pathfinders Covenant> are recruiting. We are a mercenary company in service to the horde. We specialise in scouting and skirmish warfare. We are looking for more members to join us. PM me for more info.",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Seribii-DefiasBrotherhood",
-						}, -- [105]
+						}, -- [87]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
-						}, -- [106]
+							["arg1"] = "You joined channel.",
+						}, -- [88]
 						{
 							["clColor"] = "ffff7c0a",
 							["time"] = 1538222764,
 							["arg1"] = "WTS |cffa335ee|Hitem:163931::::::::120:105::54:2:1472:4786:::|h[Chain Links of Fraying Awe]|h|r",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Jénn-Ravenholdt",
-						}, -- [107]
+						}, -- [89]
 						{
 							["clColor"] = "ffaad372",
 							["time"] = 1538222801,
 							["arg1"] = "Uldir 8/8 daily carry, mythic+ runs, gearing, powerlvling and more! Visit gplay.pro for info!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Gplayshopeur-DefiasBrotherhood",
-						}, -- [108]
+						}, -- [90]
 						{
 							["clColor"] = "ffffffff",
 							["time"] = 1538222951,
 							["arg1"] = " Horde RP guild <The Pathfinders Covenant> are recruiting. We are a mercenary company in service to the horde. We specialise in scouting and skirmish warfare. We are looking for more members to join us. PM me for more info.",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Seribii-DefiasBrotherhood",
-						}, -- [109]
+						}, -- [91]
 						{
 							["clColor"] = "fff48cba",
 							["time"] = 1538222963,
 							["arg1"] = "WTS M+10 BOOST. Get your 380ilvl!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Mehias-DefiasBrotherhood",
-						}, -- [110]
+						}, -- [92]
 						{
 							["clColor"] = "ffaad372",
 							["time"] = 1538222981,
 							["arg1"] = "Uldir 8/8 daily carry, mythic+ runs, gearing, powerlvling and more! Visit gplay.pro for info!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Gplayshopeur-DefiasBrotherhood",
-						}, -- [111]
+						}, -- [93]
 						{
 							["clColor"] = "ffc41e3a",
 							["time"] = 1538223035,
 							["arg1"] = "<Time Well Wasted> is recruiting. {7/8H} We are a newly formed guild built by heroic raid and high mythic+ players, if your goals are mythic raiding then you are a perfect fit for the guild. /w me for more info. Lf ranged dps",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Skabadoo-DefiasBrotherhood",
-						}, -- [112]
+						}, -- [94]
 						{
 							["clColor"] = "fff48cba",
 							["time"] = 1538223042,
 							["arg1"] = "WTS M+10 BOOST. Get your 380ilvl!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Mehias-DefiasBrotherhood",
-						}, -- [113]
+						}, -- [95]
 						{
 							["arg1"] = " ",
-						}, -- [114]
+						}, -- [96]
 						{
 							["arg1"] = " ",
-						}, -- [115]
+						}, -- [97]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 09/30/2018 at 15:22:12.",
-						}, -- [116]
-						{
 							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [117]
+						}, -- [98]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
-						}, -- [118]
+							["type"] = "SYSTEM",
+						}, -- [99]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [100]
 						{
 							["clColor"] = "fffff468",
 							["time"] = 1538321258,
 							["arg1"] = "<Time Well Wasted> 7/8HC has just sprouted out and is looking for new prey to trap in its social and raiding circles. We are a tight crew drawn together by the same dislikes. Our aim is to farm HC and then start mythic raiding as soon as gear allows us",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Chiasmata-DefiasBrotherhood",
-						}, -- [119]
+						}, -- [101]
 						{
 							["clColor"] = "ffff7c0a",
 							["time"] = 1538321311,
 							["arg1"] = "LFM Mythic Taloc - DEFIAS BROTHERHOOD - DPS - 365+++",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Vandrison-DefiasBrotherhood",
-						}, -- [120]
+						}, -- [102]
 						{
 							["clColor"] = "ffc41e3a",
 							["time"] = 1538321383,
 							["arg1"] = "WTB |cff0070dd|Hitem:164334::::::::120:250::11::::|h[Plundered Blade of Northern Kings]|h|r 100k",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Acîralia-DefiasBrotherhood",
-						}, -- [121]
+						}, -- [103]
 						{
 							["clColor"] = "ffff7c0a",
 							["time"] = 1538321414,
 							["arg1"] = "LFM Mythic Taloc - DEFIAS BROTHERHOOD - DPS - 365+++",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Vandrison-DefiasBrotherhood",
-						}, -- [122]
+						}, -- [104]
 						{
 							["clColor"] = "ffff7c0a",
 							["time"] = 1538321488,
 							["arg1"] = "LFM Mythic Taloc - DEFIAS BROTHERHOOD - DPS - 365+++",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Vandrison-DefiasBrotherhood",
-						}, -- [123]
+						}, -- [105]
 						{
 							["arg1"] = " ",
-						}, -- [124]
+						}, -- [106]
 						{
 							["arg1"] = " ",
-						}, -- [125]
+						}, -- [107]
 						{
-							["arg1"] = "Logging started on 10/02/2018 at 22:07:58.",
 							["type"] = "SYSTEM",
-						}, -- [126]
+							["arg1"] = "Logging started on 10/02/2018 at 22:07:58.",
+						}, -- [108]
 						{
 							["clColor"] = "ff00ff96",
 							["time"] = 1538511087,
 							["arg1"] = "Divided [1/8M] zaprasza w swoje szeregi. Jezeli szukasz gildii z przyjazna atmosfera, to miejsce jest dla Ciebie. Zainteresowany raidowaniem i progressem? Tym bardziej, nie zastanawiaj sie i dołacz do nas.",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Arcena-DefiasBrotherhood",
-						}, -- [127]
+						}, -- [109]
 						{
 							["arg1"] = " ",
-						}, -- [128]
+						}, -- [110]
 						{
 							["arg1"] = " ",
-						}, -- [129]
+						}, -- [111]
 						{
+							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 10/06/2018 at 09:31:40.",
-							["type"] = "SYSTEM",
-						}, -- [130]
+						}, -- [112]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
-						}, -- [131]
+							["arg1"] = "You joined channel.",
+						}, -- [113]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
-						}, -- [132]
+							["arg1"] = "You joined channel.",
+						}, -- [114]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
-						}, -- [133]
+							["arg1"] = "You joined channel.",
+						}, -- [115]
 						{
 							["clColor"] = "ff0070dd",
 							["time"] = 1538814753,
 							["arg1"] = "WTS Uldir HC/Normal, M+ dungeons for weekly chest",
-							["arg2"] = "Vahiopa-Ravenholdt",
-							["arg9"] = "Trade - City",
 							["arg6"] = "DND",
-						}, -- [134]
+							["arg9"] = "Trade - City",
+							["arg2"] = "Vahiopa-Ravenholdt",
+						}, -- [116]
 						{
 							["clColor"] = "ff0070dd",
 							["time"] = 1538814895,
 							["arg1"] = "SELL |cff1eff00|Hitem:152510::::::::120:262::::::|h[Anchor Weed]|h|r less than ah",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Garndzilla-DefiasBrotherhood",
-						}, -- [135]
+						}, -- [117]
 						{
 							["clColor"] = "ffff7c0a",
 							["time"] = 1538814909,
 							["arg1"] = "ok",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Gnarlz-DefiasBrotherhood",
-						}, -- [136]
+						}, -- [118]
 						{
 							["clColor"] = "ffff7c0a",
 							["time"] = 1538814960,
 							["arg1"] = "no",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Gnarlz-DefiasBrotherhood",
-						}, -- [137]
+						}, -- [119]
 						{
 							["clColor"] = "fff48cba",
 							["time"] = 1538815155,
 							["arg1"] = "Villains 8/8 HC 1/8 M rekrutuje. Gildia nastawiona na raidowanie mythica poszukuję graczy z ambicjami do dopełnienia składu na Uldir. Jeżeli wierzysz w swoje umiejętności i nie chcesz grzać ławy u innych zapraszamy!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Alcik-DefiasBrotherhood",
-						}, -- [138]
+						}, -- [120]
 						{
 							["clColor"] = "ff0070dd",
 							["time"] = 1538815364,
 							["arg1"] = "WTS Uldir HC/Normal, M+ dungeons for weekly chest",
-							["arg2"] = "Vahiopa-Ravenholdt",
-							["arg9"] = "Trade - City",
 							["arg6"] = "DND",
-						}, -- [139]
+							["arg9"] = "Trade - City",
+							["arg2"] = "Vahiopa-Ravenholdt",
+						}, -- [121]
 						{
 							["clColor"] = "ffffffff",
 							["time"] = 1538815369,
 							["arg1"] = " Neutral RP guild <The Pathfinders Covenant> are recruiting. We are a mercenary company currently in service to the horde. We specialise in scouting and skirmish warfare. We are looking for more members to join us. PM me for more info.",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Seribii-DefiasBrotherhood",
-						}, -- [140]
+						}, -- [122]
 						{
 							["arg1"] = " ",
-						}, -- [141]
+						}, -- [123]
 						{
 							["arg1"] = " ",
-						}, -- [142]
+						}, -- [124]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 10/13/2018 at 09:03:50.",
-						}, -- [143]
-						{
 							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [144]
+						}, -- [125]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
-						}, -- [145]
+							["type"] = "SYSTEM",
+						}, -- [126]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
-						}, -- [146]
+							["type"] = "SYSTEM",
+						}, -- [127]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
-						}, -- [147]
+							["type"] = "SYSTEM",
+						}, -- [128]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [129]
 						{
 							["arg1"] = " ",
-						}, -- [148]
+						}, -- [130]
 						{
 							["arg1"] = " ",
-						}, -- [149]
+						}, -- [131]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 10/14/2018 at 10:50:53.",
-						}, -- [150]
+							["type"] = "SYSTEM",
+						}, -- [132]
 						{
 							["clColor"] = "ff0070dd",
 							["time"] = 1539508076,
 							["arg1"] = "WTS Uldir HC/Normal, M+ dungeons for weekly chest",
-							["arg6"] = "DND",
-							["arg9"] = "Trade - City",
 							["arg2"] = "Vahiopa-Ravenholdt",
-						}, -- [151]
+							["arg9"] = "Trade - City",
+							["arg6"] = "DND",
+						}, -- [133]
 						{
 							["arg1"] = " ",
-						}, -- [152]
+						}, -- [134]
 						{
 							["arg1"] = " ",
-						}, -- [153]
+						}, -- [135]
 						{
-							["arg1"] = "Logging started on 10/14/2018 at 11:55:36.",
 							["type"] = "SYSTEM",
-						}, -- [154]
+							["arg1"] = "Logging started on 10/14/2018 at 11:55:36.",
+						}, -- [136]
 						{
 							["clColor"] = "ffaad372",
 							["time"] = 1539511445,
 							["arg1"] = "How about eh, fish",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tuatha-DefiasBrotherhood",
-						}, -- [155]
+						}, -- [137]
 						{
 							["clColor"] = "ffaad372",
 							["time"] = 1539511452,
 							["arg1"] = "Any fish that sell real well?",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tuatha-DefiasBrotherhood",
-						}, -- [156]
+						}, -- [138]
 						{
 							["clColor"] = "ff0070dd",
 							["time"] = 1539511454,
 							["arg1"] = "|cff1eff00|Hitem:162517::::::::63:264::::::|h[U'taka]|h|r?",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Mauroof-Ravenholdt",
-						}, -- [157]
+						}, -- [139]
 						{
 							["clColor"] = "ff0070dd",
 							["time"] = 1539511457,
 							["arg1"] = "oh no",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Mauroof-Ravenholdt",
-						}, -- [158]
+						}, -- [140]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
-						}, -- [159]
+							["arg1"] = "You joined channel.",
+						}, -- [141]
 						{
 							["clColor"] = "ff0070dd",
 							["time"] = 1539511499,
 							["arg1"] = "just like every economy on this server it's fucked",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Mauroof-Ravenholdt",
-						}, -- [160]
+						}, -- [142]
 						{
 							["clColor"] = "ff0070dd",
 							["time"] = 1539511536,
 							["arg1"] = "If I find the little cunt who's tanked storm whelpies from 600g to 100g in the last week I'll gut them.",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Mauroof-Ravenholdt",
-						}, -- [161]
+						}, -- [143]
 						{
 							["clColor"] = "ffaad372",
 							["time"] = 1539511549,
 							["arg1"] = "WTB |cffa335ee|Hitem:163574::::::::120:253::::::|h[Chewed-On Reins of the Terrified Pack Mule]|h|r 100k",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Jiaoshui-DefiasBrotherhood",
-						}, -- [162]
+						}, -- [144]
 						{
 							["arg1"] = " ",
-						}, -- [163]
+						}, -- [145]
 						{
 							["arg1"] = " ",
-						}, -- [164]
+						}, -- [146]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 10/15/2018 at 22:50:58.",
-						}, -- [165]
+							["type"] = "SYSTEM",
+						}, -- [147]
 						{
 							["clColor"] = "fffff468",
 							["time"] = 1539636788,
 							["arg1"] = "|cff66bbff|Hjournal:0:1041:23|h[Kings' Rest]|h|r m0+ last sllot tank! ( got 4 leather in group) sum ready ",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Kazzer-DefiasBrotherhood",
-						}, -- [166]
+						}, -- [148]
 						{
 							["clColor"] = "fffff468",
 							["time"] = 1539636788,
 							["arg1"] = "|cff66bbff|Hjournal:0:1041:23|h[Kings' Rest]|h|r m0+ last sllot tank! ( got 4 leather in group) sum ready ",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Kazzer-DefiasBrotherhood",
-						}, -- [167]
+						}, -- [149]
 						{
 							["arg1"] = " ",
-						}, -- [168]
+						}, -- [150]
 						{
 							["arg1"] = " ",
-						}, -- [169]
+						}, -- [151]
 						{
+							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 10/17/2018 at 22:06:39.",
-							["type"] = "SYSTEM",
-						}, -- [170]
+						}, -- [152]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
-						}, -- [171]
+							["arg1"] = "You joined channel.",
+						}, -- [153]
 						{
 							["clColor"] = "ff0070dd",
 							["time"] = 1539808328,
 							["arg1"] = "WTS Uldir HC/Normal, M+ dungeons for weekly chest",
-							["arg2"] = "Vahiopa-Ravenholdt",
-							["arg9"] = "Trade - City",
 							["arg6"] = "DND",
-						}, -- [172]
+							["arg9"] = "Trade - City",
+							["arg2"] = "Vahiopa-Ravenholdt",
+						}, -- [154]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
-						}, -- [173]
+							["arg1"] = "You joined channel.",
+						}, -- [155]
 						{
 							["clColor"] = "fff48cba",
 							["time"] = 1539809132,
 							["arg1"] = "A guild forged by real life friends that's currently 8/8 HC and 2/8 Mythic. A guild tested by time and that has members with experience in all expansions and even vanilla. <Infinitus> is recruiting. Whisper me for more information about us! ",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Sún-DefiasBrotherhood",
-						}, -- [174]
+						}, -- [156]
 						{
 							["clColor"] = "ff00ff96",
 							["time"] = 1539809144,
 							["arg1"] = "<Cautious Noobz> is recruiting more dps and one healer for our mythic raid team. We raid tuesdays and thursdays 20:00-23:00. 8/8 HC progres! If you are good player and able to take a joke /w me. ",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Lynnewae-DefiasBrotherhood",
-						}, -- [175]
+						}, -- [157]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
-						}, -- [176]
+							["arg1"] = "You joined channel.",
+						}, -- [158]
 						{
 							["clColor"] = "fffff468",
 							["time"] = 1539812682,
 							["arg1"] = "its a portal now",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Gangey-DefiasBrotherhood",
-						}, -- [177]
+						}, -- [159]
 						{
 							["clColor"] = "fffff468",
 							["time"] = 1539812688,
 							["arg1"] = "same place where old zep on tower was",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Gangey-DefiasBrotherhood",
-						}, -- [178]
+						}, -- [160]
 						{
 							["clColor"] = "ffff7c0a",
 							["time"] = 1539812694,
 							["arg1"] = "Brill has been destroyd",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Jabbah-DefiasBrotherhood",
-						}, -- [179]
+						}, -- [161]
 						{
 							["clColor"] = "ff8787ed",
 							["time"] = 1539812697,
 							["arg1"] = "WTS |cffa335ee|Hitem:49286:::::::1360960768:120:265::::::|h[X-51 Nether-Rocket X-TREME]|h|r|cff0070dd|Hbattlepet:242:25:3:1319:305:289:0000000000000000|h[Spectral Tiger Cub]|h|r|cffa335ee|Hitem:163573::::::::120:265::::::|h[Goldenmane's Reins]|h|r",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Bloodleh-DefiasBrotherhood",
-						}, -- [180]
+						}, -- [162]
 						{
 							["clColor"] = "ffaad372",
 							["time"] = 1539812714,
 							["arg1"] = "it's gone, like the hordes moral compass",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Sheboné-DefiasBrotherhood",
-						}, -- [181]
+						}, -- [163]
 						{
 							["clColor"] = "ffff7c0a",
 							["time"] = 1539812735,
 							["arg1"] = "moral LUL",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Beesa-DefiasBrotherhood",
-						}, -- [182]
+						}, -- [164]
 						{
 							["clColor"] = "ff00ff96",
 							["time"] = 1539812739,
 							["arg1"] = "that's deep bro",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Turgug-DefiasBrotherhood",
-						}, -- [183]
+						}, -- [165]
 						{
 							["clColor"] = "ffaad372",
 							["time"] = 1539812750,
 							["arg1"] = "I  know ... i do apologise, i don't know what happened :D",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Sheboné-DefiasBrotherhood",
-						}, -- [184]
+						}, -- [166]
 						{
 							["clColor"] = "ffff7c0a",
 							["time"] = 1539812750,
 							["arg1"] = "no it's not",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Jabbah-DefiasBrotherhood",
-						}, -- [185]
+						}, -- [167]
 						{
 							["clColor"] = "ffffffff",
 							["time"] = 1539812761,
 							["arg1"] = "it's morally grey",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Irene",
-						}, -- [186]
+						}, -- [168]
 						{
 							["clColor"] = "ff00ff96",
 							["time"] = 1539812769,
 							["arg1"] = "u'r just to shallow to get it ",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Turgug-DefiasBrotherhood",
-						}, -- [187]
+						}, -- [169]
 						{
 							["clColor"] = "ffff7c0a",
 							["time"] = 1539812783,
 							["arg1"] = "go play my little pony or something",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Beesa-DefiasBrotherhood",
-						}, -- [188]
+						}, -- [170]
 						{
 							["clColor"] = "ff00ff96",
 							["time"] = 1539812796,
 							["arg1"] = "U have a pony? ",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Turgug-DefiasBrotherhood",
-						}, -- [189]
+						}, -- [171]
 						{
 							["clColor"] = "ff00ff96",
 							["time"] = 1539812798,
 							["arg1"] = "So cool",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Turgug-DefiasBrotherhood",
-						}, -- [190]
+						}, -- [172]
 						{
 							["clColor"] = "ff0070dd",
 							["time"] = 1539812813,
 							["arg1"] = "jebac nexosa maczetami",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Targug-DefiasBrotherhood",
-						}, -- [191]
+						}, -- [173]
 						{
 							["arg1"] = " ",
-						}, -- [192]
+						}, -- [174]
 						{
 							["arg1"] = " ",
-						}, -- [193]
+						}, -- [175]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 10/18/2018 at 15:56:09.",
-						}, -- [194]
+							["type"] = "SYSTEM",
+						}, -- [176]
 						{
 							["clColor"] = "ff8787ed",
 							["time"] = 1539871097,
 							["arg1"] = "The GALLYWIX Community || WTS G'huun HC kills every 20 minutes || Done by players from the TOP GUILDS such as Method || Every run is being streamed!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Adaylate-DefiasBrotherhood",
-						}, -- [195]
+						}, -- [177]
 						{
 							["arg1"] = " ",
-						}, -- [196]
+						}, -- [178]
 						{
 							["arg1"] = " ",
-						}, -- [197]
+						}, -- [179]
 						{
-							["arg1"] = "Logging started on 10/26/2018 at 12:56:45.",
 							["type"] = "SYSTEM",
-						}, -- [198]
+							["arg1"] = "Logging started on 10/26/2018 at 12:56:45.",
+						}, -- [180]
 						{
 							["clColor"] = "fffff468",
 							["time"] = 1540554368,
 							["arg1"] = "<Time Well Wasted> is recruiting a few more DPS for our Mythic team. We raid on Monday, Sunday, and Monday from 19:00 to 22:00 ST. If you're not an elitist but find HC a tad easy, then consider joining us. Your expertise will be appreciated.",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Chiasmata-DefiasBrotherhood",
-						}, -- [199]
+						}, -- [181]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
-						}, -- [200]
+							["arg1"] = "You joined channel.",
+						}, -- [182]
 						{
 							["clColor"] = "ffffffff",
 							["time"] = 1540555479,
 							["arg1"] = "I found mine next to the graveyard, but it's random in the garrison i think",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Emoglobina",
-						}, -- [201]
+						}, -- [183]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
-						}, -- [202]
+							["arg1"] = "You joined channel.",
+						}, -- [184]
 						{
 							["arg1"] = " ",
-						}, -- [203]
+						}, -- [185]
 						{
 							["arg1"] = " ",
-						}, -- [204]
+						}, -- [186]
 						{
+							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 10/27/2018 at 13:29:02.",
-							["type"] = "SYSTEM",
-						}, -- [205]
+						}, -- [187]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
-						}, -- [206]
+							["arg1"] = "You joined channel.",
+						}, -- [188]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
-						}, -- [207]
+							["arg1"] = "You joined channel.",
+						}, -- [189]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
-						}, -- [208]
+							["arg1"] = "You joined channel.",
+						}, -- [190]
 						{
 							["arg1"] = " ",
-						}, -- [209]
+						}, -- [191]
 						{
 							["arg1"] = " ",
-						}, -- [210]
+						}, -- [192]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 10/30/2018 at 15:54:48.",
-						}, -- [211]
-						{
 							["type"] = "SYSTEM",
+						}, -- [193]
+						{
 							["arg1"] = "You joined channel.",
-						}, -- [212]
+							["type"] = "SYSTEM",
+						}, -- [194]
 						{
 							["clColor"] = "ff0070dd",
 							["time"] = 1540912392,
 							["arg1"] = "WTS Uldir HC/Normal, M+ dungeons for weekly chest",
-							["arg6"] = "DND",
-							["arg9"] = "Trade - City",
 							["arg2"] = "Vahiopa-Ravenholdt",
-						}, -- [213]
+							["arg9"] = "Trade - City",
+							["arg6"] = "DND",
+						}, -- [195]
 						{
 							["clColor"] = "ffaad372",
 							["time"] = 1540912411,
 							["arg1"] = "WTS |cffa335ee|Hitem:163574::::::::120:253::::::|h[Chewed-On Reins of the Terrified Pack Mule]|h|r 200K",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Ethegrad-DefiasBrotherhood",
-						}, -- [214]
+						}, -- [196]
 						{
 							["clColor"] = "ff8787ed",
 							["time"] = 1540912416,
 							["arg1"] = "SELLING Uldir Heroic full clear for 299k gold. Also selling ghuun heroic for 149k gold. 50+ runs experienced group! Start at 18:00 cet tonight. /w me for info",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Marshmelka-DefiasBrotherhood",
-						}, -- [215]
+						}, -- [197]
 						{
 							["clColor"] = "fff48cba",
 							["time"] = 1540912426,
 							["arg1"] = "wts|cff0070dd|Hitem:154696::::::::120:65::13:1:3524:::|h[Embroidered Deep Sea Bag]|h|r",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Chastiser-DefiasBrotherhood",
-						}, -- [216]
+						}, -- [198]
 						{
 							["clColor"] = "ffaad372",
 							["time"] = 1540912432,
 							["arg1"] = "WTS |cffa335ee|Hitem:65891::::::::120:253::::::|h[Vial of the Sands]|h|r|cffa335ee|Hitem:95416::::::::120:253::1::::|h[Sky Golem]|h|r|cffa335ee|Hitem:41508::::::::120:253::::::|h[Mechano-Hog]|h|r|cff0070dd|Hitem:83089::::::::120:253::::::|h[Sunstone Panther]|h|r|cff0070dd|Hitem:83090::::::::120:253::1::::|h[Sapphire Panther]|h|r",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Bouser-DefiasBrotherhood",
-						}, -- [217]
+						}, -- [199]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
-						}, -- [218]
+							["type"] = "SYSTEM",
+						}, -- [200]
 						{
 							["clColor"] = "ffaad372",
 							["time"] = 1540914826,
 							["arg1"] = "WTS |cffa335ee|Hitem:65891::::::::120:253::::::|h[Vial of the Sands]|h|r|cffa335ee|Hitem:95416::::::::120:253::1::::|h[Sky Golem]|h|r|cffa335ee|Hitem:41508::::::::120:253::::::|h[Mechano-Hog]|h|r|cff0070dd|Hitem:83089::::::::120:253::::::|h[Sunstone Panther]|h|r|cff0070dd|Hitem:83090::::::::120:253::1::::|h[Sapphire Panther]|h|r",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Bouser-DefiasBrotherhood",
-						}, -- [219]
+						}, -- [201]
 						{
 							["clColor"] = "ff0070dd",
 							["time"] = 1540914837,
 							["arg1"] = "WTS Uldir HC/Normal, M+ dungeons for weekly chest",
-							["arg6"] = "DND",
-							["arg9"] = "Trade - City",
 							["arg2"] = "Vahiopa-Ravenholdt",
-						}, -- [220]
+							["arg9"] = "Trade - City",
+							["arg6"] = "DND",
+						}, -- [202]
 						{
 							["clColor"] = "ff3fc6ea",
 							["time"] = 1540914847,
 							["arg1"] = "WTS bfa greens",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Lingaliel-DefiasBrotherhood",
-						}, -- [221]
+						}, -- [203]
 						{
 							["clColor"] = "ff00ff96",
 							["time"] = 1540914851,
 							["arg1"] = "Zapraszamy do gildii \"The Ten Thousand\" Nasza gildia stworzona jest dla ambitnych – tych co z anielską cierpliwością i zarazem czarcią upartością dążą do celu jakim jest doskonalenie i dobra zabawa. Zapraszam wszystkich chetnych",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Rubinek-DefiasBrotherhood",
-						}, -- [222]
+						}, -- [204]
 						{
 							["arg1"] = " ",
-						}, -- [223]
+						}, -- [205]
 						{
 							["arg1"] = " ",
-						}, -- [224]
+						}, -- [206]
 						{
-							["arg1"] = "Logging started on 11/01/2018 at 08:52:29.",
 							["type"] = "SYSTEM",
-						}, -- [225]
+							["arg1"] = "Logging started on 11/01/2018 at 08:52:29.",
+						}, -- [207]
 						{
 							["clColor"] = "fff48cba",
 							["time"] = 1541061490,
 							["arg1"] = "LFM Taloc Mythic Defias, Raven, Scarshield, Venture, Spore! link me ach for inv and have 365+ gear for one shot fresh grp need everything!!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Zaknaphein-DefiasBrotherhood",
-						}, -- [226]
+						}, -- [208]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
-						}, -- [227]
+							["arg1"] = "You joined channel.",
+						}, -- [209]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
-						}, -- [228]
+							["arg1"] = "You joined channel.",
+						}, -- [210]
 						{
 							["clColor"] = "ff00ff96",
 							["time"] = 1541065542,
 							["arg1"] = "WTS Mythic dungeons for weekly chest, Uldir Heroic with players for loot",
-							["arg2"] = "Polerioa-Ravenholdt",
-							["arg9"] = "Trade - City",
 							["arg6"] = "DND",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Polerioa-Ravenholdt",
+						}, -- [211]
+						{
+							["arg1"] = " ",
+						}, -- [212]
+						{
+							["arg1"] = " ",
+						}, -- [213]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 06/30/2019 at 15:20:19.",
+						}, -- [214]
+						{
+							["clColor"] = "fffe7b09",
+							["time"] = 1561900916,
+							["arg1"] = "<CRAZED> is seeking players for AEP-progression, as well as teamers for higher keystones. Socials and free spirits are also welcome! /W for more information. We're a friendly and helpful bunch :)",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Stonetusk-DefiasBrotherhood",
+						}, -- [215]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [216]
+						{
+							["clColor"] = "fffe7b09",
+							["time"] = 1561901325,
+							["arg1"] = "<CRAZED> is seeking players for AEP-progression, as well as teamers for higher keystones. Socials and free spirits are also welcome! /W for more information. We're a friendly and helpful bunch :)",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Stonetusk-DefiasBrotherhood",
+						}, -- [217]
+						{
+							["clColor"] = "fffefefe",
+							["time"] = 1561901393,
+							["arg1"] = "<Worgen Cub Clubbing Club> is a social guild looking for more people to join us in Raids, Mythic+ and join in our social events, we will be doing a varitiy of content. anyone is welcome, come for the content stay for the clubbing. ",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Hawk-DefiasBrotherhood",
+						}, -- [218]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [219]
+						{
+							["clColor"] = "ffc31d39",
+							["time"] = 1561903375,
+							["arg1"] = "<Run Away Little Girl> is recruiting active players to push high content during Rise of Azshara. Raids (4/9M in S2), M+, RBG (1.8k in S2), Arenas. Also doing social events and we got a casual raid group on the side. /w me for info and recruit.",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Blueck-DefiasBrotherhood",
+						}, -- [220]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [221]
+						{
+							["clColor"] = "fffe7b09",
+							["time"] = 1561903430,
+							["arg1"] = "<CRAZED> is seeking players for AEP-progression, as well as teamers for higher keystones. Socials and free spirits are also welcome! /W for more information. We're a friendly and helpful bunch :)",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Stonetusk-DefiasBrotherhood",
+						}, -- [222]
+						{
+							["clColor"] = "fffe7b09",
+							["time"] = 1561903681,
+							["arg1"] = "WTB [Volatile Life] 20G each and [Chaos Crystal] 40G. C.O.D any amount.",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Nokee-TheVentureCo",
+						}, -- [223]
+						{
+							["clColor"] = "fffe7b09",
+							["time"] = 1561903683,
+							["arg1"] = "<CRAZED> is seeking players for AEP-progression, as well as teamers for higher keystones. Socials and free spirits are also welcome! /W for more information. We're a friendly and helpful bunch :)",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Stonetusk-DefiasBrotherhood",
+						}, -- [224]
+						{
+							["clColor"] = "fffe7b09",
+							["time"] = 1561903849,
+							["arg1"] = "<CRAZED> is seeking players for AEP-progression, as well as teamers for higher keystones. Socials and free spirits are also welcome! /W for more information. We're a friendly and helpful bunch :)",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Stonetusk-DefiasBrotherhood",
+						}, -- [225]
+						{
+							["clColor"] = "ff3ec5e9",
+							["time"] = 1561903857,
+							["arg1"] = "WTS COS HС + BOD HC and Mythic –a lot of loots; Mythic Dungeons 10+ for weekly chest; we will help to make BFA Glory mounts",
+							["arg6"] = "DND",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Dalokae-Ravenholdt",
+						}, -- [226]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [227]
+						{
+							["clColor"] = "ff8686ec",
+							["time"] = 1561905309,
+							["arg1"] = "IS there a addon that allows me to mark and copy the chat text that other people send?",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Withriver-DefiasBrotherhood",
+						}, -- [228]
+						{
+							["clColor"] = "ff8686ec",
+							["time"] = 1561905330,
+							["arg1"] = "For example a discod link",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Withriver-DefiasBrotherhood",
 						}, -- [229]
 						{
 							["arg1"] = " ",
@@ -16838,194 +16799,214 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [231]
 						{
-							["arg1"] = "Logging started on 06/30/2019 at 15:20:19.",
+							["arg1"] = "Logging started on 11/29/2020 at 13:23:00.",
 							["type"] = "SYSTEM",
 						}, -- [232]
 						{
-							["clColor"] = "fffe7b09",
-							["time"] = 1561900916,
-							["arg1"] = "<CRAZED> is seeking players for AEP-progression, as well as teamers for higher keystones. Socials and free spirits are also welcome! /W for more information. We're a friendly and helpful bunch :)",
+							["clColor"] = "ffc59a6c",
+							["time"] = 1606652681,
+							["arg1"] = "WTS |cffa335ee|Hitem:184788::::::::60:71:::4:6652:7194:1472:6646:1:28:1707:::|h[Kit Jin's Sultry Cinch]|h|r",
+							["arg2"] = "Aegnar-DefiasBrotherhood",
 							["arg9"] = "Trade - City",
-							["arg2"] = "Stonetusk-DefiasBrotherhood",
 						}, -- [233]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["clColor"] = "ffc59a6c",
+							["time"] = 1606652735,
+							["arg1"] = "WTS |cffa335ee|Hitem:184788::::::::60:71:::4:6652:7194:1472:6646:1:28:1707:::|h[Kit Jin's Sultry Cinch]|h|r",
+							["arg2"] = "Aegnar-DefiasBrotherhood",
+							["arg9"] = "Trade - City",
 						}, -- [234]
 						{
-							["clColor"] = "fffe7b09",
-							["time"] = 1561901325,
-							["arg1"] = "<CRAZED> is seeking players for AEP-progression, as well as teamers for higher keystones. Socials and free spirits are also welcome! /W for more information. We're a friendly and helpful bunch :)",
+							["clColor"] = "ffc59a6c",
+							["time"] = 1606652815,
+							["arg1"] = "WTS |cffa335ee|Hitem:184788::::::::60:71:::4:6652:7194:1472:6646:1:28:1707:::|h[Kit Jin's Sultry Cinch]|h|r",
+							["arg2"] = "Aegnar-DefiasBrotherhood",
 							["arg9"] = "Trade - City",
-							["arg2"] = "Stonetusk-DefiasBrotherhood",
 						}, -- [235]
 						{
-							["clColor"] = "fffefefe",
-							["time"] = 1561901393,
-							["arg1"] = "<Worgen Cub Clubbing Club> is a social guild looking for more people to join us in Raids, Mythic+ and join in our social events, we will be doing a varitiy of content. anyone is welcome, come for the content stay for the clubbing. ",
+							["clColor"] = "fffe7b09",
+							["time"] = 1606652818,
+							["arg1"] = "I am looking for 4 people who can sign the charter for the registration of guildia. 3000 gold for everyone who signs. Pm Im in Ogrimar",
+							["arg2"] = "Makgregor-EarthenRing",
 							["arg9"] = "Trade - City",
-							["arg2"] = "Hawk-DefiasBrotherhood",
 						}, -- [236]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["clColor"] = "ffc59a6c",
+							["time"] = 1606652821,
+							["arg1"] = "WTS |cffa335ee|Hitem:184802::::::::60:72::23:3:6652:1472:6646:1:28:749:::|h[Jenrette's Jagged Warglaive]|h|r BEST QUALITY ON THE MARKET",
+							["arg2"] = "Jareziah-DefiasBrotherhood",
+							["arg9"] = "Trade - City",
 						}, -- [237]
 						{
-							["clColor"] = "ffc31d39",
-							["time"] = 1561903375,
-							["arg1"] = "<Run Away Little Girl> is recruiting active players to push high content during Rise of Azshara. Raids (4/9M in S2), M+, RBG (1.8k in S2), Arenas. Also doing social events and we got a casual raid group on the side. /w me for info and recruit.",
+							["clColor"] = "fff38bb9",
+							["time"] = 1606652835,
+							["arg1"] = "WE'RE NOT HERE TO TAKE PART, WE'RE HERE TO TAKE OVAAAA",
+							["arg2"] = "Oatmilk-DefiasBrotherhood",
 							["arg9"] = "Trade - City",
-							["arg2"] = "Blueck-DefiasBrotherhood",
 						}, -- [238]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["clColor"] = "ffc59a6c",
+							["time"] = 1606652886,
+							["arg1"] = "WTS |cffa335ee|Hitem:184788::::::::60:71:::4:6652:7194:1472:6646:1:28:1707:::|h[Kit Jin's Sultry Cinch]|h|r",
+							["arg2"] = "Aegnar-DefiasBrotherhood",
+							["arg9"] = "Trade - City",
 						}, -- [239]
 						{
 							["clColor"] = "fffe7b09",
-							["time"] = 1561903430,
-							["arg1"] = "<CRAZED> is seeking players for AEP-progression, as well as teamers for higher keystones. Socials and free spirits are also welcome! /W for more information. We're a friendly and helpful bunch :)",
+							["time"] = 1606652913,
+							["arg1"] = "I am looking for 4 people who can sign the charter for the registration of guildia. 3000 gold for everyone who signs. Pm Im in Ogrimar",
+							["arg2"] = "Makgregor-EarthenRing",
 							["arg9"] = "Trade - City",
-							["arg2"] = "Stonetusk-DefiasBrotherhood",
 						}, -- [240]
 						{
-							["clColor"] = "fffe7b09",
-							["time"] = 1561903681,
-							["arg1"] = "WTB [Volatile Life] 20G each and [Chaos Crystal] 40G. C.O.D any amount.",
+							["clColor"] = "ffc59a6c",
+							["time"] = 1606652970,
+							["arg1"] = "WTS |cffa335ee|Hitem:184788::::::::60:71:::4:6652:7194:1472:6646:1:28:1707:::|h[Kit Jin's Sultry Cinch]|h|r",
+							["arg2"] = "Aegnar-DefiasBrotherhood",
 							["arg9"] = "Trade - City",
-							["arg2"] = "Nokee-TheVentureCo",
 						}, -- [241]
 						{
-							["clColor"] = "fffe7b09",
-							["time"] = 1561903683,
-							["arg1"] = "<CRAZED> is seeking players for AEP-progression, as well as teamers for higher keystones. Socials and free spirits are also welcome! /W for more information. We're a friendly and helpful bunch :)",
+							["clColor"] = "ff006fdc",
+							["time"] = 1606652987,
+							["arg1"] = "WTS |cffa335ee|Hitem:184783::::::::60:262::2:4:6652:7193:1472:6646:1:28:748:::|h[Muirnne's Stormforged Signet]|h|r",
+							["arg2"] = "Thojas-DefiasBrotherhood",
 							["arg9"] = "Trade - City",
-							["arg2"] = "Stonetusk-DefiasBrotherhood",
 						}, -- [242]
 						{
-							["clColor"] = "fffe7b09",
-							["time"] = 1561903849,
-							["arg1"] = "<CRAZED> is seeking players for AEP-progression, as well as teamers for higher keystones. Socials and free spirits are also welcome! /W for more information. We're a friendly and helpful bunch :)",
+							["clColor"] = "ff006fdc",
+							["time"] = 1606653019,
+							["arg1"] = "<Era of Insolence> are currently recruiting all PVPers. We are the biggest PVP guild on the realm and the most active with over 130 members. Need mage and lock for RBG team. /w me",
+							["arg2"] = "Flair-Sporeggar",
 							["arg9"] = "Trade - City",
-							["arg2"] = "Stonetusk-DefiasBrotherhood",
 						}, -- [243]
 						{
-							["clColor"] = "ff3ec5e9",
-							["time"] = 1561903857,
-							["arg1"] = "WTS COS HС + BOD HC and Mythic –a lot of loots; Mythic Dungeons 10+ for weekly chest; we will help to make BFA Glory mounts",
-							["arg2"] = "Dalokae-Ravenholdt",
+							["clColor"] = "fffe7b09",
+							["time"] = 1606653039,
+							["arg1"] = "I am looking for 4 people who can sign the charter for the registration of guildia. 3000 gold for everyone who signs. Pm Im in Ogrimar",
+							["arg2"] = "Makgregor-EarthenRing",
 							["arg9"] = "Trade - City",
-							["arg6"] = "DND",
 						}, -- [244]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["clColor"] = "ffc59a6c",
+							["time"] = 1606653088,
+							["arg1"] = "WTS |cffa335ee|Hitem:184788::::::::60:71:::4:6652:7194:1472:6646:1:28:1707:::|h[Kit Jin's Sultry Cinch]|h|r",
+							["arg2"] = "Aegnar-DefiasBrotherhood",
+							["arg9"] = "Trade - City",
 						}, -- [245]
 						{
-							["clColor"] = "ff8686ec",
-							["time"] = 1561905309,
-							["arg1"] = "IS there a addon that allows me to mark and copy the chat text that other people send?",
+							["clColor"] = "ff006fdc",
+							["time"] = 1606653144,
+							["arg1"] = "WTS |cffa335ee|Hitem:184783::::::::60:262::2:4:6652:7193:1472:6646:1:28:748:::|h[Muirnne's Stormforged Signet]|h|r Cheaper than AH",
+							["arg2"] = "Thojas-DefiasBrotherhood",
 							["arg9"] = "Trade - City",
-							["arg2"] = "Withriver-DefiasBrotherhood",
 						}, -- [246]
 						{
-							["clColor"] = "ff8686ec",
-							["time"] = 1561905330,
-							["arg1"] = "For example a discod link",
+							["clColor"] = "fffe7b09",
+							["time"] = 1606653144,
+							["arg1"] = "I am looking for 4 people who can sign the charter for the registration of guildia. 3000 gold for everyone who signs. Pm Im in Ogrimar",
+							["arg2"] = "Makgregor-EarthenRing",
 							["arg9"] = "Trade - City",
-							["arg2"] = "Withriver-DefiasBrotherhood",
 						}, -- [247]
 						{
-							["arg1"] = " ",
+							["clColor"] = "ffc59a6c",
+							["time"] = 1606653189,
+							["arg1"] = "WTS |cffa335ee|Hitem:184788::::::::60:71:::4:6652:7194:1472:6646:1:28:1707:::|h[Kit Jin's Sultry Cinch]|h|r",
+							["arg2"] = "Aegnar-DefiasBrotherhood",
+							["arg9"] = "Trade - City",
 						}, -- [248]
 						{
-							["arg1"] = " ",
+							["clColor"] = "fffe7b09",
+							["time"] = 1606653210,
+							["arg1"] = "I am looking for 4 people who can sign the charter for the registration of guildia. 3000 gold for everyone who signs. Pm Im in Ogrimar",
+							["arg2"] = "Makgregor-EarthenRing",
+							["arg9"] = "Trade - City",
 						}, -- [249]
 						{
-							["arg1"] = "Logging started on 11/20/2019 at 09:39:06.",
-							["type"] = "SYSTEM",
+							["clColor"] = "ff006fdc",
+							["time"] = 1606653328,
+							["arg1"] = "Gildia <Tortuga> zaprasza w swoje szeregi. Stawiamy na luzna atmosfere i spokojne granie - robimy dungi, glorki,  areny, rajdy. Organizujemy konkursy i stale wydarzenia. Po inv kliknij: |cffffd100|HclubFinder:ClubFinder-1-7669-1096-61936505|h[Guild: Tortuga]|h|r",
+							["arg2"] = "Seahoof-TheVentureCo",
+							["arg9"] = "Trade - City",
 						}, -- [250]
 					},
 				},
 				["localdefense"] = {
 					["enabled"] = true,
-					["hasMessage"] = false,
+					["hasMessage"] = true,
 					["name"] = "Local defense",
 					["logs"] = {
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [1]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [2]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [3]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [4]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [5]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [6]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [7]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [8]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [9]
 						{
 							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 09/30/2018 at 19:30:23.",
 						}, -- [10]
 						{
 							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
 						}, -- [11]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [12]
 						{
-							["arg1"] = " ",
+							["arg9"] = "LocalDefense - Zuldazar",
+							["time"] = 1538329048,
+							["arg1"] = "|cffffff00Port of Zandalar is under attack!|r",
 						}, -- [13]
 						{
-							["arg1"] = "Logging started on 09/30/2018 at 19:30:23.",
-							["type"] = "SYSTEM",
+							["arg9"] = "LocalDefense - Zuldazar",
+							["time"] = 1538329192,
+							["arg1"] = "|cffffff00Grand Bazaar is under attack!|r",
 						}, -- [14]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [15]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [16]
 						{
-							["time"] = 1538329048,
-							["arg9"] = "LocalDefense - Zuldazar",
-							["arg1"] = "|cffffff00Port of Zandalar is under attack!|r",
+							["arg1"] = " ",
 						}, -- [17]
 						{
-							["time"] = 1538329192,
-							["arg9"] = "LocalDefense - Zuldazar",
-							["arg1"] = "|cffffff00Grand Bazaar is under attack!|r",
+							["arg1"] = " ",
 						}, -- [18]
 						{
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 10/01/2018 at 15:39:04.",
 							["type"] = "SYSTEM",
 						}, -- [19]
 						{
@@ -17033,127 +17014,127 @@ ElephantDBPerChar = {
 							["type"] = "SYSTEM",
 						}, -- [20]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [21]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [22]
 						{
+							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 10/01/2018 at 15:39:04.",
 						}, -- [23]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [24]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [25]
 						{
 							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 10/02/2018 at 22:07:58.",
 						}, -- [26]
 						{
 							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
 						}, -- [27]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [28]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [29]
 						{
-							["arg1"] = "Logging started on 10/02/2018 at 22:07:58.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [30]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg9"] = "LocalDefense - Zuldazar",
+							["time"] = 1538513276,
+							["arg1"] = "|cffffff00The Sliver is under attack!|r",
 						}, -- [31]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [32]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [33]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 10/06/2018 at 09:31:40.",
 						}, -- [34]
 						{
-							["time"] = 1538513276,
 							["arg9"] = "LocalDefense - Zuldazar",
-							["arg1"] = "|cffffff00The Sliver is under attack!|r",
+							["time"] = 1538811437,
+							["arg1"] = "|cffffff00Xibala is under attack!|r",
 						}, -- [35]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [36]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [37]
 						{
-							["arg1"] = "Logging started on 10/06/2018 at 09:31:40.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [38]
 						{
-							["time"] = 1538811437,
-							["arg9"] = "LocalDefense - Zuldazar",
-							["arg1"] = "|cffffff00Xibala is under attack!|r",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [39]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [40]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [41]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [42]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [43]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [44]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [45]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [46]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [47]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [48]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [49]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [50]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [51]
 						{
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 10/13/2018 at 09:03:50.",
 							["type"] = "SYSTEM",
 						}, -- [52]
 						{
@@ -17161,136 +17142,136 @@ ElephantDBPerChar = {
 							["type"] = "SYSTEM",
 						}, -- [53]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [54]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [55]
 						{
+							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 10/13/2018 at 09:03:50.",
 						}, -- [56]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [57]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [58]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [59]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [60]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [61]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [62]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [63]
 						{
 							["clColor"] = "ffa330c9",
 							["time"] = 1539416156,
 							["arg1"] = "ah gutripper balances it out",
 							["arg9"] = "LocalDefense - Vol'dun",
 							["arg2"] = "Dro-ScarshieldLegion",
-						}, -- [64]
+						}, -- [60]
 						{
 							["clColor"] = "ffa330c9",
 							["time"] = 1539416162,
 							["arg1"] = "100 dps lost, 100 dps gained",
 							["arg9"] = "LocalDefense - Vol'dun",
 							["arg2"] = "Dro-ScarshieldLegion",
-						}, -- [65]
+						}, -- [61]
 						{
 							["clColor"] = "ffa330c9",
 							["time"] = 1539416190,
 							["arg1"] = "damn ahrd to get the blade dance traits",
 							["arg9"] = "LocalDefense - Vol'dun",
 							["arg2"] = "Êon-Ravenholdt",
-						}, -- [66]
+						}, -- [62]
 						{
 							["clColor"] = "ffa330c9",
 							["time"] = 1539416203,
 							["arg1"] = "they nerfed it a little though",
 							["arg9"] = "LocalDefense - Vol'dun",
 							["arg2"] = "Dro-ScarshieldLegion",
+						}, -- [63]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [64]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [65]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [66]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [67]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [68]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [69]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [70]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [71]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [72]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [73]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [74]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [75]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [76]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [77]
 						{
 							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 10/13/2018 at 10:54:59.",
 						}, -- [78]
 						{
 							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
 						}, -- [79]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [80]
 						{
 							["arg1"] = " ",
 						}, -- [81]
 						{
-							["arg1"] = "Logging started on 10/13/2018 at 10:54:59.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [82]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 10/14/2018 at 10:33:40.",
 						}, -- [83]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [84]
 						{
 							["arg1"] = " ",
@@ -17299,7 +17280,7 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [86]
 						{
-							["arg1"] = "Logging started on 10/14/2018 at 10:33:40.",
+							["arg1"] = "Logging started on 10/14/2018 at 10:50:53.",
 							["type"] = "SYSTEM",
 						}, -- [87]
 						{
@@ -17307,55 +17288,55 @@ ElephantDBPerChar = {
 							["type"] = "SYSTEM",
 						}, -- [88]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [89]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [90]
 						{
+							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 10/14/2018 at 10:50:53.",
 						}, -- [91]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [92]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [93]
 						{
 							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 10/14/2018 at 11:55:36.",
 						}, -- [94]
 						{
 							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
 						}, -- [95]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [96]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [97]
 						{
-							["arg1"] = "Logging started on 10/14/2018 at 11:55:36.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [98]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [99]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [100]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [101]
 						{
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 10/15/2018 at 22:50:58.",
 							["type"] = "SYSTEM",
 						}, -- [102]
 						{
@@ -17363,91 +17344,91 @@ ElephantDBPerChar = {
 							["type"] = "SYSTEM",
 						}, -- [103]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [104]
 						{
 							["arg1"] = " ",
 						}, -- [105]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 10/15/2018 at 22:50:58.",
+							["arg1"] = " ",
 						}, -- [106]
 						{
 							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 10/17/2018 at 22:06:39.",
 						}, -- [107]
 						{
 							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
 						}, -- [108]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [109]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [110]
 						{
-							["arg1"] = "Logging started on 10/17/2018 at 22:06:39.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [111]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [112]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [113]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [114]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [115]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [116]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [117]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [118]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [119]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [120]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [121]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [122]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [123]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [124]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [125]
 						{
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 10/18/2018 at 15:56:09.",
 							["type"] = "SYSTEM",
 						}, -- [126]
 						{
@@ -17462,154 +17443,154 @@ ElephantDBPerChar = {
 						}, -- [129]
 						{
 							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 10/18/2018 at 15:56:09.",
+							["arg1"] = "Logging started on 10/26/2018 at 12:56:45.",
 						}, -- [130]
 						{
 							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
 						}, -- [131]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [132]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [133]
 						{
-							["arg1"] = "Logging started on 10/26/2018 at 12:56:45.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [134]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [135]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [136]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [137]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [138]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [139]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [140]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [141]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [142]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [143]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [144]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [145]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [146]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [147]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 10/27/2018 at 13:29:02.",
 						}, -- [148]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [149]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [150]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [151]
 						{
-							["arg1"] = "Logging started on 10/27/2018 at 13:29:02.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [152]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [153]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [154]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [155]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [156]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [157]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [158]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [159]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [160]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [161]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [162]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [163]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [164]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [165]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [166]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [167]
 						{
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 10/28/2018 at 16:43:44.",
 							["type"] = "SYSTEM",
 						}, -- [168]
 						{
@@ -17623,145 +17604,145 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [171]
 						{
+							["arg1"] = "Logging started on 10/30/2018 at 15:54:48.",
 							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 10/28/2018 at 16:43:44.",
 						}, -- [172]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [173]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [174]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [175]
 						{
+							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 10/30/2018 at 15:54:48.",
 						}, -- [176]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [177]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [178]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [179]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [180]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["time"] = 1540915001,
+							["arg9"] = "LocalDefense - Stormsong Valley",
+							["arg1"] = "|cffffff00Seekers' Vista is under attack!|r",
 						}, -- [181]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["time"] = 1540915257,
+							["arg9"] = "LocalDefense - Stormsong Valley",
+							["arg1"] = "|cffffff00Seekers' Vista is under attack!|r",
 						}, -- [182]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [183]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [184]
 						{
-							["arg9"] = "LocalDefense - Stormsong Valley",
-							["time"] = 1540915001,
-							["arg1"] = "|cffffff00Seekers' Vista is under attack!|r",
+							["arg1"] = " ",
 						}, -- [185]
 						{
-							["arg9"] = "LocalDefense - Stormsong Valley",
-							["time"] = 1540915257,
-							["arg1"] = "|cffffff00Seekers' Vista is under attack!|r",
+							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 11/01/2018 at 08:52:29.",
 						}, -- [186]
 						{
 							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
 						}, -- [187]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [188]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [189]
 						{
-							["arg1"] = "Logging started on 11/01/2018 at 08:52:29.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [190]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [191]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [192]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [193]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [194]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [195]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [196]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [197]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [198]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [199]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [200]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [201]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [202]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [203]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [204]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [205]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [206]
 						{
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 11/01/2018 at 10:48:24.",
 							["type"] = "SYSTEM",
 						}, -- [207]
 						{
@@ -17769,138 +17750,138 @@ ElephantDBPerChar = {
 							["type"] = "SYSTEM",
 						}, -- [208]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [209]
 						{
 							["arg1"] = " ",
 						}, -- [210]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 11/01/2018 at 10:48:24.",
+							["arg1"] = " ",
 						}, -- [211]
 						{
 							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 06/30/2019 at 15:20:19.",
 						}, -- [212]
 						{
 							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
 						}, -- [213]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [214]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [215]
 						{
-							["arg1"] = "Logging started on 06/30/2019 at 15:20:19.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [216]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [217]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [218]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [219]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [220]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [221]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [222]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [223]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [224]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [225]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg9"] = "LocalDefense - Nazjatar",
+							["time"] = 1561904755,
+							["arg1"] = "|cffffff00Ekka's Hideaway is under attack!|r",
 						}, -- [226]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg9"] = "LocalDefense - Nazjatar",
+							["time"] = 1561905147,
+							["arg1"] = "|cffffff00Newhome is under attack!|r",
 						}, -- [227]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg9"] = "LocalDefense - Nazjatar",
+							["time"] = 1561905213,
+							["arg1"] = "|cffffff00Newhome is under attack!|r",
 						}, -- [228]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [229]
 						{
-							["time"] = 1561904755,
-							["arg9"] = "LocalDefense - Nazjatar",
-							["arg1"] = "|cffffff00Ekka's Hideaway is under attack!|r",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [230]
 						{
-							["time"] = 1561905147,
-							["arg9"] = "LocalDefense - Nazjatar",
-							["arg1"] = "|cffffff00Newhome is under attack!|r",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [231]
 						{
-							["time"] = 1561905213,
-							["arg9"] = "LocalDefense - Nazjatar",
-							["arg1"] = "|cffffff00Newhome is under attack!|r",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [232]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [233]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [234]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [235]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [236]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [237]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [238]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [239]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [240]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [241]
 						{
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 08/04/2019 at 14:56:08.",
 							["type"] = "SYSTEM",
 						}, -- [242]
 						{
@@ -17914,21 +17895,23 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [245]
 						{
+							["arg1"] = "Logging started on 11/29/2020 at 13:23:00.",
 							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 08/04/2019 at 14:56:08.",
 						}, -- [246]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [247]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [248]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [249]
 						{
-							["arg1"] = "Logging started on 11/20/2019 at 09:39:06.",
+							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
 						}, -- [250]
 					},
@@ -17938,7 +17921,7 @@ ElephantDBPerChar = {
 					["name"] = "Looking for group",
 					["logs"] = {
 						{
-							["arg1"] = "Logging started on 11/20/2019 at 09:39:06.",
+							["arg1"] = "Logging started on 11/29/2020 at 13:23:00.",
 							["type"] = "SYSTEM",
 						}, -- [1]
 					},
@@ -17949,12 +17932,12 @@ ElephantDBPerChar = {
 					["name"] = "LFGShout",
 					["logs"] = {
 						{
-							["arg1"] = "Logging started on 06/30/2019 at 15:21:32.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 06/30/2019 at 15:21:32.",
 						}, -- [1]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [2]
 						{
 							["arg1"] = " ",
@@ -17963,12 +17946,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [4]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 08/04/2019 at 14:56:08.",
+							["type"] = "SYSTEM",
 						}, -- [5]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [6]
 						{
 							["arg1"] = " ",
@@ -17977,13 +17960,27 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [8]
 						{
-							["arg1"] = "Logging started on 11/20/2019 at 09:39:06.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 11/20/2019 at 09:39:06.",
 						}, -- [9]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [10]
+						{
+							["arg1"] = " ",
+						}, -- [11]
+						{
+							["arg1"] = " ",
+						}, -- [12]
+						{
+							["arg1"] = "Logging started on 11/29/2020 at 13:23:00.",
+							["type"] = "SYSTEM",
+						}, -- [13]
 						{
 							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
-						}, -- [10]
+						}, -- [14]
 					},
 				},
 			},

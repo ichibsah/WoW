@@ -1,63 +1,27 @@
 
 GSEOptions = {
-	["HideLoginMessage"] = false,
 	["use2"] = false,
-	["STANDARDFUNCS"] = "|cff55ddcc",
 	["showGSEUsers"] = false,
 	["UnfoundSpellIDs"] = {
 	},
-	["COMMENT"] = "|cff55cc55",
-	["use14"] = false,
-	["Update2305"] = true,
-	["EQUALS"] = "|cffccddee",
-	["use11"] = false,
-	["sendDebugOutputToChatWindow"] = false,
 	["Updated801"] = true,
-	["CreateGlobalButtons"] = false,
-	["debug"] = false,
-	["overflowPersonalMacros"] = false,
+	["filterList"] = {
+		["Spec"] = true,
+		["Class"] = true,
+		["Global"] = true,
+		["All"] = false,
+	},
+	["use11"] = false,
+	["Update2305"] = true,
 	["use6"] = false,
 	["CommandColour"] = "|cFF00FF00",
-	["autoCreateMacroStubsClass"] = true,
-	["UNKNOWN"] = "|cffff6666",
-	["UseWLMExportFormat"] = true,
-	["DefaultImportAction"] = "MERGE",
-	["DisabledSequences"] = {
-	},
-	["showGSEoocqueue"] = true,
-	["DebugPrintModConditionsOnKeyPress"] = false,
-	["sendDebugOutputToDebugOutput"] = false,
 	["hideSoundErrors"] = false,
-	["ErroneousSpellID"] = {
-	},
-	["AddInPacks"] = {
-		["Samples"] = {
-			["Name"] = "Samples",
-			["Version"] = "2402",
-			["SequenceNames"] = {
-				"Assorted Sample Macros", -- [1]
-			},
-		},
-	},
-	["STRING"] = "|cff888888",
+	["Update2410"] = true,
 	["clearUIErrors"] = false,
-	["DefaultDisabledMacroIcon"] = "Interface\\Icons\\INV_MISC_BOOK_08",
-	["resetOOC"] = true,
-	["TitleColour"] = "|cFFFF0000",
-	["hideUIErrors"] = false,
+	["Update2411"] = true,
+	["useTranslator"] = false,
 	["initialised"] = true,
-	["autoCreateMacroStubsGlobal"] = false,
-	["DebugModules"] = {
-		["Translator"] = false,
-		["GUI"] = false,
-		["Storage"] = false,
-		["Versions"] = false,
-		["Editor"] = false,
-		["API"] = false,
-		["Viewer"] = false,
-		["Transmission"] = false,
-	},
-	["INDENT"] = "|cffccaa88",
+	["resetOOC"] = true,
 	["MacroResetModifiers"] = {
 		["Alt"] = false,
 		["LeftControl"] = false,
@@ -65,47 +29,120 @@ GSEOptions = {
 		["LeftAlt"] = false,
 		["RighttButton"] = false,
 		["RightAlt"] = false,
-		["AnyMod"] = false,
-		["Button5"] = false,
-		["Shift"] = false,
 		["RightShift"] = false,
-		["Control"] = false,
+		["Button5"] = false,
+		["AnyMod"] = false,
 		["RightControl"] = false,
+		["Control"] = false,
+		["Shift"] = false,
 		["LeftShift"] = false,
 		["Button4"] = false,
 		["MiddleButton"] = false,
 	},
-	["filterList"] = {
-		["All"] = false,
-		["Spec"] = true,
-		["Global"] = true,
-		["Class"] = true,
-	},
 	["EmphasisColour"] = "|cFFFFFF00",
-	["UseVerboseExportFormat"] = false,
 	["WOWSHORTCUTS"] = "|cffddaaff",
-	["RealtimeParse"] = false,
 	["deleteOrphansOnLogout"] = false,
+	["showMiniMap"] = {
+		["hide"] = true,
+	},
+	["DefaultDisabledMacroIcon"] = "Interface\\Icons\\INV_MISC_BOOK_08",
+	["use13"] = false,
+	["UseWLMExportFormat"] = true,
+	["use1"] = false,
+	["HideLoginMessage"] = false,
+	["DebugPrintModConditionsOnKeyPress"] = false,
+	["use14"] = false,
+	["EQUALS"] = "|cffccddee",
+	["NUMBER"] = "|cffffaa00",
+	["sendDebugOutputToChatWindow"] = false,
+	["DisabledSequences"] = {
+	},
+	["sendDebugOutputToDebugOutput"] = false,
+	["Update2601"] = true,
+	["ErroneousSpellID"] = {
+	},
+	["Update2415"] = true,
+	["STRING"] = "|cff888888",
+	["editorWidth"] = 500,
+	["editorHeight"] = 700,
+	["DefaultImportAction"] = "MERGE",
+	["TitleColour"] = "|cFFFF0000",
+	["PromptSample"] = true,
+	["CreateGlobalButtons"] = false,
+	["STANDARDFUNCS"] = "|cff55ddcc",
+	["DebugModules"] = {
+		["Translator"] = false,
+		["GUI"] = false,
+		["Storage"] = false,
+		["Editor"] = false,
+		["Versions"] = false,
+		["API"] = false,
+		["Viewer"] = false,
+		["Transmission"] = false,
+	},
+	["INDENT"] = "|cffccaa88",
+	["COMMENT"] = "|cff55cc55",
+	["autoCreateMacroStubsGlobal"] = false,
+	["autoCreateMacroStubsClass"] = true,
+	["UseVerboseExportFormat"] = false,
+	["AddInPacks"] = {
+		["Samples"] = {
+			["Name"] = "Samples",
+			["Version"] = "2.6.31",
+			["SequenceNames"] = {
+				"Assorted Sample Macros", -- [1]
+			},
+		},
+	},
+	["RealtimeParse"] = false,
 	["ActiveSequenceVersions"] = {
 	},
+	["CONCAT"] = "|cffcc7777",
 	["UnfoundSpells"] = {
+		["Force of Nature"] = true,
+		["Fury of Elune"] = true,
+		["null"] = true,
 	},
 	["AuthorColour"] = "|cFF00D1FF",
-	["requireTarget"] = false,
-	["useTranslator"] = false,
-	["NUMBER"] = "|cffffaa00",
+	["debug"] = false,
+	["UNKNOWN"] = "|cffff6666",
+	["showGSEoocqueue"] = true,
 	["use12"] = false,
-	["use13"] = false,
+	["overflowPersonalMacros"] = false,
 	["NormalColour"] = "|cFFFFFFFF",
-	["CONCAT"] = "|cffcc7777",
+	["requireTarget"] = false,
 	["saveAllMacrosLocal"] = true,
 	["setDefaultIconQuestionMark"] = true,
+	["hideUIErrors"] = false,
 	["KEYWORD"] = "|cff88bbdd",
-	["use1"] = false,
 }
-GSELibrary = {
-	[11] = {
-	},
+GSELibrary = nil
+GSEStorage = {
+	{
+	}, -- [1]
+	{
+	}, -- [2]
+	{
+	}, -- [3]
+	{
+	}, -- [4]
+	{
+	}, -- [5]
+	{
+	}, -- [6]
+	{
+	}, -- [7]
+	{
+	}, -- [8]
+	{
+	}, -- [9]
+	{
+	}, -- [10]
+	{
+		["SAM_LUTECHI_BALANCE_AIO"] = "dOemgaqiqr1POsOzb4wkvTlqH6xQsddv5ye1YqYZGOPPQCnQeTni03iIXHQ6CivRdsEhsX9av5FGcAGuPYbbIfkj0drknrQeCrG0gLe8rqrmsjrNusvRKkv9sqjMPKk3ec2ji(jOinuqvTuQK8uQAQa1vbfYwPsXxbfL3IkUlQ0EL6Vuj1GfDyvwSQ4XkzYqQltAZskFwv1OvkNMWRbvmBuUnvSBf)gQHtKoovkTCjEoIPt56G02bL03bLA8kvoVK06bfy(GkTFHB5gCdrU9EqqW11bJadkTvwVRRii1bceAb11GupmTHq1GBFLktktmWP9BMjLG69f2yyZoyqvNBvWey8c78AVmOMU2e7PVN3(NJDZs37CRcE)Xy7fZE8OVYiYNpY2d(y6yK2dYunsWhthR9Ga12WL2xhutxBc3bg2cBT1EyIhu3OfIapneke5j3EeUb6XQFmTaR6yc80pT3f0AhuM1qKBpc3QGDJwic8qAWne5gCdrU9VRJye1Tq1zPrYXbJg1YkmGf255maDNGyeUrktxMhYpAIKZGxB3mktm)a6obXia2X0XqH4lsUrwuIAWZUYVArgPe(ik5disj8ruYhqKu8Oq(jbis(0PKbIKoYpEu0ejNbV2UzuMy(b0DcIr4gzrjQbp7k)QfzKs4JOKpGiLWhrjFarYNoLmqK0r(XJQHq1(31rSi5m412nJYeZpGUtqmcWc78CgGdgnQJzCJuM(NSlrstKCg8A7MrzI5hq3jigbyHDEodyWoy0OoMXnsz68OZ)RHGS9VRJyrYzWRTBgLjMFaDNGyeGf255ma7y6yOK8sXnYkaTunsCTibLbDuAIKZGxB3mktm)a6obXialSZZza2X0Xqj5fj3iPK8rXxUH81(31rSi5m412nJYeZpGUtqmcWc78CgGDmDmuYVibCNu2vvlCJSc4YsJexlsiNbTOTVomwADchH1(2dUig4OMC)0(k1dD)0Ei6co9t7ROYS(P9Usm)Y9t7HfTk8lkH0GBiYT)1UYVA6OovJKZG3UId3gcv7FxhXIKZGRHloO(4gj1hFxYNMi54GrJISjQzCJuM(hffYgcY2)UoIru3cvNLgjNbV2UzuMy(b0DcIraSJPJHcXxKCJSOe1GNDLF1ImskEui)KaejF6uYarsh5hpkGihOmgnrYzWRTBgLjMFaDNGyeUrwuIAWZUYVArgjF6uYarsh5hpkGihOmwBT3BQ0kaDwMapTh(fbUiSQThw0QUsz6r0gCdrU9VRJyrYXbJg1Xma7y6yOKFP4gjfpQpkx2w7bxedCuJQFAp8XedHBvWn42AVReZpv)0E4xueUvb3GBR90IDEoRFART27MRiUhMsAWT1EVuDvVl0qK5r1(kvM02JagnkqywK7JSsmdDKWEtW0ibDXesjAKs3oIcezrz6r0inCKhZ0YCMgjOlMqkrJu62r0iVbDKWSRue4sK4Arckd6OrkQfj4JPJPOJeUWnseWOrrRvyrUpsVDLAhJfjiyqJeUWnseWOr53e1Si3hjTktjM4yrcct8po6yrIlrw)SUYCMaprkQfj4JPJPOd3tBrptr7ozE8CiH7R8Gvns3cvjMapKiXLijq))vIjWdbggP7H6ins8ePt1ijwrpNiVbDKKRAKBcyEK04ITh0PgUSuAXosp7EemHvTRyBT1na",
+	}, -- [11]
+	{
+	}, -- [12]
 	[0] = {
 	},
 }

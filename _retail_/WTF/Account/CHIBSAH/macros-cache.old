@@ -97,7 +97,7 @@ VER 3 0000000000000028 "CollectMeRT" "INV_PET_SCORCHEDSTONE"
 END
 VER 3 000000000000001F "Decursive" "INV_MISC_QUESTIONMARK"
 /stopcasting
-/cast [@mouseover,nomod,exists] Remove Corruption;  [@mouseover,exists,mod:ctrl] Cyclone; [@mouseover,exists,mod:shift] Remove Corruption
+/cast [@mouseover,nomod,exists] Purify Disease;  [@mouseover,exists,mod:ctrl] Dispel Magic; [@mouseover,exists,mod:shift] Purify Disease
 END
 VER 3 0000000000000003 "Disarm" "Ability_Warrior_Disarm"
 /cast Defensive Stance 
@@ -124,12 +124,6 @@ END
 VER 3 000000000000002E "guild repair" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /ar guildonly
-END
-VER 3 000000000000005F "hbCrashProt_0" "Spell_Holy_SealOfSacrifice"
-1:H:1:1:Self:
-END
-VER 3 000000000000005E "hbCrashProt_1" "Spell_Holy_SealOfSacrifice"
-Mengs:p:ayer-1096-047ECD26:1:
 END
 VER 3 000000000000002F "Heal Pet and I" "461117"
 /cast Exhilaration
@@ -181,18 +175,18 @@ END
 VER 3 000000000000001D "SNOBOLD" "INV_Misc_QuestionMark"
 /Yell SNOBOLD ON ME
 END
-VER 3 0000000000000033 "SunMoon" "236216"
-/Moonfire
-/Sunfire
+VER 3 0000000000000035 "SunMoon" "236216"
+/cast Moonfire(Lunar)
+/cast Sunfire(Solar)
 END
 VER 3 0000000000000034 "SunMoon" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /targetenemy [noexists][dead][noharm]
 /castsequence reset=target/combat Moonfire(Lunar),Sunfire(Solar)
 END
-VER 3 0000000000000035 "SunMoon" "236216"
-/cast Moonfire(Lunar)
-/cast Sunfire(Solar)
+VER 3 0000000000000033 "SunMoon" "236216"
+/Moonfire
+/Sunfire
 END
 VER 3 000000000000001A "test" "INV_Misc_QuestionMark"
 #showtooltip

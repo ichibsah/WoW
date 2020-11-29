@@ -1,15 +1,23 @@
 
 VendorDb = {
 	["profileKeys"] = {
+		["Bazza - Sporeggar"] = "Default",
 		["Daliya - Sporeggar"] = "Default",
 	},
 	["currentProfile"] = {
+		["Bazza - Sporeggar"] = "Default",
 		["Daliya - Sporeggar"] = "Default",
 	},
 	["namespaces"] = {
 		["Disenchant"] = {
 		},
 		["Scanner2"] = {
+			["factionrealm"] = {
+				["Alliance - Sporeggar"] = {
+					["oldSnipesMigrated"] = true,
+					["version"] = 8,
+				},
+			},
 			["profiles"] = {
 				["Default"] = {
 					["version"] = 8,
@@ -17,12 +25,6 @@ VendorDb = {
 			},
 			["realm"] = {
 				["Sporeggar"] = {
-					["version"] = 8,
-				},
-			},
-			["factionrealm"] = {
-				["Alliance - Sporeggar"] = {
-					["oldSnipesMigrated"] = true,
 					["version"] = 8,
 				},
 			},
@@ -63,6 +65,26 @@ VendorDb = {
 				},
 			},
 		},
+		["Items"] = {
+			["realms"] = {
+				["Sporeggar - Alliance"] = {
+				},
+			},
+			["servers"] = {
+				["Sporeggar"] = {
+				},
+			},
+			["factionrealm"] = {
+				["Alliance - Sporeggar"] = {
+					["version"] = 6,
+				},
+			},
+			["realm"] = {
+				["Sporeggar"] = {
+					["version"] = 6,
+				},
+			},
+		},
 		["OwnAuctions"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -93,22 +115,6 @@ VendorDb = {
 				},
 			},
 		},
-		["Sniper"] = {
-			["profiles"] = {
-				["Default"] = {
-					["version"] = 3,
-				},
-			},
-			["realms"] = {
-				["Sporeggar - Alliance"] = {
-				},
-			},
-			["factionrealm"] = {
-				["Alliance - Sporeggar"] = {
-					["version"] = 3,
-				},
-			},
-		},
 		["ItemSettings"] = {
 			["realm"] = {
 				["Sporeggar"] = {
@@ -121,23 +127,19 @@ VendorDb = {
 				},
 			},
 		},
-		["Items"] = {
-			["servers"] = {
-				["Sporeggar"] = {
+		["Sniper"] = {
+			["factionrealm"] = {
+				["Alliance - Sporeggar"] = {
+					["version"] = 3,
 				},
 			},
-			["realm"] = {
-				["Sporeggar"] = {
-					["version"] = 6,
+			["profiles"] = {
+				["Default"] = {
+					["version"] = 3,
 				},
 			},
 			["realms"] = {
 				["Sporeggar - Alliance"] = {
-				},
-			},
-			["factionrealm"] = {
-				["Alliance - Sporeggar"] = {
-					["version"] = 6,
 				},
 			},
 		},

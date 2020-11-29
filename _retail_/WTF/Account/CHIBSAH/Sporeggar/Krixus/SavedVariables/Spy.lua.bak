@@ -1,5 +1,10 @@
 
 SpyPerCharDB = {
+	["KOSData"] = {
+		["Ohoh-DefiasBrotherhood"] = 1533647698,
+	},
+	["IgnoreData"] = {
+	},
 	["PlayerData"] = {
 		["Irmgol-Ravenholdt"] = {
 			["guild"] = "The Forlorn Order",
@@ -7,28 +12,28 @@ SpyPerCharDB = {
 			["mapY"] = 0.74,
 			["class"] = "HUNTER",
 			["isEnemy"] = true,
-			["loses"] = 1,
+			["time"] = 1534669305,
 			["mapX"] = 0.3,
 			["isGuess"] = false,
-			["race"] = "Orc",
+			["name"] = "Irmgol-Ravenholdt",
 			["subZone"] = "The Cracked Coast",
 			["level"] = 120,
-			["name"] = "Irmgol-Ravenholdt",
-			["time"] = 1534669305,
+			["race"] = "Orc",
+			["loses"] = 1,
 		},
 		["Brd-DefiasBrotherhood"] = {
 			["zone"] = "Stormsong Valley",
 			["mapY"] = 0.79,
 			["class"] = "PRIEST",
 			["isEnemy"] = true,
-			["loses"] = 1,
+			["isGuess"] = false,
 			["mapX"] = 0.51,
 			["time"] = 1534446341,
-			["race"] = "Goblin",
+			["name"] = "Brd-DefiasBrotherhood",
 			["subZone"] = "Hillcrest Pasture",
 			["level"] = 120,
-			["name"] = "Brd-DefiasBrotherhood",
-			["isGuess"] = false,
+			["race"] = "Goblin",
+			["loses"] = 1,
 		},
 		["Mageclarity-DarkmoonFaire"] = {
 			["guild"] = "Sincerity",
@@ -36,20 +41,15 @@ SpyPerCharDB = {
 			["mapY"] = 0.78,
 			["class"] = "MAGE",
 			["isEnemy"] = true,
-			["loses"] = 1,
+			["isGuess"] = false,
 			["mapX"] = 0.51,
 			["time"] = 1534446209,
-			["race"] = "Troll",
+			["name"] = "Mageclarity-DarkmoonFaire",
 			["subZone"] = "Hillcrest Pasture",
 			["level"] = 120,
-			["name"] = "Mageclarity-DarkmoonFaire",
-			["isGuess"] = false,
+			["race"] = "Troll",
+			["loses"] = 1,
 		},
 	},
-	["IgnoreData"] = {
-	},
 	["version"] = "1.1",
-	["KOSData"] = {
-		["Ohoh-DefiasBrotherhood"] = 1533647698,
-	},
 }

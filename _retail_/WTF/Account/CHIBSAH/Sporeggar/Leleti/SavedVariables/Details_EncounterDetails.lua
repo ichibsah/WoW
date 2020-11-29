@@ -267,12 +267,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Moistnature-Sylvanas",
 		},
-		[52042] = {
-			["school"] = 8,
+		[267444] = {
+			["school"] = 32,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_PERIODIC_HEAL"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Healing Stream Totem",
+			["source"] = "Vol'zith the Whisperer",
 		},
 		[61295] = {
 			["school"] = 8,
@@ -281,20 +282,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lollo-DefiasBrotherhood",
 		},
-		[256546] = {
-			["school"] = 1,
+		[268347] = {
+			["school"] = 32,
 			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Trothak",
+			["source"] = "Lord Stormsong",
 		},
-		[267444] = {
-			["school"] = 32,
-			["type"] = "BUFF",
+		[241680] = {
+			["school"] = 16,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Vol'zith the Whisperer",
+			["source"] = "Lord Stormsong",
 		},
 		[25504] = {
 			["school"] = 1,
@@ -324,20 +327,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Akori-Wildhammer",
 		},
-		[257308] = {
-			["school"] = 4,
+		[256546] = {
+			["school"] = 1,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Harlan Sweete",
+			["source"] = "Trothak",
 		},
-		[241680] = {
-			["school"] = 16,
+		[276207] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Lord Stormsong",
+			["source"] = "Akori-Wildhammer",
 		},
 		[279033] = {
 			["school"] = 1,
@@ -371,13 +375,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Akori-Wildhammer",
 		},
-		[193786] = {
-			["school"] = 8,
+		[224266] = {
+			["school"] = 2,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Moistnature-Sylvanas",
+			["source"] = "Akori-Wildhammer",
 		},
 		[267890] = {
 			["school"] = 8,
@@ -386,12 +389,13 @@ EncounterDetailsDB = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
 		},
-		[224266] = {
-			["school"] = 2,
+		[193786] = {
+			["school"] = 8,
 			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Akori-Wildhammer",
+			["source"] = "Moistnature-Sylvanas",
 		},
 		[269097] = {
 			["school"] = 32,
@@ -445,15 +449,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Forgotten Denizen",
 		},
-		[256589] = {
+		[96231] = {
 			["school"] = 1,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Captain Raoul",
+			["source"] = "Gliese-TheMaelstrom",
 		},
 		[60103] = {
 			["school"] = 4,
@@ -489,20 +490,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Akori-Wildhammer",
 		},
-		[96231] = {
-			["school"] = 1,
+		[267798] = {
+			["school"] = 2,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Gliese-TheMaelstrom",
 		},
-		[216251] = {
+		[205202] = {
 			["school"] = 1,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Lollo-DefiasBrotherhood",
+			["source"] = "Akori-Wildhammer",
 		},
 		[264560] = {
 			["school"] = 16,
@@ -514,12 +515,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Aqu'sirr",
 		},
-		[205202] = {
+		[216251] = {
 			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Akori-Wildhammer",
+			["source"] = "Lollo-DefiasBrotherhood",
 		},
 		[267799] = {
 			["school"] = 2,
@@ -743,13 +745,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lollo-DefiasBrotherhood",
 		},
-		[267798] = {
-			["school"] = 2,
+		[256589] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Gliese-TheMaelstrom",
+			["source"] = "Captain Raoul",
 		},
 		[256106] = {
 			["school"] = 4,
@@ -785,23 +789,19 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Trothak",
 		},
-		[268347] = {
-			["school"] = 32,
+		[257308] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Lord Stormsong",
+			["source"] = "Harlan Sweete",
 		},
-		[276207] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[52042] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_HEAL"] = true,
+				["SPELL_PERIODIC_HEAL"] = true,
 			},
-			["source"] = "Akori-Wildhammer",
+			["source"] = "Healing Stream Totem",
 		},
 		[267522] = {
 			["school"] = 1,

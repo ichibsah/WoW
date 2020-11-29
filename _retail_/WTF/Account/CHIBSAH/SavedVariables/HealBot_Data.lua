@@ -1,5 +1,1509 @@
 
 Healbot_Config_Skins = {
+	["Protection"] = {
+		["Standard"] = {
+			["COMBAT"] = false,
+			["GENERALMACRO"] = true,
+			["COMBATPARTY"] = true,
+			["CRASH"] = true,
+			["COMBATRAID"] = true,
+		},
+		["Raid 40"] = {
+			["COMBAT"] = false,
+			["GENERALMACRO"] = true,
+			["COMBATPARTY"] = true,
+			["CRASH"] = false,
+			["COMBATRAID"] = true,
+		},
+		["Group"] = {
+			["COMBAT"] = false,
+			["GENERALMACRO"] = true,
+			["COMBATPARTY"] = true,
+			["CRASH"] = true,
+			["COMBATRAID"] = true,
+		},
+		["Raid 25"] = {
+			["COMBAT"] = false,
+			["GENERALMACRO"] = true,
+			["COMBATPARTY"] = true,
+			["CRASH"] = true,
+			["COMBATRAID"] = true,
+		},
+	},
+	["Chat"] = {
+		["Standard"] = {
+			["EOCOOM"] = false,
+			["EOCOOMV"] = 20,
+			["MSG"] = "Casting #s on #n",
+			["RESONLY"] = true,
+			["NOTIFY"] = 1,
+		},
+		["Raid 40"] = {
+			["EOCOOM"] = false,
+			["EOCOOMV"] = 20,
+			["MSG"] = "Casting #s on #n",
+			["RESONLY"] = true,
+			["NOTIFY"] = 1,
+		},
+		["Group"] = {
+			["EOCOOM"] = false,
+			["EOCOOMV"] = 20,
+			["MSG"] = "Casting #s on #n",
+			["RESONLY"] = true,
+			["NOTIFY"] = 1,
+		},
+		["Raid 25"] = {
+			["EOCOOM"] = false,
+			["EOCOOMV"] = 20,
+			["MSG"] = "Casting #s on #n",
+			["RESONLY"] = true,
+			["NOTIFY"] = 1,
+		},
+	},
+	["General"] = {
+		["Standard"] = {
+			["FLUIDFREQ"] = 10,
+			["STICKYSENSITIVITY"] = 20,
+			["FLUIDBARS"] = false,
+			["OFREQ"] = 0.07,
+			["HIDEPTF"] = false,
+			["OMIN"] = 0.1,
+			["HIDERAIDF"] = true,
+			["HIDEBOSSF"] = false,
+			["STICKYFRAME"] = true,
+			["OMAX"] = 0.95,
+			["HIDEPARTYF"] = false,
+		},
+		["Raid 40"] = {
+			["FLUIDFREQ"] = 7,
+			["STICKYSENSITIVITY"] = 30,
+			["FLUIDBARS"] = false,
+			["OFREQ"] = 0.07,
+			["HIDEPTF"] = false,
+			["OMIN"] = 0.1,
+			["HIDERAIDF"] = true,
+			["HIDEBOSSF"] = false,
+			["STICKYFRAME"] = true,
+			["OMAX"] = 0.95,
+			["HIDEPARTYF"] = false,
+		},
+		["Group"] = {
+			["FLUIDFREQ"] = 7,
+			["STICKYSENSITIVITY"] = 20,
+			["FLUIDBARS"] = true,
+			["OFREQ"] = 0.07,
+			["HIDEPTF"] = false,
+			["OMIN"] = 0.1,
+			["HIDERAIDF"] = true,
+			["HIDEBOSSF"] = false,
+			["STICKYFRAME"] = true,
+			["OMAX"] = 0.95,
+			["HIDEPARTYF"] = false,
+		},
+		["Raid 25"] = {
+			["FLUIDFREQ"] = 7,
+			["STICKYSENSITIVITY"] = 30,
+			["FLUIDBARS"] = false,
+			["OFREQ"] = 0.07,
+			["HIDEPTF"] = false,
+			["OMIN"] = 0.1,
+			["HIDERAIDF"] = true,
+			["HIDEBOSSF"] = false,
+			["STICKYFRAME"] = true,
+			["OMAX"] = 0.95,
+			["HIDEPARTYF"] = false,
+		},
+	},
+	["BarTextCol"] = {
+		["Standard"] = {
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.8,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.8,
+			}, -- [1]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.8,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.8,
+			}, -- [2]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.8,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.8,
+			}, -- [3]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.8,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.8,
+			}, -- [4]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.8,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.8,
+			}, -- [5]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.8,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.8,
+			}, -- [6]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.8,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.8,
+			}, -- [7]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.8,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.8,
+			}, -- [8]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.8,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.8,
+			}, -- [9]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.8,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.8,
+			}, -- [10]
+		},
+		["Raid 40"] = {
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.7,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.7,
+			}, -- [1]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.7,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.7,
+			}, -- [2]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.7,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.7,
+			}, -- [3]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.7,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.7,
+			}, -- [4]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.7,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.7,
+			}, -- [5]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.7,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.7,
+			}, -- [6]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.7,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.7,
+			}, -- [7]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.7,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.7,
+			}, -- [8]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.7,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.7,
+			}, -- [9]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.7,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.7,
+			}, -- [10]
+		},
+		["Group"] = {
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.8,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.8,
+			}, -- [1]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.8,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.8,
+			}, -- [2]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.8,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.8,
+			}, -- [3]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.8,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.8,
+			}, -- [4]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.8,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.8,
+			}, -- [5]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.8,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.8,
+			}, -- [6]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.8,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.8,
+			}, -- [7]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.8,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.8,
+			}, -- [8]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.8,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.8,
+			}, -- [9]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.8,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.8,
+			}, -- [10]
+		},
+		["Raid 25"] = {
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.7,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.7,
+			}, -- [1]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.7,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.7,
+			}, -- [2]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.7,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.7,
+			}, -- [3]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.7,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.7,
+			}, -- [4]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.7,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.7,
+			}, -- [5]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.7,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.7,
+			}, -- [6]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.7,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.7,
+			}, -- [7]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.7,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.7,
+			}, -- [8]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.7,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.7,
+			}, -- [9]
+			{
+				["NCB"] = 0,
+				["NCR"] = 1,
+				["HLTH"] = 2,
+				["NCDA"] = 0.7,
+				["HCG"] = 1,
+				["HCA"] = 1,
+				["HCB"] = 0,
+				["NCA"] = 1,
+				["HCR"] = 1,
+				["NCG"] = 1,
+				["NDEBUFF"] = false,
+				["HDEBUFF"] = false,
+				["NAME"] = 2,
+				["HCDA"] = 0.7,
+			}, -- [10]
+		},
+	},
+	["AuxBarFrame"] = {
+		["Standard"] = {
+			{
+				["OVERLAP"] = 1,
+			}, -- [1]
+			{
+				["OVERLAP"] = 1,
+			}, -- [2]
+			{
+				["OVERLAP"] = 1,
+			}, -- [3]
+			{
+				["OVERLAP"] = 1,
+			}, -- [4]
+			{
+				["OVERLAP"] = 1,
+			}, -- [5]
+			{
+				["OVERLAP"] = 1,
+			}, -- [6]
+			{
+				["OVERLAP"] = 1,
+			}, -- [7]
+			{
+				["OVERLAP"] = 1,
+			}, -- [8]
+			{
+				["OVERLAP"] = 1,
+			}, -- [9]
+			{
+				["OVERLAP"] = 1,
+			}, -- [10]
+		},
+		["Raid 40"] = {
+			{
+				["OVERLAP"] = 1,
+			}, -- [1]
+			{
+				["OVERLAP"] = 1,
+			}, -- [2]
+			{
+				["OVERLAP"] = 1,
+			}, -- [3]
+			{
+				["OVERLAP"] = 1,
+			}, -- [4]
+			{
+				["OVERLAP"] = 1,
+			}, -- [5]
+			{
+				["OVERLAP"] = 1,
+			}, -- [6]
+			{
+				["OVERLAP"] = 1,
+			}, -- [7]
+			{
+				["OVERLAP"] = 1,
+			}, -- [8]
+			{
+				["OVERLAP"] = 1,
+			}, -- [9]
+			{
+				["OVERLAP"] = 1,
+			}, -- [10]
+		},
+		["Group"] = {
+			{
+				["OVERLAP"] = 1,
+			}, -- [1]
+			{
+				["OVERLAP"] = 1,
+			}, -- [2]
+			{
+				["OVERLAP"] = 1,
+			}, -- [3]
+			{
+				["OVERLAP"] = 1,
+			}, -- [4]
+			{
+				["OVERLAP"] = 1,
+			}, -- [5]
+			{
+				["OVERLAP"] = 1,
+			}, -- [6]
+			{
+				["OVERLAP"] = 1,
+			}, -- [7]
+			{
+				["OVERLAP"] = 1,
+			}, -- [8]
+			{
+				["OVERLAP"] = 1,
+			}, -- [9]
+			{
+				["OVERLAP"] = 1,
+			}, -- [10]
+		},
+		["Raid 25"] = {
+			{
+				["OVERLAP"] = 1,
+			}, -- [1]
+			{
+				["OVERLAP"] = 1,
+			}, -- [2]
+			{
+				["OVERLAP"] = 1,
+			}, -- [3]
+			{
+				["OVERLAP"] = 1,
+			}, -- [4]
+			{
+				["OVERLAP"] = 1,
+			}, -- [5]
+			{
+				["OVERLAP"] = 1,
+			}, -- [6]
+			{
+				["OVERLAP"] = 1,
+			}, -- [7]
+			{
+				["OVERLAP"] = 1,
+			}, -- [8]
+			{
+				["OVERLAP"] = 1,
+			}, -- [9]
+			{
+				["OVERLAP"] = 1,
+			}, -- [10]
+		},
+	},
+	["BarCol"] = {
+		["Standard"] = {
+			{
+				["BACK"] = 1,
+				["BA"] = 0,
+				["BB"] = 0.7,
+				["DISA"] = 0.1,
+				["BR"] = 0.4,
+				["HB"] = 0.7,
+				["BOUT"] = 2,
+				["HG"] = 0.4,
+				["HA"] = 1,
+				["HR"] = 0.4,
+				["ORA"] = 0.4,
+				["BG"] = 0.4,
+				["HLTH"] = 1,
+			}, -- [1]
+			{
+				["BACK"] = 1,
+				["BA"] = 0,
+				["BB"] = 0.7,
+				["DISA"] = 0.1,
+				["BR"] = 0.4,
+				["HB"] = 0.7,
+				["BOUT"] = 2,
+				["HG"] = 0.4,
+				["HA"] = 1,
+				["HR"] = 0.4,
+				["ORA"] = 0.4,
+				["BG"] = 0.4,
+				["HLTH"] = 1,
+			}, -- [2]
+			{
+				["BACK"] = 1,
+				["BA"] = 0,
+				["BB"] = 0.7,
+				["DISA"] = 0.1,
+				["BR"] = 0.4,
+				["HB"] = 0.7,
+				["BOUT"] = 2,
+				["HG"] = 0.4,
+				["HA"] = 1,
+				["HR"] = 0.4,
+				["ORA"] = 0.4,
+				["BG"] = 0.4,
+				["HLTH"] = 1,
+			}, -- [3]
+			{
+				["BACK"] = 1,
+				["BA"] = 0,
+				["BB"] = 0.7,
+				["DISA"] = 0.1,
+				["BR"] = 0.4,
+				["HB"] = 0.7,
+				["BOUT"] = 2,
+				["HG"] = 0.4,
+				["HA"] = 1,
+				["HR"] = 0.4,
+				["ORA"] = 0.4,
+				["BG"] = 0.4,
+				["HLTH"] = 1,
+			}, -- [4]
+			{
+				["BACK"] = 1,
+				["BA"] = 0,
+				["BB"] = 0.7,
+				["DISA"] = 0.1,
+				["BR"] = 0.4,
+				["HB"] = 0.7,
+				["BOUT"] = 2,
+				["HG"] = 0.4,
+				["HA"] = 1,
+				["HR"] = 0.4,
+				["ORA"] = 0.4,
+				["BG"] = 0.4,
+				["HLTH"] = 1,
+			}, -- [5]
+			{
+				["BACK"] = 1,
+				["BA"] = 0,
+				["BB"] = 0.7,
+				["DISA"] = 0.1,
+				["BR"] = 0.4,
+				["HB"] = 0.7,
+				["BOUT"] = 2,
+				["HG"] = 0.4,
+				["HA"] = 1,
+				["HR"] = 0.4,
+				["ORA"] = 0.4,
+				["BG"] = 0.4,
+				["HLTH"] = 1,
+			}, -- [6]
+			{
+				["BACK"] = 1,
+				["BA"] = 0,
+				["BB"] = 0.7,
+				["DISA"] = 0.1,
+				["BR"] = 0.4,
+				["HB"] = 0.7,
+				["BOUT"] = 2,
+				["HG"] = 0.4,
+				["HA"] = 1,
+				["HR"] = 0.4,
+				["ORA"] = 0.4,
+				["BG"] = 0.4,
+				["HLTH"] = 1,
+			}, -- [7]
+			{
+				["BACK"] = 1,
+				["BA"] = 0,
+				["BB"] = 0.7,
+				["DISA"] = 0.1,
+				["BR"] = 0.4,
+				["HB"] = 0.7,
+				["BOUT"] = 2,
+				["HG"] = 0.4,
+				["HA"] = 1,
+				["HR"] = 0.4,
+				["ORA"] = 0.4,
+				["BG"] = 0.4,
+				["HLTH"] = 1,
+			}, -- [8]
+			{
+				["BACK"] = 1,
+				["BA"] = 0,
+				["BB"] = 0.7,
+				["DISA"] = 0.1,
+				["BR"] = 0.4,
+				["HB"] = 0.7,
+				["BOUT"] = 2,
+				["HG"] = 0.4,
+				["HA"] = 1,
+				["HR"] = 0.4,
+				["ORA"] = 0.4,
+				["BG"] = 0.4,
+				["HLTH"] = 1,
+			}, -- [9]
+			{
+				["BACK"] = 1,
+				["BA"] = 0,
+				["BB"] = 0.7,
+				["DISA"] = 0.1,
+				["BR"] = 0.4,
+				["HB"] = 0.7,
+				["BOUT"] = 2,
+				["HG"] = 0.4,
+				["HA"] = 1,
+				["HR"] = 0.4,
+				["ORA"] = 0.4,
+				["BG"] = 0.4,
+				["HLTH"] = 1,
+			}, -- [10]
+		},
+		["Raid 40"] = {
+			{
+				["BACK"] = 2,
+				["BA"] = 0.05,
+				["BB"] = 0.4,
+				["DISA"] = 0.12,
+				["BR"] = 0.2,
+				["HB"] = 0.4,
+				["BOUT"] = 1,
+				["HG"] = 0.4,
+				["HA"] = 0.95,
+				["HR"] = 0.2,
+				["ORA"] = 0.3,
+				["BG"] = 0.4,
+				["HLTH"] = 2,
+			}, -- [1]
+			{
+				["BACK"] = 2,
+				["BA"] = 0.05,
+				["BB"] = 0.4,
+				["DISA"] = 0.12,
+				["BR"] = 0.2,
+				["HB"] = 0.4,
+				["BOUT"] = 1,
+				["HG"] = 0.4,
+				["HA"] = 0.95,
+				["HR"] = 0.2,
+				["ORA"] = 0.3,
+				["BG"] = 0.4,
+				["HLTH"] = 2,
+			}, -- [2]
+			{
+				["BACK"] = 2,
+				["BA"] = 0.05,
+				["BB"] = 0.4,
+				["DISA"] = 0.12,
+				["BR"] = 0.2,
+				["HB"] = 0.4,
+				["BOUT"] = 1,
+				["HG"] = 0.4,
+				["HA"] = 0.95,
+				["HR"] = 0.2,
+				["ORA"] = 0.3,
+				["BG"] = 0.4,
+				["HLTH"] = 2,
+			}, -- [3]
+			{
+				["BACK"] = 2,
+				["BA"] = 0.05,
+				["BB"] = 0.4,
+				["DISA"] = 0.12,
+				["BR"] = 0.2,
+				["HB"] = 0.4,
+				["BOUT"] = 1,
+				["HG"] = 0.4,
+				["HA"] = 0.95,
+				["HR"] = 0.2,
+				["ORA"] = 0.3,
+				["BG"] = 0.4,
+				["HLTH"] = 2,
+			}, -- [4]
+			{
+				["BACK"] = 2,
+				["BA"] = 0.05,
+				["BB"] = 0.4,
+				["DISA"] = 0.12,
+				["BR"] = 0.2,
+				["HB"] = 0.4,
+				["BOUT"] = 1,
+				["HG"] = 0.4,
+				["HA"] = 0.95,
+				["HR"] = 0.2,
+				["ORA"] = 0.3,
+				["BG"] = 0.4,
+				["HLTH"] = 2,
+			}, -- [5]
+			{
+				["BACK"] = 2,
+				["BA"] = 0.05,
+				["BB"] = 0.4,
+				["DISA"] = 0.12,
+				["BR"] = 0.2,
+				["HB"] = 0.4,
+				["BOUT"] = 1,
+				["HG"] = 0.4,
+				["HA"] = 0.95,
+				["HR"] = 0.2,
+				["ORA"] = 0.3,
+				["BG"] = 0.4,
+				["HLTH"] = 2,
+			}, -- [6]
+			{
+				["BACK"] = 2,
+				["BA"] = 0.05,
+				["BB"] = 0.4,
+				["DISA"] = 0.12,
+				["BR"] = 0.2,
+				["HB"] = 0.4,
+				["BOUT"] = 1,
+				["HG"] = 0.4,
+				["HA"] = 0.95,
+				["HR"] = 0.2,
+				["ORA"] = 0.3,
+				["BG"] = 0.4,
+				["HLTH"] = 2,
+			}, -- [7]
+			{
+				["BACK"] = 2,
+				["BA"] = 0.05,
+				["BB"] = 0.4,
+				["DISA"] = 0.12,
+				["BR"] = 0.2,
+				["HB"] = 0.4,
+				["BOUT"] = 1,
+				["HG"] = 0.4,
+				["HA"] = 0.95,
+				["HR"] = 0.2,
+				["ORA"] = 0.3,
+				["BG"] = 0.4,
+				["HLTH"] = 2,
+			}, -- [8]
+			{
+				["BACK"] = 2,
+				["BA"] = 0.05,
+				["BB"] = 0.4,
+				["DISA"] = 0.12,
+				["BR"] = 0.2,
+				["HB"] = 0.4,
+				["BOUT"] = 1,
+				["HG"] = 0.4,
+				["HA"] = 0.95,
+				["HR"] = 0.2,
+				["ORA"] = 0.3,
+				["BG"] = 0.4,
+				["HLTH"] = 2,
+			}, -- [9]
+			{
+				["BACK"] = 2,
+				["BA"] = 0.05,
+				["BB"] = 0.4,
+				["DISA"] = 0.12,
+				["BR"] = 0.2,
+				["HB"] = 0.4,
+				["BOUT"] = 1,
+				["HG"] = 0.4,
+				["HA"] = 0.95,
+				["HR"] = 0.2,
+				["ORA"] = 0.3,
+				["BG"] = 0.4,
+				["HLTH"] = 2,
+			}, -- [10]
+		},
+		["Group"] = {
+			{
+				["BACK"] = 1,
+				["BA"] = 0,
+				["BB"] = 1,
+				["DISA"] = 0.05,
+				["BR"] = 1,
+				["HB"] = 1,
+				["BOUT"] = 0,
+				["HG"] = 1,
+				["HA"] = 0.98,
+				["HR"] = 1,
+				["ORA"] = 0.35,
+				["BG"] = 1,
+				["HLTH"] = 2,
+			}, -- [1]
+			{
+				["BACK"] = 1,
+				["BA"] = 0.1,
+				["BB"] = 1,
+				["DISA"] = 0.05,
+				["BR"] = 1,
+				["HB"] = 1,
+				["BOUT"] = 0,
+				["HG"] = 1,
+				["HA"] = 0.98,
+				["HR"] = 1,
+				["ORA"] = 0.35,
+				["BG"] = 1,
+				["HLTH"] = 2,
+			}, -- [2]
+			{
+				["BACK"] = 1,
+				["BA"] = 0.1,
+				["BB"] = 1,
+				["DISA"] = 0.05,
+				["BR"] = 1,
+				["HB"] = 1,
+				["BOUT"] = 0,
+				["HG"] = 1,
+				["HA"] = 0.98,
+				["HR"] = 1,
+				["ORA"] = 0.35,
+				["BG"] = 1,
+				["HLTH"] = 1,
+			}, -- [3]
+			{
+				["BACK"] = 1,
+				["BA"] = 0.1,
+				["BB"] = 1,
+				["DISA"] = 0.05,
+				["BR"] = 1,
+				["HB"] = 1,
+				["BOUT"] = 0,
+				["HG"] = 1,
+				["HA"] = 0.98,
+				["HR"] = 1,
+				["ORA"] = 0.35,
+				["BG"] = 1,
+				["HLTH"] = 1,
+			}, -- [4]
+			{
+				["BACK"] = 1,
+				["BA"] = 0.1,
+				["BB"] = 1,
+				["DISA"] = 0.05,
+				["BR"] = 1,
+				["HB"] = 1,
+				["BOUT"] = 0,
+				["HG"] = 1,
+				["HA"] = 0.98,
+				["HR"] = 1,
+				["ORA"] = 0.35,
+				["BG"] = 1,
+				["HLTH"] = 1,
+			}, -- [5]
+			{
+				["BACK"] = 1,
+				["BA"] = 0.1,
+				["BB"] = 1,
+				["DISA"] = 0.05,
+				["BR"] = 1,
+				["HB"] = 1,
+				["BOUT"] = 0,
+				["HG"] = 1,
+				["HA"] = 0.98,
+				["HR"] = 1,
+				["ORA"] = 0.35,
+				["BG"] = 1,
+				["HLTH"] = 1,
+			}, -- [6]
+			{
+				["BACK"] = 1,
+				["BA"] = 0.1,
+				["BB"] = 1,
+				["DISA"] = 0.05,
+				["BR"] = 1,
+				["HB"] = 0.8,
+				["BOUT"] = 0,
+				["HG"] = 0.8,
+				["HA"] = 0.98,
+				["HR"] = 0.7,
+				["ORA"] = 0.35,
+				["BG"] = 1,
+				["HLTH"] = 3,
+			}, -- [7]
+			{
+				["BACK"] = 1,
+				["BA"] = 0.1,
+				["BB"] = 1,
+				["DISA"] = 0.05,
+				["BR"] = 1,
+				["HB"] = 1,
+				["BOUT"] = 0,
+				["HG"] = 1,
+				["HA"] = 0.98,
+				["HR"] = 1,
+				["ORA"] = 0.35,
+				["BG"] = 1,
+				["HLTH"] = 2,
+			}, -- [8]
+			{
+				["BACK"] = 1,
+				["BA"] = 0.1,
+				["BB"] = 1,
+				["DISA"] = 0.05,
+				["BR"] = 1,
+				["HB"] = 1,
+				["BOUT"] = 0,
+				["HG"] = 1,
+				["HA"] = 0.98,
+				["HR"] = 1,
+				["ORA"] = 0.35,
+				["BG"] = 1,
+				["HLTH"] = 2,
+			}, -- [9]
+			{
+				["BACK"] = 1,
+				["BA"] = 0.1,
+				["BB"] = 1,
+				["DISA"] = 0.05,
+				["BR"] = 1,
+				["HB"] = 1,
+				["BOUT"] = 0,
+				["HG"] = 1,
+				["HA"] = 0.98,
+				["HR"] = 1,
+				["ORA"] = 0.35,
+				["BG"] = 1,
+				["HLTH"] = 2,
+			}, -- [10]
+		},
+		["Raid 25"] = {
+			{
+				["BACK"] = 2,
+				["BA"] = 0.05,
+				["BB"] = 0.4,
+				["DISA"] = 0.12,
+				["BR"] = 0.2,
+				["HB"] = 0.4,
+				["BOUT"] = 1,
+				["HG"] = 0.4,
+				["HA"] = 0.95,
+				["HR"] = 0.2,
+				["ORA"] = 0.3,
+				["BG"] = 0.4,
+				["HLTH"] = 2,
+			}, -- [1]
+			{
+				["BACK"] = 2,
+				["BA"] = 0.05,
+				["BB"] = 0.4,
+				["DISA"] = 0.12,
+				["BR"] = 0.2,
+				["HB"] = 0.4,
+				["BOUT"] = 1,
+				["HG"] = 0.4,
+				["HA"] = 0.95,
+				["HR"] = 0.2,
+				["ORA"] = 0.3,
+				["BG"] = 0.4,
+				["HLTH"] = 2,
+			}, -- [2]
+			{
+				["BACK"] = 2,
+				["BA"] = 0.05,
+				["BB"] = 0.4,
+				["DISA"] = 0.12,
+				["BR"] = 0.2,
+				["HB"] = 0.4,
+				["BOUT"] = 1,
+				["HG"] = 0.4,
+				["HA"] = 0.95,
+				["HR"] = 0.2,
+				["ORA"] = 0.3,
+				["BG"] = 0.4,
+				["HLTH"] = 2,
+			}, -- [3]
+			{
+				["BACK"] = 2,
+				["BA"] = 0.05,
+				["BB"] = 0.4,
+				["DISA"] = 0.12,
+				["BR"] = 0.2,
+				["HB"] = 0.4,
+				["BOUT"] = 1,
+				["HG"] = 0.4,
+				["HA"] = 0.95,
+				["HR"] = 0.2,
+				["ORA"] = 0.3,
+				["BG"] = 0.4,
+				["HLTH"] = 2,
+			}, -- [4]
+			{
+				["BACK"] = 2,
+				["BA"] = 0.05,
+				["BB"] = 0.4,
+				["DISA"] = 0.12,
+				["BR"] = 0.2,
+				["HB"] = 0.4,
+				["BOUT"] = 1,
+				["HG"] = 0.4,
+				["HA"] = 0.95,
+				["HR"] = 0.2,
+				["ORA"] = 0.3,
+				["BG"] = 0.4,
+				["HLTH"] = 2,
+			}, -- [5]
+			{
+				["BACK"] = 2,
+				["BA"] = 0.05,
+				["BB"] = 0.4,
+				["DISA"] = 0.12,
+				["BR"] = 0.2,
+				["HB"] = 0.4,
+				["BOUT"] = 1,
+				["HG"] = 0.4,
+				["HA"] = 0.95,
+				["HR"] = 0.2,
+				["ORA"] = 0.3,
+				["BG"] = 0.4,
+				["HLTH"] = 2,
+			}, -- [6]
+			{
+				["BACK"] = 2,
+				["BA"] = 0.05,
+				["BB"] = 0.4,
+				["DISA"] = 0.12,
+				["BR"] = 0.2,
+				["HB"] = 0.4,
+				["BOUT"] = 1,
+				["HG"] = 0.4,
+				["HA"] = 0.95,
+				["HR"] = 0.2,
+				["ORA"] = 0.3,
+				["BG"] = 0.4,
+				["HLTH"] = 2,
+			}, -- [7]
+			{
+				["BACK"] = 2,
+				["BA"] = 0.05,
+				["BB"] = 0.4,
+				["DISA"] = 0.12,
+				["BR"] = 0.2,
+				["HB"] = 0.4,
+				["BOUT"] = 1,
+				["HG"] = 0.4,
+				["HA"] = 0.95,
+				["HR"] = 0.2,
+				["ORA"] = 0.3,
+				["BG"] = 0.4,
+				["HLTH"] = 2,
+			}, -- [8]
+			{
+				["BACK"] = 2,
+				["BA"] = 0.05,
+				["BB"] = 0.4,
+				["DISA"] = 0.12,
+				["BR"] = 0.2,
+				["HB"] = 0.4,
+				["BOUT"] = 1,
+				["HG"] = 0.4,
+				["HA"] = 0.95,
+				["HR"] = 0.2,
+				["ORA"] = 0.3,
+				["BG"] = 0.4,
+				["HLTH"] = 2,
+			}, -- [9]
+			{
+				["BACK"] = 2,
+				["BA"] = 0.05,
+				["BB"] = 0.4,
+				["DISA"] = 0.12,
+				["BR"] = 0.2,
+				["HB"] = 0.4,
+				["BOUT"] = 1,
+				["HG"] = 0.4,
+				["HA"] = 0.95,
+				["HR"] = 0.2,
+				["ORA"] = 0.3,
+				["BG"] = 0.4,
+				["HLTH"] = 2,
+			}, -- [10]
+		},
+	},
 	["HeadBar"] = {
 		["Standard"] = {
 			{
@@ -407,2944 +1911,6 @@ Healbot_Config_Skins = {
 				["A"] = 0.25,
 				["G"] = 0.1,
 				["WIDTH"] = 0.9,
-			}, -- [10]
-		},
-	},
-	["Enemy"] = {
-		["Standard"] = {
-			["INCARENA"] = true,
-			["INCTANKS"] = true,
-			["INCMYTAR"] = false,
-			["ENEMYTARGET"] = false,
-			["ENEMYTARGETSIZE"] = 40,
-			["INCARENAPETS"] = false,
-			["HIDE"] = true,
-			["NUMBOSS"] = 2,
-			["EXISTSHOWPTAR"] = false,
-			["INCSELF"] = false,
-			["EXISTSHOWBOSS"] = true,
-			["DOUBLEWIDTH"] = false,
-			["EXISTSHOWARENA"] = true,
-		},
-		["Raid 40"] = {
-			["INCARENA"] = true,
-			["INCTANKS"] = true,
-			["INCMYTAR"] = false,
-			["ENEMYTARGET"] = false,
-			["ENEMYTARGETSIZE"] = 40,
-			["INCARENAPETS"] = false,
-			["HIDE"] = true,
-			["NUMBOSS"] = 2,
-			["EXISTSHOWPTAR"] = false,
-			["INCSELF"] = false,
-			["EXISTSHOWBOSS"] = true,
-			["DOUBLEWIDTH"] = false,
-			["EXISTSHOWARENA"] = true,
-		},
-		["Group"] = {
-			["INCARENA"] = true,
-			["INCTANKS"] = true,
-			["INCMYTAR"] = false,
-			["ENEMYTARGET"] = false,
-			["ENEMYTARGETSIZE"] = 40,
-			["INCARENAPETS"] = false,
-			["HIDE"] = true,
-			["NUMBOSS"] = 2,
-			["EXISTSHOWPTAR"] = false,
-			["INCSELF"] = false,
-			["EXISTSHOWBOSS"] = true,
-			["DOUBLEWIDTH"] = false,
-			["EXISTSHOWARENA"] = true,
-		},
-		["Raid 25"] = {
-			["INCARENA"] = true,
-			["INCTANKS"] = true,
-			["INCMYTAR"] = false,
-			["ENEMYTARGET"] = false,
-			["ENEMYTARGETSIZE"] = 40,
-			["INCARENAPETS"] = false,
-			["HIDE"] = true,
-			["NUMBOSS"] = 2,
-			["EXISTSHOWPTAR"] = false,
-			["INCSELF"] = false,
-			["EXISTSHOWBOSS"] = true,
-			["DOUBLEWIDTH"] = false,
-			["EXISTSHOWARENA"] = true,
-		},
-	},
-	["Skins"] = {
-		"Standard", -- [1]
-		"Group", -- [2]
-		"Raid 25", -- [3]
-		"Raid 40", -- [4]
-	},
-	["BarSort"] = {
-		["Standard"] = {
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [1]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [2]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [3]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [4]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [5]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [6]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [7]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [8]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [9]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [10]
-		},
-		["Raid 40"] = {
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [1]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [2]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [3]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [4]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [5]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [6]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [7]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [8]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [9]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [10]
-		},
-		["Group"] = {
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [1]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [2]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [3]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [4]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [5]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [6]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [7]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [8]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [9]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [10]
-		},
-		["Raid 25"] = {
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [1]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [2]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [3]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [4]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [5]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [6]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [7]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [8]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [9]
-			{
-				["SUBORDER"] = 1,
-				["OORLAST"] = false,
-				["RAIDORDER"] = 3,
-				["SUBPF"] = true,
-			}, -- [10]
-		},
-	},
-	["IncludeGroup"] = {
-		["Standard"] = {
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [1]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [2]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [3]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [4]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [5]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [6]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [7]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [8]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [9]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [10]
-		},
-		["Raid 40"] = {
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [1]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [2]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [3]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [4]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [5]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [6]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [7]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [8]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [9]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [10]
-		},
-		["Group"] = {
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [1]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [2]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [3]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [4]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [5]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [6]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [7]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [8]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [9]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [10]
-		},
-		["Raid 25"] = {
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [1]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [2]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [3]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [4]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [5]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [6]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [7]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [8]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [9]
-			{
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				true, -- [6]
-				true, -- [7]
-				true, -- [8]
-			}, -- [10]
-		},
-	},
-	["Anchors"] = {
-		["Standard"] = {
-			{
-				["Y"] = 77.63,
-				["GROW"] = 2,
-				["BARS"] = 3,
-				["FRAME"] = 3,
-				["X"] = 80.84,
-			}, -- [1]
-			{
-				["Y"] = 51,
-				["GROW"] = 2,
-				["BARS"] = 3,
-				["FRAME"] = 3,
-				["X"] = 51,
-			}, -- [2]
-			{
-				["Y"] = 52,
-				["GROW"] = 2,
-				["BARS"] = 3,
-				["FRAME"] = 3,
-				["X"] = 52,
-			}, -- [3]
-			{
-				["Y"] = 53,
-				["GROW"] = 2,
-				["BARS"] = 3,
-				["FRAME"] = 3,
-				["X"] = 53,
-			}, -- [4]
-			{
-				["Y"] = 54,
-				["GROW"] = 2,
-				["BARS"] = 3,
-				["FRAME"] = 3,
-				["X"] = 54,
-			}, -- [5]
-			{
-				["Y"] = 55,
-				["GROW"] = 2,
-				["BARS"] = 3,
-				["FRAME"] = 3,
-				["X"] = 55,
-			}, -- [6]
-			{
-				["Y"] = 56,
-				["GROW"] = 2,
-				["BARS"] = 3,
-				["FRAME"] = 3,
-				["X"] = 56,
-			}, -- [7]
-			{
-				["Y"] = 74.45,
-				["GROW"] = 2,
-				["BARS"] = 3,
-				["FRAME"] = 2,
-				["X"] = 69.81,
-			}, -- [8]
-			{
-				["Y"] = 63,
-				["GROW"] = 2,
-				["BARS"] = 3,
-				["FRAME"] = 3,
-				["X"] = 21,
-			}, -- [9]
-			{
-				["Y"] = 59,
-				["GROW"] = 2,
-				["BARS"] = 3,
-				["FRAME"] = 3,
-				["X"] = 59,
-			}, -- [10]
-		},
-		["Raid 40"] = {
-			{
-				["Y"] = 64,
-				["GROW"] = 2,
-				["BARS"] = 3,
-				["FRAME"] = 3,
-				["X"] = 88,
-			}, -- [1]
-			{
-				["Y"] = 67.2,
-				["GROW"] = 2,
-				["BARS"] = 1,
-				["FRAME"] = 3,
-				["X"] = 88,
-			}, -- [2]
-			{
-				["Y"] = 52,
-				["GROW"] = 2,
-				["BARS"] = 1,
-				["FRAME"] = 1,
-				["X"] = 52,
-			}, -- [3]
-			{
-				["Y"] = 53,
-				["GROW"] = 2,
-				["BARS"] = 1,
-				["FRAME"] = 1,
-				["X"] = 53,
-			}, -- [4]
-			{
-				["Y"] = 54,
-				["GROW"] = 2,
-				["BARS"] = 1,
-				["FRAME"] = 1,
-				["X"] = 54,
-			}, -- [5]
-			{
-				["Y"] = 55,
-				["GROW"] = 2,
-				["BARS"] = 1,
-				["FRAME"] = 1,
-				["X"] = 55,
-			}, -- [6]
-			{
-				["Y"] = 64,
-				["GROW"] = 2,
-				["BARS"] = 1,
-				["FRAME"] = 1,
-				["X"] = 87.7,
-			}, -- [7]
-			{
-				["Y"] = 64.1,
-				["GROW"] = 2,
-				["BARS"] = 1,
-				["FRAME"] = 1,
-				["X"] = 74.2,
-			}, -- [8]
-			{
-				["Y"] = 53.8,
-				["GROW"] = 2,
-				["BARS"] = 1,
-				["FRAME"] = 1,
-				["X"] = 74.2,
-			}, -- [9]
-			{
-				["Y"] = 59,
-				["GROW"] = 2,
-				["BARS"] = 1,
-				["FRAME"] = 1,
-				["X"] = 59,
-			}, -- [10]
-		},
-		["Group"] = {
-			{
-				["Y"] = 69,
-				["GROW"] = 2,
-				["BARS"] = 1,
-				["FRAME"] = 1,
-				["X"] = 82,
-			}, -- [1]
-			{
-				["Y"] = 51,
-				["GROW"] = 2,
-				["BARS"] = 1,
-				["FRAME"] = 1,
-				["X"] = 51,
-			}, -- [2]
-			{
-				["Y"] = 52,
-				["GROW"] = 2,
-				["BARS"] = 1,
-				["FRAME"] = 1,
-				["X"] = 52,
-			}, -- [3]
-			{
-				["Y"] = 53,
-				["GROW"] = 2,
-				["BARS"] = 1,
-				["FRAME"] = 1,
-				["X"] = 53,
-			}, -- [4]
-			{
-				["Y"] = 54,
-				["GROW"] = 2,
-				["BARS"] = 1,
-				["FRAME"] = 1,
-				["X"] = 54,
-			}, -- [5]
-			{
-				["Y"] = 55,
-				["GROW"] = 2,
-				["BARS"] = 1,
-				["FRAME"] = 1,
-				["X"] = 55,
-			}, -- [6]
-			{
-				["Y"] = 69,
-				["GROW"] = 2,
-				["BARS"] = 1,
-				["FRAME"] = 1,
-				["X"] = 87.6,
-			}, -- [7]
-			{
-				["Y"] = 31,
-				["GROW"] = 2,
-				["BARS"] = 1,
-				["FRAME"] = 1,
-				["X"] = 88,
-			}, -- [8]
-			{
-				["Y"] = 28,
-				["GROW"] = 2,
-				["BARS"] = 1,
-				["FRAME"] = 1,
-				["X"] = 88,
-			}, -- [9]
-			{
-				["Y"] = 59,
-				["GROW"] = 2,
-				["BARS"] = 1,
-				["FRAME"] = 1,
-				["X"] = 59,
-			}, -- [10]
-		},
-		["Raid 25"] = {
-			{
-				["Y"] = 63.7,
-				["GROW"] = 2,
-				["BARS"] = 3,
-				["FRAME"] = 3,
-				["X"] = 88,
-			}, -- [1]
-			{
-				["Y"] = 67,
-				["GROW"] = 2,
-				["BARS"] = 1,
-				["FRAME"] = 3,
-				["X"] = 88,
-			}, -- [2]
-			{
-				["Y"] = 52,
-				["GROW"] = 2,
-				["BARS"] = 1,
-				["FRAME"] = 1,
-				["X"] = 52,
-			}, -- [3]
-			{
-				["Y"] = 53,
-				["GROW"] = 2,
-				["BARS"] = 1,
-				["FRAME"] = 1,
-				["X"] = 53,
-			}, -- [4]
-			{
-				["Y"] = 54,
-				["GROW"] = 2,
-				["BARS"] = 1,
-				["FRAME"] = 1,
-				["X"] = 54,
-			}, -- [5]
-			{
-				["Y"] = 55,
-				["GROW"] = 2,
-				["BARS"] = 1,
-				["FRAME"] = 1,
-				["X"] = 55,
-			}, -- [6]
-			{
-				["Y"] = 63.7,
-				["GROW"] = 2,
-				["BARS"] = 1,
-				["FRAME"] = 1,
-				["X"] = 87.7,
-			}, -- [7]
-			{
-				["Y"] = 63.7,
-				["GROW"] = 2,
-				["BARS"] = 1,
-				["FRAME"] = 1,
-				["X"] = 74.21,
-			}, -- [8]
-			{
-				["Y"] = 56.4,
-				["GROW"] = 2,
-				["BARS"] = 1,
-				["FRAME"] = 1,
-				["X"] = 74.21,
-			}, -- [9]
-			{
-				["Y"] = 59,
-				["GROW"] = 2,
-				["BARS"] = 1,
-				["FRAME"] = 1,
-				["X"] = 59,
-			}, -- [10]
-		},
-	},
-	["Author"] = {
-		["Standard"] = "Monti of Terenas",
-		["Raid 40"] = "Monti of Terenas",
-		["Group"] = "Monti of Terenas",
-		["Raid 25"] = "Monti of Terenas",
-	},
-	["BarAggro"] = {
-		["Standard"] = {
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [1]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [2]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [3]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [4]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [5]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [6]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [7]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [8]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [9]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [10]
-		},
-		["Raid 40"] = {
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [1]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [2]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [3]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [4]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [5]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [6]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [7]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [8]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [9]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [10]
-		},
-		["Group"] = {
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [1]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [2]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [3]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [4]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [5]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [6]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [7]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [8]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [9]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [10]
-		},
-		["Raid 25"] = {
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [1]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [2]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [3]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [4]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [5]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [6]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [7]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [8]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [9]
-			{
-				["R"] = 1,
-				["ALERTIND"] = 2,
-				["G"] = 0,
-				["TEXTFORMAT"] = 3,
-				["SHOW"] = true,
-				["SHOWTEXTPCT"] = false,
-				["SHOWTEXT"] = false,
-				["SHOWIND"] = true,
-				["B"] = 0,
-				["ALERT"] = 3,
-			}, -- [10]
-		},
-	},
-	["Frame"] = {
-		["Standard"] = {
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 5,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.1,
-				["LOCKED"] = true,
-				["SCALE"] = 1,
-				["BORDERA"] = 0.2,
-				["SFOFFSETV"] = 0,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.2,
-				["BACKA"] = 0.05,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.2,
-				["BORDERR"] = 0.2,
-				["SFOFFSETH"] = 0,
-			}, -- [1]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 5,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.1,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0.2,
-				["SFOFFSETV"] = 0,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.2,
-				["BACKA"] = 0.05,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.2,
-				["BORDERR"] = 0.2,
-				["SFOFFSETH"] = 0,
-			}, -- [2]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 5,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.1,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0.2,
-				["SFOFFSETV"] = 0,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.2,
-				["BACKA"] = 0.05,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.2,
-				["BORDERR"] = 0.2,
-				["SFOFFSETH"] = 0,
-			}, -- [3]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 5,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.1,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0.2,
-				["SFOFFSETV"] = 0,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.2,
-				["BACKA"] = 0.05,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.2,
-				["BORDERR"] = 0.2,
-				["SFOFFSETH"] = 0,
-			}, -- [4]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 5,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.1,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0.2,
-				["SFOFFSETV"] = 0,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.2,
-				["BACKA"] = 0.05,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.2,
-				["BORDERR"] = 0.2,
-				["SFOFFSETH"] = 0,
-			}, -- [5]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 5,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.1,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0.2,
-				["SFOFFSETV"] = 0,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.2,
-				["BACKA"] = 0.05,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.2,
-				["BORDERR"] = 0.2,
-				["SFOFFSETH"] = 0,
-			}, -- [6]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 5,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.1,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0.2,
-				["SFOFFSETV"] = 0,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.2,
-				["BACKA"] = 0.05,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.2,
-				["BORDERR"] = 0.2,
-				["SFOFFSETH"] = 0,
-			}, -- [7]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 4,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.1,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0.2,
-				["SFOFFSETV"] = -8,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.2,
-				["BACKA"] = 0.05,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.2,
-				["BORDERR"] = 0.2,
-				["SFOFFSETH"] = 0,
-			}, -- [8]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 4,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.1,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0.2,
-				["SFOFFSETV"] = -8,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.2,
-				["BACKA"] = 0.05,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.2,
-				["BORDERR"] = 0.2,
-				["SFOFFSETH"] = 0,
-			}, -- [9]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 5,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.1,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0.2,
-				["SFOFFSETV"] = 0,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.2,
-				["BACKA"] = 0.05,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.2,
-				["BORDERR"] = 0.2,
-				["SFOFFSETH"] = 0,
-			}, -- [10]
-		},
-		["Raid 40"] = {
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 5,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.7,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0.04,
-				["SFOFFSETV"] = 0,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.1,
-				["BACKA"] = 0.1,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.1,
-				["BORDERR"] = 0.1,
-				["SFOFFSETH"] = 0,
-			}, -- [1]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 4,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.7,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0.04,
-				["SFOFFSETV"] = -8,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.1,
-				["BACKA"] = 0.1,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.1,
-				["BORDERR"] = 0.1,
-				["SFOFFSETH"] = 0,
-			}, -- [2]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 5,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.7,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0.04,
-				["SFOFFSETV"] = 0,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.1,
-				["BACKA"] = 0.1,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.1,
-				["BORDERR"] = 0.1,
-				["SFOFFSETH"] = 0,
-			}, -- [3]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 5,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.7,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0.04,
-				["SFOFFSETV"] = 0,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.1,
-				["BACKA"] = 0.1,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.1,
-				["BORDERR"] = 0.1,
-				["SFOFFSETH"] = 0,
-			}, -- [4]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 5,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.7,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0.04,
-				["SFOFFSETV"] = 0,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.1,
-				["BACKA"] = 0.1,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.1,
-				["BORDERR"] = 0.1,
-				["SFOFFSETH"] = 0,
-			}, -- [5]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 5,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.7,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0.04,
-				["SFOFFSETV"] = 0,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.1,
-				["BACKA"] = 0.1,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.1,
-				["BORDERR"] = 0.1,
-				["SFOFFSETH"] = 0,
-			}, -- [6]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 3,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.7,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0.04,
-				["SFOFFSETV"] = 0,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.1,
-				["BACKA"] = 0.1,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.1,
-				["BORDERR"] = 0.1,
-				["SFOFFSETH"] = -8,
-			}, -- [7]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 2,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.7,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0.04,
-				["SFOFFSETV"] = 1,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.1,
-				["BACKA"] = 0.1,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.1,
-				["BORDERR"] = 0.1,
-				["SFOFFSETH"] = 9,
-			}, -- [8]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 2,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.7,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0.04,
-				["SFOFFSETV"] = 0,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.1,
-				["BACKA"] = 0.1,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.1,
-				["BORDERR"] = 0.1,
-				["SFOFFSETH"] = 9,
-			}, -- [9]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 5,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.7,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0.04,
-				["SFOFFSETV"] = 0,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.1,
-				["BACKA"] = 0.1,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.1,
-				["BORDERR"] = 0.1,
-				["SFOFFSETH"] = 0,
-			}, -- [10]
-		},
-		["Group"] = {
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 4,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.5,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0,
-				["SFOFFSETV"] = 0,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.1,
-				["BACKA"] = 0.2,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.1,
-				["BORDERR"] = 0.1,
-				["SFOFFSETH"] = 0,
-			}, -- [1]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 5,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.5,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0,
-				["SFOFFSETV"] = 0,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.1,
-				["BACKA"] = 0.2,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.1,
-				["BORDERR"] = 0.1,
-				["SFOFFSETH"] = 0,
-			}, -- [2]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 5,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.5,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0,
-				["SFOFFSETV"] = 0,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.1,
-				["BACKA"] = 0.2,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.1,
-				["BORDERR"] = 0.1,
-				["SFOFFSETH"] = 0,
-			}, -- [3]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 5,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.5,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0,
-				["SFOFFSETV"] = 0,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.1,
-				["BACKA"] = 0.2,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.1,
-				["BORDERR"] = 0.1,
-				["SFOFFSETH"] = 0,
-			}, -- [4]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 5,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.5,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0,
-				["SFOFFSETV"] = 0,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.1,
-				["BACKA"] = 0.2,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.1,
-				["BORDERR"] = 0.1,
-				["SFOFFSETH"] = 0,
-			}, -- [5]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 5,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.5,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0,
-				["SFOFFSETV"] = 0,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.1,
-				["BACKA"] = 0.2,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.1,
-				["BORDERR"] = 0.1,
-				["SFOFFSETH"] = 0,
-			}, -- [6]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 4,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.5,
-				["LOCKED"] = true,
-				["SCALE"] = 1,
-				["BORDERA"] = 0,
-				["SFOFFSETV"] = 0,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.1,
-				["BACKA"] = 0.2,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.1,
-				["BORDERR"] = 0.1,
-				["SFOFFSETH"] = -8,
-			}, -- [7]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 2,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.5,
-				["LOCKED"] = true,
-				["SCALE"] = 1,
-				["BORDERA"] = 0,
-				["SFOFFSETV"] = 0,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.1,
-				["BACKA"] = 0.2,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.1,
-				["BORDERR"] = 0.1,
-				["SFOFFSETH"] = 9,
-			}, -- [8]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 2,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.5,
-				["LOCKED"] = true,
-				["SCALE"] = 1,
-				["BORDERA"] = 0,
-				["SFOFFSETV"] = 9,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.1,
-				["BACKA"] = 0.2,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.1,
-				["BORDERR"] = 0.1,
-				["SFOFFSETH"] = 0,
-			}, -- [9]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 5,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.5,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0,
-				["SFOFFSETV"] = 0,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.1,
-				["BACKA"] = 0.2,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.1,
-				["BORDERR"] = 0.1,
-				["SFOFFSETH"] = 0,
-			}, -- [10]
-		},
-		["Raid 25"] = {
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 5,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.7,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0.04,
-				["SFOFFSETV"] = 0,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.1,
-				["BACKA"] = 0.1,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.1,
-				["BORDERR"] = 0.1,
-				["SFOFFSETH"] = 0,
-			}, -- [1]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 4,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.7,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0.04,
-				["SFOFFSETV"] = -8,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.1,
-				["BACKA"] = 0.1,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.1,
-				["BORDERR"] = 0.1,
-				["SFOFFSETH"] = 0,
-			}, -- [2]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 5,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.7,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0.04,
-				["SFOFFSETV"] = 0,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.1,
-				["BACKA"] = 0.1,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.1,
-				["BORDERR"] = 0.1,
-				["SFOFFSETH"] = 0,
-			}, -- [3]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 5,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.7,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0.04,
-				["SFOFFSETV"] = 0,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.1,
-				["BACKA"] = 0.1,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.1,
-				["BORDERR"] = 0.1,
-				["SFOFFSETH"] = 0,
-			}, -- [4]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 5,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.7,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0.04,
-				["SFOFFSETV"] = 0,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.1,
-				["BACKA"] = 0.1,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.1,
-				["BORDERR"] = 0.1,
-				["SFOFFSETH"] = 0,
-			}, -- [5]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 5,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.7,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0.04,
-				["SFOFFSETV"] = 0,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.1,
-				["BACKA"] = 0.1,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.1,
-				["BORDERR"] = 0.1,
-				["SFOFFSETH"] = 0,
-			}, -- [6]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 3,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.7,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0.04,
-				["SFOFFSETV"] = 0,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.1,
-				["BACKA"] = 0.1,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.1,
-				["BORDERR"] = 0.1,
-				["SFOFFSETH"] = -8,
-			}, -- [7]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 2,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.7,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0.04,
-				["SFOFFSETV"] = 1,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.1,
-				["BACKA"] = 0.1,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.1,
-				["BORDERR"] = 0.1,
-				["SFOFFSETH"] = 9,
-			}, -- [8]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 2,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.7,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0.04,
-				["SFOFFSETV"] = 0,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.1,
-				["BACKA"] = 0.1,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.1,
-				["BORDERR"] = 0.1,
-				["SFOFFSETH"] = 9,
-			}, -- [9]
-			{
-				["BACKR"] = 0.1,
-				["TIPLOC"] = 5,
-				["AUTOCLOSE"] = false,
-				["BACKB"] = 0.7,
-				["LOCKED"] = false,
-				["SCALE"] = 1,
-				["BORDERA"] = 0.04,
-				["SFOFFSETV"] = 0,
-				["BACKG"] = 0.1,
-				["BORDERB"] = 0.1,
-				["BACKA"] = 0.1,
-				["OPENSOUND"] = false,
-				["BORDERG"] = 0.1,
-				["BORDERR"] = 0.1,
-				["SFOFFSETH"] = 0,
-			}, -- [10]
-		},
-	},
-	["Protection"] = {
-		["Standard"] = {
-			["COMBAT"] = false,
-			["GENERALMACRO"] = true,
-			["COMBATPARTY"] = true,
-			["CRASH"] = true,
-			["COMBATRAID"] = true,
-		},
-		["Raid 40"] = {
-			["COMBAT"] = false,
-			["GENERALMACRO"] = true,
-			["COMBATPARTY"] = true,
-			["CRASH"] = false,
-			["COMBATRAID"] = true,
-		},
-		["Group"] = {
-			["COMBAT"] = false,
-			["GENERALMACRO"] = true,
-			["COMBATPARTY"] = true,
-			["CRASH"] = true,
-			["COMBATRAID"] = true,
-		},
-		["Raid 25"] = {
-			["COMBAT"] = false,
-			["GENERALMACRO"] = true,
-			["COMBATPARTY"] = true,
-			["CRASH"] = true,
-			["COMBATRAID"] = true,
-		},
-	},
-	["General"] = {
-		["Standard"] = {
-			["FLUIDFREQ"] = 10,
-			["STICKYSENSITIVITY"] = 20,
-			["FLUIDBARS"] = false,
-			["OFREQ"] = 0.07,
-			["HIDEPTF"] = false,
-			["OMIN"] = 0.1,
-			["HIDERAIDF"] = true,
-			["HIDEBOSSF"] = false,
-			["STICKYFRAME"] = true,
-			["OMAX"] = 0.95,
-			["HIDEPARTYF"] = false,
-		},
-		["Raid 40"] = {
-			["FLUIDFREQ"] = 7,
-			["STICKYSENSITIVITY"] = 30,
-			["FLUIDBARS"] = false,
-			["OFREQ"] = 0.07,
-			["HIDEPTF"] = false,
-			["OMIN"] = 0.1,
-			["HIDERAIDF"] = true,
-			["HIDEBOSSF"] = false,
-			["STICKYFRAME"] = true,
-			["OMAX"] = 0.95,
-			["HIDEPARTYF"] = false,
-		},
-		["Group"] = {
-			["FLUIDFREQ"] = 7,
-			["STICKYSENSITIVITY"] = 20,
-			["FLUIDBARS"] = true,
-			["OFREQ"] = 0.07,
-			["HIDEPTF"] = false,
-			["OMIN"] = 0.1,
-			["HIDERAIDF"] = true,
-			["HIDEBOSSF"] = false,
-			["STICKYFRAME"] = true,
-			["OMAX"] = 0.95,
-			["HIDEPARTYF"] = false,
-		},
-		["Raid 25"] = {
-			["FLUIDFREQ"] = 7,
-			["STICKYSENSITIVITY"] = 30,
-			["FLUIDBARS"] = false,
-			["OFREQ"] = 0.07,
-			["HIDEPTF"] = false,
-			["OMIN"] = 0.1,
-			["HIDERAIDF"] = true,
-			["HIDEBOSSF"] = false,
-			["STICKYFRAME"] = true,
-			["OMAX"] = 0.95,
-			["HIDEPARTYF"] = false,
-		},
-	},
-	["BarTextCol"] = {
-		["Standard"] = {
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.8,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.8,
-			}, -- [1]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.8,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.8,
-			}, -- [2]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.8,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.8,
-			}, -- [3]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.8,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.8,
-			}, -- [4]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.8,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.8,
-			}, -- [5]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.8,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.8,
-			}, -- [6]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.8,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.8,
-			}, -- [7]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.8,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.8,
-			}, -- [8]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.8,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.8,
-			}, -- [9]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.8,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.8,
-			}, -- [10]
-		},
-		["Raid 40"] = {
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.7,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.7,
-			}, -- [1]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.7,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.7,
-			}, -- [2]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.7,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.7,
-			}, -- [3]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.7,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.7,
-			}, -- [4]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.7,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.7,
-			}, -- [5]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.7,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.7,
-			}, -- [6]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.7,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.7,
-			}, -- [7]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.7,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.7,
-			}, -- [8]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.7,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.7,
-			}, -- [9]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.7,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.7,
-			}, -- [10]
-		},
-		["Group"] = {
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.8,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.8,
-			}, -- [1]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.8,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.8,
-			}, -- [2]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.8,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.8,
-			}, -- [3]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.8,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.8,
-			}, -- [4]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.8,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.8,
-			}, -- [5]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.8,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.8,
-			}, -- [6]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.8,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.8,
-			}, -- [7]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.8,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.8,
-			}, -- [8]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.8,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.8,
-			}, -- [9]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.8,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.8,
-			}, -- [10]
-		},
-		["Raid 25"] = {
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.7,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.7,
-			}, -- [1]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.7,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.7,
-			}, -- [2]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.7,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.7,
-			}, -- [3]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.7,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.7,
-			}, -- [4]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.7,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.7,
-			}, -- [5]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.7,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.7,
-			}, -- [6]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.7,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.7,
-			}, -- [7]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.7,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.7,
-			}, -- [8]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.7,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.7,
-			}, -- [9]
-			{
-				["HCG"] = 1,
-				["NCR"] = 1,
-				["NAME"] = 2,
-				["NCDA"] = 0.7,
-				["NCB"] = 0,
-				["NDEBUFF"] = false,
-				["NCG"] = 1,
-				["HCR"] = 1,
-				["HCA"] = 1,
-				["HCB"] = 0,
-				["NCA"] = 1,
-				["HDEBUFF"] = false,
-				["HLTH"] = 2,
-				["HCDA"] = 0.7,
 			}, -- [10]
 		},
 	},
@@ -8510,6 +7076,1256 @@ Healbot_Config_Skins = {
 			}, -- [10]
 		},
 	},
+	["BarText"] = {
+		["Standard"] = {
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "[ OOR ] ",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 1,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "[ RIP ] ",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "[ DC ] ",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "[ R ] ",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [1]
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "[ OOR ] ",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 1,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "[ RIP ] ",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "[ DC ] ",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "[ R ] ",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [2]
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "[ OOR ] ",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 1,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "[ RIP ] ",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "[ DC ] ",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "[ R ] ",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [3]
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "[ OOR ] ",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 1,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "[ RIP ] ",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "[ DC ] ",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "[ R ] ",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [4]
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "[ OOR ] ",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 1,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "[ RIP ] ",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "[ DC ] ",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "[ R ] ",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [5]
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "[ OOR ] ",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 1,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "[ RIP ] ",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "[ DC ] ",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "[ R ] ",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [6]
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "[ OOR ] ",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 1,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "[ RIP ] ",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "[ DC ] ",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "[ R ] ",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [7]
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "[ OOR ] ",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 1,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "[ RIP ] ",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "[ DC ] ",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "[ R ] ",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [8]
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "[ OOR ] ",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 1,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "[ RIP ] ",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "[ DC ] ",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "[ R ] ",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [9]
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "[ OOR ] ",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 1,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "[ RIP ] ",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "[ DC ] ",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "[ R ] ",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [10]
+		},
+		["Raid 40"] = {
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 10,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 3,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [1]
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 3,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [2]
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "[ OOR ] ",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 3,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "[ RIP ] ",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "[ DC ] ",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "[ R ] ",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [3]
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "[ OOR ] ",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 3,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "[ RIP ] ",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "[ DC ] ",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "[ R ] ",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [4]
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "[ OOR ] ",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 3,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "[ RIP ] ",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "[ DC ] ",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "[ R ] ",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [5]
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "[ OOR ] ",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 3,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "[ RIP ] ",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "[ DC ] ",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "[ R ] ",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [6]
+			{
+				["HLTHONBAR"] = false,
+				["TAGOOR"] = "",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 8,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 3,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [7]
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 3,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [8]
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 3,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [9]
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "[ OOR ] ",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 3,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "[ RIP ] ",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "[ DC ] ",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "[ R ] ",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [10]
+		},
+		["Group"] = {
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "[ OOR ] ",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 1,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "[ RIP ] ",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "[ DC ] ",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "[ R ] ",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [1]
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "[ OOR ] ",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 1,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "[ RIP ] ",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "[ DC ] ",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "[ R ] ",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [2]
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "[ OOR ] ",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 1,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "[ RIP ] ",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "[ DC ] ",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "[ R ] ",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [3]
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "[ OOR ] ",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 1,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "[ RIP ] ",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "[ DC ] ",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "[ R ] ",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [4]
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "[ OOR ] ",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 1,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "[ RIP ] ",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "[ DC ] ",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "[ R ] ",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [5]
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "[ OOR ] ",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 1,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "[ RIP ] ",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "[ DC ] ",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "[ R ] ",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [6]
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "[ OOR ] ",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 1,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "[ RIP ] ",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "[ DC ] ",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "[ R ] ",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [7]
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "[ OOR ] ",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 1,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "[ RIP ] ",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "[ DC ] ",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "[ R ] ",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [8]
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "[ OOR ] ",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 1,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "[ RIP ] ",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "[ DC ] ",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "[ R ] ",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [9]
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "[ OOR ] ",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 1,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "[ RIP ] ",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "[ DC ] ",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "[ R ] ",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [10]
+		},
+		["Raid 25"] = {
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 3,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [1]
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 3,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [2]
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "[ OOR ] ",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 3,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "[ RIP ] ",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "[ DC ] ",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "[ R ] ",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [3]
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "[ OOR ] ",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 3,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "[ RIP ] ",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "[ DC ] ",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "[ R ] ",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [4]
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "[ OOR ] ",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 3,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "[ RIP ] ",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "[ DC ] ",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "[ R ] ",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [5]
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "[ OOR ] ",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 3,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "[ RIP ] ",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "[ DC ] ",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "[ R ] ",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [6]
+			{
+				["HLTHONBAR"] = false,
+				["TAGOOR"] = "",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 8,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 3,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [7]
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 3,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [8]
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 3,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [9]
+			{
+				["HLTHONBAR"] = true,
+				["TAGOOR"] = "[ OOR ] ",
+				["IGNOREONFULL"] = true,
+				["MAXCHARS"] = 0,
+				["CLASSONBAR"] = false,
+				["OUTLINE"] = 1,
+				["OVERHEAL"] = 1,
+				["INCHEALS"] = 2,
+				["HLTHTXTANCHOR"] = 1,
+				["FONT"] = "Friz Quadrata TT",
+				["HHEIGHT"] = 10,
+				["OFFSET"] = 0,
+				["NUMFORMAT2"] = 1,
+				["HOFFSET"] = 0,
+				["NUMFORMAT1"] = 11,
+				["HLTHTYPE"] = 3,
+				["NAMEONBAR"] = true,
+				["HEIGHT"] = 10,
+				["TAGRIP"] = "[ RIP ] ",
+				["SHOWROLE"] = true,
+				["HALIGN"] = 2,
+				["TAGDC"] = "[ DC ] ",
+				["HMAXCHARS"] = 0,
+				["HOUTLINE"] = 1,
+				["INCABSORBS"] = 1,
+				["HOFFSET2"] = 0,
+				["ALIGN"] = 2,
+				["TAGR"] = "[ R ] ",
+				["HFONT"] = "Friz Quadrata TT",
+			}, -- [10]
+		},
+	},
 	["FrameAlias"] = {
 		["Standard"] = {
 			{
@@ -9021,1253 +8837,459 @@ Healbot_Config_Skins = {
 			}, -- [10]
 		},
 	},
-	["BarText"] = {
+	["Skins"] = {
+		"Standard", -- [1]
+		"Group", -- [2]
+		"Raid 25", -- [3]
+		"Raid 40", -- [4]
+	},
+	["RaidIcon"] = {
 		["Standard"] = {
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "[ OOR ] ",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 1,
-				["TAGRIP"] = "[ RIP ] ",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "[ DC ] ",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "[ R ] ",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [1]
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "[ OOR ] ",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 1,
-				["TAGRIP"] = "[ RIP ] ",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "[ DC ] ",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "[ R ] ",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [2]
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "[ OOR ] ",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 1,
-				["TAGRIP"] = "[ RIP ] ",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "[ DC ] ",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "[ R ] ",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [3]
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "[ OOR ] ",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 1,
-				["TAGRIP"] = "[ RIP ] ",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "[ DC ] ",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "[ R ] ",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [4]
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "[ OOR ] ",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 1,
-				["TAGRIP"] = "[ RIP ] ",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "[ DC ] ",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "[ R ] ",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [5]
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "[ OOR ] ",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 1,
-				["TAGRIP"] = "[ RIP ] ",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "[ DC ] ",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "[ R ] ",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [6]
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "[ OOR ] ",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 1,
-				["TAGRIP"] = "[ RIP ] ",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "[ DC ] ",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "[ R ] ",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [7]
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "[ OOR ] ",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 1,
-				["TAGRIP"] = "[ RIP ] ",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "[ DC ] ",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "[ R ] ",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [8]
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "[ OOR ] ",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 1,
-				["TAGRIP"] = "[ RIP ] ",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "[ DC ] ",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "[ R ] ",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [9]
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "[ OOR ] ",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 1,
-				["TAGRIP"] = "[ RIP ] ",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "[ DC ] ",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "[ R ] ",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [10]
 		},
 		["Raid 40"] = {
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 10,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 3,
-				["TAGRIP"] = "",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [1]
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 3,
-				["TAGRIP"] = "",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [2]
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "[ OOR ] ",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 3,
-				["TAGRIP"] = "[ RIP ] ",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "[ DC ] ",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "[ R ] ",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [3]
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "[ OOR ] ",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 3,
-				["TAGRIP"] = "[ RIP ] ",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "[ DC ] ",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "[ R ] ",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [4]
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "[ OOR ] ",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 3,
-				["TAGRIP"] = "[ RIP ] ",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "[ DC ] ",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "[ R ] ",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [5]
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "[ OOR ] ",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 3,
-				["TAGRIP"] = "[ RIP ] ",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "[ DC ] ",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "[ R ] ",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [6]
 			{
-				["HLTHONBAR"] = false,
-				["TAGOOR"] = "",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 8,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 3,
-				["TAGRIP"] = "",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [7]
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 3,
-				["TAGRIP"] = "",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [8]
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 3,
-				["TAGRIP"] = "",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [9]
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "[ OOR ] ",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 3,
-				["TAGRIP"] = "[ RIP ] ",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "[ DC ] ",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "[ R ] ",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [10]
 		},
 		["Group"] = {
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "[ OOR ] ",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 1,
-				["TAGRIP"] = "[ RIP ] ",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "[ DC ] ",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "[ R ] ",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [1]
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "[ OOR ] ",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 1,
-				["TAGRIP"] = "[ RIP ] ",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "[ DC ] ",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "[ R ] ",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [2]
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "[ OOR ] ",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 1,
-				["TAGRIP"] = "[ RIP ] ",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "[ DC ] ",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "[ R ] ",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [3]
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "[ OOR ] ",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 1,
-				["TAGRIP"] = "[ RIP ] ",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "[ DC ] ",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "[ R ] ",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [4]
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "[ OOR ] ",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 1,
-				["TAGRIP"] = "[ RIP ] ",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "[ DC ] ",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "[ R ] ",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [5]
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "[ OOR ] ",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 1,
-				["TAGRIP"] = "[ RIP ] ",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "[ DC ] ",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "[ R ] ",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [6]
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "[ OOR ] ",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 1,
-				["TAGRIP"] = "[ RIP ] ",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "[ DC ] ",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "[ R ] ",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [7]
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "[ OOR ] ",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 1,
-				["TAGRIP"] = "[ RIP ] ",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "[ DC ] ",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "[ R ] ",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [8]
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "[ OOR ] ",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 1,
-				["TAGRIP"] = "[ RIP ] ",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "[ DC ] ",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "[ R ] ",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [9]
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "[ OOR ] ",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 1,
-				["TAGRIP"] = "[ RIP ] ",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "[ DC ] ",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "[ R ] ",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [10]
 		},
 		["Raid 25"] = {
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 3,
-				["TAGRIP"] = "",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [1]
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 3,
-				["TAGRIP"] = "",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [2]
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "[ OOR ] ",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 3,
-				["TAGRIP"] = "[ RIP ] ",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "[ DC ] ",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "[ R ] ",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [3]
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "[ OOR ] ",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 3,
-				["TAGRIP"] = "[ RIP ] ",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "[ DC ] ",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "[ R ] ",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [4]
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "[ OOR ] ",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 3,
-				["TAGRIP"] = "[ RIP ] ",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "[ DC ] ",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "[ R ] ",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [5]
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "[ OOR ] ",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 3,
-				["TAGRIP"] = "[ RIP ] ",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "[ DC ] ",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "[ R ] ",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [6]
 			{
-				["HLTHONBAR"] = false,
-				["TAGOOR"] = "",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 8,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 3,
-				["TAGRIP"] = "",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [7]
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 3,
-				["TAGRIP"] = "",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [8]
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 3,
-				["TAGRIP"] = "",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [9]
 			{
-				["HLTHONBAR"] = true,
-				["TAGOOR"] = "[ OOR ] ",
-				["IGNOREONFULL"] = true,
-				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
-				["NAMEONBAR"] = true,
-				["OUTLINE"] = 1,
-				["HHEIGHT"] = 10,
-				["INCHEALS"] = 2,
-				["HLTHTXTANCHOR"] = 1,
-				["FONT"] = "Friz Quadrata TT",
-				["OFFSET"] = 0,
-				["HOFFSET"] = 0,
-				["NUMFORMAT2"] = 1,
-				["HOUTLINE"] = 1,
-				["NUMFORMAT1"] = 11,
-				["HLTHTYPE"] = 3,
-				["TAGRIP"] = "[ RIP ] ",
-				["HEIGHT"] = 10,
-				["OVERHEAL"] = 1,
-				["SHOWROLE"] = true,
-				["HALIGN"] = 2,
-				["TAGDC"] = "[ DC ] ",
-				["HMAXCHARS"] = 0,
-				["INCABSORBS"] = 1,
-				["HOFFSET2"] = 0,
-				["ALIGN"] = 2,
-				["TAGR"] = "[ R ] ",
-				["HFONT"] = "Friz Quadrata TT",
+				["SQUARE"] = true,
+				["CIRCLE"] = true,
+				["DIAMOND"] = true,
+				["SHOW"] = true,
+				["MOON"] = true,
+				["TRIANGLE"] = true,
+				["STAR"] = true,
+				["CROSS"] = true,
+				["SKULL"] = true,
 			}, -- [10]
 		},
 	},
@@ -10761,6 +9783,479 @@ Healbot_Config_Skins = {
 			}, -- [10]
 		},
 	},
+	["Enemy"] = {
+		["Standard"] = {
+			["INCARENA"] = true,
+			["INCTANKS"] = true,
+			["INCMYTAR"] = false,
+			["ENEMYTARGET"] = false,
+			["ENEMYTARGETSIZE"] = 40,
+			["INCARENAPETS"] = false,
+			["HIDE"] = true,
+			["NUMBOSS"] = 2,
+			["EXISTSHOWPTAR"] = false,
+			["INCSELF"] = false,
+			["EXISTSHOWBOSS"] = true,
+			["DOUBLEWIDTH"] = false,
+			["EXISTSHOWARENA"] = true,
+		},
+		["Raid 40"] = {
+			["INCARENA"] = true,
+			["INCTANKS"] = true,
+			["INCMYTAR"] = false,
+			["ENEMYTARGET"] = false,
+			["ENEMYTARGETSIZE"] = 40,
+			["INCARENAPETS"] = false,
+			["HIDE"] = true,
+			["NUMBOSS"] = 2,
+			["EXISTSHOWPTAR"] = false,
+			["INCSELF"] = false,
+			["EXISTSHOWBOSS"] = true,
+			["DOUBLEWIDTH"] = false,
+			["EXISTSHOWARENA"] = true,
+		},
+		["Group"] = {
+			["INCARENA"] = true,
+			["INCTANKS"] = true,
+			["INCMYTAR"] = false,
+			["ENEMYTARGET"] = false,
+			["ENEMYTARGETSIZE"] = 40,
+			["INCARENAPETS"] = false,
+			["HIDE"] = true,
+			["NUMBOSS"] = 2,
+			["EXISTSHOWPTAR"] = false,
+			["INCSELF"] = false,
+			["EXISTSHOWBOSS"] = true,
+			["DOUBLEWIDTH"] = false,
+			["EXISTSHOWARENA"] = true,
+		},
+		["Raid 25"] = {
+			["INCARENA"] = true,
+			["INCTANKS"] = true,
+			["INCMYTAR"] = false,
+			["ENEMYTARGET"] = false,
+			["ENEMYTARGETSIZE"] = 40,
+			["INCARENAPETS"] = false,
+			["HIDE"] = true,
+			["NUMBOSS"] = 2,
+			["EXISTSHOWPTAR"] = false,
+			["INCSELF"] = false,
+			["EXISTSHOWBOSS"] = true,
+			["DOUBLEWIDTH"] = false,
+			["EXISTSHOWARENA"] = true,
+		},
+	},
+	["IncludeGroup"] = {
+		["Standard"] = {
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [1]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [2]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [3]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [4]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [5]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [6]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [7]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [8]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [9]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [10]
+		},
+		["Raid 40"] = {
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [1]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [2]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [3]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [4]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [5]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [6]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [7]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [8]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [9]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [10]
+		},
+		["Group"] = {
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [1]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [2]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [3]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [4]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [5]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [6]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [7]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [8]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [9]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [10]
+		},
+		["Raid 25"] = {
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [1]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [2]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [3]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [4]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [5]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [6]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [7]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [8]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [9]
+			{
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			}, -- [10]
+		},
+	},
+	["Skin_ID"] = 1,
 	["StickyFrames"] = {
 		["Standard"] = {
 			{
@@ -13603,743 +13098,863 @@ Healbot_Config_Skins = {
 			}, -- [10]
 		},
 	},
-	["AuxBarFrame"] = {
+	["BarAggro"] = {
 		["Standard"] = {
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [1]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [2]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [3]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [4]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [5]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [6]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [7]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [8]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [9]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [10]
 		},
 		["Raid 40"] = {
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [1]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [2]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [3]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [4]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [5]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [6]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [7]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [8]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [9]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [10]
 		},
 		["Group"] = {
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [1]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [2]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [3]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [4]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [5]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [6]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [7]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [8]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [9]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [10]
 		},
 		["Raid 25"] = {
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [1]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [2]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [3]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [4]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [5]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [6]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [7]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [8]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [9]
 			{
-				["OVERLAP"] = 1,
+				["R"] = 1,
+				["ALERTIND"] = 2,
+				["G"] = 0,
+				["TEXTFORMAT"] = 3,
+				["SHOW"] = true,
+				["SHOWTEXTPCT"] = false,
+				["SHOWIND"] = true,
+				["B"] = 0,
+				["SHOWTEXT"] = false,
+				["ALERT"] = 3,
 			}, -- [10]
 		},
 	},
-	["BarCol"] = {
+	["FrameAliasBar"] = {
 		["Standard"] = {
 			{
-				["BACK"] = 1,
-				["BA"] = 0,
-				["BB"] = 0.7,
-				["DISA"] = 0.1,
-				["BR"] = 0.4,
-				["HB"] = 0.7,
-				["BOUT"] = 2,
-				["HG"] = 0.4,
-				["HA"] = 1,
-				["HR"] = 0.4,
-				["ORA"] = 0.4,
-				["BG"] = 0.4,
-				["HLTH"] = 1,
+				["A"] = 0.4,
+				["TEXTURE"] = "HealBot 10",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.7,
+				["WIDTH"] = 0.7,
 			}, -- [1]
 			{
-				["BACK"] = 1,
-				["BA"] = 0,
-				["BB"] = 0.7,
-				["DISA"] = 0.1,
-				["BR"] = 0.4,
-				["HB"] = 0.7,
-				["BOUT"] = 2,
-				["HG"] = 0.4,
-				["HA"] = 1,
-				["HR"] = 0.4,
-				["ORA"] = 0.4,
-				["BG"] = 0.4,
-				["HLTH"] = 1,
+				["A"] = 0.4,
+				["TEXTURE"] = "HealBot 10",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.7,
+				["WIDTH"] = 0.7,
 			}, -- [2]
 			{
-				["BACK"] = 1,
-				["BA"] = 0,
-				["BB"] = 0.7,
-				["DISA"] = 0.1,
-				["BR"] = 0.4,
-				["HB"] = 0.7,
-				["BOUT"] = 2,
-				["HG"] = 0.4,
-				["HA"] = 1,
-				["HR"] = 0.4,
-				["ORA"] = 0.4,
-				["BG"] = 0.4,
-				["HLTH"] = 1,
+				["A"] = 0.4,
+				["TEXTURE"] = "HealBot 10",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.7,
+				["WIDTH"] = 0.7,
 			}, -- [3]
 			{
-				["BACK"] = 1,
-				["BA"] = 0,
-				["BB"] = 0.7,
-				["DISA"] = 0.1,
-				["BR"] = 0.4,
-				["HB"] = 0.7,
-				["BOUT"] = 2,
-				["HG"] = 0.4,
-				["HA"] = 1,
-				["HR"] = 0.4,
-				["ORA"] = 0.4,
-				["BG"] = 0.4,
-				["HLTH"] = 1,
+				["A"] = 0.4,
+				["TEXTURE"] = "HealBot 10",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.7,
+				["WIDTH"] = 0.7,
 			}, -- [4]
 			{
-				["BACK"] = 1,
-				["BA"] = 0,
-				["BB"] = 0.7,
-				["DISA"] = 0.1,
-				["BR"] = 0.4,
-				["HB"] = 0.7,
-				["BOUT"] = 2,
-				["HG"] = 0.4,
-				["HA"] = 1,
-				["HR"] = 0.4,
-				["ORA"] = 0.4,
-				["BG"] = 0.4,
-				["HLTH"] = 1,
+				["A"] = 0.4,
+				["TEXTURE"] = "HealBot 10",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.7,
+				["WIDTH"] = 0.7,
 			}, -- [5]
 			{
-				["BACK"] = 1,
-				["BA"] = 0,
-				["BB"] = 0.7,
-				["DISA"] = 0.1,
-				["BR"] = 0.4,
-				["HB"] = 0.7,
-				["BOUT"] = 2,
-				["HG"] = 0.4,
-				["HA"] = 1,
-				["HR"] = 0.4,
-				["ORA"] = 0.4,
-				["BG"] = 0.4,
-				["HLTH"] = 1,
+				["A"] = 0.4,
+				["TEXTURE"] = "HealBot 10",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.7,
+				["WIDTH"] = 0.7,
 			}, -- [6]
 			{
-				["BACK"] = 1,
-				["BA"] = 0,
-				["BB"] = 0.7,
-				["DISA"] = 0.1,
-				["BR"] = 0.4,
-				["HB"] = 0.7,
-				["BOUT"] = 2,
-				["HG"] = 0.4,
-				["HA"] = 1,
-				["HR"] = 0.4,
-				["ORA"] = 0.4,
-				["BG"] = 0.4,
-				["HLTH"] = 1,
+				["A"] = 0.4,
+				["TEXTURE"] = "HealBot 10",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.7,
+				["WIDTH"] = 0.7,
 			}, -- [7]
 			{
-				["BACK"] = 1,
-				["BA"] = 0,
-				["BB"] = 0.7,
-				["DISA"] = 0.1,
-				["BR"] = 0.4,
-				["HB"] = 0.7,
-				["BOUT"] = 2,
-				["HG"] = 0.4,
-				["HA"] = 1,
-				["HR"] = 0.4,
-				["ORA"] = 0.4,
-				["BG"] = 0.4,
-				["HLTH"] = 1,
+				["A"] = 0.4,
+				["TEXTURE"] = "HealBot 10",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.7,
+				["WIDTH"] = 0.7,
 			}, -- [8]
 			{
-				["BACK"] = 1,
-				["BA"] = 0,
-				["BB"] = 0.7,
-				["DISA"] = 0.1,
-				["BR"] = 0.4,
-				["HB"] = 0.7,
-				["BOUT"] = 2,
-				["HG"] = 0.4,
-				["HA"] = 1,
-				["HR"] = 0.4,
-				["ORA"] = 0.4,
-				["BG"] = 0.4,
-				["HLTH"] = 1,
+				["A"] = 0.4,
+				["TEXTURE"] = "HealBot 10",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.7,
+				["WIDTH"] = 0.7,
 			}, -- [9]
 			{
-				["BACK"] = 1,
-				["BA"] = 0,
-				["BB"] = 0.7,
-				["DISA"] = 0.1,
-				["BR"] = 0.4,
-				["HB"] = 0.7,
-				["BOUT"] = 2,
-				["HG"] = 0.4,
-				["HA"] = 1,
-				["HR"] = 0.4,
-				["ORA"] = 0.4,
-				["BG"] = 0.4,
-				["HLTH"] = 1,
+				["A"] = 0.4,
+				["TEXTURE"] = "HealBot 10",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.7,
+				["WIDTH"] = 0.7,
 			}, -- [10]
 		},
 		["Raid 40"] = {
 			{
-				["BACK"] = 2,
-				["BA"] = 0.05,
-				["BB"] = 0.4,
-				["DISA"] = 0.12,
-				["BR"] = 0.2,
-				["HB"] = 0.4,
-				["BOUT"] = 1,
-				["HG"] = 0.4,
-				["HA"] = 0.95,
-				["HR"] = 0.2,
-				["ORA"] = 0.3,
-				["BG"] = 0.4,
-				["HLTH"] = 2,
+				["A"] = 0.2,
+				["TEXTURE"] = "Skewed",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.1,
+				["WIDTH"] = 0.9,
 			}, -- [1]
 			{
-				["BACK"] = 2,
-				["BA"] = 0.05,
-				["BB"] = 0.4,
-				["DISA"] = 0.12,
-				["BR"] = 0.2,
-				["HB"] = 0.4,
-				["BOUT"] = 1,
-				["HG"] = 0.4,
-				["HA"] = 0.95,
-				["HR"] = 0.2,
-				["ORA"] = 0.3,
-				["BG"] = 0.4,
-				["HLTH"] = 2,
+				["A"] = 0.2,
+				["TEXTURE"] = "Skewed",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.1,
+				["WIDTH"] = 0.9,
 			}, -- [2]
 			{
-				["BACK"] = 2,
-				["BA"] = 0.05,
-				["BB"] = 0.4,
-				["DISA"] = 0.12,
-				["BR"] = 0.2,
-				["HB"] = 0.4,
-				["BOUT"] = 1,
-				["HG"] = 0.4,
-				["HA"] = 0.95,
-				["HR"] = 0.2,
-				["ORA"] = 0.3,
-				["BG"] = 0.4,
-				["HLTH"] = 2,
+				["A"] = 0.2,
+				["TEXTURE"] = "Skewed",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.1,
+				["WIDTH"] = 0.9,
 			}, -- [3]
 			{
-				["BACK"] = 2,
-				["BA"] = 0.05,
-				["BB"] = 0.4,
-				["DISA"] = 0.12,
-				["BR"] = 0.2,
-				["HB"] = 0.4,
-				["BOUT"] = 1,
-				["HG"] = 0.4,
-				["HA"] = 0.95,
-				["HR"] = 0.2,
-				["ORA"] = 0.3,
-				["BG"] = 0.4,
-				["HLTH"] = 2,
+				["A"] = 0.2,
+				["TEXTURE"] = "Skewed",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.1,
+				["WIDTH"] = 0.9,
 			}, -- [4]
 			{
-				["BACK"] = 2,
-				["BA"] = 0.05,
-				["BB"] = 0.4,
-				["DISA"] = 0.12,
-				["BR"] = 0.2,
-				["HB"] = 0.4,
-				["BOUT"] = 1,
-				["HG"] = 0.4,
-				["HA"] = 0.95,
-				["HR"] = 0.2,
-				["ORA"] = 0.3,
-				["BG"] = 0.4,
-				["HLTH"] = 2,
+				["A"] = 0.2,
+				["TEXTURE"] = "Skewed",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.1,
+				["WIDTH"] = 0.9,
 			}, -- [5]
 			{
-				["BACK"] = 2,
-				["BA"] = 0.05,
-				["BB"] = 0.4,
-				["DISA"] = 0.12,
-				["BR"] = 0.2,
-				["HB"] = 0.4,
-				["BOUT"] = 1,
-				["HG"] = 0.4,
-				["HA"] = 0.95,
-				["HR"] = 0.2,
-				["ORA"] = 0.3,
-				["BG"] = 0.4,
-				["HLTH"] = 2,
+				["A"] = 0.2,
+				["TEXTURE"] = "Skewed",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.1,
+				["WIDTH"] = 0.9,
 			}, -- [6]
 			{
-				["BACK"] = 2,
-				["BA"] = 0.05,
-				["BB"] = 0.4,
-				["DISA"] = 0.12,
-				["BR"] = 0.2,
-				["HB"] = 0.4,
-				["BOUT"] = 1,
-				["HG"] = 0.4,
-				["HA"] = 0.95,
-				["HR"] = 0.2,
-				["ORA"] = 0.3,
-				["BG"] = 0.4,
-				["HLTH"] = 2,
+				["A"] = 0.2,
+				["TEXTURE"] = "Skewed",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.1,
+				["WIDTH"] = 0.9,
 			}, -- [7]
 			{
-				["BACK"] = 2,
-				["BA"] = 0.05,
-				["BB"] = 0.4,
-				["DISA"] = 0.12,
-				["BR"] = 0.2,
-				["HB"] = 0.4,
-				["BOUT"] = 1,
-				["HG"] = 0.4,
-				["HA"] = 0.95,
-				["HR"] = 0.2,
-				["ORA"] = 0.3,
-				["BG"] = 0.4,
-				["HLTH"] = 2,
+				["A"] = 0.2,
+				["TEXTURE"] = "Skewed",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.1,
+				["WIDTH"] = 0.9,
 			}, -- [8]
 			{
-				["BACK"] = 2,
-				["BA"] = 0.05,
-				["BB"] = 0.4,
-				["DISA"] = 0.12,
-				["BR"] = 0.2,
-				["HB"] = 0.4,
-				["BOUT"] = 1,
-				["HG"] = 0.4,
-				["HA"] = 0.95,
-				["HR"] = 0.2,
-				["ORA"] = 0.3,
-				["BG"] = 0.4,
-				["HLTH"] = 2,
+				["A"] = 0.2,
+				["TEXTURE"] = "Skewed",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.1,
+				["WIDTH"] = 0.9,
 			}, -- [9]
 			{
-				["BACK"] = 2,
-				["BA"] = 0.05,
-				["BB"] = 0.4,
-				["DISA"] = 0.12,
-				["BR"] = 0.2,
-				["HB"] = 0.4,
-				["BOUT"] = 1,
-				["HG"] = 0.4,
-				["HA"] = 0.95,
-				["HR"] = 0.2,
-				["ORA"] = 0.3,
-				["BG"] = 0.4,
-				["HLTH"] = 2,
+				["A"] = 0.2,
+				["TEXTURE"] = "Skewed",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.1,
+				["WIDTH"] = 0.9,
 			}, -- [10]
 		},
 		["Group"] = {
 			{
-				["BACK"] = 1,
-				["BA"] = 0,
-				["BB"] = 1,
-				["DISA"] = 0.05,
-				["BR"] = 1,
-				["HB"] = 1,
-				["BOUT"] = 0,
-				["HG"] = 1,
-				["HA"] = 0.98,
-				["HR"] = 1,
-				["ORA"] = 0.35,
-				["BG"] = 1,
-				["HLTH"] = 2,
+				["A"] = 0.25,
+				["TEXTURE"] = "Diagonal",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.1,
+				["WIDTH"] = 0.9,
 			}, -- [1]
 			{
-				["BACK"] = 1,
-				["BA"] = 0.1,
-				["BB"] = 1,
-				["DISA"] = 0.05,
-				["BR"] = 1,
-				["HB"] = 1,
-				["BOUT"] = 0,
-				["HG"] = 1,
-				["HA"] = 0.98,
-				["HR"] = 1,
-				["ORA"] = 0.35,
-				["BG"] = 1,
-				["HLTH"] = 2,
+				["A"] = 0.25,
+				["TEXTURE"] = "Diagonal",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.1,
+				["WIDTH"] = 0.9,
 			}, -- [2]
 			{
-				["BACK"] = 1,
-				["BA"] = 0.1,
-				["BB"] = 1,
-				["DISA"] = 0.05,
-				["BR"] = 1,
-				["HB"] = 1,
-				["BOUT"] = 0,
-				["HG"] = 1,
-				["HA"] = 0.98,
-				["HR"] = 1,
-				["ORA"] = 0.35,
-				["BG"] = 1,
-				["HLTH"] = 1,
+				["A"] = 0.25,
+				["TEXTURE"] = "Diagonal",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.1,
+				["WIDTH"] = 0.9,
 			}, -- [3]
 			{
-				["BACK"] = 1,
-				["BA"] = 0.1,
-				["BB"] = 1,
-				["DISA"] = 0.05,
-				["BR"] = 1,
-				["HB"] = 1,
-				["BOUT"] = 0,
-				["HG"] = 1,
-				["HA"] = 0.98,
-				["HR"] = 1,
-				["ORA"] = 0.35,
-				["BG"] = 1,
-				["HLTH"] = 1,
+				["A"] = 0.25,
+				["TEXTURE"] = "Diagonal",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.1,
+				["WIDTH"] = 0.9,
 			}, -- [4]
 			{
-				["BACK"] = 1,
-				["BA"] = 0.1,
-				["BB"] = 1,
-				["DISA"] = 0.05,
-				["BR"] = 1,
-				["HB"] = 1,
-				["BOUT"] = 0,
-				["HG"] = 1,
-				["HA"] = 0.98,
-				["HR"] = 1,
-				["ORA"] = 0.35,
-				["BG"] = 1,
-				["HLTH"] = 1,
+				["A"] = 0.25,
+				["TEXTURE"] = "Diagonal",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.1,
+				["WIDTH"] = 0.9,
 			}, -- [5]
 			{
-				["BACK"] = 1,
-				["BA"] = 0.1,
-				["BB"] = 1,
-				["DISA"] = 0.05,
-				["BR"] = 1,
-				["HB"] = 1,
-				["BOUT"] = 0,
-				["HG"] = 1,
-				["HA"] = 0.98,
-				["HR"] = 1,
-				["ORA"] = 0.35,
-				["BG"] = 1,
-				["HLTH"] = 1,
+				["A"] = 0.25,
+				["TEXTURE"] = "Diagonal",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.1,
+				["WIDTH"] = 0.9,
 			}, -- [6]
 			{
-				["BACK"] = 1,
-				["BA"] = 0.1,
-				["BB"] = 1,
-				["DISA"] = 0.05,
-				["BR"] = 1,
-				["HB"] = 0.8,
-				["BOUT"] = 0,
-				["HG"] = 0.8,
-				["HA"] = 0.98,
-				["HR"] = 0.7,
-				["ORA"] = 0.35,
-				["BG"] = 1,
-				["HLTH"] = 3,
+				["A"] = 0.25,
+				["TEXTURE"] = "Diagonal",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.1,
+				["WIDTH"] = 0.9,
 			}, -- [7]
 			{
-				["BACK"] = 1,
-				["BA"] = 0.1,
-				["BB"] = 1,
-				["DISA"] = 0.05,
-				["BR"] = 1,
-				["HB"] = 1,
-				["BOUT"] = 0,
-				["HG"] = 1,
-				["HA"] = 0.98,
-				["HR"] = 1,
-				["ORA"] = 0.35,
-				["BG"] = 1,
-				["HLTH"] = 2,
+				["A"] = 0.25,
+				["TEXTURE"] = "Diagonal",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.1,
+				["WIDTH"] = 0.9,
 			}, -- [8]
 			{
-				["BACK"] = 1,
-				["BA"] = 0.1,
-				["BB"] = 1,
-				["DISA"] = 0.05,
-				["BR"] = 1,
-				["HB"] = 1,
-				["BOUT"] = 0,
-				["HG"] = 1,
-				["HA"] = 0.98,
-				["HR"] = 1,
-				["ORA"] = 0.35,
-				["BG"] = 1,
-				["HLTH"] = 2,
+				["A"] = 0.25,
+				["TEXTURE"] = "Diagonal",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.1,
+				["WIDTH"] = 0.9,
 			}, -- [9]
 			{
-				["BACK"] = 1,
-				["BA"] = 0.1,
-				["BB"] = 1,
-				["DISA"] = 0.05,
-				["BR"] = 1,
-				["HB"] = 1,
-				["BOUT"] = 0,
-				["HG"] = 1,
-				["HA"] = 0.98,
-				["HR"] = 1,
-				["ORA"] = 0.35,
-				["BG"] = 1,
-				["HLTH"] = 2,
+				["A"] = 0.25,
+				["TEXTURE"] = "Diagonal",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.1,
+				["WIDTH"] = 0.9,
 			}, -- [10]
 		},
 		["Raid 25"] = {
 			{
-				["BACK"] = 2,
-				["BA"] = 0.05,
-				["BB"] = 0.4,
-				["DISA"] = 0.12,
-				["BR"] = 0.2,
-				["HB"] = 0.4,
-				["BOUT"] = 1,
-				["HG"] = 0.4,
-				["HA"] = 0.95,
-				["HR"] = 0.2,
-				["ORA"] = 0.3,
-				["BG"] = 0.4,
-				["HLTH"] = 2,
+				["A"] = 0.25,
+				["TEXTURE"] = "Skewed",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.1,
+				["WIDTH"] = 0.9,
 			}, -- [1]
 			{
-				["BACK"] = 2,
-				["BA"] = 0.05,
-				["BB"] = 0.4,
-				["DISA"] = 0.12,
-				["BR"] = 0.2,
-				["HB"] = 0.4,
-				["BOUT"] = 1,
-				["HG"] = 0.4,
-				["HA"] = 0.95,
-				["HR"] = 0.2,
-				["ORA"] = 0.3,
-				["BG"] = 0.4,
-				["HLTH"] = 2,
+				["A"] = 0.25,
+				["TEXTURE"] = "Skewed",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.1,
+				["WIDTH"] = 0.9,
 			}, -- [2]
 			{
-				["BACK"] = 2,
-				["BA"] = 0.05,
-				["BB"] = 0.4,
-				["DISA"] = 0.12,
-				["BR"] = 0.2,
-				["HB"] = 0.4,
-				["BOUT"] = 1,
-				["HG"] = 0.4,
-				["HA"] = 0.95,
-				["HR"] = 0.2,
-				["ORA"] = 0.3,
-				["BG"] = 0.4,
-				["HLTH"] = 2,
+				["A"] = 0.25,
+				["TEXTURE"] = "Skewed",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.1,
+				["WIDTH"] = 0.9,
 			}, -- [3]
 			{
-				["BACK"] = 2,
-				["BA"] = 0.05,
-				["BB"] = 0.4,
-				["DISA"] = 0.12,
-				["BR"] = 0.2,
-				["HB"] = 0.4,
-				["BOUT"] = 1,
-				["HG"] = 0.4,
-				["HA"] = 0.95,
-				["HR"] = 0.2,
-				["ORA"] = 0.3,
-				["BG"] = 0.4,
-				["HLTH"] = 2,
+				["A"] = 0.25,
+				["TEXTURE"] = "Skewed",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.1,
+				["WIDTH"] = 0.9,
 			}, -- [4]
 			{
-				["BACK"] = 2,
-				["BA"] = 0.05,
-				["BB"] = 0.4,
-				["DISA"] = 0.12,
-				["BR"] = 0.2,
-				["HB"] = 0.4,
-				["BOUT"] = 1,
-				["HG"] = 0.4,
-				["HA"] = 0.95,
-				["HR"] = 0.2,
-				["ORA"] = 0.3,
-				["BG"] = 0.4,
-				["HLTH"] = 2,
+				["A"] = 0.25,
+				["TEXTURE"] = "Skewed",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.1,
+				["WIDTH"] = 0.9,
 			}, -- [5]
 			{
-				["BACK"] = 2,
-				["BA"] = 0.05,
-				["BB"] = 0.4,
-				["DISA"] = 0.12,
-				["BR"] = 0.2,
-				["HB"] = 0.4,
-				["BOUT"] = 1,
-				["HG"] = 0.4,
-				["HA"] = 0.95,
-				["HR"] = 0.2,
-				["ORA"] = 0.3,
-				["BG"] = 0.4,
-				["HLTH"] = 2,
+				["A"] = 0.25,
+				["TEXTURE"] = "Skewed",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.1,
+				["WIDTH"] = 0.9,
 			}, -- [6]
 			{
-				["BACK"] = 2,
-				["BA"] = 0.05,
-				["BB"] = 0.4,
-				["DISA"] = 0.12,
-				["BR"] = 0.2,
-				["HB"] = 0.4,
-				["BOUT"] = 1,
-				["HG"] = 0.4,
-				["HA"] = 0.95,
-				["HR"] = 0.2,
-				["ORA"] = 0.3,
-				["BG"] = 0.4,
-				["HLTH"] = 2,
+				["A"] = 0.25,
+				["TEXTURE"] = "Skewed",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.1,
+				["WIDTH"] = 0.9,
 			}, -- [7]
 			{
-				["BACK"] = 2,
-				["BA"] = 0.05,
-				["BB"] = 0.4,
-				["DISA"] = 0.12,
-				["BR"] = 0.2,
-				["HB"] = 0.4,
-				["BOUT"] = 1,
-				["HG"] = 0.4,
-				["HA"] = 0.95,
-				["HR"] = 0.2,
-				["ORA"] = 0.3,
-				["BG"] = 0.4,
-				["HLTH"] = 2,
+				["A"] = 0.25,
+				["TEXTURE"] = "Skewed",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.1,
+				["WIDTH"] = 0.9,
 			}, -- [8]
 			{
-				["BACK"] = 2,
-				["BA"] = 0.05,
-				["BB"] = 0.4,
-				["DISA"] = 0.12,
-				["BR"] = 0.2,
-				["HB"] = 0.4,
-				["BOUT"] = 1,
-				["HG"] = 0.4,
-				["HA"] = 0.95,
-				["HR"] = 0.2,
-				["ORA"] = 0.3,
-				["BG"] = 0.4,
-				["HLTH"] = 2,
+				["A"] = 0.25,
+				["TEXTURE"] = "Skewed",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.1,
+				["WIDTH"] = 0.9,
 			}, -- [9]
 			{
-				["BACK"] = 2,
-				["BA"] = 0.05,
-				["BB"] = 0.4,
-				["DISA"] = 0.12,
-				["BR"] = 0.2,
-				["HB"] = 0.4,
-				["BOUT"] = 1,
-				["HG"] = 0.4,
-				["HA"] = 0.95,
-				["HR"] = 0.2,
-				["ORA"] = 0.3,
-				["BG"] = 0.4,
-				["HLTH"] = 2,
+				["A"] = 0.25,
+				["TEXTURE"] = "Skewed",
+				["B"] = 0.1,
+				["HEIGHT"] = 20,
+				["R"] = 0.1,
+				["G"] = 0.1,
+				["WIDTH"] = 0.9,
 			}, -- [10]
 		},
 	},
@@ -15153,35 +14768,1240 @@ Healbot_Config_Skins = {
 			}, -- [10]
 		},
 	},
-	["Current_Skin"] = "Standard",
-	["Chat"] = {
+	["Author"] = {
+		["Standard"] = "Monti of Terenas",
+		["Raid 40"] = "Monti of Terenas",
+		["Group"] = "Monti of Terenas",
+		["Raid 25"] = "Monti of Terenas",
+	},
+	["Anchors"] = {
 		["Standard"] = {
-			["EOCOOM"] = false,
-			["EOCOOMV"] = 20,
-			["MSG"] = "Casting #s on #n",
-			["RESONLY"] = true,
-			["NOTIFY"] = 1,
+			{
+				["Y"] = 68.39,
+				["GROW"] = 2,
+				["BARS"] = 3,
+				["FRAME"] = 3,
+				["X"] = 71.22,
+			}, -- [1]
+			{
+				["Y"] = 51,
+				["GROW"] = 2,
+				["BARS"] = 3,
+				["FRAME"] = 3,
+				["X"] = 51,
+			}, -- [2]
+			{
+				["Y"] = 52,
+				["GROW"] = 2,
+				["BARS"] = 3,
+				["FRAME"] = 3,
+				["X"] = 52,
+			}, -- [3]
+			{
+				["Y"] = 53,
+				["GROW"] = 2,
+				["BARS"] = 3,
+				["FRAME"] = 3,
+				["X"] = 53,
+			}, -- [4]
+			{
+				["Y"] = 54,
+				["GROW"] = 2,
+				["BARS"] = 3,
+				["FRAME"] = 3,
+				["X"] = 54,
+			}, -- [5]
+			{
+				["Y"] = 55,
+				["GROW"] = 2,
+				["BARS"] = 3,
+				["FRAME"] = 3,
+				["X"] = 55,
+			}, -- [6]
+			{
+				["Y"] = 56,
+				["GROW"] = 2,
+				["BARS"] = 3,
+				["FRAME"] = 3,
+				["X"] = 56,
+			}, -- [7]
+			{
+				["Y"] = 67.63,
+				["GROW"] = 2,
+				["BARS"] = 3,
+				["FRAME"] = 2,
+				["X"] = 62.72,
+			}, -- [8]
+			{
+				["Y"] = 63,
+				["GROW"] = 2,
+				["BARS"] = 3,
+				["FRAME"] = 3,
+				["X"] = 21,
+			}, -- [9]
+			{
+				["Y"] = 59,
+				["GROW"] = 2,
+				["BARS"] = 3,
+				["FRAME"] = 3,
+				["X"] = 59,
+			}, -- [10]
 		},
 		["Raid 40"] = {
-			["EOCOOM"] = false,
-			["EOCOOMV"] = 20,
-			["MSG"] = "Casting #s on #n",
-			["RESONLY"] = true,
-			["NOTIFY"] = 1,
+			{
+				["Y"] = 64,
+				["GROW"] = 2,
+				["BARS"] = 3,
+				["FRAME"] = 3,
+				["X"] = 88,
+			}, -- [1]
+			{
+				["Y"] = 67.2,
+				["GROW"] = 2,
+				["BARS"] = 1,
+				["FRAME"] = 3,
+				["X"] = 88,
+			}, -- [2]
+			{
+				["Y"] = 52,
+				["GROW"] = 2,
+				["BARS"] = 1,
+				["FRAME"] = 1,
+				["X"] = 52,
+			}, -- [3]
+			{
+				["Y"] = 53,
+				["GROW"] = 2,
+				["BARS"] = 1,
+				["FRAME"] = 1,
+				["X"] = 53,
+			}, -- [4]
+			{
+				["Y"] = 54,
+				["GROW"] = 2,
+				["BARS"] = 1,
+				["FRAME"] = 1,
+				["X"] = 54,
+			}, -- [5]
+			{
+				["Y"] = 55,
+				["GROW"] = 2,
+				["BARS"] = 1,
+				["FRAME"] = 1,
+				["X"] = 55,
+			}, -- [6]
+			{
+				["Y"] = 64,
+				["GROW"] = 2,
+				["BARS"] = 1,
+				["FRAME"] = 1,
+				["X"] = 87.7,
+			}, -- [7]
+			{
+				["Y"] = 64.1,
+				["GROW"] = 2,
+				["BARS"] = 1,
+				["FRAME"] = 1,
+				["X"] = 74.2,
+			}, -- [8]
+			{
+				["Y"] = 53.8,
+				["GROW"] = 2,
+				["BARS"] = 1,
+				["FRAME"] = 1,
+				["X"] = 74.2,
+			}, -- [9]
+			{
+				["Y"] = 59,
+				["GROW"] = 2,
+				["BARS"] = 1,
+				["FRAME"] = 1,
+				["X"] = 59,
+			}, -- [10]
 		},
 		["Group"] = {
-			["EOCOOM"] = false,
-			["EOCOOMV"] = 20,
-			["MSG"] = "Casting #s on #n",
-			["RESONLY"] = true,
-			["NOTIFY"] = 1,
+			{
+				["Y"] = 69,
+				["GROW"] = 2,
+				["BARS"] = 1,
+				["FRAME"] = 1,
+				["X"] = 82,
+			}, -- [1]
+			{
+				["Y"] = 51,
+				["GROW"] = 2,
+				["BARS"] = 1,
+				["FRAME"] = 1,
+				["X"] = 51,
+			}, -- [2]
+			{
+				["Y"] = 52,
+				["GROW"] = 2,
+				["BARS"] = 1,
+				["FRAME"] = 1,
+				["X"] = 52,
+			}, -- [3]
+			{
+				["Y"] = 53,
+				["GROW"] = 2,
+				["BARS"] = 1,
+				["FRAME"] = 1,
+				["X"] = 53,
+			}, -- [4]
+			{
+				["Y"] = 54,
+				["GROW"] = 2,
+				["BARS"] = 1,
+				["FRAME"] = 1,
+				["X"] = 54,
+			}, -- [5]
+			{
+				["Y"] = 55,
+				["GROW"] = 2,
+				["BARS"] = 1,
+				["FRAME"] = 1,
+				["X"] = 55,
+			}, -- [6]
+			{
+				["Y"] = 69,
+				["GROW"] = 2,
+				["BARS"] = 1,
+				["FRAME"] = 1,
+				["X"] = 87.6,
+			}, -- [7]
+			{
+				["Y"] = 31,
+				["GROW"] = 2,
+				["BARS"] = 1,
+				["FRAME"] = 1,
+				["X"] = 88,
+			}, -- [8]
+			{
+				["Y"] = 28,
+				["GROW"] = 2,
+				["BARS"] = 1,
+				["FRAME"] = 1,
+				["X"] = 88,
+			}, -- [9]
+			{
+				["Y"] = 59,
+				["GROW"] = 2,
+				["BARS"] = 1,
+				["FRAME"] = 1,
+				["X"] = 59,
+			}, -- [10]
 		},
 		["Raid 25"] = {
-			["EOCOOM"] = false,
-			["EOCOOMV"] = 20,
-			["MSG"] = "Casting #s on #n",
-			["RESONLY"] = true,
-			["NOTIFY"] = 1,
+			{
+				["Y"] = 63.7,
+				["GROW"] = 2,
+				["BARS"] = 3,
+				["FRAME"] = 3,
+				["X"] = 88,
+			}, -- [1]
+			{
+				["Y"] = 67,
+				["GROW"] = 2,
+				["BARS"] = 1,
+				["FRAME"] = 3,
+				["X"] = 88,
+			}, -- [2]
+			{
+				["Y"] = 52,
+				["GROW"] = 2,
+				["BARS"] = 1,
+				["FRAME"] = 1,
+				["X"] = 52,
+			}, -- [3]
+			{
+				["Y"] = 53,
+				["GROW"] = 2,
+				["BARS"] = 1,
+				["FRAME"] = 1,
+				["X"] = 53,
+			}, -- [4]
+			{
+				["Y"] = 54,
+				["GROW"] = 2,
+				["BARS"] = 1,
+				["FRAME"] = 1,
+				["X"] = 54,
+			}, -- [5]
+			{
+				["Y"] = 55,
+				["GROW"] = 2,
+				["BARS"] = 1,
+				["FRAME"] = 1,
+				["X"] = 55,
+			}, -- [6]
+			{
+				["Y"] = 63.7,
+				["GROW"] = 2,
+				["BARS"] = 1,
+				["FRAME"] = 1,
+				["X"] = 87.7,
+			}, -- [7]
+			{
+				["Y"] = 63.7,
+				["GROW"] = 2,
+				["BARS"] = 1,
+				["FRAME"] = 1,
+				["X"] = 74.21,
+			}, -- [8]
+			{
+				["Y"] = 56.4,
+				["GROW"] = 2,
+				["BARS"] = 1,
+				["FRAME"] = 1,
+				["X"] = 74.21,
+			}, -- [9]
+			{
+				["Y"] = 59,
+				["GROW"] = 2,
+				["BARS"] = 1,
+				["FRAME"] = 1,
+				["X"] = 59,
+			}, -- [10]
+		},
+	},
+	["BarSort"] = {
+		["Standard"] = {
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [1]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [2]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [3]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [4]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [5]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [6]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [7]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [8]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [9]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [10]
+		},
+		["Raid 40"] = {
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [1]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [2]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [3]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [4]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [5]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [6]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [7]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [8]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [9]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [10]
+		},
+		["Group"] = {
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [1]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [2]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [3]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [4]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [5]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [6]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [7]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [8]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [9]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [10]
+		},
+		["Raid 25"] = {
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [1]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [2]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [3]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [4]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [5]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [6]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [7]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [8]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [9]
+			{
+				["SUBORDER"] = 1,
+				["OORLAST"] = false,
+				["RAIDORDER"] = 3,
+				["SUBPF"] = true,
+			}, -- [10]
+		},
+	},
+	["Frame"] = {
+		["Standard"] = {
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 5,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.1,
+				["LOCKED"] = true,
+				["SCALE"] = 1,
+				["BORDERA"] = 0.2,
+				["SFOFFSETV"] = 0,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.2,
+				["BACKA"] = 0.05,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.2,
+				["BORDERR"] = 0.2,
+				["SFOFFSETH"] = 0,
+			}, -- [1]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 5,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.1,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0.2,
+				["SFOFFSETV"] = 0,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.2,
+				["BACKA"] = 0.05,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.2,
+				["BORDERR"] = 0.2,
+				["SFOFFSETH"] = 0,
+			}, -- [2]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 5,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.1,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0.2,
+				["SFOFFSETV"] = 0,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.2,
+				["BACKA"] = 0.05,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.2,
+				["BORDERR"] = 0.2,
+				["SFOFFSETH"] = 0,
+			}, -- [3]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 5,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.1,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0.2,
+				["SFOFFSETV"] = 0,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.2,
+				["BACKA"] = 0.05,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.2,
+				["BORDERR"] = 0.2,
+				["SFOFFSETH"] = 0,
+			}, -- [4]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 5,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.1,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0.2,
+				["SFOFFSETV"] = 0,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.2,
+				["BACKA"] = 0.05,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.2,
+				["BORDERR"] = 0.2,
+				["SFOFFSETH"] = 0,
+			}, -- [5]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 5,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.1,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0.2,
+				["SFOFFSETV"] = 0,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.2,
+				["BACKA"] = 0.05,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.2,
+				["BORDERR"] = 0.2,
+				["SFOFFSETH"] = 0,
+			}, -- [6]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 5,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.1,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0.2,
+				["SFOFFSETV"] = 0,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.2,
+				["BACKA"] = 0.05,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.2,
+				["BORDERR"] = 0.2,
+				["SFOFFSETH"] = 0,
+			}, -- [7]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 4,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.1,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0.2,
+				["SFOFFSETV"] = -8,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.2,
+				["BACKA"] = 0.05,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.2,
+				["BORDERR"] = 0.2,
+				["SFOFFSETH"] = 0,
+			}, -- [8]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 4,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.1,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0.2,
+				["SFOFFSETV"] = -8,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.2,
+				["BACKA"] = 0.05,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.2,
+				["BORDERR"] = 0.2,
+				["SFOFFSETH"] = 0,
+			}, -- [9]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 5,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.1,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0.2,
+				["SFOFFSETV"] = 0,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.2,
+				["BACKA"] = 0.05,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.2,
+				["BORDERR"] = 0.2,
+				["SFOFFSETH"] = 0,
+			}, -- [10]
+		},
+		["Raid 40"] = {
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 5,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.7,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0.04,
+				["SFOFFSETV"] = 0,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.1,
+				["BACKA"] = 0.1,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.1,
+				["BORDERR"] = 0.1,
+				["SFOFFSETH"] = 0,
+			}, -- [1]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 4,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.7,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0.04,
+				["SFOFFSETV"] = -8,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.1,
+				["BACKA"] = 0.1,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.1,
+				["BORDERR"] = 0.1,
+				["SFOFFSETH"] = 0,
+			}, -- [2]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 5,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.7,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0.04,
+				["SFOFFSETV"] = 0,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.1,
+				["BACKA"] = 0.1,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.1,
+				["BORDERR"] = 0.1,
+				["SFOFFSETH"] = 0,
+			}, -- [3]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 5,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.7,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0.04,
+				["SFOFFSETV"] = 0,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.1,
+				["BACKA"] = 0.1,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.1,
+				["BORDERR"] = 0.1,
+				["SFOFFSETH"] = 0,
+			}, -- [4]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 5,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.7,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0.04,
+				["SFOFFSETV"] = 0,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.1,
+				["BACKA"] = 0.1,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.1,
+				["BORDERR"] = 0.1,
+				["SFOFFSETH"] = 0,
+			}, -- [5]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 5,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.7,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0.04,
+				["SFOFFSETV"] = 0,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.1,
+				["BACKA"] = 0.1,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.1,
+				["BORDERR"] = 0.1,
+				["SFOFFSETH"] = 0,
+			}, -- [6]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 3,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.7,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0.04,
+				["SFOFFSETV"] = 0,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.1,
+				["BACKA"] = 0.1,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.1,
+				["BORDERR"] = 0.1,
+				["SFOFFSETH"] = -8,
+			}, -- [7]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 2,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.7,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0.04,
+				["SFOFFSETV"] = 1,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.1,
+				["BACKA"] = 0.1,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.1,
+				["BORDERR"] = 0.1,
+				["SFOFFSETH"] = 9,
+			}, -- [8]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 2,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.7,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0.04,
+				["SFOFFSETV"] = 0,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.1,
+				["BACKA"] = 0.1,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.1,
+				["BORDERR"] = 0.1,
+				["SFOFFSETH"] = 9,
+			}, -- [9]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 5,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.7,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0.04,
+				["SFOFFSETV"] = 0,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.1,
+				["BACKA"] = 0.1,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.1,
+				["BORDERR"] = 0.1,
+				["SFOFFSETH"] = 0,
+			}, -- [10]
+		},
+		["Group"] = {
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 4,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.5,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0,
+				["SFOFFSETV"] = 0,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.1,
+				["BACKA"] = 0.2,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.1,
+				["BORDERR"] = 0.1,
+				["SFOFFSETH"] = 0,
+			}, -- [1]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 5,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.5,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0,
+				["SFOFFSETV"] = 0,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.1,
+				["BACKA"] = 0.2,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.1,
+				["BORDERR"] = 0.1,
+				["SFOFFSETH"] = 0,
+			}, -- [2]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 5,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.5,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0,
+				["SFOFFSETV"] = 0,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.1,
+				["BACKA"] = 0.2,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.1,
+				["BORDERR"] = 0.1,
+				["SFOFFSETH"] = 0,
+			}, -- [3]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 5,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.5,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0,
+				["SFOFFSETV"] = 0,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.1,
+				["BACKA"] = 0.2,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.1,
+				["BORDERR"] = 0.1,
+				["SFOFFSETH"] = 0,
+			}, -- [4]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 5,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.5,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0,
+				["SFOFFSETV"] = 0,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.1,
+				["BACKA"] = 0.2,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.1,
+				["BORDERR"] = 0.1,
+				["SFOFFSETH"] = 0,
+			}, -- [5]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 5,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.5,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0,
+				["SFOFFSETV"] = 0,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.1,
+				["BACKA"] = 0.2,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.1,
+				["BORDERR"] = 0.1,
+				["SFOFFSETH"] = 0,
+			}, -- [6]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 4,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.5,
+				["LOCKED"] = true,
+				["SCALE"] = 1,
+				["BORDERA"] = 0,
+				["SFOFFSETV"] = 0,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.1,
+				["BACKA"] = 0.2,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.1,
+				["BORDERR"] = 0.1,
+				["SFOFFSETH"] = -8,
+			}, -- [7]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 2,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.5,
+				["LOCKED"] = true,
+				["SCALE"] = 1,
+				["BORDERA"] = 0,
+				["SFOFFSETV"] = 0,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.1,
+				["BACKA"] = 0.2,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.1,
+				["BORDERR"] = 0.1,
+				["SFOFFSETH"] = 9,
+			}, -- [8]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 2,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.5,
+				["LOCKED"] = true,
+				["SCALE"] = 1,
+				["BORDERA"] = 0,
+				["SFOFFSETV"] = 9,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.1,
+				["BACKA"] = 0.2,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.1,
+				["BORDERR"] = 0.1,
+				["SFOFFSETH"] = 0,
+			}, -- [9]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 5,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.5,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0,
+				["SFOFFSETV"] = 0,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.1,
+				["BACKA"] = 0.2,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.1,
+				["BORDERR"] = 0.1,
+				["SFOFFSETH"] = 0,
+			}, -- [10]
+		},
+		["Raid 25"] = {
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 5,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.7,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0.04,
+				["SFOFFSETV"] = 0,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.1,
+				["BACKA"] = 0.1,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.1,
+				["BORDERR"] = 0.1,
+				["SFOFFSETH"] = 0,
+			}, -- [1]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 4,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.7,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0.04,
+				["SFOFFSETV"] = -8,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.1,
+				["BACKA"] = 0.1,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.1,
+				["BORDERR"] = 0.1,
+				["SFOFFSETH"] = 0,
+			}, -- [2]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 5,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.7,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0.04,
+				["SFOFFSETV"] = 0,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.1,
+				["BACKA"] = 0.1,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.1,
+				["BORDERR"] = 0.1,
+				["SFOFFSETH"] = 0,
+			}, -- [3]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 5,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.7,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0.04,
+				["SFOFFSETV"] = 0,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.1,
+				["BACKA"] = 0.1,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.1,
+				["BORDERR"] = 0.1,
+				["SFOFFSETH"] = 0,
+			}, -- [4]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 5,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.7,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0.04,
+				["SFOFFSETV"] = 0,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.1,
+				["BACKA"] = 0.1,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.1,
+				["BORDERR"] = 0.1,
+				["SFOFFSETH"] = 0,
+			}, -- [5]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 5,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.7,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0.04,
+				["SFOFFSETV"] = 0,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.1,
+				["BACKA"] = 0.1,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.1,
+				["BORDERR"] = 0.1,
+				["SFOFFSETH"] = 0,
+			}, -- [6]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 3,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.7,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0.04,
+				["SFOFFSETV"] = 0,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.1,
+				["BACKA"] = 0.1,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.1,
+				["BORDERR"] = 0.1,
+				["SFOFFSETH"] = -8,
+			}, -- [7]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 2,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.7,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0.04,
+				["SFOFFSETV"] = 1,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.1,
+				["BACKA"] = 0.1,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.1,
+				["BORDERR"] = 0.1,
+				["SFOFFSETH"] = 9,
+			}, -- [8]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 2,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.7,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0.04,
+				["SFOFFSETV"] = 0,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.1,
+				["BACKA"] = 0.1,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.1,
+				["BORDERR"] = 0.1,
+				["SFOFFSETH"] = 9,
+			}, -- [9]
+			{
+				["BACKR"] = 0.1,
+				["TIPLOC"] = 5,
+				["AUTOCLOSE"] = false,
+				["BACKB"] = 0.7,
+				["LOCKED"] = false,
+				["SCALE"] = 1,
+				["BORDERA"] = 0.04,
+				["SFOFFSETV"] = 0,
+				["BACKG"] = 0.1,
+				["BORDERB"] = 0.1,
+				["BACKA"] = 0.1,
+				["OPENSOUND"] = false,
+				["BORDERG"] = 0.1,
+				["BORDERR"] = 0.1,
+				["SFOFFSETH"] = 0,
+			}, -- [10]
 		},
 	},
 	["DuplicateBars"] = {
@@ -15190,827 +16010,7 @@ Healbot_Config_Skins = {
 		["Group"] = false,
 		["Raid 25"] = false,
 	},
-	["Skin_ID"] = 1,
-	["FrameAliasBar"] = {
-		["Standard"] = {
-			{
-				["A"] = 0.4,
-				["TEXTURE"] = "HealBot 10",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.7,
-				["WIDTH"] = 0.7,
-			}, -- [1]
-			{
-				["A"] = 0.4,
-				["TEXTURE"] = "HealBot 10",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.7,
-				["WIDTH"] = 0.7,
-			}, -- [2]
-			{
-				["A"] = 0.4,
-				["TEXTURE"] = "HealBot 10",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.7,
-				["WIDTH"] = 0.7,
-			}, -- [3]
-			{
-				["A"] = 0.4,
-				["TEXTURE"] = "HealBot 10",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.7,
-				["WIDTH"] = 0.7,
-			}, -- [4]
-			{
-				["A"] = 0.4,
-				["TEXTURE"] = "HealBot 10",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.7,
-				["WIDTH"] = 0.7,
-			}, -- [5]
-			{
-				["A"] = 0.4,
-				["TEXTURE"] = "HealBot 10",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.7,
-				["WIDTH"] = 0.7,
-			}, -- [6]
-			{
-				["A"] = 0.4,
-				["TEXTURE"] = "HealBot 10",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.7,
-				["WIDTH"] = 0.7,
-			}, -- [7]
-			{
-				["A"] = 0.4,
-				["TEXTURE"] = "HealBot 10",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.7,
-				["WIDTH"] = 0.7,
-			}, -- [8]
-			{
-				["A"] = 0.4,
-				["TEXTURE"] = "HealBot 10",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.7,
-				["WIDTH"] = 0.7,
-			}, -- [9]
-			{
-				["A"] = 0.4,
-				["TEXTURE"] = "HealBot 10",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.7,
-				["WIDTH"] = 0.7,
-			}, -- [10]
-		},
-		["Raid 40"] = {
-			{
-				["A"] = 0.2,
-				["TEXTURE"] = "Skewed",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.1,
-				["WIDTH"] = 0.9,
-			}, -- [1]
-			{
-				["A"] = 0.2,
-				["TEXTURE"] = "Skewed",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.1,
-				["WIDTH"] = 0.9,
-			}, -- [2]
-			{
-				["A"] = 0.2,
-				["TEXTURE"] = "Skewed",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.1,
-				["WIDTH"] = 0.9,
-			}, -- [3]
-			{
-				["A"] = 0.2,
-				["TEXTURE"] = "Skewed",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.1,
-				["WIDTH"] = 0.9,
-			}, -- [4]
-			{
-				["A"] = 0.2,
-				["TEXTURE"] = "Skewed",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.1,
-				["WIDTH"] = 0.9,
-			}, -- [5]
-			{
-				["A"] = 0.2,
-				["TEXTURE"] = "Skewed",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.1,
-				["WIDTH"] = 0.9,
-			}, -- [6]
-			{
-				["A"] = 0.2,
-				["TEXTURE"] = "Skewed",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.1,
-				["WIDTH"] = 0.9,
-			}, -- [7]
-			{
-				["A"] = 0.2,
-				["TEXTURE"] = "Skewed",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.1,
-				["WIDTH"] = 0.9,
-			}, -- [8]
-			{
-				["A"] = 0.2,
-				["TEXTURE"] = "Skewed",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.1,
-				["WIDTH"] = 0.9,
-			}, -- [9]
-			{
-				["A"] = 0.2,
-				["TEXTURE"] = "Skewed",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.1,
-				["WIDTH"] = 0.9,
-			}, -- [10]
-		},
-		["Group"] = {
-			{
-				["A"] = 0.25,
-				["TEXTURE"] = "Diagonal",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.1,
-				["WIDTH"] = 0.9,
-			}, -- [1]
-			{
-				["A"] = 0.25,
-				["TEXTURE"] = "Diagonal",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.1,
-				["WIDTH"] = 0.9,
-			}, -- [2]
-			{
-				["A"] = 0.25,
-				["TEXTURE"] = "Diagonal",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.1,
-				["WIDTH"] = 0.9,
-			}, -- [3]
-			{
-				["A"] = 0.25,
-				["TEXTURE"] = "Diagonal",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.1,
-				["WIDTH"] = 0.9,
-			}, -- [4]
-			{
-				["A"] = 0.25,
-				["TEXTURE"] = "Diagonal",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.1,
-				["WIDTH"] = 0.9,
-			}, -- [5]
-			{
-				["A"] = 0.25,
-				["TEXTURE"] = "Diagonal",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.1,
-				["WIDTH"] = 0.9,
-			}, -- [6]
-			{
-				["A"] = 0.25,
-				["TEXTURE"] = "Diagonal",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.1,
-				["WIDTH"] = 0.9,
-			}, -- [7]
-			{
-				["A"] = 0.25,
-				["TEXTURE"] = "Diagonal",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.1,
-				["WIDTH"] = 0.9,
-			}, -- [8]
-			{
-				["A"] = 0.25,
-				["TEXTURE"] = "Diagonal",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.1,
-				["WIDTH"] = 0.9,
-			}, -- [9]
-			{
-				["A"] = 0.25,
-				["TEXTURE"] = "Diagonal",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.1,
-				["WIDTH"] = 0.9,
-			}, -- [10]
-		},
-		["Raid 25"] = {
-			{
-				["A"] = 0.25,
-				["TEXTURE"] = "Skewed",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.1,
-				["WIDTH"] = 0.9,
-			}, -- [1]
-			{
-				["A"] = 0.25,
-				["TEXTURE"] = "Skewed",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.1,
-				["WIDTH"] = 0.9,
-			}, -- [2]
-			{
-				["A"] = 0.25,
-				["TEXTURE"] = "Skewed",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.1,
-				["WIDTH"] = 0.9,
-			}, -- [3]
-			{
-				["A"] = 0.25,
-				["TEXTURE"] = "Skewed",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.1,
-				["WIDTH"] = 0.9,
-			}, -- [4]
-			{
-				["A"] = 0.25,
-				["TEXTURE"] = "Skewed",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.1,
-				["WIDTH"] = 0.9,
-			}, -- [5]
-			{
-				["A"] = 0.25,
-				["TEXTURE"] = "Skewed",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.1,
-				["WIDTH"] = 0.9,
-			}, -- [6]
-			{
-				["A"] = 0.25,
-				["TEXTURE"] = "Skewed",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.1,
-				["WIDTH"] = 0.9,
-			}, -- [7]
-			{
-				["A"] = 0.25,
-				["TEXTURE"] = "Skewed",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.1,
-				["WIDTH"] = 0.9,
-			}, -- [8]
-			{
-				["A"] = 0.25,
-				["TEXTURE"] = "Skewed",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.1,
-				["WIDTH"] = 0.9,
-			}, -- [9]
-			{
-				["A"] = 0.25,
-				["TEXTURE"] = "Skewed",
-				["B"] = 0.1,
-				["HEIGHT"] = 20,
-				["R"] = 0.1,
-				["G"] = 0.1,
-				["WIDTH"] = 0.9,
-			}, -- [10]
-		},
-	},
-	["RaidIcon"] = {
-		["Standard"] = {
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [1]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [2]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [3]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [4]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [5]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [6]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [7]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [8]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [9]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [10]
-		},
-		["Raid 40"] = {
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [1]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [2]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [3]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [4]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [5]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [6]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [7]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [8]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [9]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [10]
-		},
-		["Group"] = {
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [1]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [2]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [3]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [4]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [5]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [6]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [7]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [8]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [9]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [10]
-		},
-		["Raid 25"] = {
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [1]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [2]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [3]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [4]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [5]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [6]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [7]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [8]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [9]
-			{
-				["SQUARE"] = true,
-				["CIRCLE"] = true,
-				["DIAMOND"] = true,
-				["SHOW"] = true,
-				["MOON"] = true,
-				["TRIANGLE"] = true,
-				["STAR"] = true,
-				["CROSS"] = true,
-				["SKULL"] = true,
-			}, -- [10]
-		},
-	},
+	["Current_Skin"] = "Standard",
 }
 HealBot_Globals = {
 	["Custom_Debuff_Categories"] = {
@@ -16174,12 +16174,11 @@ HealBot_Globals = {
 	},
 	["Tooltip_ShowHoT"] = false,
 	["useUTF8"] = false,
-	["LastVersionSkinUpdate"] = "9.0.1.3",
+	["LastVersionSkinUpdate"] = "9.0.2.0",
 	["HealBot_Custom_Buffs"] = {
 	},
 	["CatchAltDebuffIDs"] = {
 		["Rocket Fuel Leak"] = true,
-		["Weakened Soul"] = true,
 	},
 	["SmartCastRes"] = true,
 	["QueryTalents"] = true,
@@ -16263,15 +16262,15 @@ HealBot_Globals = {
 		["ALL"] = {
 			[221878] = 2,
 			[235966] = 2,
-			[253287] = 2,
+			[215247] = 2,
 			[242623] = 2,
 			[272276] = 2,
 			[208052] = 2,
 			[20594] = 2,
 			[242586] = 2,
-			[68992] = 2,
 			[242622] = 2,
-			[215247] = 2,
+			[68992] = 2,
+			[253287] = 2,
 			[59547] = 2,
 			[271843] = 2,
 			[225126] = 2,
@@ -16373,7 +16372,7 @@ HealBot_Globals = {
 	},
 	["AcceptSkins"] = 1,
 	["aggro2pct"] = 55,
-	["CPUUsage"] = 5,
+	["CPUUsage"] = 3,
 	["SmartCastDebuff"] = true,
 	["Tooltip_MouseWheel"] = false,
 	["HealBot_Custom_Debuffs"] = {
@@ -16387,23 +16386,10 @@ HealBot_Globals = {
 	["IgnoreCustomDebuff"] = {
 	},
 	["EmergencyFClass"] = 4,
-	["AutoCacheSize"] = 20,
+	["AutoCacheSize"] = 58,
 	["AutoCacheTime"] = 3165913.303,
+	["PluginTimeToDie"] = true,
 	["ShowTooltip"] = true,
-	["EmergIncRange"] = {
-		["Warrior"] = false,
-		["Paladin"] = false,
-		["Shaman"] = false,
-		["Monk"] = false,
-		["Rogue"] = false,
-		["Mage"] = true,
-		["Demon Hunter"] = false,
-		["Druid"] = false,
-		["Priest"] = false,
-		["Hunter"] = true,
-		["Warlock"] = true,
-		["Death Knight"] = false,
-	},
 	["CDCBarColour"] = {
 		[94794] = {
 			["R"] = 0.45,
@@ -16432,12 +16418,12 @@ HealBot_Globals = {
 		},
 	},
 	["PluginThreat"] = true,
+	["OptionsTheme"] = 1,
 	["ByPassLock"] = 0,
 	["HealBot_MouseWheelTxt"] = {
 		["AltUp"] = "Blizzard menu",
 		["AltDown"] = "Healbot menu",
 	},
-	["OptionsTheme"] = 1,
 	["EmergIncCustom"] = {
 		["Warrior"] = false,
 		["Paladin"] = true,
@@ -16452,9 +16438,10 @@ HealBot_Globals = {
 		["Warlock"] = true,
 		["Death Knight"] = false,
 	},
+	["PluginEfficientHealers"] = true,
 	["HealBot_PermMyTargets"] = {
 	},
-	["PluginEfficientHealers"] = true,
+	["Tooltip_IgnoreGCD"] = false,
 	["OverrideProt"] = {
 		["COMBAT"] = false,
 		["USE"] = 1,
@@ -16474,18 +16461,19 @@ HealBot_Globals = {
 	},
 	["tsadjmod"] = 5,
 	["RightButtonOptions"] = false,
-	["Tooltip_IgnoreGCD"] = false,
+	["HealBot_ButtonRadius"] = 78,
 	["RangeCheckFreq"] = 5,
 	["UseGameTooltip"] = false,
-	["HealBot_ButtonRadius"] = 78,
-	["EnAutoCombat"] = false,
+	["SmartCastBuff"] = true,
+	["PluginTimeToLive"] = true,
 	["VersionResetDone"] = {
 	},
-	["Tooltip_ShowCD"] = false,
+	["HealBot_PermPrivateHealers"] = {
+	},
 	["Tooltip_ShowMyBuffs"] = false,
 	["TargetBarRestricted"] = 0,
-	["SmartCastBuff"] = true,
-	["HealBot_PermPrivateHealers"] = {
+	["HealBot_Enable_MouseWheel"] = true,
+	["excludeMount"] = {
 	},
 	["OverrideEffects"] = {
 		["FLUIDFREQ"] = 14,
@@ -16506,20 +16494,19 @@ HealBot_Globals = {
 		["CtrlUp"] = 1,
 		["ShiftUp"] = 1,
 	},
-	["PluginTimeToLive"] = true,
-	["excludeMount"] = {
-	},
-	["Debug01"] = false,
-	["EnLibQuickHealth"] = false,
-	["MacroSuppressSound"] = 1,
-	["ttalpha"] = 0.7999999523162842,
-	["ResLagDuration"] = 3,
-	["Tooltip_ShowSpellDetail"] = false,
+	["EnAutoCombat"] = false,
+	["Tooltip_ShowCD"] = false,
 	["MinimapIcon"] = {
 		["minimapPos"] = 220,
 		["radius"] = 80,
 		["hide"] = false,
 	},
+	["EnLibQuickHealth"] = false,
+	["MacroSuppressSound"] = 1,
+	["ttalpha"] = 0.7999999523162842,
+	["ResLagDuration"] = 3,
+	["Tooltip_ShowSpellDetail"] = false,
+	["Debug01"] = false,
 	["HealBot_ButtonPosition"] = 300,
 	["HealBot_PermPrivateTanks"] = {
 	},
@@ -16537,7 +16524,6 @@ HealBot_Globals = {
 		["PROFILE"] = 3,
 	},
 	["RaidHideMethod"] = 0,
-	["HealBot_Enable_MouseWheel"] = true,
 	["FocusMonitor"] = {
 	},
 	["OneTimeMsg"] = {
@@ -16547,9 +16533,23 @@ HealBot_Globals = {
 	["CustomDebuffIDMethod"] = {
 	},
 	["cHoTinHealDur"] = 30,
-	["LastSupporter"] = 2,
+	["EmergIncRange"] = {
+		["Warrior"] = false,
+		["Paladin"] = false,
+		["Shaman"] = false,
+		["Monk"] = false,
+		["Rogue"] = false,
+		["Mage"] = true,
+		["Demon Hunter"] = false,
+		["Druid"] = false,
+		["Priest"] = false,
+		["Hunter"] = true,
+		["Warlock"] = true,
+		["Death Knight"] = false,
+	},
+	["LastSupporter"] = 6,
 	["DebugOut"] = false,
-	["PluginTimeToDie"] = true,
+	["IncMainAssist"] = true,
 }
 HealBot_Class_Spells = {
 }

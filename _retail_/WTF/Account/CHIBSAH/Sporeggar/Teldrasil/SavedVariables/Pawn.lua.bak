@@ -1,9 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0246,
-	["LastPlayerFullName"] = "Teldrasil-Sporeggar",
-	["AutoSelectScales"] = true,
-	["UpgradeTracking"] = false,
+	["LastVersion"] = 2.0311,
 	["ItemLevels"] = {
 		{
 			["ID"] = 163435,
@@ -86,6 +83,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:163872::::::::120:102::30:2:1562:4786:::|h[Honorbound War Staff]|h|r",
 		}, -- [16]
 	},
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Teldrasil-Sporeggar",
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {

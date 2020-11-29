@@ -2,7 +2,7 @@
 DecursiveDB = {
 	["global"] = {
 		["LastExpirationAlert"] = 1584020983,
-		["LastVersionAnnounce"] = 1604151149,
+		["LastVersionAnnounce"] = 1606654651,
 	},
 	["class"] = {
 		["HUNTER"] = {
@@ -27,8 +27,20 @@ DecursiveDB = {
 				[32] = 3,
 			},
 		},
+		["PRIEST"] = {
+			["CureOrder"] = {
+				-13, -- [1]
+				2, -- [2]
+				nil, -- [3]
+				-14, -- [4]
+				[8] = -15,
+				[16] = 1,
+				[32] = -16,
+			},
+		},
 	},
 	["profileKeys"] = {
+		["Yesu - Sporeggar"] = "Default",
 		["Krixus - Sporeggar"] = "Default",
 		["Mengsk - Sporeggar"] = "Default",
 		["Teldrasil - Sporeggar"] = "Default",

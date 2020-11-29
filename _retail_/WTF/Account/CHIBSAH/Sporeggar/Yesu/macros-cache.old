@@ -72,7 +72,7 @@ VER 3 010000000000001A "rotation" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cleartarget [dead]
 /targetenemy [noharm]
-/castsequence reset=target/combat Shadow Word: Pain,Vampiric Touch,Mind Blast,Mind Flay,Mind Flay,Mind Flay
+/castsequence reset=target/combat Shadow Word: Pain,Vampiric Touch,Mind Blast,Power Word: Shield,Mind Flay,Mind Flay,Mind Flay,Power Word: Shield
 END
 VER 3 0100000000000018 "test" "INV_MISC_QUESTIONMARK"
 #showtooltip 02

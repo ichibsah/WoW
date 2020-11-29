@@ -9,9 +9,9 @@ GarrisonDisenchantDB = {
 		},
 		["promptEquipped"] = true,
 		["positionLocked"] = true,
-		["qualityBorder"] = true,
-		["buttonSize"] = 60,
 		["displayOverride"] = false,
+		["buttonSize"] = 60,
+		["qualityBorder"] = true,
 	},
 	["Ignored"] = {
 	},

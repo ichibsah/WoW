@@ -12,6 +12,11 @@ VendorDb = {
 		["Disenchant"] = {
 		},
 		["Scanner2"] = {
+			["profiles"] = {
+				["Default"] = {
+					["version"] = 8,
+				},
+			},
 			["realm"] = {
 				["Sporeggar"] = {
 					["version"] = 8,
@@ -20,11 +25,6 @@ VendorDb = {
 			["factionrealm"] = {
 				["Alliance - Sporeggar"] = {
 					["oldSnipesMigrated"] = true,
-					["version"] = 8,
-				},
-			},
-			["profiles"] = {
-				["Default"] = {
 					["version"] = 8,
 				},
 			},
@@ -124,17 +124,17 @@ VendorDb = {
 			},
 		},
 		["Sniper"] = {
+			["profiles"] = {
+				["Default"] = {
+					["version"] = 3,
+				},
+			},
 			["realms"] = {
 				["Sporeggar - Alliance"] = {
 				},
 			},
 			["factionrealm"] = {
 				["Alliance - Sporeggar"] = {
-					["version"] = 3,
-				},
-			},
-			["profiles"] = {
-				["Default"] = {
 					["version"] = 3,
 				},
 			},

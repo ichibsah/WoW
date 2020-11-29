@@ -13,7 +13,7 @@ IceCoreDB = {
 		["Ana - Sporeggar"] = "Default",
 	},
 	["global"] = {
-		["lastRunVersion"] = 20190625145314,
+		["lastRunVersion"] = 20201018201725,
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -103,11 +103,7 @@ IceCoreDB = {
 			["updatedOocNotFull"] = true,
 			["colors"] = {
 				["ScaledManaColor"] = {
-					["r"] = 1,
-				},
-				["ScaledHealthColor"] = {
-					["g"] = 0,
-					["r"] = 1,
+					["r"] = 0.08823529411764702,
 				},
 			},
 		},

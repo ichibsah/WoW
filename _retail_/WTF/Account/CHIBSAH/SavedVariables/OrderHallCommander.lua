@@ -17,13 +17,6 @@ dbOHC = {
 			["firstun"] = false,
 		},
 	},
-	["profileKeys"] = {
-		["Krixus - Sporeggar"] = "Default",
-		["Omarh - Sporeggar"] = "Default",
-		["Teldrasil - Sporeggar"] = "Default",
-		["Remraf - Sporeggar"] = "Default",
-		["Mengsk - Sporeggar"] = "Default",
-	},
 	["global"] = {
 		["warn01_seen"] = 0,
 		["firstrun"] = false,
@@ -31,6 +24,13 @@ dbOHC = {
 		},
 		["warn02_seen"] = 0,
 		["warn03_seen"] = 3,
+	},
+	["profileKeys"] = {
+		["Krixus - Sporeggar"] = "Default",
+		["Omarh - Sporeggar"] = "Default",
+		["Teldrasil - Sporeggar"] = "Default",
+		["Remraf - Sporeggar"] = "Default",
+		["Mengsk - Sporeggar"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -54,8 +54,8 @@ dbOHC = {
 				["PREFERHIGH"] = false,
 				["NOTROOPS"] = false,
 				["MAKEITQUICK"] = true,
-				["TROOPALERT"] = true,
 				["MAXCHAMP"] = 3,
+				["TROOPALERT"] = true,
 				["IGNOREBUSY"] = true,
 				["BASECHANCE"] = 0,
 			},

@@ -1,18 +1,22 @@
 
 VWQL = {
-	["AzeriteFormat"] = 20,
 	["Daliya-Sporeggar"] = {
+		["VERSION"] = 96,
+		["HideMap"] = true,
 		["Filter"] = 63,
-		["FilterType"] = {
-		},
 		["Quests"] = {
 		},
-		["VERSION"] = 81,
+		["FilterType"] = {
+		},
 	},
-	["Sort"] = 5,
-	["VERSION"] = 89,
+	["AzeriteFormat"] = 20,
 	["Scale"] = 0.8,
 	["DisableIconsGeneralMap947"] = true,
+	["SortPrio"] = {
+	},
+	["Ignore"] = {
+	},
+	["Sort"] = 5,
 	["Bazza-Sporeggar"] = {
 		["VERSION"] = 89,
 		["Filter"] = 63,
@@ -22,6 +26,6 @@ VWQL = {
 		["FilterType"] = {
 		},
 	},
-	["Ignore"] = {
-	},
+	["LFG_HideEyeInList"] = true,
+	["VERSION"] = 96,
 }

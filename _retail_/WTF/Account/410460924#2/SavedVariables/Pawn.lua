@@ -3,13 +3,15 @@ PawnCommon = {
 	["ShowUpgradesOnTooltips"] = true,
 	["AlignNumbersRight"] = false,
 	["ShowBagUpgradeAdvisor"] = true,
-	["LastVersion"] = 2.0246,
+	["LastVersion"] = 2.0406,
 	["ShowRelicUpgrades"] = false,
 	["ShowValuesForUpgradesOnly"] = true,
 	["ShowItemLevelUpgrades"] = true,
 	["Debug"] = false,
 	["ColorTooltipBorder"] = true,
 	["ShowTooltipIcons"] = true,
+	["ShowSpecIcons"] = true,
+	["ShowSocketingAdvisor"] = true,
 	["Scales"] = {
 		["\"MrRobot\":HUNTER3"] = {
 			["IconTexturePath"] = 461113,
@@ -105,6 +107,9 @@ PawnCommon = {
 			["IconTexturePath"] = 136096,
 			["PerCharacterOptions"] = {
 				["Bazza-Sporeggar"] = {
+					["Visible"] = true,
+				},
+				["Daliya-Sporeggar"] = {
 					["Visible"] = true,
 				},
 			},
@@ -230,9 +235,6 @@ PawnCommon = {
 		["\"MrRobot\":DRUID4"] = {
 			["IconTexturePath"] = 136041,
 			["PerCharacterOptions"] = {
-				["Daliya-Sporeggar"] = {
-					["Visible"] = true,
-				},
 			},
 			["Color"] = "ff7d0a",
 			["ClassID"] = 11,
@@ -449,7 +451,7 @@ PawnCommon = {
 			["LocalizedName"] = "Death Knight: Frost",
 			["DoNotShow1HUpgrades"] = false,
 			["Role"] = "DAMAGER",
-			["DoNotShow2HUpgrades"] = true,
+			["DoNotShow2HUpgrades"] = false,
 			["UpgradesFollowSpecialization"] = true,
 			["Provider"] = "MrRobot",
 			["SpecID"] = 2,
@@ -567,8 +569,6 @@ PawnCommon = {
 			["UnenchantedColor"] = "00bf70",
 		},
 	},
-	["ShowSocketingAdvisor"] = true,
-	["ShowSpecIcons"] = true,
 	["ShowItemID"] = false,
 	["ButtonPosition"] = 2,
 	["IgnoreGemsWhileLeveling"] = true,

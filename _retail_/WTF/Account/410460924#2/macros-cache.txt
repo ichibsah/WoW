@@ -25,6 +25,12 @@ END
 VER 3 0000000000000007 "follow" "134892"
 /follow
 END
+VER 3 0000000000000014 "hbCrashProt_0" "Spell_Holy_SealOfSacrifice"
+1:H:1:1:Group:
+END
+VER 3 0000000000000013 "hbCrashProt_1" "Spell_Holy_SealOfSacrifice"
+Daliy:p:ayer-1096-0759E128:1:
+END
 VER 3 0000000000000004 "love" "INV_MISC_QUESTIONMARK"
 /love
 END

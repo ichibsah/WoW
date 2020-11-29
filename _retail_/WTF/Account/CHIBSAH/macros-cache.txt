@@ -125,10 +125,10 @@ VER 3 000000000000002E "guild repair" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /ar guildonly
 END
-VER 3 0000000000000061 "hbCrashProt_0" "Spell_Holy_SealOfSacrifice"
+VER 3 0000000000000039 "hbCrashProt_0" "Spell_Holy_SealOfSacrifice"
 1:H:1:1:Self:
 END
-VER 3 0000000000000060 "hbCrashProt_1" "Spell_Holy_SealOfSacrifice"
+VER 3 0000000000000038 "hbCrashProt_1" "Spell_Holy_SealOfSacrifice"
 Mengs:p:ayer-1096-047ECD26:1:
 END
 VER 3 000000000000002F "Heal Pet and I" "461117"
@@ -181,18 +181,18 @@ END
 VER 3 000000000000001D "SNOBOLD" "INV_Misc_QuestionMark"
 /Yell SNOBOLD ON ME
 END
-VER 3 0000000000000035 "SunMoon" "236216"
-/cast Moonfire(Lunar)
-/cast Sunfire(Solar)
+VER 3 0000000000000033 "SunMoon" "236216"
+/Moonfire
+/Sunfire
 END
 VER 3 0000000000000034 "SunMoon" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /targetenemy [noexists][dead][noharm]
 /castsequence reset=target/combat Moonfire(Lunar),Sunfire(Solar)
 END
-VER 3 0000000000000033 "SunMoon" "236216"
-/Moonfire
-/Sunfire
+VER 3 0000000000000035 "SunMoon" "236216"
+/cast Moonfire(Lunar)
+/cast Sunfire(Solar)
 END
 VER 3 000000000000001A "test" "INV_Misc_QuestionMark"
 #showtooltip

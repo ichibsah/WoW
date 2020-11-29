@@ -117,16 +117,16 @@ PawnCommon = {
 		["\"MrRobot\":DRUID1"] = {
 			["IconTexturePath"] = 136096,
 			["PerCharacterOptions"] = {
-				["Teldrasil-Sporeggar"] = {
-					["Visible"] = true,
-				},
-				["Jeyliah-Sporeggar"] = {
+				["Mengsk-Sporeggar"] = {
 					["Visible"] = true,
 				},
 				["Krivette-Sporeggar"] = {
 					["Visible"] = true,
 				},
-				["Mengsk-Sporeggar"] = {
+				["Jeyliah-Sporeggar"] = {
+					["Visible"] = true,
+				},
+				["Teldrasil-Sporeggar"] = {
 					["Visible"] = true,
 				},
 			},
@@ -636,7 +636,7 @@ PawnCommon = {
 	},
 	["Debug"] = false,
 	["ButtonPosition"] = 2,
-	["LastVersion"] = 2.0402,
+	["LastVersion"] = 2.0406,
 	["ShowQuestUpgradeAdvisor"] = true,
 	["ShowEnchanted"] = true,
 	["Digits"] = 1,

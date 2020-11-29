@@ -1,0 +1,98 @@
+
+AdiBagsDB = {
+	["namespaces"] = {
+		["ItemLevel"] = {
+		},
+		["FilterOverride"] = {
+			["profiles"] = {
+				["Default"] = {
+					["version"] = 3,
+				},
+			},
+		},
+		["ItemCategory"] = {
+		},
+		["NewItem"] = {
+		},
+		["ZoneItems"] = {
+		},
+		["AdiBags_TooltipInfo"] = {
+		},
+		["PriorExpansion"] = {
+		},
+		["ItemSets"] = {
+		},
+		["Equipment"] = {
+		},
+		["CurrencyFrame"] = {
+			["profiles"] = {
+				["Default"] = {
+					["shown"] = {
+						["Ancient Mana"] = false,
+						["Ironpaw Token"] = false,
+						["Nethershard"] = false,
+						["Seal of Broken Fate"] = false,
+						["Garrison Resources"] = false,
+						["Lesser Charm of Good Fortune"] = false,
+						["Seal of Tempered Fate"] = false,
+						["Order Resources"] = false,
+						["Artifact Fragment"] = false,
+						["Titan Residuum"] = false,
+						["Veiled Argunite"] = false,
+						["7th Legion Service Medal"] = false,
+						["Mote of Darkness"] = false,
+						["War Resources"] = false,
+						["Seal of Inevitable Fate"] = false,
+						["Seal of Wartorn Fate"] = false,
+						["Argent Commendation"] = false,
+						["Wakening Essence"] = false,
+						["Timeless Coin"] = false,
+						["Timeworn Artifact"] = false,
+						["Sightless Eye"] = false,
+						["Prismatic Manapearl"] = false,
+						["Seafarer's Dubloon"] = false,
+						["Apexis Crystal"] = false,
+						["Darkmoon Prize Ticket"] = false,
+						["Timewarped Badge"] = false,
+						["Oil"] = false,
+						["Curious Coin"] = false,
+						["Lingering Soul Fragment"] = false,
+						["Legionfall War Supplies"] = false,
+					},
+				},
+			},
+		},
+		["DataSource"] = {
+		},
+		["Junk"] = {
+		},
+		["MoneyFrame"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Yesu - Sporeggar"] = "Default",
+		["Leleti - Sporeggar"] = "Default",
+		["Teldrasil - Sporeggar"] = "Default",
+		["Krixus - Sporeggar"] = "Default",
+		["Mengsk - Sporeggar"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["virtualStacks"] = {
+				["stackable"] = true,
+			},
+			["scale"] = 1,
+			["positions"] = {
+				["Backpack"] = {
+					["xOffset"] = -87.00041306317144,
+					["yOffset"] = 220.0000521063812,
+				},
+			},
+			["autoDeposit"] = true,
+			["positionMode"] = "manual",
+			["columnWidth"] = {
+				["Backpack"] = 5,
+			},
+		},
+	},
+}

@@ -16,13 +16,13 @@ HandyNotesDB = {
 		["Motsi - Sporeggar"] = "Motsi - Sporeggar",
 		["Rachel - Sporeggar"] = "Rachel - Sporeggar",
 		["Bleck - Sporeggar"] = "Bleck - Sporeggar",
-		["Barrymore - Sporeggar"] = "Barrymore - Sporeggar",
-		["Jeyliah - Sporeggar"] = "Jeyliah - Sporeggar",
-		["Omarh - Sporeggar"] = "Omarh - Sporeggar",
-		["Classtrialol - Sporeggar"] = "Classtrialol - Sporeggar",
-		["Corlin - Sporeggar"] = "Corlin - Sporeggar",
-		["Krivette - Sporeggar"] = "Krivette - Sporeggar",
 		["Krolraw - Sporeggar"] = "Krolraw - Sporeggar",
+		["Krivette - Sporeggar"] = "Krivette - Sporeggar",
+		["Omarh - Sporeggar"] = "Omarh - Sporeggar",
+		["Corlin - Sporeggar"] = "Corlin - Sporeggar",
+		["Classtrialol - Sporeggar"] = "Classtrialol - Sporeggar",
+		["Jeyliah - Sporeggar"] = "Jeyliah - Sporeggar",
+		["Barrymore - Sporeggar"] = "Barrymore - Sporeggar",
 	},
 	["profiles"] = {
 		["Yesu - Sporeggar"] = {
@@ -55,19 +55,19 @@ HandyNotesDB = {
 		},
 		["Bleck - Sporeggar"] = {
 		},
-		["Barrymore - Sporeggar"] = {
-		},
-		["Jeyliah - Sporeggar"] = {
-		},
-		["Omarh - Sporeggar"] = {
-		},
-		["Classtrialol - Sporeggar"] = {
-		},
-		["Corlin - Sporeggar"] = {
+		["Krolraw - Sporeggar"] = {
 		},
 		["Krivette - Sporeggar"] = {
 		},
-		["Krolraw - Sporeggar"] = {
+		["Omarh - Sporeggar"] = {
+		},
+		["Corlin - Sporeggar"] = {
+		},
+		["Classtrialol - Sporeggar"] = {
+		},
+		["Jeyliah - Sporeggar"] = {
+		},
+		["Barrymore - Sporeggar"] = {
 		},
 	},
 }
@@ -88,13 +88,13 @@ HandyNotes_HandyNotesDB = {
 		["Motsi - Sporeggar"] = "Motsi - Sporeggar",
 		["Rachel - Sporeggar"] = "Rachel - Sporeggar",
 		["Bleck - Sporeggar"] = "Bleck - Sporeggar",
-		["Barrymore - Sporeggar"] = "Barrymore - Sporeggar",
-		["Jeyliah - Sporeggar"] = "Jeyliah - Sporeggar",
-		["Omarh - Sporeggar"] = "Omarh - Sporeggar",
-		["Classtrialol - Sporeggar"] = "Classtrialol - Sporeggar",
-		["Corlin - Sporeggar"] = "Corlin - Sporeggar",
-		["Krivette - Sporeggar"] = "Krivette - Sporeggar",
 		["Krolraw - Sporeggar"] = "Krolraw - Sporeggar",
+		["Krivette - Sporeggar"] = "Krivette - Sporeggar",
+		["Omarh - Sporeggar"] = "Omarh - Sporeggar",
+		["Corlin - Sporeggar"] = "Corlin - Sporeggar",
+		["Classtrialol - Sporeggar"] = "Classtrialol - Sporeggar",
+		["Jeyliah - Sporeggar"] = "Jeyliah - Sporeggar",
+		["Barrymore - Sporeggar"] = "Barrymore - Sporeggar",
 	},
 	["profiles"] = {
 		["Yesu - Sporeggar"] = {
@@ -127,19 +127,19 @@ HandyNotes_HandyNotesDB = {
 		},
 		["Bleck - Sporeggar"] = {
 		},
-		["Barrymore - Sporeggar"] = {
-		},
-		["Jeyliah - Sporeggar"] = {
-		},
-		["Omarh - Sporeggar"] = {
-		},
-		["Classtrialol - Sporeggar"] = {
-		},
-		["Corlin - Sporeggar"] = {
+		["Krolraw - Sporeggar"] = {
 		},
 		["Krivette - Sporeggar"] = {
 		},
-		["Krolraw - Sporeggar"] = {
+		["Omarh - Sporeggar"] = {
+		},
+		["Corlin - Sporeggar"] = {
+		},
+		["Classtrialol - Sporeggar"] = {
+		},
+		["Jeyliah - Sporeggar"] = {
+		},
+		["Barrymore - Sporeggar"] = {
 		},
 	},
 }

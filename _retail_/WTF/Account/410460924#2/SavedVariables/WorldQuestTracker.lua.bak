@@ -10,6 +10,8 @@ WQTrackerDB = {
 	["profiles"] = {
 		["Default"] = {
 			["AlertTutorialStep"] = 5,
+			["is_BFA_version"] = true,
+			["GotTutorial"] = true,
 			["quests_tracked"] = {
 				["Player-1096-075BF4E4"] = {
 				},
@@ -58,7 +60,6 @@ WQTrackerDB = {
 					["Siegemaster Voraan"] = 120393,
 				},
 			},
-			["GotTutorial"] = true,
 		},
 	},
 }

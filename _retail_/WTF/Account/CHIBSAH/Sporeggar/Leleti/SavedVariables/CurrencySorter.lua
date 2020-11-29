@@ -41,6 +41,7 @@ Cs_order = {
 		["stop"] = 2,
 	}, -- [8]
 	["Nummax"] = 26,
+	["NumCat"] = 8,
 	["Firsttime"] = 1,
 	["sixone"] = true,
 }

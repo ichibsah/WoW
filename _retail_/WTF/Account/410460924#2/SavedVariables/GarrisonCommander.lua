@@ -5,11 +5,11 @@ dbGAC = {
 			["firstun"] = false,
 		},
 	},
-	["profileKeys"] = {
-		["Daliya - Sporeggar"] = "Default",
-	},
 	["global"] = {
 		["firstrun"] = false,
+	},
+	["profileKeys"] = {
+		["Daliya - Sporeggar"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -25,6 +25,12 @@ dbGAC = {
 					"apexis", -- [8]
 					"seal", -- [9]
 					"other", -- [10]
+					"primalspirit", -- [11]
+					"ark", -- [12]
+					"training", -- [13]
+					"legendary", -- [14]
+					"toys", -- [15]
+					"reputation", -- [16]
 				},
 				["version"] = 3,
 			},
@@ -40,6 +46,12 @@ dbGAC = {
 					"apexis", -- [8]
 					"seal", -- [9]
 					"other", -- [10]
+					"primalspirit", -- [11]
+					"ark", -- [12]
+					"training", -- [13]
+					"legendary", -- [14]
+					"toys", -- [15]
+					"reputation", -- [16]
 				},
 				["version"] = 3,
 			},
@@ -48,31 +60,31 @@ dbGAC = {
 				["NOTOOLTIP"] = false,
 				["MINGOLD"] = 50,
 				["MSORT"] = "Garrison_SortMissions_Original",
-				["GCSKIPRARE"] = true,
+				["SGCSKIPEPIC"] = true,
 				["PIN"] = true,
-				["IGM"] = true,
+				["NOFILL"] = false,
 				["IXP"] = true,
 				["SWAPBUTTONS"] = false,
-				["SGCSKIPEPIC"] = true,
-				["MOVEPANEL"] = true,
+				["MAXMISSIONS"] = 5,
+				["IGM"] = true,
 				["HF"] = false,
-				["SGCMINLEVEL"] = 540,
-				["UPG"] = true,
-				["SAUTOLOGOUT"] = false,
-				["MAXRES"] = true,
-				["MAXRESCHANCE"] = 80,
 				["GCSKIPEPIC"] = true,
 				["MINXPLEVEL"] = 90,
-				["MINPERC"] = 50,
-				["AUTOLOGOUT"] = false,
+				["SAUTOLOGOUT"] = false,
+				["UPG"] = true,
+				["MAXRESCHANCE"] = 80,
+				["USEFUL"] = true,
 				["GCMINLEVEL"] = 540,
+				["SGCMINLEVEL"] = 540,
+				["AUTOLOGOUT"] = false,
+				["GCSKIPRARE"] = true,
 				["ILV"] = true,
 				["BIGSCREEN"] = true,
-				["USEFUL"] = true,
+				["MINPERC"] = 50,
 				["GCMINUPGRADE"] = 600,
 				["NOCONFIRM"] = true,
-				["MAXMISSIONS"] = 5,
-				["NOFILL"] = false,
+				["MAXRES"] = true,
+				["MOVEPANEL"] = true,
 			},
 		},
 	},

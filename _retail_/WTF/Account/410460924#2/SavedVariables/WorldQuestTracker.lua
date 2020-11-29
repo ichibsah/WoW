@@ -10,6 +10,7 @@ WQTrackerDB = {
 	["profiles"] = {
 		["Default"] = {
 			["AlertTutorialStep"] = 5,
+			["is_BFA_version"] = true,
 			["GotTutorial"] = true,
 			["quests_tracked"] = {
 				["Player-1096-07944452"] = {
@@ -57,6 +58,10 @@ WQTrackerDB = {
 			["rarescan"] = {
 				["name_cache"] = {
 					["Siegemaster Voraan"] = 120393,
+				},
+				["recently_killed"] = {
+					["Player-1096-0759E128"] = {
+					},
 				},
 			},
 		},

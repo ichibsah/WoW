@@ -16,13 +16,13 @@ Details_StreamerDB = {
 		["Motsi - Sporeggar"] = "Mengsk - Sporeggar",
 		["Rachel - Sporeggar"] = "Mengsk - Sporeggar",
 		["Bleck - Sporeggar"] = "Mengsk - Sporeggar",
-		["Krolraw - Sporeggar"] = "Mengsk - Sporeggar",
-		["Youmie - Sporeggar"] = "Mengsk - Sporeggar",
-		["Omarh - Sporeggar"] = "Mengsk - Sporeggar",
-		["Teldrasil - Sporeggar"] = "Mengsk - Sporeggar",
-		["Krivette - Sporeggar"] = "Mengsk - Sporeggar",
-		["Jeyliah - Sporeggar"] = "Mengsk - Sporeggar",
 		["Barrymore - Sporeggar"] = "Mengsk - Sporeggar",
+		["Jeyliah - Sporeggar"] = "Mengsk - Sporeggar",
+		["Omarh - Sporeggar"] = "Mengsk - Sporeggar",
+		["Krivette - Sporeggar"] = "Mengsk - Sporeggar",
+		["Teldrasil - Sporeggar"] = "Mengsk - Sporeggar",
+		["Youmie - Sporeggar"] = "Mengsk - Sporeggar",
+		["Krolraw - Sporeggar"] = "Mengsk - Sporeggar",
 	},
 	["profiles"] = {
 		["Mengsk - Sporeggar"] = {
@@ -50,12 +50,12 @@ Details_StreamerDB = {
 			},
 			["arrow_anchor_x"] = 0,
 			["row_texture"] = "Details Serenity",
-			["arrow_anchor_y"] = 0,
-			["main_frame_locked"] = false,
-			["author"] = "Details! Team",
+			["scale"] = 1,
+			["row_height"] = 20,
+			["main_frame_strata"] = "LOW",
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["font_size"] = 10,
+			["point"] = "CENTER",
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -63,17 +63,8 @@ Details_StreamerDB = {
 				0, -- [3]
 				0.2, -- [4]
 			},
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
+			["author"] = "Details! Team",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["use_spark"] = true,
-			["y"] = 4.57763671875e-05,
-			["x"] = 0,
-			["font_face"] = "Friz Quadrata TT",
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -81,14 +72,23 @@ Details_StreamerDB = {
 				["font_shadow"] = true,
 				["y"] = 3.0517578125e-05,
 				["x"] = 3.0517578125e-05,
-				["attribute_type"] = 1,
-				["update_speed"] = 0.05,
 				["size"] = 32,
+				["update_speed"] = 0.05,
+				["attribute_type"] = 1,
 			},
-			["main_frame_strata"] = "LOW",
-			["point"] = "CENTER",
-			["row_height"] = 20,
-			["scale"] = 1,
+			["font_size"] = 10,
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
+			["y"] = 4.57763671875e-05,
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
+			["arrow_anchor_y"] = 0,
+			["main_frame_locked"] = false,
+			["use_spark"] = true,
 		},
 	},
 }

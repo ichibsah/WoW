@@ -267,3 +267,6 @@ DBM-Ulduar: enabled
 DBM-VoA: enabled
 DBM-WorldEvents: enabled
 TradeSkillMaster_Auctioning: disabled
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+BattlePetTabs: disabled
